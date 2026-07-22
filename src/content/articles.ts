@@ -1,5 +1,6 @@
 import type { Article, Category } from './types';
 import { ARTICLES_BATCH2 } from './articles-batch2';
+import { ARTICLES_BATCH3 } from './articles-batch3';
 
 /**
  * lie.skin editorial library — original, independent, dermatology-informed
@@ -316,3 +317,4 @@ export function getArticlesByCategory(cat: string): Article[] {
 
 // Batch 2 merges into the same library; all lists sort by date.
 ARTICLES.push(...ARTICLES_BATCH2);
+ARTICLES.push(...ARTICLES_BATCH3);
