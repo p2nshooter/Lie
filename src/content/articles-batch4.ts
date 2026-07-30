@@ -197,7 +197,7 @@ export const ARTICLES_BATCH4: Article[] = [
     ],
   },
   {
-    slug: 'morning-vs-night-routine',
+    slug: 'morning-vs-night-two-different-jobs',
     category: 'routine',
     title: 'Morning vs Night: Why Your Skincare Should Do Two Different Jobs',
     excerpt:
