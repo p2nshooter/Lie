@@ -999,6 +999,83 @@ export const EXPANSIONS: Expansion[] = [
           "The pattern holds in reverse. Ingredients that are stable — glycerin, petrolatum, ceramides, most emollients and silicones — are unaffected by packaging, which means a moisturiser in a jar is entirely reasonable. The rule is not that jars are bad; it is that jars are bad for the specific things that degrade. As with everything on this site, this is educational rather than medical advice.",
         ],
       },
+      {
+        h: "The dates and symbols on the back",
+        p: [
+          "Two markings govern how long a product remains usable and they mean different things. A printed expiry date applies to products with a shelf life under thirty months, including most sunscreens, and is a genuine limit rather than a suggestion.",
+          "The open-jar symbol — a small container image with a figure such as 6M or 12M — indicates the period after opening during which the product is expected to remain stable and adequately preserved. That clock starts when the seal is broken, not at purchase, and a product opened two years ago is past it regardless of how full it looks.",
+          "Sunscreen deserves particular attention here, since filters degrade and an expired product provides less protection than the label states while giving the user the confidence that it does. If a bottle has lasted more than a season, the more likely explanation is that too little is being applied, which is a separate problem discussed elsewhere on this site.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'niacinamide-explained',
+    sections: [
+      {
+        h: "What it is chemically",
+        p: [
+          "Niacinamide is the amide form of vitamin B3, also called nicotinamide. It is water-soluble, stable across a wide pH range, and inexpensive to produce, which is why it appears in such a large proportion of products across every price bracket.",
+          "Its stability is a genuine practical advantage over several other actives. It does not degrade meaningfully in light or air, which means packaging is not a consideration, and it does not require the low pH that makes acids irritating. A product containing it will still contain it a year later.",
+          "It is distinct from nicotinic acid, sometimes called niacin, which is a different form of the same vitamin and does cause flushing. The two are frequently confused, and that confusion underlies most of the concern about niacinamide causing redness, which is discussed below.",
+        ],
+      },
+      {
+        h: "The sebum and pore research",
+        p: [
+          "Among the claims made for niacinamide, the effect on oil production and pore appearance is the one most often cited and the one with the most variable evidence. Several studies have reported reductions in sebum excretion rate with topical application over several weeks.",
+          "The results are not uniform. Some studies found a meaningful reduction, others found little, and the measurement methods differ enough that direct comparison is difficult. The effect appears to be real and modest rather than dramatic, and it takes weeks rather than days.",
+          "Pore appearance is downstream of this and of the effect on follicular contents. A pore looks smaller when it contains less accumulated material, and there is reasonable evidence for improvement on that measure. What does not happen is any change to the actual structure of the follicle, for the reasons set out in the myths article on this site.",
+        ],
+      },
+      {
+        h: "Redness, rosacea and the anti-inflammatory effect",
+        p: [
+          "The anti-inflammatory action is among the better supported findings and it makes niacinamide relevant to conditions where inflammation is the driver. Studies in acne have found improvement comparable to some topical antibiotics, without the resistance concerns that antibiotics carry.",
+          "In rosacea, the mechanism of interest is barrier improvement rather than direct anti-inflammatory action. Rosacea involves barrier dysfunction, and an ingredient that increases ceramide production and reduces water loss addresses one component of the condition. It is not a treatment for rosacea and it is one of the few actives that people with rosacea generally tolerate.",
+          "This tolerability is the practical point. For anyone whose skin reacts to most things, niacinamide is among the small number of ingredients with genuine evidence that can usually be introduced without an adjustment period, which makes it a reasonable first active for reactive skin.",
+        ],
+      },
+      {
+        h: "The flushing question, examined",
+        p: [
+          "Some people do experience flushing from niacinamide, particularly at higher concentrations, and it is worth understanding what is and is not happening. Nicotinic acid causes a well-documented flush through prostaglandin-mediated vasodilation. Niacinamide does not act by that mechanism.",
+          "The concern that niacinamide converts to nicotinic acid in the presence of vitamin C derives from mid-twentieth-century experiments conducted at high temperatures with pure compounds, and the conditions do not occur in formulated products at room temperature.",
+          "The more likely explanation for flushing in practice is either simple irritation at high concentration, or the presence of nicotinic acid as a manufacturing impurity in poorly purified material. Either way, the response is the same and it is straightforward: reduce the concentration. Products at two to five percent, which is where the research sits, produce this reaction far less often than the ten percent and above formulations sold on the assumption that more is better.",
+        ],
+      },
+      {
+        h: "You may already be using it",
+        p: [
+          "Because it is cheap, stable and well tolerated, niacinamide appears in an enormous number of products where it is not the headline ingredient: moisturisers, sunscreens, cleansers and treatment products across every category.",
+          "This is worth checking before buying a dedicated serum. Someone whose moisturiser and sunscreen both contain it may already be getting a reasonable dose, and adding a concentrated serum on top provides no additional benefit while increasing the chance of the irritation described above.",
+          "It also means that people who believe they have never used it frequently have, and have tolerated it without incident. Reading the ingredient lists of the products already in a routine takes five minutes and occasionally makes the next purchase unnecessary, which is a good outcome that no product page will suggest.",
+        ],
+      },
+      {
+        h: "Realistic expectations and who benefits most",
+        p: [
+          "The honest summary is that niacinamide does several things modestly rather than one thing dramatically, and that this is a legitimate profile rather than a disappointment. It is a supporting ingredient rather than a headline one.",
+          "The people who benefit most are those with a compromised barrier, mild persistent redness, oily or congested skin, or post-inflammatory pigmentation, and particularly those whose skin does not tolerate acids or retinoids. For that group it offers a genuine option where most alternatives are unavailable.",
+          "The people who benefit least are those with none of those concerns, who are adding it because it appears on every recommendation list. For someone with a functioning three-step routine and no specific problem, this is an optional extra with a small measured effect, and the money is better directed at a sunscreen they will use consistently. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
+      {
+        h: "How it works on pigmentation",
+        p: [
+          "The mechanism here is different from most brightening ingredients and worth understanding, because it explains both the effect and its limits. Melanin is produced inside melanocytes and then transferred, packaged in melanosomes, to surrounding keratinocytes where it becomes visible.",
+          "Niacinamide does not inhibit melanin production. It appears to interfere with the transfer step, which means pigment already made stays where it was made rather than being distributed to the cells that display it. Studies have found reductions in the appearance of hyperpigmentation over several weeks on this basis.",
+          "The limit follows directly. Since production continues, the effect is partial, and it does nothing about pigment already deposited in the epidermis, which fades on its own schedule. For post-inflammatory marks it is a reasonable adjunct. For established melasma it is not remotely a substitute for the prescription and procedural options, and treating it as one wastes months.",
+        ],
+      },
+      {
+        h: "Pairing it with everything else",
+        p: [
+          "One of the more useful properties is how little it conflicts with. It combines without issue alongside retinoids, where there is some evidence it reduces the associated irritation, and alongside acids, sunscreen, benzoyl peroxide and moisturisers.",
+          "The stability across pH ranges is what makes this possible. Ingredients that require a low pH to work, such as most acids and pure vitamin C, can be destabilised by neighbours; niacinamide functions across a wide range and does not impose a requirement on anything else.",
+          "The practical implication is that it is the easiest active to slot into an existing routine without rearranging anything. Where a retinoid is being introduced, applying niacinamide first or in the morning is a reasonable way to support the barrier through the adjustment period described in the retinoid articles on this site.",
+        ],
+      },
     ],
   },
 ];
