@@ -752,6 +752,91 @@ export const EXPANSIONS: Expansion[] = [
           "Anyone whose skin is comfortable for half the year and difficult for the other half is not dealing with a mysterious skin type. They are dealing with a fixed routine meeting variable conditions, and the fix is to vary the routine rather than to keep looking for a product that will hold up in both.",
         ],
       },
+      {
+        h: "When it is neither and needs a diagnosis",
+        p: [
+          "Some persistent dryness is a symptom rather than a state, and it is worth knowing the signals that warrant an assessment rather than another product. Well-defined patches, intense itching, oozing or crusting, dryness confined to specific areas, or scaling that thickens rather than flakes all point elsewhere.",
+          "Eczema, psoriasis, seborrhoeic dermatitis and contact allergy all present with dryness among their features and none responds adequately to moisturiser alone. So do some systemic conditions: thyroid dysfunction is a well-recognised cause of generalised dry skin, as are certain medications including retinoids taken orally and some diuretics.",
+          "The practical rule is that dryness which does not improve after a month of gentle cleansing and consistent emollient use has failed the treatment for the thing it appeared to be. That is a reasonable point to stop buying products and get a diagnosis, and it frequently turns out to be something with a specific and effective treatment. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'exfoliation-how-often',
+    sections: [
+      {
+        h: "What exfoliation is actually doing",
+        p: [
+          "Skin sheds its outermost cells continuously through a process called desquamation, in which enzymes break the bonds holding corneocytes together. In healthy young skin this happens efficiently and requires no assistance whatsoever.",
+          "Where exfoliation has a rationale is when that process slows or fails. Desquamation becomes less efficient with age, and certain conditions — acne, keratosis pilaris, some forms of dryness — involve retained cells that accumulate rather than shedding.",
+          "This framing sets the expectation correctly. Exfoliation is a corrective measure for a specific problem rather than a general act of thoroughness, and a person whose skin sheds normally gains little from it while taking on the risk described below. The default assumption that everyone needs to exfoliate is not supported by how the skin works.",
+        ],
+      },
+      {
+        h: "Physical against chemical",
+        p: [
+          "Physical exfoliants remove cells by abrasion: scrubs containing particles, cloths, brushes and devices. The difficulty is that pressure is unregulated, and it is easy to apply more force than intended, particularly with irregularly shaped particles that create microscopic tears.",
+          "Chemical exfoliants dissolve the bonds between cells instead. Alpha hydroxy acids — glycolic, lactic, mandelic — are water-soluble and act at the surface. Beta hydroxy acid, meaning salicylic acid, is oil-soluble and penetrates into the follicle, which is what makes it the relevant choice for congestion and acne. Polyhydroxy acids have larger molecules, penetrate less and are correspondingly gentler.",
+          "The practical advantage of the chemical approach is that the dose is determined by concentration, pH and contact time rather than by how hard someone happened to rub. That is a considerably more controllable variable, which is why dermatological practice has moved toward it.",
+        ],
+      },
+      {
+        h: "The frequency question",
+        p: [
+          "There is no single correct interval, and the useful principle is to find the lowest frequency that achieves the effect rather than the highest the skin will tolerate. For most people that is once or twice weekly, not daily.",
+          "The products themselves push in the other direction. Toners, cleansers, pads and serums containing acids are frequently marketed for daily use, and someone using three such products has an exfoliation frequency they never chose and probably have not counted. Auditing the whole routine for acids, rather than only the product labelled as an exfoliant, is the step most often skipped.",
+          "The right frequency also changes. Skin that tolerated twice weekly in summer may not in winter. Adding a retinoid changes the tolerance substantially, and the correct response is to reduce exfoliation rather than to maintain both at the previous levels.",
+        ],
+      },
+      {
+        h: "What over-exfoliation looks like",
+        p: [
+          "The signs are the barrier damage signs described elsewhere on this site, and the reason they are worth repeating here is that people frequently misread them. Skin becomes shiny in a way that reads as glowing but is actually a thinned, over-smooth surface. It stings on application of previously tolerated products.",
+          "Redness appears, sensitivity increases, and paradoxically new flaking develops — which people then treat by exfoliating more, since flaking is exactly what exfoliation is supposed to address. This loop is the single most common way skincare routines go badly wrong.",
+          "Breakouts frequently increase as well, because a compromised barrier is more permeable and more inflamed. Someone who began exfoliating for congestion and finds it worse after two months is not exfoliating insufficiently; they are almost certainly exfoliating too much.",
+        ],
+      },
+      {
+        h: "Who should be careful or abstain",
+        p: [
+          "Several groups have a poor risk-to-benefit ratio here. Anyone with rosacea, eczema or an already reactive barrier will generally do worse with regular exfoliation, since these conditions involve barrier dysfunction that exfoliation compounds.",
+          "Anyone using a retinoid is already getting accelerated turnover from a mechanism with better evidence, and adding acids on top is the most common route to the reaction that causes people to abandon retinoids entirely. If both are wanted, they belong on different nights at a low frequency.",
+          "People with deeper skin tones warrant particular caution, since inflammation from over-exfoliation is a recognised trigger for post-inflammatory hyperpigmentation, which is considerably harder to resolve than the roughness that prompted the exfoliation. In that context, gentler acids at lower frequency, or none, is frequently the better choice.",
+        ],
+      },
+      {
+        h: "A sensible way to start",
+        p: [
+          "For anyone with a genuine reason to exfoliate, the approach that avoids most problems is unremarkable. Choose one product, at a modest concentration, and use it once weekly for a month before considering an increase.",
+          "Apply it in the evening, to dry skin, and follow with moisturiser. Use sunscreen daily without exception, since exfoliated skin is more sensitive to ultraviolet and the acids themselves increase photosensitivity. Remove any other acid-containing products from the routine while establishing tolerance.",
+          "Increase only if the current frequency is entirely comfortable and the intended effect has not been achieved. Many people find that once weekly is sufficient indefinitely, which is a considerably better outcome than discovering the ceiling by exceeding it. And a period of stopping entirely is a reasonable diagnostic for anyone whose skin has become unpredictable — it is the single variable most likely to be responsible. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
+      {
+        h: "Choosing between the acids",
+        p: [
+          "The differences between the common acids are practical rather than a matter of strength ranking. Glycolic acid has the smallest molecule of the alpha hydroxy group, penetrates most readily and is correspondingly the most irritating; it has the largest body of research behind it for texture and pigmentation.",
+          "Lactic acid has a larger molecule, penetrates less, and has some humectant properties, which makes it a reasonable choice for drier skin. Mandelic acid is larger still and among the gentlest, which is why it is frequently suggested for sensitive skin or deeper skin tones where irritation carries a pigmentation risk.",
+          "Salicylic acid is the one to choose for congestion, blackheads and acne, because oil solubility lets it act inside the follicle where those problems originate. Someone using a glycolic product for blackheads has chosen an acid that works on the surface for a problem that is not on the surface, which is a common and easily corrected mismatch.",
+        ],
+      },
+      {
+        h: "Concentration, pH and contact time",
+        p: [
+          "Three variables determine how strong an acid product actually is, and the label usually shows only one. Concentration is the visible figure. The pH of the formulation determines how much of the acid is in its active free form, and a product at a higher pH is substantially milder than the same concentration at a lower one.",
+          "Contact time is the third and the one entirely under your control. A cleanser containing acid is rinsed within a minute and does very little; the same acid in a leave-on serum acts for hours. This is why comparing products on concentration alone is misleading, and why a low-percentage leave-on product can outperform a high-percentage wash-off one.",
+          "The practical use of this is that contact time is a dial. Someone finding a product too strong can apply it and rinse after ten minutes rather than abandoning it, and increase the duration as tolerance develops. That is a gentler route than switching to a lower concentration and starting over.",
+        ],
+      },
+      {
+        h: "The professional versions",
+        p: [
+          "Chemical peels performed in a clinical setting use the same acid families at concentrations and pH levels not available for home use, and they are a genuinely different intervention rather than a stronger version of the same thing.",
+          "For established concerns — significant photoageing, resistant pigmentation, acne scarring — a course of professional treatment will achieve in a few sessions what home products would not achieve at all. The trade is cost, downtime and the need for a practitioner who assesses skin type properly, since peels carry a real risk of pigmentary complications in deeper skin tones when poorly chosen.",
+          "What is worth avoiding is the middle ground: high-concentration peel kits sold for unsupervised home use. These carry the risks of the professional version without the assessment, the experience or the ability to neutralise a reaction promptly, and the injuries that result are not rare. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
     ],
   },
 ];
