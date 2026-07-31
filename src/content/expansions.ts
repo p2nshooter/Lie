@@ -515,6 +515,83 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'skin-barrier-explained',
+    sections: [
+      {
+        h: "The bricks and mortar picture",
+        p: [
+          "The outermost layer of skin, the stratum corneum, consists of flattened dead cells held together by a matrix of lipids. The standard analogy is bricks and mortar: the cells are the bricks and the lipid matrix, made of ceramides, cholesterol and free fatty acids in roughly balanced proportions, is the mortar.",
+          "The mortar does most of the barrier work. It is what prevents water escaping outward and what prevents irritants, allergens and microbes moving inward. When it is depleted, both functions degrade simultaneously, which is why barrier damage produces dryness and sensitivity at the same time rather than one or the other.",
+          "There is also an acid mantle: the surface sits at a mildly acidic pH, which supports the enzymes that maintain the lipid matrix and discourages the growth of certain organisms. Products that raise surface pH substantially, which includes traditional soap, disrupt this and take hours to recover from.",
+        ],
+      },
+      {
+        h: "Recognising the damage",
+        p: [
+          "The presentation is consistent enough to be recognisable. Skin feels tight, particularly after washing. Products that were previously fine begin to sting or burn on application, which is frequently the first symptom people notice. There is visible redness, sometimes diffuse and sometimes patchy.",
+          "Texture changes: rough or flaky areas appear, and the skin can be simultaneously oily and flaking, which confuses people into treating it as oily skin and making it worse. Sensitivity to temperature, wind and water increases. Existing conditions such as acne or eczema frequently flare.",
+          "The pattern that distinguishes this from a simple product reaction is that it develops gradually and affects the response to everything rather than to one item. Someone whose entire routine has become uncomfortable over several weeks is almost certainly dealing with a barrier problem rather than an allergy to a specific product.",
+        ],
+      },
+      {
+        h: "How people do it to themselves",
+        p: [
+          "Almost all barrier damage in otherwise healthy skin is self-inflicted through good intentions. Cleansing too often, or with a foaming product that strips lipids, is the most common single cause. Hot water accelerates it.",
+          "Exfoliation is the second: acids used daily, scrubs, cleansing brushes, or several exfoliating products used without realising they overlap. Many cleansers, toners and serums contain acids, and a routine can easily include four exfoliating steps without anyone intending it.",
+          "The third is layering multiple actives — a retinoid, an acid, a vitamin C and a benzoyl peroxide — on the theory that each addresses a different concern. Individually each may be tolerable; together they exceed what the barrier can repair between applications. The fourth, less discussed, is environmental: low humidity, heated indoor air, air travel and cold wind all deplete surface lipids without any product being involved.",
+        ],
+      },
+      {
+        h: "The repair protocol",
+        p: [
+          "Repair is entirely a matter of subtraction followed by support, and it is more reliable than most things in skincare. Stop every active ingredient and every exfoliant. Stop any device. Reduce to one gentle cleanse daily, with lukewarm water, and a bland moisturiser applied as often as the skin wants it.",
+          "The moisturiser choice matters here more than usual. Products containing ceramides, cholesterol and fatty acids are supplying the actual components of the depleted matrix, and there is reasonable evidence that formulations with these in roughly physiological proportions perform better than general emollients. A layer of petrolatum over the top at night reduces water loss substantially.",
+          "Continue sunscreen, since compromised skin is more vulnerable to ultraviolet damage rather than less, and choose a mineral or fragrance-free formulation if the usual one stings. Everything else stays out until the skin is comfortable again.",
+        ],
+      },
+      {
+        h: "How long it takes",
+        p: [
+          "The stratum corneum renews over roughly four weeks in a healthy adult, and that sets the timescale for recovery. Most people notice meaningful improvement within one to two weeks on a simplified routine, with full comfort returning over four to six.",
+          "The mistake at this stage is reintroducing actives as soon as the skin feels better, which frequently returns it to the same state within a fortnight. The barrier being comfortable is not the same as it being restored, and giving it an additional couple of weeks before reintroduction improves the odds considerably.",
+          "Reintroduction should then be one product at a time, at half the previous frequency, held there for several weeks before increasing. Someone who was using a retinoid nightly and damaged their barrier should return at twice weekly, not nightly, and may find that twice or three times weekly was always the right frequency for them.",
+        ],
+      },
+      {
+        h: "When it is not just over-treatment",
+        p: [
+          "Barrier dysfunction is a feature of several skin conditions rather than only a consequence of behaviour, and persistent problems that do not resolve on a simplified routine warrant assessment rather than further product changes.",
+          "Atopic dermatitis involves a genetically determined barrier defect, frequently related to filaggrin, which is why it recurs regardless of how careful the routine is. Rosacea involves barrier dysfunction alongside vascular and inflammatory components. Seborrhoeic dermatitis, psoriasis and contact allergy all present with overlapping features.",
+          "The distinguishing signal is failure to improve. Damage caused by over-treatment resolves reliably within a month of stopping the cause. Anything that persists, recurs without an obvious trigger, or involves significant itching, oozing or well-defined patches is a different problem and benefits from a diagnosis rather than another moisturiser.",
+        ],
+      },
+      {
+        h: "Keeping it intact afterwards",
+        p: [
+          "Prevention is mostly a matter of restraint, and the specific measures are few. Cleanse once daily rather than twice unless there is a reason. Use lukewarm water. Choose a gentle cleanser and judge it by whether skin feels comfortable rather than clean afterwards.",
+          "Limit exfoliation to once or twice weekly at most, and audit the whole routine for overlapping acids rather than counting only the product labelled as an exfoliant. Introduce actives one at a time and hold at a frequency the skin tolerates rather than pushing toward daily use as a target.",
+          "Adjust seasonally, since the same routine that suits humid summer air will be too stripping in a heated flat in winter. And treat any stinging on application as information rather than as a sign that something is working, because that particular misreading is responsible for a great deal of the damage this article describes. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
+      {
+        h: "The barrier elsewhere on the body",
+        p: [
+          "Almost all discussion of this concerns the face, and the same mechanism operates everywhere with different vulnerabilities. Hands are the most exposed site, subject to frequent washing, detergents and temperature change, and hand dermatitis from over-washing is common in several occupations.",
+          "The lower legs are the site most affected by age, since sebaceous gland activity declines and the skin there has less to begin with. Winter itching on the shins is barrier dysfunction rather than a hygiene issue, and it responds to the same approach: reduce washing temperature and frequency, and apply an emollient immediately after bathing while the skin is still damp.",
+          "The general principle transfers unchanged. Long hot showers, foaming products and vigorous towelling deplete lipids everywhere, and the correction is gentler washing plus prompt emollient application. Body skin also tolerates heavier occlusives than the face, which makes the repair straightforward once the cause is removed.",
+        ],
+      },
+      {
+        h: "Why stinging feels like efficacy",
+        p: [
+          "One belief does more damage than any other in this area, which is the assumption that a sensation indicates activity. It is worth addressing directly because it is what converts a mild problem into a severe one.",
+          "Some effective ingredients do produce sensation, which gives the belief a foothold. But sensation is not the mechanism of any of them, and plenty of the best-evidenced ingredients — niacinamide, ceramides, most moisturising agents, most sunscreen filters — produce none at all. A product that stings on skin that previously tolerated it is reporting damage, not progress.",
+          "The corrected rule is simple: mild transient tingling on first use of an acid or a retinoid is common and settles. Stinging that is new, that occurs with products previously fine, or that persists rather than fading, means stop. Applying that one rule prevents most of the barrier damage described throughout this article.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
