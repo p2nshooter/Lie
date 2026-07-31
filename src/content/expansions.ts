@@ -1376,6 +1376,83 @@ export const EXPANSIONS: Expansion[] = [
           "Take it seriously if they ask. Booking an appointment when a teenager is distressed about their skin is a straightforward act of support, and the delay between wanting help and receiving it is frequently the part they remember. And model the sunscreen habit rather than instructing it, since the evidence on what adolescents adopt suggests observation outperforms advice by a considerable margin. As with everything on this site, this is educational rather than medical advice.",
         ],
       },
+      {
+        h: "The information environment they are actually in",
+        p: [
+          "Most skincare advice reaching this age group arrives through short videos from people paid to recommend products, and the incentive structure explains most of what is wrong with it. Longer routines are more filmable, expensive products are more sponsorable, and dramatic before-and-after framing outperforms accurate timelines.",
+          "The specific harms are predictable: routines with six or seven actives, ingredients aimed at concerns thirty years away, and an implied timeline in which visible change should arrive within days. A teenager measuring their skin against that will conclude that a correct routine has failed within a fortnight.",
+          "The useful counterweight is not a ban, which does not work, but a small amount of context. Three questions handle most of it: is this person selling something, does the claim describe a mechanism, and is the timeline given consistent with the eight weeks a follicle actually takes. That is a transferable skill rather than a rule, and it applies well beyond skincare.",
+        ],
+      },
+      {
+        h: "Makeup, sport and the rest of ordinary life",
+        p: [
+          "Makeup does not cause acne and there is no clinical reason to go without it. Skin obtains oxygen from the bloodstream rather than the air, so the idea that it needs to breathe has no basis. Someone whose skin improves during a break from makeup is reacting to a specific product, which is worth identifying rather than generalising from.",
+          "What matters is removal. Cleansing properly in the evening, once, with a gentle product, handles it. Sleeping in makeup occasionally is not a catastrophe, and doing so routinely allows product and sebum to sit in follicles overnight, which is a plausible contributor rather than a moral failing.",
+          "Sport introduces sweat, friction and equipment. Helmets, straps and headbands produce a recognisable pattern of breakouts where they press, and the fix is washing the gear rather than the face more aggressively. Showering reasonably promptly after exercise helps; scrubbing does not. And a light moisturiser after washing matters more for someone washing twice daily than for someone washing once.",
+        ],
+      },
+      {
+        h: "Building a habit that outlasts adolescence",
+        p: [
+          "The routine established at fourteen tends to become the default for years, which makes simplicity worth more here than anywhere else. A three-step routine is one that survives exam periods, holidays and the general chaos of that age; a nine-step routine is one that gets abandoned entirely the first busy week and frequently does not restart.",
+          "Attaching it to something that already happens reliably is the mechanism that works. Cleanser and moisturiser next to the toothbrush, sunscreen with whatever gets picked up on the way out. Nothing about this requires motivation once the placement is right.",
+          "The habit worth protecting most is sunscreen, because it is the one whose benefit arrives decades later and therefore the one with no short-term feedback to sustain it. A teenager who leaves adolescence applying it without thinking has acquired the single most valuable thing on this list, and the cost of that was buying a formulation they did not mind wearing. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'childrens-skin-sun-story',
+    sections: [
+      {
+        h: "Why childhood exposure matters disproportionately",
+        p: [
+          "A substantial proportion of a person's lifetime ultraviolet exposure occurs before adulthood, which is the single fact that makes childhood sun protection more valuable than protection at any later stage.",
+          "Children's skin is also structurally more vulnerable. The stratum corneum is thinner, melanin production in very young children is not yet fully developed, and the surface area relative to body mass is larger. Infants under six months have particularly limited defences, which is why shade and clothing rather than product are the recommended approach at that age.",
+          "The epidemiological point is the one that matters most. Severe sunburns in childhood are associated in multiple studies with increased melanoma risk in adulthood, and the association is stronger for childhood burns than for equivalent burns later. Protection at this stage is not a habit being rehearsed for later; it is the exposure that most affects the eventual outcome.",
+        ],
+      },
+      {
+        h: "The story, and why stories work here",
+        p: [
+          "The two-tomatoes framing works because it makes an invisible process visible. Ultraviolet damage has no immediate sensation and appears hours after the exposure that caused it, which is precisely the structure that makes it hard for a child — or an adult — to connect cause and effect.",
+          "A story supplies a mechanism the child can picture, and pictured mechanisms are remembered where instructions are not. The specific claim being conveyed is simple: the sun keeps working on skin even when it does not feel hot, and the effect shows up later.",
+          "The reason to teach it this way rather than through a rule is that rules require enforcement and understanding does not. A child who knows why the hat matters applies the hat when nobody is watching, which is the only version that survives the transition to independence.",
+        ],
+      },
+      {
+        h: "What actually protects a child",
+        p: [
+          "The ordering is different for children than for adults, and product comes last rather than first. Shade during the middle hours of the day removes more exposure than anything else and requires nothing to be applied or reapplied.",
+          "Clothing is second and considerably more reliable than sunscreen, because it does not need reapplying, cannot be applied too thinly, and does not get rubbed off. Tightly woven fabrics, long sleeves, and garments rated for ultraviolet protection all work. A wide-brimmed hat protects the face, ears and neck continuously.",
+          "Sunscreen covers what the first two cannot: hands, faces, and whatever is exposed during ordinary activity. Mineral formulations based on zinc oxide are frequently preferred for young skin on tolerability grounds rather than efficacy ones, and the practical requirement is the same as for adults — enough of it, and reapplied after swimming, towelling or two hours outdoors.",
+        ],
+      },
+      {
+        h: "Making it happen without a daily argument",
+        p: [
+          "The obstacles are almost entirely practical. Sunscreen that stings the eyes, feels unpleasant, or takes a long time to apply will be resisted every time, and the resistance is reasonable. Trying several formulations to find one a particular child tolerates is a better use of effort than insisting on a product they hate.",
+          "Making it part of a sequence rather than an event helps: sunscreen goes on with getting dressed, hat goes on with shoes. A child who has to be caught and treated before every outing will resist; one for whom it is part of leaving the house does not experience it as an imposition.",
+          "Letting them do it themselves, badly, and then filling in the gaps is a reasonable trade. Application quality is a real issue and autonomy is what converts a rule into a habit. Adults applying it visibly and without comment does more than any amount of instruction, for the same reason it works with teenagers.",
+        ],
+      },
+      {
+        h: "Sunburn in a child, and what to do",
+        p: [
+          "Despite reasonable precautions, burns happen, and knowing the response is worth having in advance. Get the child out of the sun, cool the skin with lukewarm water rather than ice, encourage fluids, and apply a bland moisturiser once the skin has cooled.",
+          "What warrants medical attention is more specific: blistering over a significant area, burns in an infant under one year, fever, vomiting, marked lethargy, or a child who seems unwell rather than simply uncomfortable. These can indicate more than a superficial burn and are not situations to manage at home.",
+          "The one thing not to do is treat the burn as a moral failure, either the child's or your own. Burns occur, the useful response is to adjust the arrangements — earlier shade, a hat that stays on, reapplication after swimming — and the shame framing achieves nothing except making the subject harder to discuss next time.",
+        ],
+      },
+      {
+        h: "The vitamin D question",
+        p: [
+          "Parents frequently and reasonably ask whether protecting children from the sun risks vitamin D deficiency, and the honest answer is that this is a real consideration with a straightforward resolution.",
+          "The trial evidence on adults has generally found that realistic sunscreen use does not produce deficiency, since typical application is thin enough and incidental exposure sufficient. But vitamin D status genuinely varies by latitude, season, skin tone and diet, and children in some populations do have low levels.",
+          "The resolution is that supplementation is a considerably safer route to adequate vitamin D than deliberate unprotected exposure. Many countries recommend supplements for young children as a matter of course. Anyone concerned about their child's status should raise it with a clinician and address it that way, rather than reducing sun protection to solve a problem that has a better solution. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
     ],
   },
 ];
