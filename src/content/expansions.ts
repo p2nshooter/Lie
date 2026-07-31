@@ -260,6 +260,168 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'moisturiser-how-it-works',
+    sections: [
+      {
+        h: "What the skin barrier actually is",
+        p: [
+          "Understanding what a moisturiser is doing requires a rough picture of what it acts on. The outermost layer of skin consists of flattened dead cells embedded in a lipid matrix, an arrangement frequently compared to bricks and mortar. The cells are the bricks; ceramides, cholesterol and fatty acids are the mortar.",
+          "This structure performs two jobs: keeping water in and keeping irritants and microbes out. When the lipid matrix is depleted — by harsh cleansing, cold dry air, over-exfoliation or certain skin conditions — water escapes faster and the surface becomes more permeable to things that irritate it.",
+          "Every moisturiser addresses this in one or more of three ways, which is the reason the three-category framework exists rather than being an arbitrary classification. Knowing which category a product is weighted toward is more informative than any marketing description of what it does.",
+        ],
+      },
+      {
+        h: "Humectants and what they need to work",
+        p: [
+          "Humectants draw water toward the outer layer of skin. Glycerin is the most widely used and among the best evidenced; hyaluronic acid, urea, glycols and panthenol also fall into this group.",
+          "The detail that gets omitted is where the water comes from. In humid conditions humectants draw moisture from the air; in dry conditions they draw it from deeper in the skin, which can leave the surface feeling drier than before if nothing prevents that water from evaporating.",
+          "This is why a humectant-only product — most commonly a hyaluronic acid serum used alone — can make skin feel tighter in a dry climate or heated indoor environment. The fix is not to abandon it but to apply something over it that slows evaporation, which is what the third category does.",
+        ],
+      },
+      {
+        h: "Emollients and the feel of skin",
+        p: [
+          "Emollients fill the gaps between skin cells, smoothing the surface and improving how skin feels and looks. This group includes plant oils, squalane, fatty alcohols, esters and silicones such as dimethicone.",
+          "Their contribution is partly cosmetic, in that much of the immediate improvement after applying a moisturiser is emollient effect, and partly structural, since several of them resemble the skin's own lipids closely enough to contribute to the matrix.",
+          "The most useful members of this group for a compromised barrier are ceramides, cholesterol and fatty acids, because these are the actual components of the lipid matrix rather than substitutes for it. A moisturiser containing them is doing something more targeted than one relying on general oils, which is one of the few formulation distinctions with reasonable support behind it.",
+        ],
+      },
+      {
+        h: "Occlusives and where they belong",
+        p: [
+          "Occlusives form a physical layer that slows water loss from the surface. Petrolatum is the most effective of these by a considerable margin, followed by mineral oil, lanolin, waxes and dimethicone.",
+          "Petrolatum in particular has an unusually strong evidence base for reducing water loss, and it is inexpensive and among the least allergenic ingredients in common use. Its reputation suffers from associations with the petroleum industry that have no bearing on the purified cosmetic grade, which has been used safely for well over a century.",
+          "The practical application is layering: an occlusive applied over a humectant traps the water the humectant attracted, which is why the combination works better than either alone. For very dry skin, a thin layer of a heavy occlusive as the final evening step is one of the most effective and cheapest interventions available.",
+        ],
+      },
+      {
+        h: "Why price predicts so little",
+        p: [
+          "The active components of a moisturiser are commodity ingredients: glycerin, petrolatum, dimethicone, fatty alcohols, ceramides. None is expensive to produce, none is proprietary, and all appear in products across the full price range.",
+          "What varies with price is the sensory experience, the packaging, the fragrance, the marketing and occasionally the inclusion of ingredients with limited evidence. A product costing many times another may feel considerably nicer and there is no reliable relationship between price and barrier function.",
+          "The test that cuts through this is to read the first five or six ingredients, which by convention are listed in descending order of concentration. If a well-evidenced humectant, emollient and occlusive appear near the top, the product will work. If the recognisable ingredients are a botanical extract at the bottom of the list, the price is buying the story.",
+        ],
+      },
+      {
+        h: "Matching the product to the skin",
+        p: [
+          "Different skin types are best served by different weightings of the three categories, and this is where product selection actually matters. Oily skin generally does well with a humectant-heavy, low-occlusive formulation — a light gel or lotion — since the skin is producing its own occlusive layer.",
+          "Dry skin benefits from all three, with meaningful emollient and occlusive content, in a cream or ointment base. Very dry or eczema-prone skin frequently does best with an ointment, which is unpleasant to use during the day and highly effective overnight.",
+          "Combination skin does not require different products for different areas in most cases; a moderate lotion applied everywhere, with more on the drier areas, is usually sufficient. And skin that is oily and simultaneously flaky or tight is frequently a barrier problem rather than a type, which means the answer is a gentler routine rather than a different moisturiser.",
+        ],
+      },
+      {
+        h: "The hydrating and moisturising distinction",
+        p: [
+          "Marketing draws a distinction between hydrating and moisturising that has some basis and is usually overstated. Hydrating conventionally refers to water content, addressed by humectants; moisturising to preventing loss, addressed by occlusives and emollients.",
+          "In practice almost every product contains elements of both, and the labels tell you very little about which predominates. The ingredient list does, which is why it remains the more useful thing to read.",
+          "Where the distinction genuinely matters is in the failure mode described earlier: applying only a humectant in dry conditions and finding skin feels worse. Recognising that as a missing occlusive rather than a defective product saves a good deal of confusion, and the fix costs nothing beyond applying something over the top.",
+        ],
+      },
+      {
+        h: "Whether everyone needs one",
+        p: [
+          "It is worth saying that not everybody requires a separate moisturiser. Someone with balanced skin, using a gentle cleanser and a sunscreen with a moisturising base, may have adequate barrier function without adding anything.",
+          "The indication is how skin feels an hour after cleansing. Comfortable and unremarkable suggests no need. Tight, rough or itchy suggests a moisturiser will help, and the drier the sensation the more emollient and occlusive content is likely to be useful.",
+          "Seasonal variation is normal and worth accommodating: many people need considerably more in winter, when heated indoor air is dry, and little in summer. Changing product weight with the season is more sensible than using one formulation year-round and concluding it is either too heavy or insufficient. As with everything on this site, this is educational rather than medical advice, and persistent dryness that does not respond to a good moisturiser is worth having assessed.",
+        ],
+      },
+      {
+        h: "Applying it at the right moment",
+        p: [
+          "Timing has a modest but real effect. Applying moisturiser to skin that is still slightly damp, within a few minutes of washing, gives humectants water to work with and gives occlusives something to seal in.",
+          "The effect is largest for very dry skin and for body application after bathing, where the difference between applying immediately and applying twenty minutes later is noticeable. For facial application the difference is smaller, and there is one important exception: retinoids and several other actives should go onto completely dry skin, because dampness increases penetration and irritation.",
+          "The general rule is therefore moisturiser onto damp skin, actives onto dry skin. Where both are used in the same routine, applying the active first to dry skin and the moisturiser afterwards handles both requirements without any waiting around.",
+        ],
+      },
+      {
+        h: "The ingredients that add little",
+        p: [
+          "A moisturiser needs a humectant, an emollient and usually an occlusive. Everything beyond that is optional, and several common additions do more harm than good for a product used twice daily on a large area.",
+          "Fragrance, whether synthetic or from essential oils, is among the most frequent causes of contact allergy in cosmetics and contributes nothing to barrier function. Essential oils marketed as natural are not gentler; several are among the more common sensitisers. For anyone with sensitive or reactive skin, a fragrance-free product removes a meaningful proportion of the risk.",
+          "Botanical extracts present in trace amounts at the end of an ingredient list are there for the label rather than for any effect. Denatured alcohol high in a list can be drying in a leave-on product, though it is not a problem in every context. None of these makes a product unusable; they simply mean the price is buying things that are not doing the work.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'understanding-acne',
+    sections: [
+      {
+        h: "The four things happening in a pore",
+        p: [
+          "Acne is the result of four processes occurring together in a hair follicle, and understanding them explains why different treatments work and why combining them works better than any one alone.",
+          "The first is excess sebum production, driven largely by androgen hormones. The second is abnormal shedding of the cells lining the follicle, which fail to slough off and instead accumulate. The third is proliferation of Cutibacterium acnes, a bacterium that is a normal resident of skin and multiplies in the resulting oily, blocked environment. The fourth is inflammation, which produces the redness, swelling and pain.",
+          "Each treatment targets one or more of these. Retinoids address the abnormal shedding. Benzoyl peroxide addresses the bacteria. Hormonal treatments address sebum production. Anti-inflammatories address the fourth. This is why dermatologists frequently combine agents rather than escalating a single one.",
+        ],
+      },
+      {
+        h: "What does not cause it",
+        p: [
+          "Several persistent beliefs cause real harm by directing effort at things that do not help and by attaching blame where none belongs. Acne is not caused by poor hygiene. The blockage occurs below the surface, and washing more frequently or more vigorously irritates the skin without reaching it.",
+          "Chocolate has no established causal role. The dietary evidence that does exist points elsewhere and is more modest than headlines suggest: some association with high-glycaemic-load diets and, in some studies, with skimmed milk consumption. These are associations in populations, the effect sizes are moderate, and dietary change is not a substitute for treatment.",
+          "It is also not a condition of adolescence alone. Adult acne is common, particularly in women, frequently presents differently — around the jaw and chin rather than the forehead — and is not a failure to outgrow something. Framing it as such delays treatment in a group that responds well to it.",
+        ],
+      },
+      {
+        h: "The ingredients with real evidence",
+        p: [
+          "Four ingredients available without prescription have reasonable support. Benzoyl peroxide reduces bacterial numbers and, importantly, does not generate resistance, which makes it valuable alongside antibiotics. Lower concentrations are roughly as effective as higher ones and considerably less irritating, which is worth knowing before buying the strongest available.",
+          "Salicylic acid is oil-soluble and penetrates into the follicle, which is what distinguishes it from other exfoliating acids for this purpose. Adapalene, a retinoid, normalises the follicular lining and is available over the counter in many countries. Azelaic acid has antibacterial and anti-inflammatory effects and is well tolerated, including in pregnancy where retinoids are not.",
+          "What these have in common is a defined mechanism and clinical trial evidence. That is a short list, and products marketed for acne containing none of them are relying on the general appeal of clear skin rather than on anything specific.",
+        ],
+      },
+      {
+        h: "The timeline nobody warns about",
+        p: [
+          "A follicle takes roughly eight weeks to progress from initial blockage to a visible lesion. This single fact explains most of the frustration people experience with acne treatment.",
+          "It means a treatment started today is acting on blockages that will surface in two months, while lesions appearing this week were determined before treatment began. Judging a product after two weeks is judging it on a period during which it could not have had any effect on what is visible.",
+          "Twelve weeks is the minimum fair trial for any acne treatment, and it is worth knowing that before starting, since the alternative is a cycle of abandoning products at six weeks and concluding nothing works. Photographs at the start, under consistent lighting, are far more reliable than memory over that period.",
+        ],
+      },
+      {
+        h: "Not making it worse",
+        p: [
+          "Two behaviours reliably worsen outcomes and both are extremely common. Picking and squeezing pushes material deeper into the dermis, extends the inflammation and substantially increases the probability of a permanent scar or persistent pigmentation. The temporary improvement in appearance is bought at a lasting cost.",
+          "Over-treating is the other. The instinct is to attack oily, congested skin with strong cleansers, scrubs and multiple actives simultaneously, and the result is a damaged barrier on top of the acne. Skin that is inflamed and stripped heals more slowly and tolerates the treatments that would help less well.",
+          "The general principle is that acne treatment works by prevention rather than by attack. The products are preventing tomorrow's blockages, not eliminating today's lesions, which means gentleness elsewhere in the routine is not a compromise but a precondition for the treatment working.",
+        ],
+      },
+      {
+        h: "Marks left behind",
+        p: [
+          "Two distinct things get called scarring and they have different prognoses. Post-inflammatory hyperpigmentation or erythema — flat brown or red marks where a lesion was — is not scarring. It is pigment or vascular change that fades over months, faster with sun protection and with ingredients such as azelaic acid, niacinamide or retinoids.",
+          "True scarring involves a change in the skin's texture: indentations, raised areas, or the pitted patterns that follow deeper inflammation. This does not resolve on its own and requires procedural treatment, which is effective but is a different order of intervention.",
+          "The relevant implication is preventive. Since textural scarring follows severe or prolonged inflammation, treating acne promptly and effectively is the most reliable way to avoid it. This is one of the strongest arguments for seeing a clinician early rather than working through shelf products for two years.",
+        ],
+      },
+      {
+        h: "When to stop self-treating",
+        p: [
+          "There are reasonably clear indications for seeking clinical help rather than continuing with over-the-counter products. Nodular or cystic lesions — deep, painful lumps rather than surface spots — respond poorly to topical treatment and carry the highest scarring risk.",
+          "Any acne that is already leaving textural marks, any that has not improved after three months of consistent appropriate treatment, and any that is causing significant distress all warrant an appointment. That last criterion is legitimate and frequently discounted: the psychological effect of acne is well documented and is a sufficient reason on its own.",
+          "Sudden onset of severe acne in an adult, particularly with other symptoms such as irregular periods or excess hair growth, warrants investigation for an underlying cause. Prescription options — topical and oral combinations, hormonal treatments, and isotretinoin for severe cases — are substantially more effective than anything available otherwise, and the delay in accessing them is frequently the most consequential part of someone's experience of this condition. None of this is medical advice.",
+        ],
+      },
+      {
+        h: "The routine that supports the treatment",
+        p: [
+          "Because the active treatment is doing the work, everything else in the routine should be chosen to avoid interfering with it. That means a gentle non-foaming or mildly foaming cleanser used twice daily at most, and no scrubs, brushes or physical exfoliants.",
+          "Moisturiser is not optional despite the skin being oily, because every effective acne treatment is drying and a compromised barrier reduces tolerance for the treatment. A light gel or lotion weighted toward humectants, labelled non-comedogenic, is the usual choice.",
+          "Sunscreen matters for two specific reasons here rather than only the general one. Several acne treatments increase photosensitivity, and ultraviolet exposure darkens post-inflammatory pigmentation, which prolongs the marks left after lesions clear. A light fluid or gel formulation avoids the heaviness that puts people off.",
+        ],
+      },
+      {
+        h: "Things that look like acne and are not",
+        p: [
+          "Several conditions are commonly mistaken for acne and respond to entirely different treatment, which is one reason a persistent problem is worth having assessed rather than treated indefinitely from a shelf.",
+          "Rosacea produces papules and pustules on a background of persistent redness and flushing, usually without comedones, and typically worsens with the strong treatments that help acne. Fungal folliculitis produces uniform itchy bumps, often on the chest and back, and responds to antifungal rather than antibacterial treatment. Perioral dermatitis produces small bumps around the mouth and nose and is frequently made worse by topical steroids.",
+          "The distinguishing features are subtle enough that misidentification is common, including by people who have been treating what they assumed was acne for years. A condition that has not responded to appropriate acne treatment after a fair trial is a reasonable prompt to consider whether it is acne at all.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
