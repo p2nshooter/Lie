@@ -837,6 +837,83 @@ export const EXPANSIONS: Expansion[] = [
           "What is worth avoiding is the middle ground: high-concentration peel kits sold for unsupervised home use. These carry the risks of the professional version without the assessment, the experience or the ability to neutralise a reaction promptly, and the injuries that result are not rare. As with everything on this site, this is educational rather than medical advice.",
         ],
       },
+      {
+        h: "Recovering from having overdone it",
+        p: [
+          "Anyone recognising themselves in the over-exfoliation description has a straightforward path back, and the main obstacle is that it involves doing nothing for longer than feels reasonable.",
+          "Stop every acid, every scrub and every device completely. Reduce to a gentle cleanser once daily, a bland moisturiser with barrier lipids applied as often as wanted, and sunscreen. Expect meaningful improvement within one to two weeks and full comfort over four to six, which is the renewal time of the outer layer.",
+          "The reintroduction is where people undo the recovery. Wait until the skin has been entirely comfortable for a fortnight, then return at once weekly rather than at the previous frequency, and hold there for a month. A substantial number of people discover at that point that once weekly was always sufficient, and that the higher frequency had been producing the problem it was meant to solve.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'anti-ageing-realistic',
+    sections: [
+      {
+        h: "Intrinsic and extrinsic ageing",
+        p: [
+          "Skin ageing has two components with quite different causes, and separating them explains why some interventions work and others cannot. Intrinsic ageing is chronological: a gradual decline in collagen production, thinning of the dermis, loss of fat and changes in bone structure. It is genetically determined and largely unmodifiable by anything topical.",
+          "Extrinsic ageing is caused by external exposure, overwhelmingly ultraviolet radiation, with smoking, pollution and repeated inflammation contributing. It produces the changes people usually mean by aged skin: uneven pigmentation, coarse texture, broken capillaries, deep lines and leathery thickening.",
+          "The proportions are the useful part. Estimates commonly attribute the large majority of visible facial ageing to extrinsic factors rather than to the passage of time itself. That is the entire reason sun protection outperforms every cream, and it is a claim about which component is actually being addressed rather than about product quality.",
+        ],
+      },
+      {
+        h: "The short list with evidence",
+        p: [
+          "Three interventions have evidence that stands up. Daily broad-spectrum sun protection is first by a considerable margin, supported by randomised trial data showing measurably less skin ageing over several years. Not smoking is second, with a well-documented effect on collagen and dermal vasculature.",
+          "Topical retinoids are third and are the only cosmetic ingredient class with substantial randomised evidence for improvement in photoageing: fine lines, texture and pigmentation, measured over six to twelve months. That is a modest and genuine effect.",
+          "Below those, the evidence thins considerably. Vitamin C has a plausible mechanism as a cofactor in collagen synthesis and reasonable antioxidant data. Certain peptides have preliminary evidence. Alpha hydroxy acids improve surface texture. None of these is in the same category as the first three, and no combination of them substitutes for the first.",
+        ],
+      },
+      {
+        h: "What creams cannot do",
+        p: [
+          "There is a category of change that no topical product addresses, and being clear about it prevents a great deal of wasted money. Sagging is caused by loss of volume — fat pads descending and diminishing, bone resorbing — and by loss of elasticity in the deeper dermis. Nothing applied to the surface reaches those structures.",
+          "Deep static lines that are present when the face is at rest reflect structural change and repeated muscular folding. Creams improve their appearance marginally by improving the skin quality around them; they do not remove them.",
+          "The interventions that do address these are procedural: injectables for volume and muscle activity, energy-based devices for tightening, surgery for significant laxity. Each has genuine evidence, real costs and real risks, and none of them is what a jar contains. A product promising a lifting or firming effect is describing either a temporary film-forming trick or nothing at all.",
+        ],
+      },
+      {
+        h: "Where the money actually goes",
+        p: [
+          "The anti-ageing category carries the highest margins in cosmetics, and the pricing has almost no relationship to the ingredients. Retinol, vitamin C, niacinamide and peptides are commodity substances available at every price point.",
+          "What premium products contain that inexpensive ones do not is generally a proprietary complex with a coined name, supported by manufacturer research that has not been independently replicated. Some of these may work; none has the evidence base of the short list above, and the price difference buys the story rather than the substance.",
+          "The rational allocation is therefore weighted heavily toward the things that work. A well-formulated sunscreen used daily in adequate quantity, and a retinoid at a strength you can tolerate, cover almost everything achievable topically, and both are available inexpensively. Money beyond that is buying texture, packaging and hope, in roughly that order.",
+        ],
+      },
+      {
+        h: "Prevention against correction",
+        p: [
+          "The asymmetry worth understanding is that preventing photoageing is straightforward and inexpensive, while correcting it is difficult, slow and expensive. Someone using sunscreen consistently from their twenties is buying an outcome that no amount of later spending fully replicates.",
+          "This has an uncomfortable implication: the people for whom this advice is most valuable are the ones least motivated to follow it, since visible ageing is decades away. And the people most motivated are addressing damage already accumulated, where the available improvement is real but partial.",
+          "Neither observation is a reason for anyone to stop. Photoageing continues to accumulate throughout life, so protection started at fifty prevents the damage that would otherwise occur between fifty and eighty. The best time to start was earlier and the second best is now, which is true of this in the same way it is true of most long-horizon decisions.",
+        ],
+      },
+      {
+        h: "A routine that reflects the evidence",
+        p: [
+          "Assembled from the above, a defensible anti-ageing routine is short and inexpensive. In the morning: gentle cleanse or rinse, moisturiser if needed, broad-spectrum sunscreen at SPF 30 or above, applied in adequate quantity and reapplied when outdoors.",
+          "In the evening: gentle cleanse, a retinoid at whatever strength and frequency your skin tolerates, moisturiser. That is the whole protocol, and everything else is optional refinement with a considerably weaker justification.",
+          "Alongside it, the non-product measures carry real weight: not smoking, seeking shade during peak hours, wearing a hat, and treating inflammation promptly since repeated inflammation contributes to pigmentary change. What is not on the list is a specialised product for each area of the face, which is a segmentation strategy rather than a dermatological necessity. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
+      {
+        h: "The eye cream question",
+        p: [
+          "Eye creams are among the highest-margin products in the category and the case for them is weaker than their ubiquity suggests. The skin around the eye is thinner and has fewer sebaceous glands, which is a real difference, and it does not follow that a separate product is required.",
+          "Most eye creams contain the same ingredient families as facial moisturisers at lower concentrations, in smaller containers, at higher prices. Where a genuine distinction exists it is in tolerability: the eye area is more prone to irritation, so a gentler formulation of an active is defensible, particularly for retinoids.",
+          "The changes people want addressed here are largely not treatable topically. Under-eye darkness is frequently vascular or structural — visible vessels through thin skin, or a hollow casting a shadow — and neither responds to a cream. Puffiness is usually fluid or fat pad position. Fine lines improve modestly with the same ingredients that work elsewhere. A gentle moisturiser and, if tolerated, a low-strength retinoid covers what is achievable.",
+        ],
+      },
+      {
+        h: "Judging what a product did",
+        p: [
+          "Assessing anti-ageing products is unusually difficult because the changes are slow, the baseline is a face you see daily, and expectation shapes perception strongly. Almost nobody evaluates these accurately by memory.",
+          "The method that works is photographic: a picture at the start, in consistent light, from a fixed angle, without makeup, repeated at twelve weeks and again at six months. Anything short of that is comparing a current impression against a reconstructed one, which reliably reports whatever you expected.",
+          "It is also worth being clear about what would count as success before starting. Improvement in texture and evenness of tone is achievable and observable. Removal of established deep lines is not, and setting that as the standard guarantees disappointment with a product that may be doing exactly what the evidence says it does.",
+        ],
+      },
     ],
   },
 ];
