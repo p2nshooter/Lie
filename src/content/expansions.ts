@@ -2547,6 +2547,436 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'fading-hyperpigmentation',
+    sections: [
+      {
+        h: "How pigment actually gets made",
+        p: [
+          "Melanin is produced by melanocytes, which sit at the base of the epidermis in roughly the same number in every human being regardless of skin tone. What differs between people is not how many melanocytes they have but how active those cells are and how the pigment they make is packaged and distributed.",
+          "The rate-limiting step is an enzyme called tyrosinase, which converts tyrosine through a series of intermediates into melanin. Nearly every topical treatment for pigmentation works by interfering with this pathway at some point, which is why the ingredients look chemically unrelated but do broadly similar things.",
+          "The finished pigment is packaged into melanosomes and handed off to surrounding keratinocytes, which carry it upward as they mature and shed. That transfer step is a second point of intervention, and it is where niacinamide is thought to act.",
+          "Three things reliably switch this machinery on: ultraviolet light, inflammation of any kind, and hormonal signalling. Almost every pigmentation problem is one of those three, and identifying which is the first useful step.",
+        ],
+      },
+      {
+        h: "Epidermal or dermal, and why it decides everything",
+        p: [
+          "Pigment sitting in the epidermis behaves quite differently from pigment that has dropped into the dermis below. Epidermal pigment travels upward with the natural turnover of the skin and can be shed, which means it responds to topical treatment on a timescale of months.",
+          "Dermal pigment has crossed the basement membrane and is no longer part of that conveyor. It sits below the layer that renews itself, topical actives reach it poorly, and it fades over years rather than months if it fades at all.",
+          "Clinicians distinguish them with a Wood's lamp, under which epidermal pigment becomes more sharply defined and dermal pigment does not. At home, a rough guide is colour and edge: brown with a crisp border tends to be epidermal, greyish or bluish with a diffuse edge tends to be deeper.",
+          "This single distinction explains why two people using the same product report completely different results. It is not the product; it is where the pigment is sitting.",
+        ],
+      },
+      {
+        h: "Post-inflammatory hyperpigmentation, in detail",
+        p: [
+          "This is the flat brown or grey mark left behind after a spot, a scratch, an insect bite, a burn or an aggressive cosmetic procedure. The inflammation itself stimulates melanocytes, and the mark left behind is not a scar — it is pigment sitting in skin that is otherwise intact.",
+          "It is far more common and more persistent in deeper skin tones, where melanocytes respond more readily to inflammatory signals. That is a physiological difference rather than a defect, and it changes the treatment calculus substantially: for these skin types, preventing inflammation matters more than treating pigment.",
+          "The single most important intervention is therefore treating the underlying condition rather than the mark. Continuing to pick at acne while applying a brightening serum is a losing arrangement, because new marks are being created faster than old ones fade.",
+          "Left alone with good sun protection, most post-inflammatory marks fade over three to twelve months. Treatment shortens that; nothing eliminates it, and anything claiming to do so within a fortnight is describing a different phenomenon.",
+        ],
+      },
+      {
+        h: "Melasma is a different disease",
+        p: [
+          "Melasma presents as symmetrical patches across the cheeks, forehead, upper lip and jaw, most commonly in women, and it is driven by hormones as much as by light. Pregnancy and combined oral contraceptives are frequent triggers, which is why it is sometimes called the mask of pregnancy.",
+          "Critically, it responds to heat and to visible light, not only to ultraviolet. This is why melasma flares in people who are diligent about a conventional sunscreen, and why standing over a hot stove or sitting near a window can undo months of progress.",
+          "It is also chronic and relapsing by nature. Treatment controls it rather than curing it, and stopping treatment after a good result is the most common route back to where you started. Anyone approaching melasma expecting a course of treatment with an end date will be disappointed.",
+          "Aggressive treatment frequently backfires. Strong peels and lasers can worsen melasma through the inflammation they cause, and the professionals who treat it well are conspicuously cautious.",
+        ],
+      },
+      {
+        h: "Sun spots and the accumulated-dose problem",
+        p: [
+          "Solar lentigines — the flat brown patches on the backs of hands, the upper chest and the temples — are the visible record of cumulative ultraviolet exposure. They are localised areas where melanocytes have become permanently more active, not simply deposits of pigment.",
+          "Because the change is in the cells themselves rather than only in the pigment they produced, these respond less predictably to topical treatment than post-inflammatory marks do. They fade, but slowly and often incompletely.",
+          "They are also the pigmentation type that responds best to procedures. Targeted laser and intense pulsed light treat them efficiently in lighter skin, and cryotherapy is used for individual lesions, though both carry pigmentation risks of their own in deeper skin tones.",
+          "Any new, changing, irregular or asymmetric pigmented lesion is a dermatologist's question rather than a skincare one. This is the one section of this subject where self-treatment is genuinely the wrong instinct.",
+        ],
+      },
+      {
+        h: "The ingredient tiers, from shelf to prescription",
+        p: [
+          "The over-the-counter tier is broader than most people realise. Azelaic acid at ten per cent, niacinamide at four to five per cent, vitamin C, alpha arbutin, kojic acid, tranexamic acid and licorice root extract all have some evidence behind them, and all work slowly.",
+          "Retinoids belong in a category of their own here, because they accelerate turnover and therefore accelerate the shedding of pigmented cells while also improving the penetration of everything else. For epidermal pigment they are among the most useful things available without a prescription.",
+          "The prescription tier is where the strongest options sit. Hydroquinone remains the reference standard, typically at four per cent and used in courses of three to four months rather than indefinitely. Triple combination creams add a retinoid and a steroid, and prescription tranexamic acid is used orally for melasma in some settings.",
+          "Cysteamine is the more recent addition, available without prescription in some markets, with trial data comparable to hydroquinone and a smell that most users describe with feeling. It is worth knowing about for people who cannot use hydroquinone.",
+        ],
+      },
+      {
+        h: "Procedures, and when they help or hurt",
+        p: [
+          "Chemical peels, microneedling, fractional lasers and intense pulsed light all have a place, and all of them work by controlled injury. That is precisely the mechanism that produces post-inflammatory hyperpigmentation, which makes procedure selection a matter of real consequence rather than preference.",
+          "In lighter skin with discrete sun spots, targeted light-based treatment is efficient and low-risk. In deeper skin tones, the same devices carry a meaningful risk of leaving the patient worse off, and practitioner experience with that specific skin type matters more than the equipment in the room.",
+          "For melasma the caution is universal. Aggressive resurfacing frequently triggers a rebound worse than the original, and the conservative sequence — topicals and rigorous photoprotection for several months first — is not the practitioner being slow.",
+          "A reasonable rule is that procedures accelerate a plan that is already working. They are a poor substitute for one that has not been established.",
+        ],
+      },
+      {
+        h: "Visible light, iron oxides and the right sunscreen",
+        p: [
+          "Conventional SPF testing measures protection against ultraviolet only, and for most purposes that is what matters. For pigmentation, and for melasma in particular, it is insufficient, because visible light — especially the high-energy blue end — independently stimulates melanocytes in deeper skin tones.",
+          "The practical answer is a tinted sunscreen. The tint comes from iron oxides, which absorb visible light in a way that transparent filters do not, and studies have found tinted formulations outperform untinted ones for melasma specifically.",
+          "This is one of the few places in skincare where a cosmetic feature is doing pharmacological work. The tint is not there to even out your complexion, or not only; it is the active protection against the wavelengths that are driving the problem.",
+          "Combined with the usual instructions — enough of it, every day, reapplied — this is genuinely the intervention that determines whether anything else in the routine has a chance of working.",
+        ],
+      },
+      {
+        h: "A realistic timeline, and how to see progress",
+        p: [
+          "Nothing in this category works in weeks. Post-inflammatory marks improve noticeably over two to three months of consistent treatment. Sun spots take longer. Melasma is managed indefinitely rather than resolved, and a good outcome is a patch that is faint rather than absent.",
+          "Progress is genuinely difficult to see day to day, which is why so many effective routines get abandoned. Take a photograph at the start, in the same place, at the same time of day, with the same light and no makeup, and repeat it monthly rather than weekly.",
+          "The comparison that matters is the one across three months, not the one across three days. Most people who conclude that nothing is working have never actually made that comparison.",
+          "And the discipline that underlies all of it is unchanged: without daily, generous, reapplied sun protection, every treatment in this article is being applied to skin that is being re-stimulated faster than it is being treated.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'calming-redness-and-rosacea',
+    sections: [
+      {
+        h: "The subtypes, and why the label matters",
+        p: [
+          "Rosacea is not one condition, and treating it as one is why so many people find that the recommended products do nothing. The older classification divides it into four subtypes, and while dermatology has moved toward describing features rather than types, the distinction remains useful for anybody choosing a treatment.",
+          "Erythematotelangiectatic rosacea is flushing, persistent central redness and visible vessels. Papulopustular rosacea adds inflammatory bumps and pustules and is what people usually mean by adult acne that is not acne. Phymatous rosacea involves thickening of the skin, most often on the nose. Ocular rosacea affects the eyes and is frequently missed entirely.",
+          "The treatments diverge substantially. What reduces papules does very little for background redness; what constricts vessels does nothing for bumps. A product that failed was often a product aimed at the wrong feature.",
+          "Many people have more than one feature at once, which is why the current guidance treats each feature separately rather than assigning a single label to the patient.",
+        ],
+      },
+      {
+        h: "What is actually happening in the skin",
+        p: [
+          "The current understanding centres on two systems behaving abnormally. The innate immune system over-responds, with elevated cathelicidin peptides producing inflammation out of proportion to the trigger. And the vascular system is hyper-reactive, with vessels dilating readily and, over time, losing the ability to constrict again.",
+          "That second part explains the progression people describe. Early on, flushing comes and goes. Later, the redness is present between episodes, because repeatedly dilated vessels become permanently widened and visible through skin that is also thinner than it was.",
+          "Neurovascular signalling is involved too, which is why heat, spice, alcohol and emotional stress all trigger the same visible response through what appears to be a shared pathway.",
+          "None of this is caused by poor hygiene, by diet in any simple sense, or by anything the patient did. It is worth stating plainly, because a great deal of unnecessary over-cleansing is done by people who believe otherwise.",
+        ],
+      },
+      {
+        h: "The trigger diary that actually works",
+        p: [
+          "Triggers are individual, and the published lists — sun, heat, alcohol, spicy food, exercise, stress, cold wind, hot drinks — are a starting point rather than a diagnosis. Yours will be a subset, and identifying which one saves a great deal of pointless avoidance.",
+          "The mistake most people make is recording the flare rather than the day. Note the whole day briefly — what was eaten and drunk, the weather, the temperature indoors, exercise, sleep, stress, and any new product — and then note whether skin flared. Patterns emerge over four to six weeks that are invisible over four to six days.",
+          "Look for the near misses too. A day with three suspected triggers and no flare is as informative as a day with one trigger and a bad one, and it is the comparison that stops you eliminating things unnecessarily.",
+          "The goal is not a life of avoidance. It is knowing which two or three things genuinely matter, so that everything else can be enjoyed without anxiety.",
+        ],
+      },
+      {
+        h: "The gentle-first routine, step by step",
+        p: [
+          "Cleansing is where most damage is done. A non-foaming, fragrance-free, low-surfactant cleanser used with lukewarm water and fingertips only, never a cloth or a brush, and patted rather than rubbed dry. For many people, water alone in the morning is the better answer.",
+          "Moisturiser should be bland and applied consistently, because barrier function is measurably impaired in rosacea and a compromised barrier admits more of everything that irritates. Ceramides, glycerin and squalane are the useful vocabulary here; anything described as invigorating is not.",
+          "Application technique matters more than usual. Press products in rather than rubbing, use fewer of them, and introduce anything new one at a time with a proper test period behind the ear first.",
+          "Temperature is part of the routine. Hot water, hot rooms, saunas and long hot showers all provoke the vascular response directly, and moderating them is often more effective than any product change.",
+        ],
+      },
+      {
+        h: "The ingredients with real evidence",
+        p: [
+          "Azelaic acid is the standout for over-the-counter use, available at ten per cent and at higher strengths on prescription. It is anti-inflammatory, reduces cathelicidin activity, helps with papules and pustules, and has the useful side benefit of addressing post-inflammatory pigmentation.",
+          "Topical ivermectin, on prescription, is highly effective for the papulopustular form and is thought to act both on inflammation and on Demodex mites. Metronidazole is the older prescription standard and remains widely used and well tolerated.",
+          "For background redness, brimonidine and oxymetazoline are topical vasoconstrictors that reduce visible redness for a number of hours. They treat the appearance rather than the disease, and a minority of users experience rebound redness as they wear off, so a cautious trial is sensible.",
+          "Niacinamide at modest concentrations supports barrier function and is generally well tolerated. Beyond these, the evidence thins quickly, and most of what is sold for redness is soothing in the sensory sense rather than the clinical one.",
+        ],
+      },
+      {
+        h: "What to leave on the shelf",
+        p: [
+          "Fragrance is the first thing to eliminate, and that includes essential oils and the plant extracts marketed as natural alternatives. Several of the most popular botanicals for sensitive skin are potent sensitisers, and menthol, camphor and eucalyptus are actively provocative.",
+          "Denatured alcohol high in the ingredient list, physical scrubs, cleansing brushes, high-concentration acids and strong retinoids all belong in the same category — not permanently forbidden, but not where anybody with reactive skin should begin.",
+          "Witch hazel deserves specific mention because it is so widely recommended for redness. The astringent versions are alcohol-based and frequently make things worse, and the anti-inflammatory reputation of the plant does not survive the formulation it usually arrives in.",
+          "Hot cloths, steam and anything described as detoxifying complete the list. None of them is neutral for skin whose defining feature is vascular over-reaction to heat.",
+        ],
+      },
+      {
+        h: "Sunscreen for skin that reacts to sunscreen",
+        p: [
+          "Ultraviolet exposure is among the most consistently reported triggers, and it also drives the long-term vessel damage that turns intermittent flushing into permanent redness. Sunscreen is therefore not optional here, which is awkward given how many people with rosacea find it uncomfortable.",
+          "Mineral filters — zinc oxide and titanium dioxide — are usually better tolerated, both because they sit on the surface rather than absorbing into it and because they are less likely to sting. Zinc oxide has mild anti-inflammatory properties of its own.",
+          "The practical difficulty is the white cast, and the practical answer is a tinted mineral formulation. The green-tinted primers sold for redness work on the same principle and are legitimate: colour correction is a real optical effect rather than a marketing one.",
+          "Physical measures carry more weight here than for most skin. A wide-brimmed hat and shade do not sting, do not need reapplying, and are not a trigger for anything.",
+        ],
+      },
+      {
+        h: "Demodex, the gut and the theories worth taking seriously",
+        p: [
+          "Demodex folliculorum mites live on nearly everybody's face, and they are found in significantly higher densities in rosacea. Whether they cause the inflammation or merely thrive in skin that is already inflamed remains unsettled, but the effectiveness of ivermectin gives the association real weight.",
+          "The gut theories are more speculative but not baseless. An association with small intestinal bacterial overgrowth has been reported, and there is a documented link with Helicobacter pylori infection, though whether treating either reliably improves the skin is not established.",
+          "What all of this means practically is limited. It is a reason to take a doctor's suggestion of ivermectin seriously, and a reason not to spend money on elimination diets and supplements marketed on the strength of a mechanism that has not been demonstrated to work in reverse.",
+          "The evidence-based interventions remain unglamorous: identify your triggers, protect from ultraviolet, keep the barrier intact, and use the topical treatments that have trials behind them.",
+        ],
+      },
+      {
+        h: "When to see a doctor",
+        p: [
+          "Persistent central facial redness that does not settle, inflammatory bumps that keep returning, visible vessels, or any thickening of the skin all warrant a proper assessment. Rosacea is a clinical diagnosis and the treatments that work best for it are prescription-only, so self-management has a low ceiling.",
+          "Eye symptoms deserve particular attention and are routinely overlooked. Gritty, dry, burning or persistently red eyes alongside facial redness may be ocular rosacea, which needs treating in its own right and can affect vision if it is ignored for long enough.",
+          "Sudden onset in adulthood, redness with systemic symptoms, or a butterfly-shaped rash across the cheeks and nose that spares the folds beside the nose should be assessed rather than treated as rosacea, since several other conditions present similarly.",
+          "For anything beyond mild, intermittent flushing, the honest advice is that a prescription pad shortens this considerably. Skincare supports the treatment; it is rarely the treatment.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'the-truth-about-pore-size',
+    sections: [
+      {
+        h: "What a pore actually is",
+        p: [
+          "The visible pores on the face are the openings of pilosebaceous units — a hair follicle with a sebaceous gland attached to it. On the face the hair is usually vellus and effectively invisible, so what you see is the opening of a channel that exists to deliver sebum to the surface.",
+          "Crucially, there is no sphincter and no muscle. A pore cannot open in response to heat or close in response to cold, and the entire vocabulary of opening and closing pores is describing something that does not physically exist.",
+          "What does change is the apparent size of the opening, which is a function of how much is inside it, how the surrounding skin is holding its shape, and how light falls across the surface. All three of those are modifiable to some degree.",
+          "This is not a semantic quibble. It determines which products can possibly work, and it rules out an entire category of claims immediately.",
+        ],
+      },
+      {
+        h: "The three things that make them look larger",
+        p: [
+          "The first is sebum output. A gland producing more oil requires a wider channel to deliver it, and the opening dilates accordingly. This is why pore visibility maps so precisely onto the areas with the highest gland density — the nose, the inner cheeks, the chin and the centre of the forehead.",
+          "The second is what is sitting in the channel. A pore filled with a mixture of sebum and dead cells is distended by the contents, and when the surface of that material oxidises and darkens it also becomes far more visible against the surrounding skin.",
+          "The third is the structure around the opening. Collagen and elastin in the surrounding dermis hold the pore's shape; as they degrade the opening loses its support and elongates, which is why pores on ageing skin often look like small teardrops rather than circles.",
+          "Every genuinely effective treatment addresses one of these three. Anything that claims to work by another route is worth reading sceptically.",
+        ],
+      },
+      {
+        h: "Genetics, and the honest starting point",
+        p: [
+          "Sebaceous gland size and density are substantially heritable, and so, therefore, is baseline pore visibility. Someone with naturally oily skin and large glands will have visible pores in the T-zone regardless of what they do, and no routine changes that underlying anatomy.",
+          "Androgens drive sebum production, which is why pore visibility often increases through adolescence and can shift with hormonal changes in adulthood. This is a physiological variable rather than a hygiene one.",
+          "Stating this plainly matters, because a great deal of money and a great deal of over-treatment flows from the belief that visible pores indicate a failure of cleaning. Aggressive cleansing does not shrink them and reliably damages the barrier while trying.",
+          "The realistic goal is to reduce the contribution from the two modifiable factors — contents and surrounding structure — and to accept the baseline that genetics set.",
+        ],
+      },
+      {
+        h: "Sun damage and the pores you did not have at twenty",
+        p: [
+          "Pore visibility that increases with age is largely a photoageing story. Ultraviolet exposure degrades collagen and elastin in the dermis, and the support structure that held each opening in a tidy circle gives way progressively.",
+          "The characteristic sign is directional. Age-related pore enlargement tends to be elongated, oriented along the direction of gravity or facial tension, and concentrated on the cheeks rather than only in the T-zone. That pattern is different from the round, oil-driven pores of adolescence.",
+          "The implication is that daily sunscreen is a pore treatment, even though nothing on the bottle says so. It is preventive rather than corrective, and it is the intervention with the strongest long-term case in this entire subject.",
+          "It also means that people evaluating pore products in their forties are often treating a structural problem with an oil-control solution, and concluding that nothing works.",
+        ],
+      },
+      {
+        h: "What genuinely improves the appearance",
+        p: [
+          "Retinoids are the best-supported option, and they act on two of the three mechanisms at once — normalising the shedding that blocks the channel, and stimulating collagen that supports the surrounding structure. The effect is slow, taking three to six months, and it is real.",
+          "Salicylic acid is the second pillar. Being oil-soluble, it works inside the channel, clearing the accumulated sebum and cells that are distending it. Used two or three times a week it makes a visible difference to congested areas within weeks.",
+          "Niacinamide has trial data specifically on pore appearance, thought to work through reducing sebum output and improving the elasticity of the surrounding skin. It is gentle, cheap and a reasonable addition to almost any routine.",
+          "Beyond topicals, in-clinic options exist — microneedling, fractional resurfacing, certain laser treatments — that improve the structural component more decisively. They belong in the conversation for people who have exhausted the topical route, not before it.",
+        ],
+      },
+      {
+        h: "The temporary tricks, honestly labelled",
+        p: [
+          "Cold water and ice cause brief vasoconstriction and a small amount of transient swelling reduction. The skin looks momentarily tighter. Nothing has happened to the pore, and the effect lasts minutes.",
+          "Clay masks absorb surface oil and remove some of the loose material sitting in the openings. The improvement is real and lasts until sebum production refills them, which is a matter of hours. Used weekly they are a reasonable maintenance habit; they are not treatment.",
+          "Silicone-based primers work optically. They fill the depression and create a smooth surface that scatters light evenly, which genuinely makes pores less visible for as long as the product is on the face. This is cosmetics doing exactly what cosmetics are for, and there is nothing wrong with it.",
+          "The only problem with any of these is the labelling. Sold as temporary improvements they are honest and useful; sold as treatments they set up an expectation that guarantees disappointment.",
+        ],
+      },
+      {
+        h: "Extraction, strips and the things that make it worse",
+        p: [
+          "Pore strips remove the top of whatever is sitting in the opening. They work in the sense that material comes away on the strip, and they do nothing about the rest of the contents or about why the pore was full. The channel refills within days.",
+          "The cost is not neutral. Repeated stripping traumatises the opening and the surrounding skin, and there is a reasonable argument that habitual use worsens the appearance over time by damaging exactly the structure that holds the pore in shape.",
+          "Squeezing is worse. Forcing contents out through a narrow opening frequently ruptures the follicle wall below the surface, which converts a cosmetic problem into an inflammatory one and risks a post-inflammatory mark that lasts far longer than the blackhead did.",
+          "Professional extraction, performed after appropriate softening by somebody trained to do it, is a different matter and is genuinely useful for stubborn congestion. The distinction is technique and judgement, not the principle.",
+        ],
+      },
+      {
+        h: "Sebaceous filaments are not blackheads",
+        p: [
+          "A great deal of anxiety about nose pores concerns structures that are entirely normal. Sebaceous filaments are the thin, greyish-tan cylinders of sebum and cellular material that line the follicle and channel oil to the surface. Everybody has them, and they are visible on almost every nose under sufficient magnification.",
+          "Blackheads are different: they are genuine comedones, oxidised plugs that are darker, firmer, more raised and irregularly distributed. Filaments are uniform, soft, and appear in the same pattern on both sides of the nose.",
+          "The reason this matters is that filaments cannot be eliminated. They refill within a day or two of any removal because they are performing a function, and attempting to eradicate them permanently is the most common route to a damaged, irritated nose.",
+          "The magnifying mirror is a genuine culprit here. Skin examined at a distance nobody else will ever occupy produces problems that nobody else can see.",
+        ],
+      },
+      {
+        h: "A target worth aiming at",
+        p: [
+          "The realistic aim is pores that are clear rather than pores that are absent. A clear pore is smaller in appearance than a full one, does not oxidise to a dark point, and sits in skin whose structure is being protected from further degradation.",
+          "That is achieved by a routine that is unremarkable: a retinoid most nights, salicylic acid a couple of times a week on the congested areas, niacinamide if it suits you, a moisturiser that keeps the barrier intact, and sunscreen every single morning.",
+          "It takes months rather than weeks, and the improvement is the kind you notice in a photograph from last spring rather than in the mirror on any given morning.",
+          "And the last part is not a product at all: stop examining your nose at four times magnification. Most of what is visible at that distance is normal anatomy, and no routine will make normal anatomy disappear.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'eye-area-skincare',
+    sections: [
+      {
+        h: "Why the skin there is genuinely different",
+        p: [
+          "The skin of the eyelids and the area immediately beneath them is the thinnest on the body, in places well under half a millimetre. The dermis is correspondingly thin, with less collagen and elastin, and the barrier function is measurably weaker than on the cheek a few centimetres away.",
+          "It also has very few sebaceous glands, which means it produces almost none of its own lipid film and dries out faster than the surrounding face. And it sits over a dense network of small blood vessels with very little tissue between them and the surface.",
+          "On top of that, it moves constantly. Estimates of daily blinking run into the tens of thousands, and the orbicularis muscle underneath is active during every expression the face makes.",
+          "The combination — thin, dry, transparent and in constant motion — explains almost every complaint people have about this area, and it explains why products formulated for the cheek can sting here.",
+        ],
+      },
+      {
+        h: "The four causes of dark circles",
+        p: [
+          "Vascular circles are the bluish or purplish kind. The blood vessels beneath thin, translucent skin show through, and the colour is deoxygenated blood rather than pigment. These worsen with tiredness, dehydration, congestion and anything that dilates vessels.",
+          "Pigmentary circles are brown, caused by genuine melanin deposition in the skin itself. They are far more common in deeper skin tones and in certain ethnic backgrounds, are often strongly familial, and are frequently worsened by sun exposure and by rubbing.",
+          "Structural circles are shadows. Loss of volume in the tear trough, or a naturally deep-set orbit, creates a hollow that casts a shadow under overhead lighting. The skin itself may be a perfectly normal colour.",
+          "And there is a fourth: skin laxity and fine crepe texture, which scatters light unevenly and reads as darkness. Most people have some combination of two or more, which is why single-mechanism products so often disappoint.",
+        ],
+      },
+      {
+        h: "Working out which kind you have",
+        p: [
+          "Two informal tests get most of the way there. Gently stretch the skin sideways: if the darkness lightens noticeably, it is largely vascular, since stretching disperses the visible vessels. If the colour stays put, pigment is more likely.",
+          "For the structural component, look in a mirror with a light source held below your face rather than above it. Shadows cast by a hollow will lift or reverse; true pigment and visible vessels will not change.",
+          "The third test is time. Vascular circles fluctuate — worse after a poor night, better after a good one, worse with allergy. Pigmentary circles are stable from day to day, and structural ones change only over years.",
+          "This matters because the treatments barely overlap. Caffeine helps vascular circles a little; pigment needs the same ingredients used elsewhere on the face; and structural hollowing is not a skincare problem at all.",
+        ],
+      },
+      {
+        h: "Puffiness, and why mornings are worse",
+        p: [
+          "Morning puffiness is largely fluid. Lying flat for hours allows interstitial fluid to accumulate in the loose tissue around the eyes, and it redistributes within an hour or two of being upright. Salt, alcohol and poor sleep all increase it; nothing applied to the skin changes it much.",
+          "Persistent puffiness that does not resolve through the day is usually a different thing: herniation of the small fat pads that cushion the eye, which push forward as the retaining ligaments loosen with age. This is anatomy, and no cream reaches it.",
+          "Allergic puffiness is worth separating out, because it is treatable. Itching, sneezing, watery eyes and worsening at particular times of year point to it, and an antihistamine does more in a day than an eye cream does in a month.",
+          "The distinction is practical. Fluid responds to sleeping slightly propped up, reduced salt and cool compresses. Fat pads respond to surgery or to nothing. Confusing the two produces a lot of disappointed spending.",
+        ],
+      },
+      {
+        h: "Do you actually need a separate eye cream?",
+        p: [
+          "Often not. If your face moisturiser is fragrance-free, non-irritating and not loaded with strong actives, applying it gently around the orbital bone is perfectly reasonable and is what many dermatologists do themselves.",
+          "The genuine arguments for a dedicated product are narrower than the marketing suggests. Eye formulations are typically fragrance-free, ophthalmologically tested, formulated to lower concentrations of actives, and designed not to migrate into the eye and sting.",
+          "That last point is the practical one. A face product that creeps into the eye overnight will cause irritation regardless of how good it is, and heavier textures around the eyes can contribute to morning puffiness by trapping fluid.",
+          "So the useful framing is: you need a product that is safe and comfortable for this area, and sometimes your face moisturiser already is. The price premium on eye creams is rarely justified by the formulation.",
+        ],
+      },
+      {
+        h: "The ingredients that do something",
+        p: [
+          "Caffeine constricts blood vessels temporarily and modestly reduces the appearance of vascular circles and mild fluid puffiness. The effect is genuine, small and short-lived, lasting hours rather than days. It is the single most reasonable ingredient in an eye product.",
+          "Retinoids improve thin, crepey texture and stimulate collagen, and over months they are the most effective topical for the fine lines of this area. They are also the most likely to irritate here, which is why lower concentrations, buffering with moisturiser and starting twice weekly all apply.",
+          "Vitamin C and niacinamide address pigmentary circles by the same mechanisms they use elsewhere, and are worth trying if the stretch test suggested pigment. Peptides have modest evidence and are unlikely to hurt.",
+          "Hyaluronic acid and glycerin plump the surface temporarily and genuinely soften fine lines for as long as hydration is maintained. This is real and it is not permanent, which is an honest thing to know before buying.",
+        ],
+      },
+      {
+        h: "Fragrance and essential oils near the eye",
+        p: [
+          "Eyelid dermatitis is one of the most common presentations in contact dermatitis clinics, and fragrance is one of the most common causes. Thin skin, high permeability and constant rubbing combine to make this the area most likely to react to something the rest of the face tolerates.",
+          "Essential oils deserve specific caution regardless of their reputation. Several common ones are recognised sensitisers, and the eye area is the worst possible place to discover that you are sensitised to one.",
+          "It is also worth knowing that the culprit is frequently not applied to the eyes at all. Nail varnish, hair products, and anything transferred by hand are well-documented causes of eyelid reactions precisely because people touch their eyes without thinking.",
+          "The defensible default is fragrance-free everything within reach of this area, including the products you apply somewhere else with your fingers.",
+        ],
+      },
+      {
+        h: "Sunscreen around the eyes",
+        p: [
+          "This area receives substantial ultraviolet exposure, is thin enough to show the damage early, and is where photoageing tends to become visible first. It is also the area people most often skip, because chemical filters sting when they migrate and mineral ones leave a visible cast.",
+          "Sunglasses are the most effective single intervention and require no reapplication. Large lenses with proper ultraviolet certification protect both the skin and the eye itself, and they also reduce squinting, which is a mechanical contributor to lines in this area.",
+          "For sunscreen, mineral formulations and stick applicators are usually better tolerated close to the lash line. Applying to the orbital bone rather than right up to the lid is a sensible compromise that gets most of the protection without the stinging.",
+          "A wide-brimmed hat completes the picture. Between the hat and the sunglasses, most of the problem is solved without anything being applied to the skin at all.",
+        ],
+      },
+      {
+        h: "The non-cosmetic causes worth ruling out",
+        p: [
+          "Sleep is the obvious one and the most often dismissed. Controlled studies find that sleep-restricted faces are reliably rated as having darker circles and more hanging eyelids by observers who know nothing about the study, and the effect is visible after a single bad night.",
+          "Iron deficiency and thyroid dysfunction both present with periorbital changes, and allergic rhinitis produces the classic venous congestion known as allergic shiners. All three are worth investigating if circles appeared or worsened without an obvious cause.",
+          "Dehydration and high salt intake affect fluid distribution, smoking accelerates the collagen loss that thins this skin further, and chronic eye rubbing — whether from allergy, tiredness or habit — drives both pigmentation and laxity directly.",
+          "The unwelcome summary is that the most effective interventions for this area are sleep, sun protection, treating any allergy and not rubbing. The eye cream sits fourth, and it is not close.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'uva-uvb-and-spf-explained',
+    sections: [
+      {
+        h: "The two wavelengths, and what each one does",
+        p: [
+          "Ultraviolet reaching the ground divides into two bands that matter for skin. UVB, at roughly 280 to 315 nanometres, is the shorter and more energetic. It is absorbed mostly in the epidermis, it damages DNA directly, and it is what causes sunburn and drives most skin cancers.",
+          "UVA, at 315 to 400 nanometres, is longer and penetrates further, reaching well into the dermis where collagen and elastin live. It causes comparatively little burning, which is precisely why it went unaddressed for so long, and it is the dominant driver of photoageing and pigmentation.",
+          "The proportions are instructive. Around ninety-five per cent of the ultraviolet reaching the earth's surface is UVA, and unlike UVB it is present at fairly consistent intensity throughout the day and throughout the year.",
+          "It also passes through window glass, which UVB largely does not. The commonly cited photograph of a lorry driver with decades of one-sided facial damage is a UVA photograph.",
+        ],
+      },
+      {
+        h: "What the SPF number actually measures",
+        p: [
+          "SPF is a ratio measured against sunburn, which means it is overwhelmingly a measure of UVB protection. It compares the ultraviolet dose needed to redden protected skin against the dose needed to redden unprotected skin, under laboratory conditions with a defined quantity of product applied.",
+          "The common interpretation — that SPF 30 lets you stay out thirty times longer — is a poor way to use it, because ultraviolet intensity varies through the day, sunscreen degrades, and nobody applies the tested quantity. Treating SPF as a measure of how much gets through is more useful.",
+          "On that reading, SPF 15 blocks around ninety-three per cent of UVB, SPF 30 around ninety-seven per cent, and SPF 50 around ninety-eight per cent. The differences look small stated that way, and they matter more than they appear because the residual dose is what does the damage.",
+          "Critically, SPF says nothing at all about UVA. A high-SPF product with poor UVA filtering will prevent your sunburn while doing little about the wavelengths that age your skin.",
+        ],
+      },
+      {
+        h: "Diminishing returns, and why they are not the whole story",
+        p: [
+          "The percentage figures above are why the argument that SPF 100 is a marketing exercise has some force. Going from 50 to 100 moves blocked UVB from about ninety-eight to about ninety-nine per cent, which is not a doubling of anything.",
+          "The counter-argument is real-world application. Because most people apply between a quarter and a half of the tested quantity, the protection actually received is far below the label, and it falls off non-linearly rather than proportionally. A high number provides headroom for under-application.",
+          "Studies comparing high-SPF and moderate-SPF products in field conditions have found meaningful differences in favour of the higher number, which supports the headroom argument rather than the arithmetic one.",
+          "The sensible position is that SPF 30 applied properly beats SPF 50 applied thinly, and SPF 50 applied thinly beats SPF 30 applied thinly. Buy the higher number if it helps, and fix the quantity regardless.",
+        ],
+      },
+      {
+        h: "UVA protection, and the labels that describe it",
+        p: [
+          "Because SPF does not cover UVA, separate systems exist, and they differ by region in ways that make comparison genuinely difficult. The PPD system measures persistent pigment darkening and produces a number; PA+ through PA++++ is a Japanese-origin grading built on the same measurement.",
+          "In the European Union, a UVA inside a circle indicates that UVA protection is at least a third of the labelled SPF, which is a ratio requirement rather than an absolute one. It is a floor, and a product can exceed it substantially without saying so.",
+          "In the United States, broad spectrum is determined by a critical wavelength test, and the regulatory framework has permitted fewer modern UVA filters than Europe and Asia, which is why enthusiasts import sunscreens.",
+          "The practical implication for a buyer is to look for PA++++ or the circled UVA mark alongside a decent SPF, rather than treating a high SPF alone as sufficient.",
+        ],
+      },
+      {
+        h: "Broad spectrum is the more important claim",
+        p: [
+          "If a choice has to be made between a very high SPF with unstated UVA performance and a moderate SPF with strong, explicitly labelled UVA protection, the second is the better product for most purposes.",
+          "This follows from what each band does. Burning is unpleasant and is a marker of DNA damage, so UVB protection matters enormously. But photoageing, pigmentation, melasma and the slow structural degradation of the dermis are largely UVA, and those are the changes people are usually trying to prevent when they buy sunscreen.",
+          "It is also the band you cannot detect. There is no immediate feedback from UVA exposure — no redness, no warmth, no signal that anything happened — which is why a product that leaves it unaddressed can feel entirely adequate for years.",
+          "Broad spectrum is therefore not a bonus feature. It is the part of the label that determines whether the product does the job people actually want done.",
+        ],
+      },
+      {
+        h: "Filters: mineral, organic and the newer generation",
+        p: [
+          "Mineral filters are zinc oxide and titanium dioxide. Zinc oxide covers the full ultraviolet range including long UVA and is well tolerated by reactive skin; titanium dioxide is stronger against UVB and weaker in the UVA range. Both work primarily by absorption, despite the persistent description of them as reflectors.",
+          "Organic filters absorb ultraviolet and convert it to heat. The older ones vary considerably in stability — avobenzone provides good UVA coverage but degrades in sunlight unless stabilised, which is why it is formulated alongside octocrylene or other stabilisers.",
+          "The newer generation of organic filters, available in Europe, Asia and Australia but not currently in the United States, offer better photostability and broader coverage in more elegant textures. Tinosorb and Uvinul are the names most often encountered.",
+          "For a buyer, the useful signal is not mineral versus organic as a category but whether the specific filters listed cover long UVA and whether the formulation is one you will apply generously.",
+        ],
+      },
+      {
+        h: "The quantity nobody applies",
+        p: [
+          "SPF is tested at two milligrams per square centimetre of skin. For a face and neck that works out at roughly a third of a teaspoon, or the length of your index and middle finger squeezed out from a tube — the two-finger method is a rough guide that gets most people much closer than instinct does.",
+          "For a whole body at the beach, the tested quantity is around thirty millilitres, which is a shot glass, per application. Very few people use a bottle at anything like the rate that implies.",
+          "The consequence is not proportional, which is the part that surprises people. Applying half the tested quantity does not halve the SPF; the relationship is closer to exponential, and an SPF 50 applied at half rate can behave more like an SPF 7 to 15.",
+          "This single variable outweighs almost every other decision in sunscreen selection. Choosing between two good products matters far less than doubling how much of either one you use.",
+        ],
+      },
+      {
+        h: "Water resistance, sweat and reapplication",
+        p: [
+          "Water resistant means the product maintained its SPF after a defined period of immersion — typically forty or eighty minutes depending on the claim. There is no such thing as waterproof, and the term is no longer permitted in most markets for that reason.",
+          "Reapplication every two hours is the standard advice for meaningful exposure, and immediately after swimming, heavy sweating or towelling regardless of how long has passed. Towelling in particular removes a great deal of product very efficiently.",
+          "For a day spent indoors away from windows, the two-hour rule matters much less, and treating it as universal is one reason people conclude sunscreen is impractical and abandon it. Matching reapplication to actual exposure is more sustainable than following a rule that does not fit the day.",
+          "Sticks, powders and cushion compacts exist because reapplying over makeup is the practical obstacle for a lot of people. They are imperfect and they are considerably better than the reapplication that does not happen.",
+        ],
+      },
+      {
+        h: "Visible light, and where the evidence stands",
+        p: [
+          "Beyond ultraviolet, visible light — particularly the high-energy blue end — has been shown to induce pigmentation in deeper skin tones and to worsen melasma. This is well enough established to have changed clinical advice for those specific conditions.",
+          "Conventional transparent sunscreens do not filter visible light. Iron oxides do, which is why tinted formulations outperform untinted ones for melasma in comparative studies, and why the tint on a sunscreen is doing protective work rather than only cosmetic work.",
+          "Screen-emitted blue light is a separate question and the evidence is much weaker. The doses from devices are orders of magnitude below sunlight, and the studies most often cited in marketing used intensities that a phone does not produce.",
+          "The defensible summary: if you have melasma or pigmentation in deeper skin, a tinted sunscreen is a genuine upgrade. If you are worried about your laptop, the sun coming through the window beside it is the larger exposure by a wide margin.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
