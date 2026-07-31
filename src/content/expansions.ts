@@ -420,6 +420,83 @@ export const EXPANSIONS: Expansion[] = [
           "The distinguishing features are subtle enough that misidentification is common, including by people who have been treating what they assumed was acne for years. A condition that has not responded to appropriate acne treatment after a fair trial is a reasonable prompt to consider whether it is acne at all.",
         ],
       },
+      {
+        h: "Living with it while it clears",
+        p: [
+          "Twelve weeks is a long time to wait for improvement, and the period in between is worth addressing directly rather than treating as a gap. A few things genuinely help without interfering with treatment.",
+          "Hydrocolloid patches applied over an individual lesion protect it, absorb fluid and, more usefully, physically prevent picking. Non-comedogenic makeup does not worsen acne and there is no clinical reason to go without it; the idea that skin needs to breathe has no basis in how skin obtains oxygen.",
+          "The psychological dimension deserves acknowledgement rather than a brisk suggestion to be patient. The association between acne and low mood is well documented across studies, the effect is not proportional to clinical severity, and it is a legitimate reason to seek treatment sooner rather than to wait and see. Nobody needs to justify wanting this dealt with. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'niacinamide-vitamin-c',
+    sections: [
+      {
+        h: "What niacinamide has evidence for",
+        p: [
+          "Niacinamide, a form of vitamin B3, is unusual in having several distinct effects supported by published trials rather than one heavily marketed claim. The best supported are improvement in barrier function, through increased ceramide production, and reduction in transepidermal water loss.",
+          "Beyond that, studies have found reductions in the appearance of hyperpigmentation, apparently by interfering with the transfer of pigment from melanocytes to surrounding cells, and anti-inflammatory effects relevant to acne and rosacea. Some evidence supports a reduction in sebum production and in the visible size of pores, though these findings are less consistent.",
+          "The concentrations used in this research typically sit in the range of two to five percent. Products marketed at ten percent and above are not better supported and are associated with more reports of irritation and flushing, which is an unusual case of higher concentration being a marketing decision rather than a clinical one.",
+        ],
+      },
+      {
+        h: "Why it is a reasonable default",
+        p: [
+          "Among ingredients with genuine evidence, niacinamide is notable for how well tolerated it is. It does not require an adjustment period, does not increase photosensitivity, is stable in formulation, and is generally suitable during pregnancy, which excludes several alternatives.",
+          "That combination makes it one of the few actives that can reasonably be added without the careful introduction protocol that retinoids and acids require. It also combines with most other ingredients without conflict, including the long-standing claim that it cannot be used with vitamin C, which is discussed below.",
+          "The realistic assessment is that it is a good all-rounder rather than a transformative single agent. It does several things modestly rather than one thing dramatically, and for someone wanting to add one gentle active to a minimal routine it is a defensible choice with a low probability of causing problems.",
+        ],
+      },
+      {
+        h: "Vitamin C, and the stability problem",
+        p: [
+          "L-ascorbic acid is the form with the strongest evidence, and it is also chemically unstable. It oxidises on exposure to light, air and heat, and the oxidised product is both inactive and capable of causing irritation. A vitamin C serum that has turned yellow or brown has degraded.",
+          "This makes formulation and packaging unusually important. Effective preparations are typically at a low pH, which is necessary for penetration and contributes to irritation, and are packaged in opaque containers with minimal air exposure. Products in clear droppers left on a sunny shelf are unlikely to be delivering what the label claims.",
+          "More stable derivatives exist — magnesium ascorbyl phosphate, sodium ascorbyl phosphate, ascorbyl glucoside, tetrahexyldecyl ascorbate — and they trade some evidence base for practicality. The research on these is thinner than for L-ascorbic acid, and for anyone who has found the pure form irritating or has repeatedly watched bottles oxidise, they are a reasonable compromise.",
+        ],
+      },
+      {
+        h: "What vitamin C actually does",
+        p: [
+          "Two effects are reasonably well supported. It functions as an antioxidant, neutralising free radicals generated by ultraviolet exposure and pollution, which is why it is frequently recommended as a morning product used under sunscreen rather than as a replacement for it.",
+          "It is also a required cofactor in collagen synthesis, which is the mechanistic basis for claims about firmness and fine lines. And it interferes with an enzyme involved in melanin production, which supports the use in hyperpigmentation, though the effect is modest compared with prescription options.",
+          "What it does not do is provide sun protection. The antioxidant action complements sunscreen by addressing damage that gets through, and it filters nothing. A product marketed as making sunscreen unnecessary is making a claim that no antioxidant supports.",
+        ],
+      },
+      {
+        h: "The combination question",
+        p: [
+          "A widely repeated claim holds that niacinamide and vitamin C should not be used together, on the basis that they react to form nicotinic acid, causing flushing. The origin of this is research from the mid-twentieth century conducted at high temperatures with pure compounds.",
+          "Subsequent work has not supported it as a practical concern. The reaction requires conditions that do not occur in formulated products at room temperature, and numerous commercial products contain both without issue. Studies applying them together have not found the predicted problem.",
+          "The honest position is that the two can be used together and that some people do experience flushing from niacinamide alone, particularly at higher concentrations. If flushing occurs, the sensible response is to reduce the niacinamide concentration or separate the products by time of day, rather than to accept a chemistry claim that the evidence does not support.",
+        ],
+      },
+      {
+        h: "Setting expectations for both",
+        p: [
+          "Neither of these is in the same category as a retinoid or a prescription treatment, and the marketing frequently implies otherwise. The effects documented in trials are real and modest: improvements in evenness, texture and barrier function measured over weeks to months.",
+          "For pigmentation in particular, the honest comparison is unflattering. Vitamin C and niacinamide produce gradual, partial improvement; prescription options such as hydroquinone or tretinoin, or procedural treatments, produce considerably more. Someone with significant melasma or post-inflammatory pigmentation who relies on a serum will likely be disappointed after six months.",
+          "Where they earn their place is as gentle additions to a routine that already covers the fundamentals, for someone wanting incremental improvement without the adjustment period stronger ingredients require. That is a legitimate objective and it is a smaller one than the packaging suggests. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
+      {
+        h: "Fitting them into a routine",
+        p: [
+          "Vitamin C is conventionally a morning product, on the reasoning that its antioxidant function is most useful during the day when ultraviolet exposure generates the free radicals it neutralises. Applied to clean dry skin before moisturiser and sunscreen is the standard sequence.",
+          "Niacinamide is indifferent to time of day and combines with almost anything, which makes it the easier of the two to place. Many people get it incidentally through a moisturiser or sunscreen that already contains it, which is worth checking before buying a separate serum.",
+          "Where both a vitamin C and a retinoid are wanted, separating them — vitamin C in the morning, retinoid at night — avoids stacking two potentially irritating products and suits the natural timing of each. This is one of the few sequencing recommendations in skincare with a defensible reason behind it rather than a stylistic one.",
+        ],
+      },
+      {
+        h: "How to tell whether a product has gone off",
+        p: [
+          "Because vitamin C degrades visibly, it is one of the few skincare products where you can assess condition by looking. A fresh preparation is typically clear or very pale; progressive yellowing indicates oxidation, and a deep orange or brown colour means the active content is largely gone.",
+          "Oxidised product is not merely inactive. There is some evidence that the oxidation products can generate free radicals rather than neutralise them, which makes continuing to use a browned serum potentially counterproductive rather than merely wasteful.",
+          "The practical measures are to buy small sizes rather than large ones, store the bottle away from light and heat, close it promptly, and accept that a few months is a realistic working life once opened. Niacinamide has none of these problems, being stable and colourless throughout, which is another point in favour of it as the easier of the two to live with.",
+        ],
+      },
     ],
   },
 ];
