@@ -590,6 +590,91 @@ export const EXPANSIONS: Expansion[] = [
           "The corrected rule is simple: mild transient tingling on first use of an acid or a retinoid is common and settles. Stinging that is new, that occurs with products previously fine, or that persists rather than fading, means stop. Applying that one rule prevents most of the barrier damage described throughout this article.",
         ],
       },
+      {
+        h: "A four-week reset anyone can run",
+        p: [
+          "For anyone unsure whether their skin problems are barrier-related, there is a diagnostic worth running because it costs nothing and answers the question definitively. Reduce to three products for four weeks: a gentle cleanser, a bland moisturiser, and sunscreen. Nothing else.",
+          "If the skin improves substantially over that period, the problem was the routine, and the useful information is not only that but which products caused it — established by reintroducing them singly afterwards. If it does not improve, the problem is something else and the four weeks have ruled out the most common explanation, which is genuinely useful before seeing a clinician.",
+          "Either outcome is informative, which is unusual for a skincare experiment. Most product trials produce ambiguous results because too many variables move at once; this one moves everything in the same direction and reads clearly. It is the single most useful thing available to anyone whose skin has become unpredictable.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'skincare-myths',
+    sections: [
+      {
+        h: "Pores have no muscles",
+        p: [
+          "The belief that pores open with heat and close with cold underlies a great deal of advice about steaming, hot cloths and cold rinses. A pore is the opening of a hair follicle. It has no muscle around it and no mechanism for changing its diameter in response to temperature.",
+          "What actually varies is the appearance, and the variables are real ones. A follicle containing accumulated sebum and dead cells looks larger; clearing it makes it look smaller. Loss of collagen around the opening with age makes pores appear more prominent. Warmth softens the contents, which is why extraction is easier after a shower, and cold produces temporary local vasoconstriction that slightly changes surface appearance for a few minutes.",
+          "The practical consequence is that pore size is largely genetic and can be influenced modestly by keeping follicles clear — retinoids, salicylic acid and niacinamide all have some evidence — and not at all by temperature. Products promising to close pores are describing something that cannot happen.",
+        ],
+      },
+      {
+        h: "Natural does not mean gentle",
+        p: [
+          "The word natural has no regulatory definition in most jurisdictions and carries no information about safety. Plant extracts are complex mixtures of dozens of compounds, several of which are among the most frequent causes of contact allergy recorded in patch testing clinics.",
+          "Essential oils are a specific problem in leave-on products. Fragrance components from botanical sources appear consistently among the top allergens in dermatological testing, and a product scented with lavender or citrus oil is more likely to cause a reaction than one scented synthetically or, better, not at all.",
+          "The reverse assumption is equally unfounded. Ingredients that sound synthetic — petrolatum, dimethicone, glycerin, most sunscreen filters — include some of the best tolerated substances in cosmetic use. The origin of a molecule tells you nothing about how skin will respond to it, and the industry has monetised the intuition that it does.",
+        ],
+      },
+      {
+        h: "Skin does not need to breathe",
+        p: [
+          "The idea that skin needs to breathe, and therefore that makeup or occlusive products must be avoided periodically, is based on a misunderstanding of physiology. Skin receives its oxygen through the bloodstream, not from the atmosphere.",
+          "This means occlusive products do not suffocate anything. Petrolatum, which forms one of the most effective barriers available, has been used on damaged and healing skin for well over a century precisely because it works. The concept of letting skin breathe by going without products has no mechanism behind it.",
+          "There is a real observation underneath the myth, which is that some products cause congestion in some people. That is a formulation issue relating to specific ingredients rather than to occlusion in general, and the answer is a different product rather than a period without any. Someone whose skin improves during a break from makeup is reacting to something in it, which is worth identifying.",
+        ],
+      },
+      {
+        h: "Oily skin still needs moisturiser",
+        p: [
+          "A persistent belief holds that oily skin should not be moisturised, and that withholding moisture will reduce oil production. There is no evidence for a feedback mechanism of this kind, and the practice reliably makes things worse.",
+          "Sebum production is driven principally by androgens and is not regulated by the hydration state of the stratum corneum. Stripping the skin and withholding moisturiser damages the barrier, which produces flaking, irritation and frequently more breakouts, on top of the original oiliness.",
+          "The appropriate response to oily skin is a light, humectant-weighted moisturiser rather than none. The formulation should be adjusted; the step should not be removed. This is one of the more consequential myths on the list because it directly worsens the condition it claims to treat.",
+        ],
+      },
+      {
+        h: "Chemical does not mean harmful",
+        p: [
+          "The distinction between chemical and natural is scientifically meaningless — everything is a chemical, including water — and yet it structures an enormous amount of marketing. The framing survives because it is useful commercially rather than because it describes anything.",
+          "Specific instances are worth addressing. Sunscreen filters described as chemical have been assessed by regulators across multiple jurisdictions and remain approved; the debate about systemic absorption of certain filters concerns pharmacokinetics rather than demonstrated harm, and the alternative of not using sunscreen carries a well-established risk. Preservatives prevent microbial growth in products that would otherwise become genuinely dangerous.",
+          "The reasonable position is that individual ingredients deserve individual assessment on evidence, and that categorical claims about chemicals tell you about the marketing rather than about the product. Someone with a specific concern about a specific ingredient can look it up; someone avoiding a whole category on principle is filtering by vocabulary.",
+        ],
+      },
+      {
+        h: "Expensive does not predict effective",
+        p: [
+          "The active ingredients with the strongest evidence — retinoids, benzoyl peroxide, salicylic acid, azelaic acid, niacinamide, glycerin, petrolatum, ceramides, standard sunscreen filters — are all off-patent commodity substances available at low cost.",
+          "What price buys is texture, packaging, fragrance, marketing and occasionally a proprietary complex with no independent evidence behind it. None of these is fraudulent and none of them changes what happens to the skin. Pharmacy brands routinely contain the same actives at the same concentrations as products costing many times more.",
+          "There is one legitimate exception: a product that feels pleasant gets used daily and one that does not gets abandoned, so paying more for a sunscreen you will actually apply is a rational purchase. That is a preference decision, and it is quite different from the assumption that a higher price indicates a more effective formula. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
+      {
+        h: "Drinking more water will not fix dry skin",
+        p: [
+          "The claim that increased water intake improves skin hydration is repeated constantly and the evidence for it is weak. In someone who is adequately hydrated, drinking more does not increase the water content of the stratum corneum in any measurable way, because the body regulates fluid balance and excretes the surplus.",
+          "Severe dehydration does affect skin, and that is a clinical state rather than the ordinary condition of someone who could drink a bit more. For anyone in normal health, the water content of the outer skin layer is determined by the barrier's ability to retain it, not by intake.",
+          "The intervention that does work is topical: humectants to attract water and occlusives to prevent its escape, as described in the moisturiser article on this site. Adequate hydration is worth having for many reasons and it is not a skincare treatment, and treating it as one delays the thing that would actually help.",
+        ],
+      },
+      {
+        h: "Detoxing and purging",
+        p: [
+          "The idea that skin eliminates toxins, and that a period of worsening indicates the process working, has no physiological basis. Detoxification is performed by the liver and kidneys. Skin excretes water, salts and small amounts of urea through sweat, and that is not detoxification in any meaningful sense.",
+          "The related purging concept has a narrow legitimate version and a broad illegitimate one. Retinoids and other agents that accelerate follicular turnover can plausibly bring existing blockages to the surface faster, and the legitimate version is limited to those ingredients and to a period of weeks.",
+          "The illegitimate version applies the term to any worsening on any product, which turns a warning sign into a reason to persist. A moisturiser does not cause purging. A cleanser does not cause purging. If a product without an accelerating mechanism makes skin worse, that is a reaction, and the appropriate response is to stop.",
+        ],
+      },
+      {
+        h: "Why these particular beliefs survive",
+        p: [
+          "It is worth asking why myths in this field persist so robustly, because the reasons explain how to evaluate the next one. Skin conditions fluctuate naturally, which means anything tried during a bad period will appear to help as the fluctuation reverses, regardless of whether it did anything.",
+          "The timescales also work against evidence. Genuine change takes twelve weeks or more, over which many things vary, and nobody runs a controlled comparison on their own face. Attribution under those conditions is unreliable in a specific direction: toward whatever was tried most recently.",
+          "And there is a commercial layer on top, in which a belief that supports a purchase is repeated by everyone who benefits from it. The useful defence is not scepticism about everything but a small number of questions: is there a proposed mechanism, is there evidence beyond testimonial, and does the claim require the product to do something skin is not capable of doing. Most of the myths on this list fail the third question immediately.",
+        ],
+      },
     ],
   },
 ];
