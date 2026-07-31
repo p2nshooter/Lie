@@ -1145,6 +1145,99 @@ export const EXPANSIONS: Expansion[] = [
           "What does not work is either continuing regardless, which turns a mild irritation into a barrier problem, or stopping permanently, which is how a twelve-week commitment ends at week four. The middle path — pause, recover, resume lower — is what people who succeed with retinoids actually do, and it is rarely described because it sounds less decisive than either alternative. As with everything on this site, this is educational rather than medical advice; retinoids are avoided in pregnancy and prescription strengths should be used under clinical guidance.",
         ],
       },
+      {
+        h: "The rest of the routine during the first months",
+        p: [
+          "What surrounds the retinoid determines whether the introduction works, and the required changes are largely subtractive. Every acid, scrub, cleansing brush and additional active comes out for the duration of the adjustment period. This is not permanent and it is not negotiable if the introduction is going to succeed.",
+          "The cleanser should be gentle and used once daily in the evening, before the retinoid, with a rinse of water in the morning. The moisturiser should be bland, fragrance-free and ideally contain barrier lipids, and it can be used as often as the skin wants it, including in the morning and again during the day.",
+          "Sunscreen becomes non-negotiable rather than merely advisable. Retinoids increase photosensitivity, and the photoageing they improve is caused by the exposure that continues unprotected. Someone using a retinoid without daily sun protection is running two processes in opposite directions and paying for the privilege.",
+        ],
+      },
+      {
+        h: "What the first year actually looks like",
+        p: [
+          "Setting the timeline correctly prevents most of the disappointment. Weeks one to six are the adjustment period, during which the skin may look worse rather than better and nothing useful is visible. Weeks six to twelve are when texture and tone begin to change perceptibly.",
+          "Three to six months is when acne improvement is generally well established and pigmentation begins to shift. Six to twelve months is where the effects on fine lines appear, and those are the slowest because they depend on collagen synthesis rather than on turnover.",
+          "The implication is that judging this at any point before twelve weeks is judging a process that has not produced its output yet. Photographs at the start under consistent lighting are the only way to assess it fairly, since gradual change is precisely what memory fails to register. And the improvements persist only while use continues, which makes this a long-term habit rather than a course of treatment — worth knowing before starting, since it changes which strength and frequency are actually sustainable.",
+        ],
+      },
+      {
+        h: "Picking the right one to begin with",
+        p: [
+          "Starting strength matters more than most beginners realise, and the instinct to buy the highest available is the most common early mistake. The evidence does not support a proportional relationship between concentration and result, while irritation rises steeply at the top of the range.",
+          "For someone with no history of using these, a low-strength retinol or, where available without prescription, adapalene are both reasonable starting points. Adapalene in particular is notably better tolerated than equivalent-strength alternatives, which makes it a sensible first choice for anyone anxious about the adjustment period.",
+          "Packaging is worth checking before buying, since these compounds degrade in light and air. An opaque tube or an airless pump preserves activity; a clear jar does not, and a well-formulated product in the wrong container may be inactive within weeks. That single check filters out a substantial number of otherwise reasonable-looking products. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'skin-barrier-repair',
+    sections: [
+      {
+        h: "Why the term became fashionable",
+        p: [
+          "Damaged barrier has become the default explanation for almost any skin complaint, which is worth examining because the popularity of a diagnosis is not evidence for it. The concept is real, well characterised and frequently correct — and it is also broad enough to absorb anything.",
+          "Part of the reason it spread is that it happens to be true a great deal of the time, given how many people are using multiple actives simultaneously. Part of it is commercial: an explanation that implies a purchase of barrier repair products is more marketable than an explanation that implies buying less.",
+          "The useful discipline is to hold it as a hypothesis rather than a conclusion. It predicts a specific set of signs and a specific response to a specific intervention, and both are checkable. If a fortnight of simplification produces no improvement, the hypothesis was wrong and something else is going on.",
+        ],
+      },
+      {
+        h: "The honest signs",
+        p: [
+          "The presentation is consistent enough to be useful. New stinging on application of products previously tolerated is usually the first symptom and the most diagnostic. Tightness after washing that does not resolve within an hour is the second.",
+          "Visible changes follow: diffuse redness rather than discrete spots, rough or flaking patches, and an unusual shininess that reads as glow but is a thinned surface. Sensitivity to wind, temperature change and water increases. Existing conditions flare.",
+          "The signal that distinguishes this from an allergy to one product is breadth. An allergic reaction is to something specific and usually appears within days of introducing it. Barrier dysfunction develops gradually and affects the response to everything, which is why people describe it as their skin having become sensitive rather than as a reaction to an item.",
+        ],
+      },
+      {
+        h: "The mechanisms behind the damage",
+        p: [
+          "Three distinct processes account for most of it. Lipid removal is the first: surfactants in foaming cleansers, hot water and solvents strip the intercellular lipids faster than they are replaced.",
+          "Mechanical disruption is the second: scrubs, brushes and vigorous towelling physically remove corneocytes faster than desquamation would. Chemical disruption is the third: acids dissolving the bonds between cells, retinoids accelerating turnover, and both together removing cells before the layer beneath is ready.",
+          "Environmental factors compound all three without any product involvement. Low humidity increases water loss, cold wind removes surface lipids, and heated indoor air does both. Someone whose routine was fine in September and problematic in December has not changed anything; the conditions the routine operates in have.",
+        ],
+      },
+      {
+        h: "The two-week ceasefire, specified",
+        p: [
+          "The intervention is subtraction and it works with unusual reliability. For fourteen days: no acids, no retinoids, no vitamin C, no scrubs, no brushes, no clay masks, no essential oils, no fragranced products.",
+          "What remains is three things. A gentle non-foaming cleanser, used once daily in the evening with lukewarm water, with a plain water rinse in the morning. A bland moisturiser containing ceramides or similar barrier lipids, applied whenever the skin feels tight rather than on a schedule. And sunscreen, because compromised skin is more vulnerable to ultraviolet damage, in a fragrance-free or mineral formulation if the usual one stings.",
+          "Petrolatum applied thinly over the moisturiser at night is worth adding for anyone whose skin is particularly uncomfortable. It is the most effective occlusive available, it is among the least allergenic substances in cosmetic use, and it costs very little.",
+        ],
+      },
+      {
+        h: "What recovery looks like week by week",
+        p: [
+          "The timeline follows the renewal rate of the outer skin layer, which is roughly four weeks in a healthy adult, and the subjective improvement runs ahead of the structural one.",
+          "The first three or four days typically bring a reduction in stinging, which is the most immediate change and the most reassuring. Week one usually sees redness settling. Week two brings comfort returning and flaking resolving. By weeks three and four the skin generally feels normal again.",
+          "The mistake at this point is reintroducing everything as soon as the skin feels better. Comfortable is not the same as restored, and giving it another fortnight before adding anything back substantially reduces the chance of returning to the same state within a month.",
+        ],
+      },
+      {
+        h: "Reintroducing without repeating the cycle",
+        p: [
+          "The rebuild is where the discipline matters, and the rule is one product at a time at half the previous frequency, held for at least two weeks before either increasing it or adding anything else.",
+          "Order matters. Whatever you value most goes back first, because it gets the clearest run. For most people that is a retinoid, which should return at twice weekly rather than at whatever frequency preceded the problem. Exfoliating acids go back last if at all, and at once weekly.",
+          "The likely discovery is that the routine that damaged the barrier contained more than was ever needed. A substantial number of people who run this process end up permanently at a lower frequency and find their skin better than it was before, which is the strongest available argument that the original problem was excess rather than insufficiency. As with everything on this site, this is educational rather than medical advice, and anything that does not improve on a simplified routine deserves a clinical opinion rather than another product.",
+        ],
+      },
+      {
+        h: "The lipid ratio and what a repair product should contain",
+        p: [
+          "Not all moisturisers support barrier repair equally, and the distinction has some evidence behind it. The intercellular lipid matrix consists of ceramides, cholesterol and free fatty acids in roughly balanced proportions, and research on barrier recovery has found that formulations supplying all three at physiological ratios perform better than those supplying one alone.",
+          "This is one of the few instances where a specific ingredient combination on a label is genuinely informative. A product listing ceramides alongside cholesterol and fatty acids is doing something more targeted than one relying on general plant oils, which supply fatty acids without the other two.",
+          "Beyond that combination, the useful additions are humectants to draw water in and an occlusive to keep it there. Anything else — fragrance, essential oils, botanical extracts, exfoliating agents — is either neutral or actively unhelpful in a product intended for compromised skin, and fragrance in particular is worth eliminating entirely during a repair period.",
+        ],
+      },
+      {
+        h: "When it is not the barrier",
+        p: [
+          "The ceasefire is diagnostic as well as therapeutic, and a failure to improve is informative rather than a reason to try harder. Several conditions present with overlapping features and none resolves on simplification alone.",
+          "Rosacea produces persistent central facial redness with flushing and sometimes papules, and typically has a longer history than a recent routine change would explain. Seborrhoeic dermatitis produces greasy scaling in specific distributions — the nasolabial folds, eyebrows, hairline. Contact allergy produces a well-demarcated reaction, often with itching, that maps to where a specific product was applied. Perioral dermatitis produces small bumps around the mouth and is frequently worsened by topical steroids.",
+          "The rule that covers all of them is a time limit. Two weeks of complete simplification resolves most genuine barrier damage substantially. Anything still present after four weeks is a different problem, and continuing to buy barrier products at that point delays a diagnosis that would identify something with a specific and effective treatment.",
+        ],
+      },
     ],
   },
 ];
