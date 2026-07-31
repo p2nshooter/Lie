@@ -1238,6 +1238,67 @@ export const EXPANSIONS: Expansion[] = [
           "The rule that covers all of them is a time limit. Two weeks of complete simplification resolves most genuine barrier damage substantially. Anything still present after four weeks is a different problem, and continuing to buy barrier products at that point delays a diagnosis that would identify something with a specific and effective treatment.",
         ],
       },
+      {
+        h: "Keeping it intact once it has healed",
+        p: [
+          "Prevention is mostly restraint, and the specific measures are few enough to list. Cleanse once daily rather than twice unless there is a reason. Use lukewarm water and a gentle cleanser, and judge it by whether the skin feels comfortable afterwards rather than clean.",
+          "Cap exfoliation at once or twice weekly, and audit the whole routine for acids rather than counting only the product labelled as an exfoliant — a cleanser, a toner and a serum can each contain one without anybody having intended three. Hold actives at a frequency the skin tolerates rather than treating daily use as a target to reach.",
+          "Adjust with the season, since a routine calibrated for humid summer air will strip in a heated flat in January. And treat stinging as information rather than as evidence that something is working, because that single misreading is responsible for a large share of the damage this article describes. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'acne-myths-that-make-it-worse',
+    sections: [
+      {
+        h: "Why the folklore causes harm rather than just wasting time",
+        p: [
+          "Most skincare myths are merely wasteful. The acne ones are actively damaging, and the reason is structural: nearly all of them recommend more aggression toward skin that is already inflamed.",
+          "Acne involves inflammation as one of its four components, and every intervention that adds inflammation makes that component worse. Scrubbing, stripping, drying, applying caustic substances and squeezing all do exactly that, which means the folklore does not simply fail to help — it feeds the process.",
+          "The second harm is delay. Someone spending two years working through household remedies is accumulating inflammation, and the textural scarring that follows severe or prolonged inflammation does not resolve on its own. Time spent on myths is time during which permanent change is being established.",
+        ],
+      },
+      {
+        h: "The dirt assumption, and where it leads",
+        p: [
+          "The belief that acne reflects poor hygiene is the oldest myth and the one with the widest downstream consequences. It is false at the level of mechanism: the blockage forms inside the follicle, beneath the surface, where cleansing does not reach.",
+          "The behaviour it produces is over-washing, which strips lipids, damages the barrier and increases inflammation. People who wash three or four times daily with a foaming cleanser reliably end up with skin that is both acne-prone and irritated, and the second problem then reduces tolerance for the treatments that would address the first.",
+          "The social harm is worth naming separately. Framing acne as a cleanliness failure attaches shame to a condition determined largely by hormones and genetics, which is both untrue and a documented contributor to the psychological burden the condition already carries.",
+        ],
+      },
+      {
+        h: "Scrubbing and the appeal of physical removal",
+        p: [
+          "Scrubs feel productive because you can feel them working, and that sensation is the problem rather than the evidence. Physical abrasion applies unregulated pressure to inflamed skin, creates microscopic tears, and spreads inflammatory contents laterally rather than removing them.",
+          "On skin with active inflammatory lesions the effect is worse than neutral. Rubbing across a papule or pustule ruptures it into surrounding tissue, which extends the inflammation and increases the probability of a lasting mark.",
+          "Where exfoliation has a role in acne it is chemical and specifically salicylic acid, which is oil-soluble and therefore penetrates into the follicle where the problem originates. That is a different intervention with a different mechanism, applied at a frequency of once or twice weekly rather than daily, and confusing the two is how people end up with damaged barriers on top of unchanged acne.",
+        ],
+      },
+      {
+        h: "Toothpaste, lemon juice and household remedies",
+        p: [
+          "Toothpaste is the most widely circulated of these and among the more damaging. It is formulated for enamel, not skin, and typically contains detergents, abrasives, flavourings and sometimes hydrogen peroxide or baking soda. Applied to a lesion it causes a chemical irritation that may flatten the spot by damaging the surrounding skin.",
+          "Lemon juice and vinegar are recommended for their acidity, which is uncontrolled, and lemon in particular contains furocoumarins that can cause a phototoxic reaction producing lasting pigmentation on sun-exposed skin. This is a documented clinical presentation rather than a theoretical risk.",
+          "Undiluted essential oils, tea tree in particular, cause contact dermatitis frequently enough to appear regularly in patch testing data. There is modest evidence for tea tree oil at low concentration in properly formulated products; there is none at all for applying it neat, which is what the folklore actually recommends.",
+        ],
+      },
+      {
+        h: "Popping, and what it costs",
+        p: [
+          "The urge is strong and the arithmetic is unfavourable. Squeezing a lesion applies pressure that ruptures the follicular wall, forcing inflammatory contents into the surrounding dermis rather than out through the surface.",
+          "The result is a larger area of inflammation, a longer healing time, and a substantially increased probability of a permanent depressed scar or persistent post-inflammatory pigmentation. The immediate improvement in appearance is bought with a mark that may last years.",
+          "Practical alternatives exist and are worth using. Hydrocolloid patches applied over a lesion absorb fluid, protect the area and physically prevent picking, which is the mechanism that matters most for anyone who does this unconsciously. Deep painful nodules should never be squeezed at all, and are the ones most worth taking to a clinician, since an injection can resolve in days what would otherwise inflame for weeks and scar.",
+        ],
+      },
+      {
+        h: "The outgrowing myth and who it fails",
+        p: [
+          "The belief that acne is a teenage condition to be waited out fails a large group of people, and the failure has a specific cost. Adult acne is common, disproportionately affects women, and frequently presents differently — along the jawline and chin rather than across the forehead.",
+          "Treating it as something that should already have resolved produces two responses, both unhelpful: embarrassment about having a teenage condition, and a reluctance to seek treatment for something framed as temporary. Meanwhile the inflammation continues and the scarring risk accumulates.",
+          "Sudden onset of significant acne in an adult, particularly alongside irregular periods or excess hair growth, warrants investigation rather than patience. And the general rule holds regardless of age: acne that is scarring, that is deep and painful, that has not improved after three months of appropriate treatment, or that is causing distress, is a reason to see a clinician. Prescription options are considerably more effective than anything on a shelf, and the delay in reaching them is frequently the most consequential part of the experience. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
     ],
   },
 ];
