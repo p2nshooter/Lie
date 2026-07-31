@@ -3,6 +3,7 @@ import AUTO_ARTICLES from "./auto-articles.json";
 import { ARTICLES_BATCH2 } from './articles-batch2';
 import { ARTICLES_BATCH3 } from './articles-batch3';
 import { ARTICLES_BATCH4 } from './articles-batch4';
+import { applyExpansions } from './expansions';
 
 /**
  * lie.skin editorial library — original, independent, dermatology-informed
@@ -324,3 +325,6 @@ ARTICLES.push(...ARTICLES_BATCH4);
 
 // Autonomous content bot output (committed by the ulyah.com Orchestra).
 ARTICLES.push(...(AUTO_ARTICLES as unknown as Article[]));
+
+// Hand-written additive expansions. Appends only — never removes or merges.
+applyExpansions(ARTICLES);
