@@ -173,6 +173,91 @@ export const EXPANSIONS: Expansion[] = [
           "Most cases improve substantially within two to four weeks on this regimen. Actives can then be reintroduced one at a time, at lower frequency than before, with the frequency raised only if the skin tolerates it. Anything that does not improve on a simplified routine within a month warrants a clinical opinion rather than further experimentation.",
         ],
       },
+      {
+        h: "What the three steps cost",
+        p: [
+          "A minimal routine is also an inexpensive one, and it is worth stating the figures because the assumption that effective skincare is costly keeps people from starting. A gentle cleanser, a moisturiser containing standard barrier ingredients and a broad-spectrum sunscreen are all available from pharmacy brands at modest prices.",
+          "The active ingredients with the strongest evidence — retinoids, benzoyl peroxide, salicylic acid, azelaic acid, niacinamide — are all off-patent, widely manufactured and cheap. The premium versions differ in texture, packaging and marketing rather than in the concentration of anything that has been shown to work.",
+          "Where money is genuinely worth spending is on formulation quality for products you will use daily, since a sunscreen that feels pleasant gets applied and one that does not gets skipped. That is a real consideration and it is a preference question, which is quite different from paying for a higher concentration of something the evidence does not support at all.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'retinoids-explained',
+    sections: [
+      {
+        h: "The family, from weakest to strongest",
+        p: [
+          "The confusion around these products comes largely from the names, which describe several related compounds at different points in a conversion pathway. Skin converts what is applied into retinoic acid, which is the form that acts on the cell, and each conversion step reduces potency.",
+          "Retinyl esters sit furthest from the active form and are correspondingly mild and slow. Retinol requires two conversions. Retinaldehyde requires one, making it stronger than retinol and gentler than the prescription form. Tretinoin is retinoic acid itself and requires none.",
+          "A newer class, of which adapalene is the widely available example, binds selectively to certain receptors and is notably better tolerated. It is available without prescription in many countries, which makes it one of the more accessible starting points for anyone wanting genuine efficacy without the adjustment period associated with tretinoin.",
+        ],
+      },
+      {
+        h: "What happens at the cell level",
+        p: [
+          "Retinoids act by binding to receptors in the cell nucleus and altering gene expression, which is why they produce structural change rather than a surface effect. This is the mechanistic reason they have evidence where most cosmetic ingredients do not.",
+          "The documented effects include increased cell turnover in the epidermis, increased collagen production in the dermis, reduced breakdown of existing collagen, normalisation of the follicular lining that contributes to acne, and dispersal of pigment granules. That is an unusually broad set of actions for a single class.",
+          "It also explains the timeline. Changes in gene expression produce changes in tissue over weeks to months, not days, and the collagen effects in particular are measured over periods of six months to a year. Anyone expecting visible improvement within a fortnight is measuring against the wrong timescale and is likely to conclude prematurely that it is not working.",
+        ],
+      },
+      {
+        h: "The adjustment period, and how to shorten it",
+        p: [
+          "The dryness, flaking and irritation that accompany the first weeks are common and are not evidence of damage in most cases. They reflect the accelerated turnover, and they typically settle over several weeks as the skin adapts.",
+          "The approaches that reduce this are well established. Start at a low frequency — twice weekly rather than nightly — and increase only once the current frequency is comfortable. Apply to completely dry skin, since damp skin increases penetration and irritation. Use a small amount; a pea-sized quantity covers the whole face.",
+          "Buffering, meaning applying moisturiser before or after the retinoid, reduces irritation and appears to reduce efficacy less than might be expected. The sandwich method — moisturiser, retinoid, moisturiser — is a reasonable approach for anyone struggling. What is not reasonable is pushing through severe reactions, since a damaged barrier will eventually force a complete stop.",
+        ],
+      },
+      {
+        h: "What to stop while starting",
+        p: [
+          "A large proportion of retinoid failures are actually failures of the surrounding routine. Combining a new retinoid with exfoliating acids, scrubs, cleansing brushes or a strong vitamin C preparation produces cumulative irritation that neither product would cause alone.",
+          "The sensible approach is to pause everything else while establishing tolerance. Cleanser, moisturiser, retinoid, sunscreen, and nothing else for several weeks. Once nightly use is comfortable, other products can be reintroduced individually if they are genuinely wanted, and many people find they are not.",
+          "Sun protection becomes more important rather than less. Retinoids increase photosensitivity, and their principal benefit is to photoaged skin, which continued unprotected exposure will undo. Using a retinoid without daily sunscreen is working against yourself in both directions at once.",
+        ],
+      },
+      {
+        h: "Concentration, and why higher is not better",
+        p: [
+          "Products are marketed on concentration and the relationship between concentration and result is not linear. Studies comparing different strengths of tretinoin have generally found similar improvement in photoageing across a range of concentrations, with irritation rising substantially at the higher end.",
+          "This means the highest concentration you can obtain is frequently the wrong choice, because it produces the irritation that causes people to stop. A lower concentration used consistently for two years outperforms a higher one used for three weeks, which is the same consistency argument that applies throughout skincare.",
+          "Formulation matters as much as concentration and is harder to assess. Retinoids degrade in light and air, which is why packaging is a genuine consideration: opaque tubes and pumps preserve activity, while jars and clear containers do not. A well-formulated lower-strength product can outperform a poorly packaged stronger one.",
+        ],
+      },
+      {
+        h: "Who should not use them",
+        p: [
+          "There is one absolute contraindication that deserves prominence: retinoids are avoided in pregnancy and when trying to conceive. Oral retinoids are established teratogens, and while systemic absorption from topical application is low, the guidance across jurisdictions is consistently to avoid them, and it should be followed rather than reasoned around.",
+          "Anyone with rosacea, eczema or a chronically compromised barrier should approach with care and preferably with clinical guidance, since these conditions involve barrier dysfunction that retinoids can worsen. That said, some retinoids are used therapeutically in rosacea under supervision, which is precisely why the supervision matters.",
+          "Anyone using other topical treatments, particularly prescribed ones, should check for interactions before adding a retinoid. And anyone whose skin does not settle after two to three months of careful, low-frequency use has reasonable grounds to conclude it is not suitable, rather than continuing indefinitely in the belief that persistence is required.",
+        ],
+      },
+      {
+        h: "Setting expectations honestly",
+        p: [
+          "The evidence supports meaningful improvement in fine lines, skin texture, uneven pigmentation and acne. It does not support the elimination of deep wrinkles, significant lifting of sagging skin, or the reversal of structural changes that involve fat and bone rather than skin.",
+          "The realistic timeline is twelve weeks before texture and tone changes become apparent, and six months to a year for effects on fine lines. Photographs taken at the start under consistent lighting are considerably more reliable than memory, which adapts to gradual change and will report no improvement even where there is some.",
+          "Maintenance is indefinite. The improvements depend on continued use and regress when it stops, which makes this a long-term commitment rather than a course of treatment. That is worth knowing before starting, since it changes the calculation about which product and what frequency are sustainable. None of this is medical advice; anyone with a specific skin condition should consult a clinician, and prescription strengths in particular should be used under guidance.",
+        ],
+      },
+      {
+        h: "The purging question",
+        p: [
+          "A frequently discussed phenomenon is an initial worsening of breakouts after starting, commonly called purging. The proposed mechanism is plausible: accelerated turnover brings existing microcomedones to the surface faster than they would otherwise have emerged.",
+          "The practical difficulty is distinguishing this from a genuine adverse reaction, and the useful signals are location and timing. Purging tends to occur where you normally break out, and to settle within six to eight weeks. New breakouts in areas that are usually clear, or a reaction persisting beyond a couple of months, is more likely to be irritation or a response to a specific ingredient.",
+          "The evidence base here is thinner than the confidence with which the concept is discussed, and the concept can be used to explain away reactions that should prompt stopping. A reasonable approach is to allow up to eight weeks at a low frequency, and to treat anything beyond that as a signal rather than a stage.",
+        ],
+      },
+      {
+        h: "Where to obtain them",
+        p: [
+          "Availability varies considerably by country, and knowing what is accessible where you are saves a great deal of time. Retinol and retinaldehyde products are sold cosmetically almost everywhere. Adapalene is available without prescription in a number of countries, which makes it the most accessible route to a genuinely effective retinoid.",
+          "Tretinoin is prescription-only in most jurisdictions, and obtaining it requires seeing a clinician, whether in person or through a legitimate remote service. This is not merely regulatory obstruction: the strength warrants an assessment, particularly for anyone with an underlying skin condition.",
+          "The one route worth avoiding is unregulated online purchase of prescription-strength products from sources that do not require any assessment. Concentration cannot be verified, storage and age are unknown, and the absence of any clinical involvement removes the check that makes higher-strength use reasonable. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
     ],
   },
 ];
