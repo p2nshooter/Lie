@@ -1076,6 +1076,75 @@ export const EXPANSIONS: Expansion[] = [
           "The practical implication is that it is the easiest active to slot into an existing routine without rearranging anything. Where a retinoid is being introduced, applying niacinamide first or in the morning is a reasonable way to support the barrier through the adjustment period described in the retinoid articles on this site.",
         ],
       },
+      {
+        h: "Judging whether it has done anything",
+        p: [
+          "Because the effects are modest and gradual, this is a difficult ingredient to assess by impression, and most people who conclude it did nothing never gave it a fair test. Twelve weeks is the minimum, and the changes are the kind that perception adapts to without registering.",
+          "Photographs at the start under consistent light, repeated at twelve weeks, are the only reliable method. It is also worth choosing in advance which single thing you are watching — redness, oiliness by the afternoon, the appearance of specific marks — since a vague sense of overall improvement is exactly what expectation produces regardless of what happened.",
+          "One thing that makes assessment easier here than with most actives is the absence of an adjustment period. There is no initial worsening to wait out and no irritation to distinguish from effect, so anything that changes over the twelve weeks is more likely to be the ingredient than the noise around it. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
+      {
+        h: "The barrier finding, which is the strongest one",
+        p: [
+          "Of everything attributed to this ingredient, the effect on barrier function has the most consistent support and receives the least attention, because it is less marketable than pores or brightness.",
+          "Studies have found increased production of ceramides and other barrier lipids following topical application, with a corresponding reduction in transepidermal water loss measured instrumentally. That is a direct effect on the structure described in the barrier article on this site, rather than an inference from appearance.",
+          "It also explains several of the other observed effects. Better barrier function reduces sensitivity, reduces the inflammation that drives redness, and improves tolerance of other actives. A single mechanism accounting for a scattered list of benefits is a more credible picture than a substance that happens to do six unrelated things, and it suggests that anyone with a compromised barrier is the person for whom this ingredient is genuinely worth buying.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'retinoid-beginners-guide',
+    sections: [
+      {
+        h: "A twelve-week starting schedule",
+        p: [
+          "Most retinoid failures happen because people start at a frequency their skin cannot sustain. A schedule decided in advance removes the nightly judgement call that leads to escalating too fast.",
+          "Weeks one to three: twice weekly, on non-consecutive nights. Weeks four to six: three times weekly, but only if the previous three weeks produced no persistent redness or flaking. Weeks seven to nine: alternate nights. Weeks ten to twelve: nightly, if tolerated, and many people never reach this and do not need to.",
+          "The rule governing every step is that you only increase from a position of complete comfort. Any irritation means holding at the current frequency for another two weeks rather than pushing through, and a genuine reaction means dropping back a level. Written down and stuck somewhere visible, this schedule prevents almost all of the reactions that cause people to abandon the ingredient entirely.",
+        ],
+      },
+      {
+        h: "The pea-sized amount, taken literally",
+        p: [
+          "The recommended quantity for the whole face is roughly the size of a pea, and it is smaller than almost everyone applies. More product does not produce faster results; it produces the same result with considerably more irritation, since the limiting factor is receptor binding rather than quantity available.",
+          "The technique that distributes it properly is to place four or five small dots — forehead, each cheek, chin, nose — and then spread outward from each, rather than applying a larger amount to one area and dragging it across. This gives even coverage from a quantity that looks insufficient.",
+          "Two areas deserve a lighter touch or avoidance in the early weeks: the immediate eye area and the corners of the nose and mouth, where skin is thinner or naturally moister and irritation concentrates. Applying a layer of moisturiser to these spots before the retinoid is a standard technique and it works.",
+        ],
+      },
+      {
+        h: "Distinguishing purging from a reaction",
+        p: [
+          "This distinction matters because the responses are opposite, and the available signals are reasonably clear even though the concept is often misused.",
+          "Purging presents as an increase in breakouts in the areas where you normally break out, appearing within the first few weeks, with individual lesions running their course faster than usual. It settles within six to eight weeks.",
+          "A reaction presents as burning rather than spots, or as breakouts in areas that are usually clear, or as widespread redness, swelling, or a rash-like appearance. It does not settle and frequently worsens with continued use. The practical rule is to allow up to eight weeks at a low frequency for something matching the first description, and to stop for anything matching the second. Continuing through a genuine reaction is how people end up with the barrier damage described elsewhere on this site.",
+        ],
+      },
+      {
+        h: "The moisturiser sandwich and other buffers",
+        p: [
+          "Applying moisturiser before the retinoid, after it, or both, reduces irritation and appears to cost less efficacy than might be expected. The sandwich method — a layer of moisturiser, then the retinoid, then moisturiser again — is worth knowing because it makes the difference between continuing and stopping for a lot of people.",
+          "The reasoning is that the moisturiser slows delivery rather than blocking it, spreading the same dose over a longer period. Since irritation relates to the rate of exposure and efficacy relates to total exposure, this is a favourable trade during the adjustment period.",
+          "The skin must be completely dry before the retinoid goes on if it is applied directly. Damp skin increases penetration and is one of the most common unrecognised causes of an unexpectedly harsh first week. Waiting twenty minutes after washing before applying anything solves it entirely.",
+        ],
+      },
+      {
+        h: "Choosing when to start",
+        p: [
+          "The timing of the start matters more than people expect. Beginning in autumn or winter means the adjustment period coincides with lower ultraviolet exposure, which reduces one of the risks, though it also coincides with dry heated air, which increases irritation.",
+          "The more useful consideration is what is happening in your life. The first six weeks can involve visible flaking and redness, and starting a fortnight before a wedding, a job interview or a holiday is a decision people regret. Choosing a stretch with nothing significant in it removes the pressure that leads to abandoning at week three.",
+          "It is also worth not starting alongside anything else new. One change at a time is the general principle throughout skincare, and it matters most here, because a retinoid introduced alongside a new cleanser or acid makes it impossible to know what caused any reaction that follows.",
+        ],
+      },
+      {
+        h: "Getting through a bad week",
+        p: [
+          "Even on a careful schedule there will be weeks where the skin is unhappy, and having a plan for those prevents an overreaction in either direction.",
+          "The response is to skip the next application and to spend two or three nights on cleanser, moisturiser and nothing else. This is not a failure of the process; it is the process, and skin that recovers within a few days can resume at the same frequency. Skin that takes longer should resume at a lower one.",
+          "What does not work is either continuing regardless, which turns a mild irritation into a barrier problem, or stopping permanently, which is how a twelve-week commitment ends at week four. The middle path — pause, recover, resume lower — is what people who succeed with retinoids actually do, and it is rarely described because it sounds less decisive than either alternative. As with everything on this site, this is educational rather than medical advice; retinoids are avoided in pregnancy and prescription strengths should be used under clinical guidance.",
+        ],
+      },
     ],
   },
 ];
