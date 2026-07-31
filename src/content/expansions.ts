@@ -497,6 +497,22 @@ export const EXPANSIONS: Expansion[] = [
           "The practical measures are to buy small sizes rather than large ones, store the bottle away from light and heat, close it promptly, and accept that a few months is a realistic working life once opened. Niacinamide has none of these problems, being stable and colourless throughout, which is another point in favour of it as the easier of the two to live with.",
         ],
       },
+      {
+        h: "Whether either is worth buying at all",
+        p: [
+          "It is worth asking the question directly, since neither is essential. Somebody with a working three-step routine and no specific concern is not missing anything important by owning neither, and the money is better spent on a sunscreen they will actually use daily.",
+          "The circumstances where they earn their cost are reasonably specific. Niacinamide suits someone with a compromised barrier, mild redness, or oily skin who wants a gentle addition that will not require an adjustment period. Vitamin C suits someone with uneven tone or early photoageing who is already using sunscreen consistently and wants an antioxidant layer underneath it.",
+          "Outside those cases, the honest answer is that they are pleasant optional extras with modest measured effects, sold with an enthusiasm that exceeds the evidence. That is not a criticism of the ingredients, which are among the better-supported things on a shelf; it is a comment on where they sit relative to the three steps that do most of the work.",
+        ],
+      },
+      {
+        h: "Judging whether it is working",
+        p: [
+          "Both of these produce gradual change, which is the hardest kind to assess because perception adapts to it. Someone using a product daily will not notice a slow improvement in evenness of tone, and will frequently conclude it did nothing.",
+          "The only reliable method is photographic. A picture at the start, in consistent light, without makeup, from the same angle, compared against one taken twelve weeks later. This costs nothing and it is the difference between an assessment and a guess.",
+          "The second half is patience about the interval. Twelve weeks is the minimum for either ingredient, and pigmentation changes in particular are measured over months. Abandoning at four weeks, which is common, means never having tested the product at all — and it is worth deciding the review date in advance so the decision is not made on a random morning when the skin happens to look bad.",
+        ],
+      },
     ],
   },
 ];
