@@ -914,6 +914,91 @@ export const EXPANSIONS: Expansion[] = [
           "It is also worth being clear about what would count as success before starting. Improvement in texture and evenness of tone is achievable and observable. Removal of established deep lines is not, and setting that as the standard guarantees disappointment with a product that may be doing exactly what the evidence says it does.",
         ],
       },
+      {
+        h: "The things that are not skincare",
+        p: [
+          "Several factors with reasonable evidence behind them have nothing to do with products, and they get less attention because nobody sells them. Sleep is the clearest: studies of restricted sleep have found measurable effects on skin barrier recovery and on how skin is rated by observers.",
+          "Smoking has a well-documented effect on collagen degradation and dermal blood supply, and the characteristic pattern of ageing in long-term smokers is visible enough to be recognised clinically. Stopping produces improvement in skin appearance alongside everything else it improves.",
+          "Diet has weaker and more contested evidence, with the most consistent findings relating to high glycaemic load and, separately, to adequate protein intake for anyone building collagen. None of these produces a dramatic effect on its own. Together they account for more of the variation between people of the same age than any cream does, which is worth knowing before spending heavily on the cream. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
+      {
+        h: "Collagen supplements",
+        p: [
+          "Oral collagen has become one of the largest categories in this area and deserves a fair hearing rather than a dismissal. The obvious objection — that ingested collagen is digested into amino acids and peptides rather than delivered intact to skin — is correct as far as it goes.",
+          "The more interesting proposed mechanism is that specific collagen peptides surviving digestion may act as signals, prompting increased synthesis. Several randomised trials have reported improvements in skin elasticity and hydration, which is more evidence than most supplement categories have.",
+          "The caveats are substantial and worth stating. Many of these trials were funded by manufacturers, sample sizes are modest, measurement methods vary, and the effects reported are small. The honest summary is that the evidence is better than sceptics assume and considerably weaker than the marketing implies, and that anyone choosing to try it should treat it as an optional extra rather than as a substitute for the short list of things that are well established.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'reading-ingredient-labels',
+    sections: [
+      {
+        h: "How the list is ordered",
+        p: [
+          "Cosmetic ingredient lists follow an international naming convention and are ordered by concentration, in descending order, down to one percent. Below that threshold, ingredients may be listed in any order, which is the detail that makes the whole thing readable.",
+          "The practical consequence is that the position of a well-known active tells you a great deal. An ingredient appearing in the first few positions is present at meaningful concentration. One appearing after the preservatives, fragrance and colourants is almost certainly below one percent and frequently far below.",
+          "Locating the one percent line is easier than it sounds. Preservatives such as phenoxyethanol are typically used at around one percent, and ingredients like sodium hydroxide, xanthan gum or disodium EDTA appear well below it. Anything listed after those is present in trace amounts regardless of how prominently it appears on the front of the package.",
+        ],
+      },
+      {
+        h: "What the first five ingredients tell you",
+        p: [
+          "For most products, the first five entries account for the overwhelming majority of the formulation and determine how it behaves. Water is almost always first in a cream or lotion. What follows is the functional core.",
+          "In a moisturiser, seeing glycerin, a fatty alcohol, a plant oil or squalane, and a silicone in those positions tells you it contains a humectant, emollients and something to improve texture and slow water loss. That is a functional product regardless of price or branding.",
+          "Conversely, a product whose first five entries are water, a thickener, an emulsifier, a preservative and alcohol is a base with very little in it, and whatever is being advertised on the front is somewhere near the bottom. This single check — read five lines, ignore the front of the package — filters out a large proportion of disappointing purchases.",
+        ],
+      },
+      {
+        h: "The terms that carry no information",
+        p: [
+          "Several words appear constantly and are unregulated in most jurisdictions, which means they can be applied to any product. Natural, clean, pure, gentle, dermatologist-developed and non-toxic have no legal definition and no test behind them.",
+          "Hypoallergenic is the most misleading, because it sounds technical. In most regions it requires no specific testing and simply indicates the manufacturer's assertion that the product is less likely to cause allergy. Fragrance-free is more meaningful than unscented, since the latter can indicate a masking fragrance used to hide a base odour.",
+          "Non-comedogenic has a partial basis. Historical testing was performed on rabbit ears and translated poorly to human skin, and no standardised current test exists. It is a reasonable signal of intent rather than a guarantee, and someone prone to congestion is better served by observing their own response than by trusting the claim.",
+        ],
+      },
+      {
+        h: "Where fragrance hides",
+        p: [
+          "Fragrance is among the most common causes of contact allergy in cosmetics and it appears under several names. Parfum or fragrance covers a mixture that may contain dozens of individual compounds, and the composition is protected as proprietary in most regulatory regimes.",
+          "It also appears under ingredient names that do not read as fragrance. Linalool, limonene, citronellol, geraniol and eugenol are individually listed in some jurisdictions because they are recognised allergens, and they are fragrance components. Essential oils named directly — lavender, tea tree, citrus — are fragrance by another route and are among the more frequent sensitisers.",
+          "For anyone with sensitive or reactive skin, scanning for these is one of the higher-value things to do with an ingredient list. It also explains a recurring puzzle: a product with an otherwise excellent formulation that nonetheless causes a reaction, where the culprit is an aromatic component included for the sensory experience rather than for any effect on skin.",
+        ],
+      },
+      {
+        h: "Concentration claims and what they omit",
+        p: [
+          "Products increasingly advertise a percentage on the front, which is more informative than nothing and is not the whole picture. For acids, the pH of the formulation determines how much is in the active free form, and this is almost never disclosed.",
+          "For vitamin C, stability determines whether the stated concentration is still present by the time you use it, which depends on packaging and age rather than on the label. For retinoids, the form matters as much as the amount, since retinyl esters and retinol at the same percentage are not equivalent.",
+          "And for any ingredient, the vehicle affects delivery substantially. The same percentage in a well-designed formulation and a poor one will behave differently. This does not make percentage claims useless; it makes them one input among several, and it explains why two products with identical stated concentrations can produce different results.",
+        ],
+      },
+      {
+        h: "A practical way to shop",
+        p: [
+          "Pulled together, a workable approach takes about a minute per product. Decide first what you want it to do, since a product without a defined purpose cannot be evaluated. Then check whether an ingredient with evidence for that purpose is present, and whether it appears above or below the one percent line.",
+          "Scan for fragrance and essential oils if you are prone to reactions. Check packaging for anything light-sensitive: opaque containers and pumps for retinoids and vitamin C, and be sceptical of jars for these. Ignore the front of the package entirely, including any coined complex name, which is a trademark rather than a claim.",
+          "Then compare against the cheapest product that passes the same checks. In most categories the inexpensive option contains the same actives at the same concentrations, and the difference is texture and packaging. Sometimes the nicer texture is worth paying for, particularly for a daily sunscreen, and that is a preference decision made knowingly rather than a belief that the price bought efficacy. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
+      {
+        h: "The names behind the names",
+        p: [
+          "The international naming convention uses standardised names that frequently do not resemble what the marketing calls the ingredient, which is a common source of confusion. Vitamin C appears as ascorbic acid or one of its derivatives. Vitamin E appears as tocopherol. Vitamin B3 appears as niacinamide.",
+          "Retinoids are listed as retinol, retinyl palmitate, retinaldehyde or adapalene depending on the form. Hyaluronic acid usually appears as sodium hyaluronate, its salt form. Salicylic acid may appear under that name or, in some products marketed as natural, as willow bark extract, which contains related compounds at unpredictable and generally low concentration.",
+          "That last case is worth flagging because it recurs. A botanical source of an active is not equivalent to the active: the concentration is variable, frequently much lower, and the rest of the extract adds sensitising potential. A product using an extract where the isolated ingredient exists is usually making a marketing choice rather than a formulation one.",
+        ],
+      },
+      {
+        h: "Packaging as part of the assessment",
+        p: [
+          "For several ingredient classes the container is as informative as the list, because the ingredient degrades on exposure to light and air. This is not a minor consideration: a well-formulated product in poor packaging can be inactive within weeks.",
+          "Retinoids, vitamin C and most antioxidants belong in opaque, airless containers — tubes with narrow openings, or pump dispensers. A jar requires the product to be opened fully and exposed to air and fingers at every use, and a clear bottle admits light continuously. Any of these ingredients sold in a clear jar should be treated with suspicion regardless of what the formulation contains.",
+          "The pattern holds in reverse. Ingredients that are stable — glycerin, petrolatum, ceramides, most emollients and silicones — are unaffected by packaging, which means a moisturiser in a jar is entirely reasonable. The rule is not that jars are bad; it is that jars are bad for the specific things that degrade. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
     ],
   },
 ];
