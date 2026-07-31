@@ -1299,6 +1299,83 @@ export const EXPANSIONS: Expansion[] = [
           "Sudden onset of significant acne in an adult, particularly alongside irregular periods or excess hair growth, warrants investigation rather than patience. And the general rule holds regardless of age: acne that is scarring, that is deep and painful, that has not improved after three months of appropriate treatment, or that is causing distress, is a reason to see a clinician. Prescription options are considerably more effective than anything on a shelf, and the delay in reaching them is frequently the most consequential part of the experience. As with everything on this site, this is educational rather than medical advice.",
         ],
       },
+      {
+        h: "Two more that deserve inclusion",
+        p: [
+          "Drying skin out to control oil is perhaps the most self-defeating belief in this area. Sebum production is driven by androgens and is not regulated by surface hydration, so stripping the skin does not reduce it. What it does is damage the barrier, producing flaking and irritation on top of the acne, and reducing tolerance for the treatments that would help.",
+          "The correct approach is a light humectant-weighted moisturiser rather than none. Every effective acne treatment is drying, and the moisturiser is what makes continued use possible.",
+          "The second is that sun exposure clears acne. Ultraviolet does have a transient anti-inflammatory effect and a tan masks redness, which is where the belief comes from. What follows is thickening of the stratum corneum, which increases follicular blockage, along with darkened post-inflammatory pigmentation that lasts far longer than the temporary improvement. Several acne treatments also increase photosensitivity, which makes this actively risky rather than merely ineffective.",
+        ],
+      },
+      {
+        h: "How to evaluate the next remedy you encounter",
+        p: [
+          "New folklore appears continuously and the same three questions dispose of most of it. Does it propose a mechanism that maps onto one of the four processes actually involved — sebum, follicular blockage, bacteria, inflammation? Anything that does not is not addressing acne even if it changes how skin looks briefly.",
+          "Does the evidence extend beyond testimonial? Acne fluctuates naturally and clears in cycles, which means anything tried during a bad stretch will appear to work as the stretch ends. That is the single largest source of false confidence in this area, and it is why individual accounts are close to worthless here.",
+          "And does it involve adding inflammation? Scrubbing, stripping, burning, squeezing and any substance not formulated for skin all do, and all therefore work against one of the four processes while claiming to address another. A remedy that fails all three questions has no route to helping, however many people insist that it worked for them. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
+      {
+        h: "What to do instead of all of it",
+        p: [
+          "Having spent an article on what not to do, the alternative is short and worth stating plainly. A gentle cleanser once or twice daily. One evidence-backed active — benzoyl peroxide, adapalene, salicylic acid or azelaic acid — introduced singly and used consistently. A light moisturiser. Daily sunscreen.",
+          "Then twelve weeks of not changing anything, because a follicle takes roughly eight weeks to progress from blockage to visible lesion, which means nothing you do today affects what appears before two months have passed. Judging a treatment at three weeks is judging a period during which it could not have acted on anything visible.",
+          "That is the whole protocol, and its most difficult component is the waiting rather than the doing. Almost every myth in this article exists because that interval is uncomfortable and people want something to do inside it. Recognising the urge for what it is — and using a hydrocolloid patch rather than a household chemical — is most of what separates skin that improves from skin that scars.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'teen-first-skincare-routine',
+    sections: [
+      {
+        h: "Why a teenager's skin changes so abruptly",
+        p: [
+          "The shift at puberty is hormonal and rapid. Rising androgen levels enlarge the sebaceous glands and increase sebum production, which is why skin that needed nothing at eleven can be oily and congested at thirteen with no change in behaviour whatsoever.",
+          "The same hormonal change alters the lining of the follicle, causing cells to shed abnormally and accumulate rather than clearing. That combination — more oil, blocked follicles — is the setup for acne, and it explains why it is close to universal in this age group rather than a sign that something has gone wrong.",
+          "The important thing for a teenager to hear is that this is a physiological change and not a consequence of anything they did or failed to do. That framing matters because the alternative, which the folklore supplies, is that acne indicates a hygiene failure — and that belief leads directly to the over-washing that makes it worse.",
+        ],
+      },
+      {
+        h: "The whole routine, and why it is this short",
+        p: [
+          "Three products cover almost everything a teenager needs. A gentle cleanser used in the evening and, if the skin is oily, in the morning. A light moisturiser. A sunscreen for the morning.",
+          "If there is acne, one active is added and one only: benzoyl peroxide at a low concentration, or adapalene where it is available without prescription, or salicylic acid. Used consistently at a modest frequency, on the whole affected area rather than dotted onto individual spots, since the treatment is preventive rather than curative.",
+          "That is the complete list. It costs very little, it takes two minutes twice a day, and it addresses the mechanism rather than the appearance. Everything beyond it adds cost, adds irritation risk, and adds a set of decisions that a fourteen-year-old should not have to make about their face.",
+        ],
+      },
+      {
+        h: "What to skip, and why that is good news",
+        p: [
+          "The products marketed most heavily to this age group are frequently the least appropriate. Anti-ageing serums, retinol marketed cosmetically, vitamin C, peptides and multi-step routines address concerns that do not exist yet in skin that has plenty of collagen and no photoageing to correct.",
+          "Worse, several of them work against what this skin actually needs. Layering acids and actives on skin that is already inflamed produces the barrier damage described elsewhere on this site, and a teenager with acne plus a damaged barrier is in a considerably harder position than one with acne alone.",
+          "The good news in this is financial and practical. The correct routine for a teenager is the cheapest and shortest one available, which is an unusual alignment. Nothing expensive is being missed, and the pressure to acquire a shelf of products is a marketing phenomenon rather than a dermatological requirement.",
+        ],
+      },
+      {
+        h: "Sunscreen at this age",
+        p: [
+          "A substantial proportion of lifetime ultraviolet exposure occurs before adulthood, which makes this the age at which sun protection has the most value and the least uptake. The damage accumulates silently and becomes visible decades later.",
+          "The obstacles are practical rather than motivational. Sunscreens that feel heavy, leave a cast, sting the eyes during sport or interfere with makeup will not be worn, and a product that is not worn protects nobody. Finding a light fluid or gel formulation that feels acceptable is worth more effort than finding the highest SPF.",
+          "Sport is the common gap. Sweating removes product, and a teenager outdoors for a match or training session is in exactly the conditions that require reapplication. A hat, shade during peak hours and a stick format that can be reapplied without ceremony do more here than any argument about future skin.",
+        ],
+      },
+      {
+        h: "When to involve a clinician",
+        p: [
+          "The thresholds are the same at this age as any other and there is an additional reason to act early. Deep painful nodules, acne that is already leaving textural marks, acne that has not improved after three months of consistent over-the-counter treatment, and acne causing significant distress all warrant an appointment.",
+          "Scarring is the specific concern. Textural scarring follows severe or prolonged inflammation, does not resolve on its own, and requires procedural treatment later. Treating effectively during the years when acne is most active is the most reliable way to avoid a permanent outcome, which is an argument for going sooner rather than waiting to see.",
+          "The distress criterion deserves equal weight. The association between acne and low mood in adolescence is well documented, and it is not proportional to how severe the acne looks to somebody else. A teenager who is upset about their skin has a sufficient reason for treatment, and requiring them to justify it clinically is both unkind and unnecessary.",
+        ],
+      },
+      {
+        h: "For the parents in the room",
+        p: [
+          "The most useful things a parent can do are unglamorous. Buy the products, so that cost is not a barrier and the choice is not being made from whatever a video recommended. Keep the list short, and resist the temptation to add things.",
+          "Do not comment on their skin. This is the single most requested thing by teenagers with acne, and unsolicited remarks — including encouraging ones about it clearing up — reliably increase self-consciousness. Being available if they raise it, and otherwise saying nothing, is the position that helps.",
+          "Take it seriously if they ask. Booking an appointment when a teenager is distressed about their skin is a straightforward act of support, and the delay between wanting help and receiving it is frequently the part they remember. And model the sunscreen habit rather than instructing it, since the evidence on what adolescents adopt suggests observation outperforms advice by a considerable margin. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
     ],
   },
 ];
