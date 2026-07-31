@@ -1453,6 +1453,91 @@ export const EXPANSIONS: Expansion[] = [
           "The resolution is that supplementation is a considerably safer route to adequate vitamin D than deliberate unprotected exposure. Many countries recommend supplements for young children as a matter of course. Anyone concerned about their child's status should raise it with a clinician and address it that way, rather than reducing sun protection to solve a problem that has a better solution. As with everything on this site, this is educational rather than medical advice.",
         ],
       },
+      {
+        h: "The conditions people underestimate",
+        p: [
+          "The situations that produce burns are frequently not the obvious ones, and knowing which they are is worth more than a general instruction to be careful.",
+          "Cloud cover is the most common misjudgement. A substantial proportion of ultraviolet penetrates cloud, and a cool overcast day removes the heat that would otherwise prompt caution while leaving much of the radiation. Water, sand and snow all reflect additional ultraviolet upward, which is why burns on the underside of the chin and the nose are characteristic of days at the beach or on snow.",
+          "Altitude increases intensity measurably, as does proximity to the equator, and both catch people on holiday who apply their usual habits to conditions that are not their usual ones. Wind and cold suppress the sensation of burning without reducing the exposure at all, which is the mechanism behind most burns acquired during winter sports.",
+        ],
+      },
+      {
+        h: "Moles and what is worth watching",
+        p: [
+          "Children acquire moles through childhood and adolescence, and most are entirely ordinary. Knowing roughly what warrants attention prevents both unnecessary alarm and missed changes.",
+          "The features that prompt review are asymmetry, an irregular or poorly defined border, more than one colour within a single lesion, a diameter larger than most of the child's others, and — the most important — change over time. Any lesion that is itching, bleeding, crusting or noticeably different from the rest deserves a look.",
+          "The practical version for parents is a couple of minutes twice a year, ideally with a photograph so that change is assessable rather than remembered. This is not a reason for vigilance about every freckle, and it is a reasonable habit in a family where sun exposure is high or where there is a family history. Anything uncertain is worth showing to a clinician, who would far rather see ten ordinary moles than miss one. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'spf-in-makeup-enough',
+    sections: [
+      {
+        h: "The arithmetic of the application gap",
+        p: [
+          "Sunscreen is tested at a standardised application density, and the number on any package describes performance at that density. Foundation is applied at a small fraction of it — estimates commonly put typical makeup application at somewhere between a tenth and a quarter of the tested amount.",
+          "The relationship between quantity and protection is not linear, which makes the shortfall worse than the fraction suggests. Applying a quarter of the tested amount does not deliver a quarter of the stated SPF; it delivers substantially less, because the protection factor falls faster than the quantity does.",
+          "The practical consequence is that a foundation labelled SPF 30 is, in ordinary use, delivering something in the low single figures. That is not nothing and it is not sun protection in any sense that would satisfy the label. The product is not mislabelled; it was tested honestly at a density nobody applies it at.",
+        ],
+      },
+      {
+        h: "Coverage as well as quantity",
+        p: [
+          "Beyond the amount, makeup is applied to the areas people want to look even and not to the areas that most need protection. The hairline, the ears, the sides and back of the neck, the jawline underneath, and the eyelids are routinely missed.",
+          "Those are not incidental omissions. The ears and the neck are among the more common sites for skin cancers arising from cumulative exposure, precisely because they receive daily sun and are protected inconsistently.",
+          "Even within the covered area, foundation is applied for appearance rather than for uniform thickness. It is thinnest over areas that are being blended out and around the edges of the face, which produces a patchy protective film even where product is present.",
+        ],
+      },
+      {
+        h: "The routine that actually works",
+        p: [
+          "The resolution is straightforward and requires no compromise in either direction: apply a dedicated sunscreen as the final skincare step, in adequate quantity, and then apply makeup over it as normal.",
+          "The measures commonly cited for the face and neck — around a teaspoon, or the two-finger-length guide — are approximations of the tested density. They look like more product than seems necessary, which is exactly the point, since the amount that feels right is reliably too little.",
+          "Allowing a few minutes for the sunscreen to settle before applying makeup avoids most of the pilling and sliding that people report. Where it persists, the incompatibility is usually between a specific sunscreen texture and a specific foundation base — silicone against water-based, typically — and trying a different sunscreen finish resolves it more often than abandoning the step.",
+        ],
+      },
+      {
+        h: "Reapplying over a finished face",
+        p: [
+          "The practical objection to reapplication is real: nobody is rubbing a liquid sunscreen into completed makeup at lunchtime. The available options each involve a trade and are all better than nothing.",
+          "Powder sunscreens are the most convenient and the hardest to apply at anything approaching the tested density, which makes them a partial top-up rather than a replacement. Stick formulations can be pressed over makeup with less disruption than a lotion and deliver more product than a powder. Sprays are easy to under-apply and require far more than people use.",
+          "The honest framing is that all of these deliver less protection than a proper morning application, and that the morning application is therefore the one to get right. For anyone with substantial midday sun exposure, a hat and shade do more than any reapplication method, and are worth prioritising over the search for a perfect top-up product.",
+        ],
+      },
+      {
+        h: "Where layered SPF does not add up",
+        p: [
+          "A common assumption holds that a moisturiser at SPF 15 under a foundation at SPF 20 gives something in the thirties. It does not. Protection factors do not add, and in practice the layered result is closer to the higher of the two, frequently less, because each layer is applied thinly and the second disturbs the first.",
+          "This matters because it is the reasoning that leads people to conclude they are adequately protected without a dedicated product. Two inadequate applications do not combine into an adequate one.",
+          "The related error is trusting SPF in a product used for a different purpose. Moisturisers with added SPF have the same application-quantity problem as foundation, and while they are better than nothing, they are not a substitute for a product applied at the density its label was tested at.",
+        ],
+      },
+      {
+        h: "When makeup SPF is genuinely useful",
+        p: [
+          "Having argued that it is insufficient on its own, it is worth being fair about where it helps. As a layer on top of a proper sunscreen application, it adds a small amount of additional protection at no cost, and mineral-based makeup in particular contributes meaningfully.",
+          "It also partially covers the reapplication problem, since a midday powder touch-up containing filters is delivering something rather than nothing. And for someone who will not apply a separate sunscreen under any circumstances, makeup with SPF is genuinely better than no protection at all.",
+          "The position that holds up is therefore not that SPF in makeup is worthless but that it is supplementary. The primary protection is a dedicated product applied properly, plus shade, timing and a hat where the exposure warrants it. Everything else is a useful addition to that, and none of it replaces it. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
+      {
+        h: "Finding a sunscreen that works under makeup",
+        p: [
+          "Most of the resistance to adding a step comes down to texture, and the range available now is wide enough that the search is usually short. The characteristics that matter under makeup are a matte or satin finish rather than a dewy one, quick absorption, and no residual tackiness.",
+          "Chemical filter formulations are generally lighter and less likely to leave a cast, which makes them the usual choice for anyone whose foundation would show it. Mineral formulations are gentler for reactive skin and have improved substantially on the white-cast problem, though it persists on deeper skin tones with some products.",
+          "Buying small sizes to test several is worth the modest cost, because the difference between a sunscreen you tolerate and one you resent determines whether the step survives past the second week. That is a preference decision rather than an efficacy one, and it is the single variable that most determines whether any of this actually happens daily.",
+        ],
+      },
+      {
+        h: "Tinted sunscreen as the simpler answer",
+        p: [
+          "For anyone whose makeup exists primarily to even out skin tone rather than for full coverage, a tinted sunscreen resolves the whole problem by collapsing two steps into one product that is applied at sunscreen quantity because that is what it is.",
+          "There is a secondary benefit worth knowing. Tinted formulations typically contain iron oxides, which provide protection against visible light in a way that conventional sunscreens do not. This matters specifically for melasma and post-inflammatory hyperpigmentation, both of which are aggravated by visible light and not only by ultraviolet.",
+          "The limitation is shade range, which remains narrower than in the makeup category, and coverage, which is lighter than a foundation. For someone wanting more coverage, the layered approach described above remains the answer — but for a large proportion of people, a tinted sunscreen applied properly replaces both products and removes the arithmetic problem this article is about entirely.",
+        ],
+      },
     ],
   },
 ];
