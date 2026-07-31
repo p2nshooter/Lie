@@ -1538,6 +1538,67 @@ export const EXPANSIONS: Expansion[] = [
           "The limitation is shade range, which remains narrower than in the makeup category, and coverage, which is lighter than a foundation. For someone wanting more coverage, the layered approach described above remains the answer — but for a large proportion of people, a tinted sunscreen applied properly replaces both products and removes the arithmetic problem this article is about entirely.",
         ],
       },
+      {
+        h: "How the tested figure is produced",
+        p: [
+          "Understanding where the number on the package comes from explains why it cannot survive the way products are actually used. SPF testing involves applying a measured quantity to a defined area of skin on human volunteers, exposing it to a controlled ultraviolet source, and comparing the dose required to produce visible redness against unprotected skin.",
+          "Everything about that procedure is standardised, including the density, which is why the resulting figure is comparable between products. It is a laboratory measurement of a specific condition rather than a prediction of what will happen on a face at a bus stop.",
+          "This is worth knowing because it reframes the criticism. The problem is not that manufacturers overstate protection; the figure is honestly obtained. The problem is that the gap between the tested condition and the used condition is enormous and nobody is required to state it. The single most valuable thing anyone can do with sunscreen is close that gap by applying more of it, which costs nothing beyond getting through bottles faster. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'sensitive-skin-or-irritated-skin',
+    sections: [
+      {
+        h: "Two different things wearing the same word",
+        p: [
+          "Sensitive skin, used precisely, describes a persistent constitutional tendency: skin that has reacted to a wide range of products across years, frequently alongside a condition such as rosacea, eczema or a genetically determined barrier difference. It predates any particular routine and does not resolve when the routine changes.",
+          "Irritated skin describes an acquired state: skin that was previously unremarkable and has become reactive through what has been applied to it. It has a start date, it correlates with something that was introduced, and it resolves when the cause is removed.",
+          "The distinction matters because the responses diverge. Genuine sensitivity requires long-term product selection around known triggers and, frequently, treatment of an underlying condition. Irritation requires stopping something. Treating the second as the first leads people to buy sensitive-skin ranges while continuing to do the thing causing the problem.",
+        ],
+      },
+      {
+        h: "The signatures that separate them",
+        p: [
+          "Duration is the clearest signal. Someone who has reacted to products since adolescence, across many brands and formulations, is describing something constitutional. Someone whose skin became difficult in the last few months is describing something acquired.",
+          "Pattern is the second. Genuine sensitivity tends to react to specific categories consistently — fragrance, particular preservatives, certain acids — with a recognisable history. Irritation reacts to almost everything, including products that were fine a month ago, which is the signature of a compromised barrier rather than of an allergic tendency.",
+          "Accompanying features are the third. Persistent central facial redness with flushing suggests rosacea. Well-defined itchy patches, often in flexural areas, suggest eczema. Greasy scaling around the nose and eyebrows suggests seborrhoeic dermatitis. Any of these points toward a diagnosis rather than toward a product change, and each has treatment considerably more effective than a gentler cleanser.",
+        ],
+      },
+      {
+        h: "The elimination experiment",
+        p: [
+          "The question is answerable in a fortnight and the method is the same simplification described elsewhere on this site. For fourteen days: a gentle fragrance-free cleanser once daily, a bland moisturiser with barrier lipids, and sunscreen. Nothing else at all.",
+          "Skin that becomes comfortable over that period was irritated, and the useful information is not only that but which product was responsible, established by reintroducing one at a time afterwards with two weeks between each. Skin that does not improve is either genuinely sensitive or has an undiagnosed condition, and either way the next step is a clinician rather than another purchase.",
+          "The value of running this is that it produces an unambiguous answer, which almost no skincare experiment does. Both outcomes are informative, and either one saves considerable money and time compared to continuing to search for a product gentle enough to tolerate.",
+        ],
+      },
+      {
+        h: "The most frequent triggers",
+        p: [
+          "For people who turn out to be genuinely sensitive, a relatively short list accounts for a large proportion of reactions. Fragrance is first by a wide margin, whether synthetic or from botanical sources, and appears under names that do not read as fragrance: linalool, limonene, citronellol, geraniol, eugenol.",
+          "Essential oils belong in the same category rather than being a gentler alternative; several are among the more frequent sensitisers recorded in patch testing. Certain preservatives, notably methylisothiazolinone, have caused enough contact allergy to prompt regulatory restriction in leave-on products.",
+          "Beyond allergens, several ingredients cause irritation rather than allergy in susceptible skin: high concentrations of acids, denatured alcohol in leave-on formulations, physical scrubs, and some chemical sunscreen filters. Knowing which of these applies to you specifically is the practical output of the elimination experiment, and it is far more useful than a general instruction to use gentle products.",
+        ],
+      },
+      {
+        h: "Patch testing, formal and informal",
+        p: [
+          "The informal version is worth doing before any new product: apply a small amount to a discreet area — the inner forearm or behind the ear — daily for several days before using it on the face. This does not catch everything, since facial skin is more reactive than forearm skin, and it catches a meaningful proportion.",
+          "The formal version is a clinical procedure in which a standardised panel of allergens is applied under occlusion and read over several days. It identifies specific contact allergies with a precision no amount of trial and error achieves.",
+          "It is worth requesting for anyone with persistent unexplained reactions, particularly where the pattern suggests allergy — a well-defined reaction, appearing a day or two after exposure, recurring with products that seem unrelated. Being able to name the allergen converts an indefinite search into a reading task, since the ingredient list will tell you whether a product contains it.",
+        ],
+      },
+      {
+        h: "Living well with either answer",
+        p: [
+          "For irritated skin the path is short: simplify, allow the barrier to recover, and rebuild slowly at a lower frequency than before. Most people find the rebuilt routine both simpler and more effective than the one that caused the problem, which is the usual finding when excess turns out to have been the issue.",
+          "For genuinely sensitive skin the path is longer and entirely manageable. Fragrance-free products, a short ingredient list, a single active at a time introduced with patch testing, and treatment of any underlying condition. Many people with a constitutional tendency use retinoids and acids successfully; they do so at lower frequencies and with more careful selection.",
+          "What is worth resisting in both cases is the sensitive-skin marketing category, which has no regulatory definition and does not reliably indicate a shorter or safer ingredient list. Some products labelled that way contain fragrance and known sensitisers. The ingredient list remains the only place the information actually lives. As with everything on this site, this is educational rather than medical advice, and persistent reactive skin deserves a diagnosis rather than an indefinite product search.",
+        ],
+      },
     ],
   },
 ];
