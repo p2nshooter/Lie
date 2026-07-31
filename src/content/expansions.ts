@@ -2055,6 +2055,498 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'ceramides-and-skin-lipids',
+    sections: [
+      {
+        h: "What the mortar is actually made of",
+        p: [
+          "The brick-and-mortar metaphor is used so often that the mortar itself rarely gets described. It is a lipid matrix filling the space between corneocytes, and it has a specific composition: roughly half ceramides, about a quarter cholesterol, and around fifteen per cent free fatty acids, with smaller quantities of other lipids making up the remainder.",
+          "Those three components arrange themselves into stacked bilayers — a lamellar structure — with water trapped between the sheets. It is that architecture, not any single ingredient, that makes the barrier work. Water cannot cross a well-formed lamellar stack easily, and neither can most irritants or allergens coming the other way.",
+          "This is why barrier repair is not a matter of adding oil. Petrolatum sits on top and blocks evaporation, which is genuinely useful, but it does not participate in the structure. Ceramides, cholesterol and fatty acids are incorporated into it, which is a different and slower kind of help.",
+        ],
+      },
+      {
+        h: "The nine families, and the label shorthand",
+        p: [
+          "Human skin contains at least nine ceramide subclasses, and the naming on ingredient lists reflects a system rather than a marketing whim. Letters describe the fatty acid and the base: N for non-hydroxy, A for alpha-hydroxy, EO for esterified omega-hydroxy, combined with S for sphingosine, P for phytosphingosine, and so on.",
+          "So ceramide NP is a non-hydroxy fatty acid on a phytosphingosine base — the same molecule the older literature calls ceramide 3. Ceramide AP is ceramide 6-II. Ceramide EOP is ceramide 1, the long-chain species that acts as a kind of rivet holding adjacent bilayers together, and the one most consistently depleted in atopic skin.",
+          "The practical takeaway is modest but real. A product listing several subclasses is closer to what skin actually contains than one listing a single ceramide, and a product that names its ceramides at all is at least being specific about what it contains.",
+        ],
+      },
+      {
+        h: "Why the ratio matters more than the presence",
+        p: [
+          "Work on barrier recovery in the 1990s established something counterintuitive: applying any single one of the three lipid classes on its own can delay repair rather than accelerate it, because it disrupts the ratio the skin is trying to rebuild. An equimolar mixture worked; incomplete mixtures did not.",
+          "Later work refined this into the observation that a dominant-lipid mixture — one class at roughly three parts to one and one of the others — outperforms an even split, and that which lipid should dominate depends on the condition being treated. This is the origin of the ceramide-dominant formulations that most barrier creams now use.",
+          "None of this is visible on a package, and no consumer can calculate a molar ratio from an ingredient list. What it justifies is a simple preference: a moisturiser containing ceramides, cholesterol and fatty acids together is built on the better model than one containing ceramides alone.",
+        ],
+      },
+      {
+        h: "When skin is measurably short of them",
+        p: [
+          "Ceramide deficiency is not a vague wellness concept; it has been measured. Atopic dermatitis skin shows reduced total ceramides and a specific shortfall in the long-chain species, and the degree of depletion tracks with disease severity. Psoriatic plaques show an altered profile too, though a different one.",
+          "Age reduces them steadily from roughly the fourth decade onward, which is part of why skin that was oily at twenty-five can be dry at fifty without anything else having changed. Cold, dry winter air lowers them further, and the seasonal dryness most people accept as inevitable has this as one of its mechanisms.",
+          "Over-cleansing does it too, and quickly. Surfactants remove intercellular lipids along with the dirt they were aimed at, and a routine built on foaming cleansers used twice daily can produce a measurable deficit in someone whose skin was fine before.",
+        ],
+      },
+      {
+        h: "Ceramides among the other repair ingredients",
+        p: [
+          "Ceramides are not the only route to a better barrier and are often not the fastest. Occlusives such as petrolatum and dimethicone cut water loss immediately and cost very little. Humectants raise the water content of the outer layers. Both work within hours; ceramides work over weeks, by being built into a structure.",
+          "Niacinamide belongs in this conversation for a different reason: rather than supplying lipids, it upregulates the skin's own synthesis of ceramides and free fatty acids. That makes it a useful partner rather than a competitor, and it explains why the two so often appear in the same formula.",
+          "The sensible reading is that these ingredients answer different questions. Occlusives answer what stops the water leaving tonight. Ceramides and niacinamide answer what makes the barrier better in six weeks. A good moisturiser does both and does not make you choose.",
+        ],
+      },
+      {
+        h: "Reading a ceramide product without being sold to",
+        p: [
+          "First, look for the three classes together — a named ceramide, cholesterol, and a fatty acid such as stearic, palmitic or linoleic acid. Their presence is the single clearest signal that the formulator was working from the physiology rather than from the word.",
+          "Second, check position on the list. Ceramides are used at low percentages, so they will sit in the middle, but they should appear before the fragrance and the colourants rather than in the final trailing entries. A ceramide listed dead last is present for the label.",
+          "Third, ignore the front of the pack entirely. Barrier repair, ceramide complex and skin-identical lipids are all unregulated phrases that any product may print. The ingredient list is the only part of the packaging that has to be true.",
+        ],
+      },
+      {
+        h: "A realistic timeline, and what it feels like",
+        p: [
+          "The immediate effect of a good ceramide moisturiser comes from its occlusive and humectant components, and it is noticeable the first night. The structural benefit takes considerably longer: barrier lipid replacement is a matter of weeks, and studies on damaged skin generally run four to eight weeks before differences settle.",
+          "What that improvement feels like is undramatic. Skin stops tightening after cleansing. Products that used to sting stop stinging. The patch of dryness beside the nose that has been there all winter is quietly absent one morning. Nobody photographs any of this, which is why the category is harder to market than it deserves.",
+          "The corresponding honesty is that ceramides do nothing for pigmentation, nothing for wrinkles beyond the softening that hydration provides, and nothing for acne except by making other treatments tolerable. They repair the wall. That is the entire job, and it is worth doing well.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'layering-skincare-correct-order',
+    sections: [
+      {
+        h: "How much order actually matters",
+        p: [
+          "It is worth being honest about the size of this effect before spending several hundred words on it. Applying a routine in a slightly imperfect order costs you a little efficacy at the margins. Applying it in a wildly wrong order — sunscreen first, cleanser last — costs you a great deal. Most real-world mistakes sit at the harmless end.",
+          "The reason order matters at all is that each layer partly determines what the next layer can do. A film of silicone or oil slows the passage of a water-based serum applied over it. A humectant applied over an occlusive has nothing to draw on. These are real effects and they are also modest ones.",
+          "So the useful attitude is neither anxiety nor indifference. Get the principle right, do not agonise over the order of two similar serums, and reserve genuine care for the handful of places where the order changes the outcome noticeably.",
+        ],
+      },
+      {
+        h: "Water phase, oil phase, and where the rule comes from",
+        p: [
+          "Thinnest to thickest is a proxy for something more precise: water-based products before oil-based ones. Water-based formulations need contact with the skin surface to deliver anything, and an oil or silicone layer beneath them acts as a partial obstruction.",
+          "Oils and occlusives work in the opposite direction — they need to be on top to do their job, which is slowing the escape of everything underneath. Putting a facial oil under a water-based serum inverts both jobs at once, which is the one layering mistake with a genuinely predictable cost.",
+          "Texture correlates with this well enough to be a workable shortcut. Watery essences and light serums are mostly water; lotions less so; creams and balms less again. Following texture will get you the right answer nearly always, without needing to think about the formulation at all.",
+        ],
+      },
+      {
+        h: "The pH question and the obsolete wait-time advice",
+        p: [
+          "A generation of online routines instructed people to wait twenty or thirty minutes between an acid and the next step, on the reasoning that the acid needed a low pH and the following product would raise it. The underlying chemistry is real; the recommendation drawn from it was considerably overstated.",
+          "Acids act quickly once applied, and skin restores its own surface pH within a fairly short window regardless of what is put on it. Modern formulations are also better buffered than those the advice was written for. A minute or two of drying time is sufficient in nearly all cases.",
+          "The one place a genuine wait pays off is different: allowing skin to dry fully before applying a retinoid measurably reduces stinging, because damp skin increases penetration. That is a tolerance measure rather than a pH measure, and it is worth the five minutes.",
+        ],
+      },
+      {
+        h: "Sunscreen goes last, and the reason is not chemistry",
+        p: [
+          "Sunscreen is applied last in the morning routine, and the reason usually given — that other products would dilute it — is only part of the story. The larger reason is film formation. Sunscreens are tested as a continuous layer on the skin surface, and anything applied over the top disturbs that layer.",
+          "This is also why applying moisturiser over sunscreen, or rubbing in foundation vigorously afterwards, reduces the protection you actually receive relative to the number on the bottle. The film is fragile until it has set, which takes a few minutes.",
+          "The practical implication is to let sunscreen sit briefly before makeup, and to reapply by pressing or patting rather than rubbing. Neither costs anything, and together they preserve a good deal of the protection people assume they already have.",
+        ],
+      },
+      {
+        h: "Where the awkward products go",
+        p: [
+          "Essences and toners go immediately after cleansing, on skin that is still damp, because that is where a thin watery layer does the most good. Spot treatments go directly onto clean skin before anything else, so that nothing is between the active and the target.",
+          "Facial oils go after moisturiser rather than before it, despite the widespread instinct to treat them as serums. They are the occlusive step. A heavy balm or ointment, if used at all, goes last of all in the evening.",
+          "Eye creams can go before or after the face moisturiser without much consequence; what matters more is that they are applied on the orbital bone rather than close to the lash line. Sunscreen-containing makeup is a supplement to sunscreen and never a replacement for it, which is a dosage point rather than an ordering one.",
+        ],
+      },
+      {
+        h: "A worked morning and a worked evening",
+        p: [
+          "A complete morning runs: gentle cleanse or a water rinse, antioxidant serum on damp skin, moisturiser, sunscreen, then a few minutes before makeup. Four steps, and only one of them is non-negotiable — the last product-based one.",
+          "A complete evening runs: first cleanse to remove sunscreen and makeup, second cleanse if needed, treatment step on dry skin, moisturiser, occlusive if the skin is dry. That is five at most, and the treatment step is absent on the nights you are not using an active, which for most people is more nights than not.",
+          "Anything beyond this is elaboration rather than necessity. A ten-step routine is not wrong, but each additional step needs a reason that can be stated in one sentence, and if the sentence does not come easily the step is decoration.",
+        ],
+      },
+      {
+        h: "The mistakes that actually cost something",
+        p: [
+          "Three errors are worth avoiding with real care. Applying oils or balms underneath water-based products, which blocks them. Applying anything over sunscreen in a way that disturbs the film. And stacking two or three actives in one sitting, which is an irritation problem masquerading as an ordering problem.",
+          "Everything else is close to noise. Whether the niacinamide goes before or after the hyaluronic acid, whether the toner counts as a step, whether the eye cream comes early or late — these do not determine outcomes, and the anxiety spent on them would be better spent on using sunscreen every day.",
+          "The framework is worth internalising precisely so that it can then be applied lightly. Thinnest to thickest, water before oil, sunscreen last, one active at a time. Four rules, no chart, and it covers essentially every product you will meet.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'morning-vs-night-routine',
+    sections: [
+      {
+        h: "The daytime brief, in detail",
+        p: [
+          "The morning routine has one job with a clear hierarchy underneath it: reduce the damage the next twelve hours will do. Sunscreen is the whole of the first tier, and nothing else in skincare has comparable evidence behind it for preventing photoageing, pigmentation and skin cancer.",
+          "The second tier is antioxidant support, which addresses the free radicals generated by the ultraviolet light that gets past the sunscreen — always a substantial fraction, since almost nobody applies the quantity the label was tested at. Vitamin C is the usual choice, and it belongs here rather than at night for exactly this reason.",
+          "The third tier is keeping the barrier comfortable through the day, which for most people means a moisturiser appropriate to their skin and the season, and for some means nothing at all beyond the sunscreen. Anything past this is optional, and the optional things should not crowd out the first tier.",
+        ],
+      },
+      {
+        h: "The night-time brief, in detail",
+        p: [
+          "The evening routine has a different job: remove the day, then intervene. Removal is not a trivial step — sunscreen, sebum, pollution particles and makeup all need to come off, and a cleanser that handles a bare face will often not handle a sunscreened one in a single pass.",
+          "Intervention is where the actives live. Retinoids, exfoliating acids and most prescription treatments are placed at night because ultraviolet light either degrades them or compounds their irritation, and because the resulting sun sensitivity is easier to manage while asleep.",
+          "Then repair, which mostly means slowing overnight water loss with a moisturiser matched to how dry the skin actually gets. This third step is where ceramides and occlusives earn their place, and it is the step people most often skip when they are tired.",
+        ],
+      },
+      {
+        h: "Which products belong to one side only",
+        p: [
+          "Firmly morning: sunscreen, and any antioxidant serum whose value is photoprotective. Firmly evening: retinoids of every strength, exfoliating acids, benzoyl peroxide if it is bleaching your pillowcases anyway, and any prescription your dermatologist specified for night use.",
+          "The reasoning differs by product. Retinoids are about photodegradation and cumulative irritation. Acids are about sun sensitivity. Benzoyl peroxide is largely about practicality and about its habit of oxidising other ingredients it meets. Sunscreen is about the sun being in the sky.",
+          "Getting these wrong is not catastrophic — a retinoid used in the morning under good sunscreen is not dangerous — but each one is placed where it is for a reason that costs nothing to respect.",
+        ],
+      },
+      {
+        h: "Which products belong to both",
+        p: [
+          "Cleanser, moisturiser and niacinamide sit comfortably on both sides. So does azelaic acid, which is unusual among actives in being stable and well tolerated in daylight. So does any barrier product, which is needed whenever the barrier needs it.",
+          "The morning and evening versions of these need not be the same product. A lighter moisturiser under sunscreen and a heavier one at night is a common and sensible split, particularly for anyone whose skin is oily by day and tight by three in the morning.",
+          "Cleansing is worth treating asymmetrically too. The evening cleanse has to remove a day of accumulated product; the morning cleanse frequently does not need to remove anything at all, and for dry skin a plain water rinse is a legitimate answer rather than a lazy one.",
+        ],
+      },
+      {
+        h: "Two worked examples",
+        p: [
+          "Oily, acne-prone skin: morning is a gentle gel cleanse, a light moisturiser, and sunscreen in a fluid or gel texture. Evening is a thorough cleanse, an active on alternate nights — salicylic acid one night, an adapalene the next, never both — and the same light moisturiser. Five products in total, four of which are cheap.",
+          "Dry, mature skin: morning is a water rinse, vitamin C on damp skin, a richer moisturiser, and sunscreen. Evening is a cream or oil cleanse, a retinoid two or three nights a week, a ceramide moisturiser every night, and an occlusive over the top in winter. The split does more work here because the two halves of the day genuinely differ.",
+          "In both cases the morning is short and the evening carries the weight. That asymmetry is normal and it is a feature of the design rather than an accident of laziness.",
+        ],
+      },
+      {
+        h: "The mistakes people make when splitting",
+        p: [
+          "The most common is putting the effort in the wrong half. An elaborate morning routine topped with a sunscreen applied too thinly is a routine that has spent its energy on the tier that matters least.",
+          "The second is treating the split as a licence to double the number of products. Splitting is meant to allocate what you already own between two purposes, not to justify buying a second complete shelf.",
+          "The third is skipping the evening cleanse after a day in sunscreen, on the grounds that the face does not look dirty. Sunscreen is designed to stay on through sweat and water, which means it does not come off by itself and it does not come off with a splash.",
+        ],
+      },
+      {
+        h: "When one routine is enough",
+        p: [
+          "There are people for whom the split is unnecessary. Skin that is neither dry nor oily, has no pigmentation concerns and is using no actives can reasonably run a cleanser and a moisturiser twice a day plus sunscreen in the morning, and be doing everything that matters.",
+          "There are also periods when collapsing back to one routine is the right call — during a flare, after a reaction, in the fortnight following a procedure. In those windows the correct routine is the minimum one, applied identically at both ends of the day, until skin is calm.",
+          "The split earns its keep when there is something specific to treat. Until then, the difference between morning and evening is simply sunscreen, and that single asymmetry is most of the value on offer.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'minimalist-skincare-routine',
+    sections: [
+      {
+        h: "What each of the three steps is buying you",
+        p: [
+          "Cleansing removes what the day deposited — sebum, sunscreen, pollution particles, makeup — so that the skin is not sitting in it overnight and so that whatever comes next has a clean surface to work on. It is not doing anything more ambitious than that, and cleansers that claim to are usually claiming too much.",
+          "Moisturiser slows water loss and keeps the barrier comfortable. A comfortable barrier is not a cosmetic nicety; it is the difference between skin that tolerates an active and skin that reacts to everything, and it underwrites every other thing you might later want to do.",
+          "Sunscreen prevents. It is the only step of the three with hard evidence for preventing photoageing, pigmentation and skin cancer, and it is the reason a three-step routine is not a compromise. Two of the three steps maintain; one genuinely changes the trajectory.",
+        ],
+      },
+      {
+        h: "Why ten steps often underperform three",
+        p: [
+          "The failure of elaborate routines is rarely that any individual product is bad. It is that the products interact, that the total quantity of active ingredient becomes hard to track, and that irritation accumulates from several small sources none of which is obviously to blame.",
+          "There is also a compliance problem. A three-step routine gets done on a bad night; a ten-step routine gets skipped entirely, and skipping entirely means skipping the sunscreen the next morning too, because the habit has broken. Consistency is worth more than sophistication in a category where results take months.",
+          "And there is a cost problem that is not only financial. Ten products used simultaneously means ten variables changed at once, which makes the routine unimprovable — when something goes wrong you cannot tell what did it.",
+        ],
+      },
+      {
+        h: "The attribution problem, stated plainly",
+        p: [
+          "Skin changes slowly and for many reasons: season, sleep, hormones, stress, diet, illness, and whatever you happened to put on it. Against that noisy background, the only way to learn anything about a product is to change one thing and wait.",
+          "A minimal routine is therefore not just simpler, it is more informative. Adding a single active to three known steps and watching for eight weeks tells you something real. Adding it to nine other products tells you nothing you can rely on.",
+          "This is the strongest argument for minimalism and it is rarely the one made. Simplicity is not a virtue in itself; it is the condition under which you can actually find out what works on your particular face.",
+        ],
+      },
+      {
+        h: "Adding a fourth step properly",
+        p: [
+          "Add one product at a time, with a stated reason, and give it eight to twelve weeks before judging. That interval is not conservatism — it is roughly how long cell turnover and pigment changes take to become visible, and anything faster is usually hydration or sunscreen being mistaken for the new arrival.",
+          "Patch test before committing, introduce at a low frequency, and increase only if skin is comfortable. Two nights a week is a normal starting point for a retinoid or an acid, and staying there permanently is a legitimate outcome rather than a failure to progress.",
+          "Keep a note of what was added and when. It sounds excessive and it takes ten seconds, and it is the difference between a routine you understand and a shelf you have accumulated.",
+        ],
+      },
+      {
+        h: "The order to add things in, if you are adding",
+        p: [
+          "If the concern is texture, congestion or acne, the first addition is usually a retinoid or salicylic acid, not both. If the concern is pigmentation, it is sunscreen used properly first — which most people have not yet done — and then vitamin C or azelaic acid. If the concern is redness and sensitivity, the first addition is often subtraction.",
+          "Niacinamide is a reasonable early addition for almost anybody, being well tolerated, inexpensive and useful for barrier function, oil regulation and pigmentation at once. It is the least likely fourth step to cause trouble.",
+          "Actives that require care — high-strength acids, prescription retinoids, benzoyl peroxide — belong later, once the base routine is stable and you know how your skin behaves when something is introduced.",
+        ],
+      },
+      {
+        h: "What to remove first when things go wrong",
+        p: [
+          "When skin becomes irritated, the instinct is to add something soothing. The better move is to remove, and the order of removal is: everything with acid in it, then the retinoid, then fragranced products, then anything introduced in the last month.",
+          "What remains should be a bland cleanser, a simple moisturiser and sunscreen — the same three steps — held for two to four weeks without exception. Barrier recovery takes that long and cannot be rushed by adding a repair serum on top of the products that caused the problem.",
+          "Reintroduce afterwards one at a time, at half the previous frequency. Most people discover in the process that one specific product was responsible and that the rest of the shelf was innocent, which is information worth having.",
+        ],
+      },
+      {
+        h: "Minimalism is not under-treating",
+        p: [
+          "There is a version of this argument that goes too far, and it is worth naming. Genuine conditions — moderate acne, rosacea, eczema, melasma — are not managed by cleanser, moisturiser and sunscreen alone, and telling someone with cystic acne to simplify is not good advice.",
+          "The three-step routine is a floor rather than a ceiling. It is what everybody should be doing, the thing that additions are built on top of, and the thing to fall back to when a routine has become unmanageable. It is not an argument against treatment.",
+          "The distinction is between a routine that has three steps because that is all it needs, and a routine that has three steps because someone was told more is always worse. The first is well designed. The second is a different kind of mistake.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'patch-testing-new-products',
+    sections: [
+      {
+        h: "Two different reactions, and why it matters which",
+        p: [
+          "Skin reacts to new products in two distinct ways, and they behave differently enough that conflating them leads to wrong conclusions. Irritant contact dermatitis is dose-dependent, appears fairly quickly, and would happen to anybody given a high enough concentration. It is a chemical insult, not an immune event.",
+          "Allergic contact dermatitis is different. It requires prior sensitisation, appears typically twenty-four to seventy-two hours after exposure, and once established it recurs at any dose, however small. It is an immune memory, and it does not fade with continued exposure the way irritation often does.",
+          "The distinction matters because the responses differ. Irritation can often be managed by reducing frequency or concentration and building tolerance. Allergy means that ingredient is finished for you, permanently, and continued use makes it worse rather than better.",
+        ],
+      },
+      {
+        h: "Why the inner forearm is a poor proxy",
+        p: [
+          "The standard advice is to test on the inner forearm, and it is better than nothing, but forearm skin is not facial skin. It is thicker, less richly supplied with sebaceous glands, and considerably more tolerant. A product that passes on the forearm can still sting around the nose and eyes.",
+          "A better site is behind the ear or along the jawline just in front of it — thin skin, close to the face in character, and easy to hide if a reaction develops. The inner elbow crease is a reasonable second choice for the same reason.",
+          "Whichever site is used, apply the product exactly as you would use it. A serum meant to be left on should be left on. Testing a leave-on product by rinsing it off after a minute tests nothing that resembles how you will actually use it.",
+        ],
+      },
+      {
+        h: "The protocol that actually catches allergy",
+        p: [
+          "One application is not a test, and this is where most home patch testing fails. Because allergic reactions can take up to seventy-two hours to appear and often require repeated exposure to become evident, a single overnight trial only rules out immediate irritation.",
+          "The workable protocol is twice daily to the same small area for five to seven consecutive days, checking each time before reapplying. This is a simplified version of what dermatologists call a repeat open application test, and it catches a large proportion of what a one-night trial misses.",
+          "It requires patience for a product you have already bought and are keen to use. Set against the alternative — a reaction across the whole face that then takes three weeks to settle — a week of restraint is a reasonable trade.",
+        ],
+      },
+      {
+        h: "What a positive result looks like",
+        p: [
+          "A clear reaction is redness, swelling, itching, small bumps or tiny blisters confined to the test area and persisting rather than fading within an hour. That is a reason to stop, and to note the product and its ingredient list somewhere you will find it again.",
+          "A brief sting on application that settles within a few minutes and leaves nothing behind is usually not a reaction at all. Low-pH products, alcohol-containing formulas and some preservatives do this routinely on skin that will tolerate them perfectly well.",
+          "A negative result is also not a guarantee. Patch testing reduces risk substantially; it does not eliminate it, because facial skin is more reactive than the test site and because some reactions require larger areas or longer exposure to appear.",
+        ],
+      },
+      {
+        h: "Which products deserve extra caution",
+        p: [
+          "Anything with a high concentration of a known active — a strong acid, a prescription retinoid, high-percentage vitamin C — warrants a proper test rather than a token one. So does anything containing fragrance, which remains the single most common cause of allergic contact dermatitis from cosmetics.",
+          "Essential oils deserve particular scepticism despite their reputation, since several are potent sensitisers, and the ones marketed most enthusiastically for skin are not exempt. Botanical extracts in general have a worse allergy record than the synthetic ingredients they are often positioned against.",
+          "Preservatives are the other frequent culprit, methylisothiazolinone and formaldehyde releasers among them. None of this makes these ingredients unusable; it makes them worth testing before they go on your whole face.",
+        ],
+      },
+      {
+        h: "Introducing, not just testing",
+        p: [
+          "Testing tells you whether a product is safe for you. Introducing tells you whether it works, and the two are different exercises requiring different discipline. Introduce one product at a time and hold everything else constant for at least a month.",
+          "This is tedious when three things have arrived at once, and it is the only way to attribute either a benefit or a problem correctly. A routine changed in three places simultaneously produces a result you cannot interpret and cannot repeat.",
+          "Keep a short record: what went on, when it started, how skin responded in the first fortnight. Two lines per product. It seems fussy right up until the moment something reacts and you are trying to reconstruct which of four new items to blame.",
+        ],
+      },
+      {
+        h: "When to skip it, and when to see a professional",
+        p: [
+          "Skipping is reasonable for a bland moisturiser from a range you already use without incident, or for a product whose entire ingredient list you have tolerated in other forms. Judgement is allowed; the point is to apply it deliberately rather than by default.",
+          "Professional patch testing is a different procedure entirely. A dermatologist applies standardised allergen panels under occlusion for forty-eight hours and reads the results at set intervals, which identifies the specific molecule responsible rather than the product containing it.",
+          "That is the right route for anyone who reacts repeatedly to products with no obvious ingredient in common, or who has persistent facial dermatitis without a clear cause. Home testing is a screening tool. It is not a diagnosis, and it is not a substitute for one when the pattern keeps repeating.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'ceramides-and-skin-lipids',
+    sections: [
+      {
+        h: "Diet, supplements and the question everyone asks",
+        p: [
+          "Because ceramides are lipids, the natural question is whether eating them helps. Oral ceramide supplements — usually derived from wheat, rice or konjac — have been studied, and there are small trials reporting improvements in skin hydration and transepidermal water loss over eight to twelve weeks.",
+          "The trials are mostly small, frequently industry-funded, and heterogeneous in the preparations used, so the honest summary is that the evidence is suggestive rather than settled. There is a plausible mechanism, in that ingested sphingolipids appear to influence endogenous synthesis rather than being deposited directly, but the effect sizes reported are modest.",
+          "Set against a topical ceramide moisturiser, which is inexpensive, well characterised and works on the exact layer in question, the supplement is a poor first purchase. It is a reasonable curiosity for somebody who has already done the straightforward things and wants to try one more.",
+          "The broader dietary point is less exciting and better supported: essential fatty acid deficiency does impair barrier function, and linoleic acid in particular is required for the long-chain ceramides that hold the bilayers together. A diet with adequate fat is doing more for your barrier than any supplement in this category.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'layering-skincare-correct-order',
+    sections: [
+      {
+        h: "How much to apply, which matters more than order",
+        p: [
+          "Quantity is the variable that determines outcomes far more decisively than sequence, and it is discussed far less. Sunscreen is the clearest case: the protection factor on the bottle is measured at two milligrams per square centimetre, which works out at roughly a third of a teaspoon for a face and neck, and surveys consistently find people applying between a quarter and half of that.",
+          "The consequence is not proportional. Applying half the tested quantity does not give you half the SPF; the relationship is closer to exponential, so an SPF 50 applied thinly can behave like an SPF 15 or worse. No amount of correct layering compensates for that.",
+          "Actives run the other way. More retinoid does not produce faster results, it produces irritation, and a pea-sized quantity for the entire face is the standard for good reason. The same is true of acids, where the impulse to use more is the most common route to a damaged barrier.",
+          "So a fair summary of the whole layering question is this: get the sequence approximately right, get the sunscreen quantity exactly right, and use less of everything that stings. Those three habits together account for most of the difference between a routine that works and one that does not.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'morning-vs-night-routine',
+    sections: [
+      {
+        h: "Reapplication, and the hole in every morning routine",
+        p: [
+          "The morning routine has a structural weakness that no product choice fixes: sunscreen degrades and rubs off, and a single application at eight in the morning is not protecting anybody at three in the afternoon. Reapplication every two hours of meaningful exposure is the standard advice, and it is the most widely ignored instruction in skincare.",
+          "For a day spent indoors away from windows, this matters much less than the internet suggests. For a day involving commuting, sitting near glass, eating outdoors or any time genuinely spent in the sun, it matters a great deal, and it is the difference between a routine that prevents pigmentation and one that merely delays it.",
+          "The practical answers are unglamorous. A stick or a powder over makeup is imperfect but real. A cushion compact reapplied by pressing rather than rubbing preserves the film. Keeping a small tube in a bag makes the difference between reapplying and intending to.",
+          "It is worth being clear that this is the single highest-value change available to most morning routines. Adding a fourth serum to a routine whose sunscreen is applied once and thinly is optimising the wrong end of the problem entirely.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'minimalist-skincare-routine',
+    sections: [
+      {
+        h: "What three steps costs, and what it saves",
+        p: [
+          "A defensible three-step routine can be assembled for very little. A gentle cleanser, a ceramide-containing moisturiser and a sunscreen you will actually use every day are all available from pharmacy brands at prices that do not require deliberation, and the pharmacy versions are frequently formulated by the same contract manufacturers as the luxury ones.",
+          "Where spending more is genuinely defensible is sunscreen, and the reason is not efficacy but compliance. The regulatory minimum is the same across price points in any given market; what money buys is texture, finish and the absence of a white cast, and those determine whether the bottle gets used daily or sits unopened.",
+          "That is a real argument rather than a rationalisation. A pleasant SPF 30 applied generously every morning outperforms an unpleasant SPF 50 applied twice a week, and the gap between those two outcomes is larger than any difference between formulations.",
+          "The saving from minimalism is not only money. It is shelf space, decision fatigue, and the slow attrition of half-used bottles bought during a period of enthusiasm and abandoned during a period of irritation. A routine you can name from memory is a routine you will still be doing in a year, and duration is what this category actually rewards.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'patch-testing-new-products',
+    sections: [
+      {
+        h: "Purging, reacting, and telling them apart",
+        p: [
+          "The most common reason people abandon a product that would have worked is a fortnight of breakouts they interpret as a reaction. Purging is a real phenomenon with a specific mechanism: ingredients that accelerate cell turnover — retinoids, and to a lesser degree exfoliating acids — bring existing microcomedones to the surface faster than they would have arrived on their own.",
+          "It has a recognisable signature. Purging happens where you normally break out, consists of the kind of spots you normally get, comes up quickly and resolves quickly, and settles within four to six weeks. It also only happens with ingredients that plausibly cause it, which is a short list.",
+          "A genuine reaction looks different. It appears in places you do not usually break out, including areas the product barely touched. It often involves itching, burning, stinging or a rash rather than discrete spots. It does not settle with continued use, and it frequently worsens.",
+          "The rule that follows is straightforward: purging is tolerable for six weeks from an ingredient known to cause it; anything else is a reason to stop. Applying that rule saves both the products that were working and the face that was being damaged, which are two failures people otherwise make in opposite directions.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'ceramides-and-skin-lipids',
+    sections: [
+      {
+        h: "A short summary you can act on",
+        p: [
+          "Ceramides are one of three lipid classes that make up the mortar between skin cells, and they are the largest of the three by proportion. They are depleted by age, by cold dry air, by over-cleansing and by several skin conditions, and depletion shows up as tightness, flaking, stinging and a sudden intolerance of products that used to be fine.",
+          "A useful product contains ceramides alongside cholesterol and a fatty acid, positions them somewhere sensible on the ingredient list, and does not rely on the phrase barrier repair to do the work that the formula should be doing. Niacinamide alongside them is a bonus, since it prompts the skin to make more of its own.",
+          "Expect comfort within days from the occlusive and humectant parts of the formula, and structural improvement over four to eight weeks. Expect nothing at all for pigmentation or wrinkles, because that is not what this ingredient is for, and a product promising both is telling you something about its marketing rather than its chemistry.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'layering-skincare-correct-order',
+    sections: [
+      {
+        h: "The whole framework in six lines",
+        p: [
+          "Cleanse first, always, and thoroughly enough in the evening to remove sunscreen. Apply water-based products before oil-based ones, which in practice means following texture from thinnest to thickest.",
+          "Put actives on clean skin with nothing between them and the surface, and put only one active on per session. Let skin dry fully before a retinoid; a minute or two is enough between everything else.",
+          "Moisturiser goes after the treatment step, occlusives go over the moisturiser, and sunscreen goes last in the morning with a few minutes to set before makeup.",
+          "Then stop thinking about it. Order is worth getting broadly right and is not worth optimising further, and the time saved is better spent on applying enough sunscreen, which is the variable that actually decides how the next decade goes.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'morning-vs-night-routine',
+    sections: [
+      {
+        h: "Seasons, travel and the routine that has to bend",
+        p: [
+          "A split that works in June often fails in January. Cold air holds less water, indoor heating removes more, and the same moisturiser that felt heavy in summer can be insufficient by midwinter. The morning and evening halves do not shift equally: the evening usually needs more, because overnight water loss is where the season bites hardest.",
+          "The corresponding summer adjustment is the reverse and is often overdone. Skin that produces more oil in heat does not need less moisturiser so much as a lighter one, and dropping the step entirely tends to produce the tight-then-greasy cycle people mistake for oiliness getting worse.",
+          "Travel deserves its own note. Aircraft cabins run at very low humidity for hours at a time, and a flight is one of the few situations where an occlusive applied in daylight is straightforwardly sensible. Arriving in a different climate is a reason to change quantities before changing products.",
+          "The principle underneath all of this is that the two routines are answering questions about the environment, not just about the clock. Defend against what the day will do; repair what it did. When the environment changes, the answers change with it, and a routine that never varies across a year is a routine that is wrong for part of it.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'minimalist-skincare-routine',
+    sections: [
+      {
+        h: "Four skins, three steps each",
+        p: [
+          "Oily and congested: a gentle gel or foaming cleanser twice daily, a light gel-cream moisturiser that does not get skipped on the grounds that skin already feels greasy, and a fluid sunscreen. The temptation here is to strip, and stripping reliably makes oil production worse rather than better.",
+          "Dry: a cream or oil cleanser in the evening and water alone in the morning, a ceramide-containing cream, and a sunscreen with a moisturising base. The cleanser is the step most likely to be causing the dryness in the first place, which is why it is the one to change first.",
+          "Sensitive or reactive: a fragrance-free non-foaming cleanser, a bland moisturiser with a short ingredient list, and a mineral sunscreen if chemical filters sting. Every addition to this routine should be treated as an experiment rather than an upgrade.",
+          "Combination: whichever cleanser leaves no area tight, a moisturiser applied more generously where skin is dry and lightly where it is not, and any sunscreen you will use daily. Applying different amounts to different areas solves most of what people try to solve by buying two products.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'patch-testing-new-products',
+    sections: [
+      {
+        h: "What to do when a reaction has already happened",
+        p: [
+          "Stop the suspected product immediately, and stop everything else that is not strictly necessary along with it. Continuing a routine around a reaction, on the grounds that the other products were fine before, prolongs the episode and makes the cause harder to identify afterwards.",
+          "Reduce to a bland non-foaming cleanser, a simple moisturiser and sunscreen, and hold there. Cool compresses help with the discomfort. An over-the-counter hydrocortisone cream, used briefly and not near the eyes, is reasonable for a defined patch of contact dermatitis, though repeated use on the face is not.",
+          "Expect two to four weeks. Barrier recovery is slow and the temptation to add a soothing serum halfway through is the most common way people extend it, because the new product is another variable applied to skin that is currently reacting to variables.",
+          "Once settled, reintroduce the innocent products one at a time with several days between each, and leave the suspected one out entirely. Then read its ingredient list against anything else that has caused you trouble, because the overlap is usually where the answer is — a fragrance, a preservative or an essential oil that appears in both.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'layering-skincare-correct-order',
+    sections: [
+      {
+        h: "One last thing about wet skin",
+        p: [
+          "Almost every layering instruction assumes dry skin, and one of the few genuinely useful exceptions runs the other way. Humectants — glycerin, hyaluronic acid, most essences — perform better applied to skin still damp from cleansing, because there is surface water available for them to bind and hold in place.",
+          "The exception to the exception is the retinoid, which should go onto skin that has dried completely, since damp skin increases penetration and therefore increases stinging. Remembering those two opposite cases covers essentially every situation where wetness changes the answer.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'morning-vs-night-routine',
+    sections: [
+      {
+        h: "The one-sentence version",
+        p: [
+          "If you remember nothing else from this article, remember the shape of it: the morning routine exists to reduce the damage the day will do, and its single most important component is enough sunscreen; the evening routine exists to remove the day and repair what it cost, and its single most important component is not skipping it when tired.",
+          "Everything else — the serums, the order, the seasonal adjustments — is refinement on top of those two sentences, and refinement is only worth anything once the two sentences are actually being followed.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'minimalist-skincare-routine',
+    sections: [
+      {
+        h: "The test for whether a step earns its place",
+        p: [
+          "There is one question that resolves most decisions about whether to keep a product: can you say, in a single sentence and without using a marketing word, what it is doing and how you would know if it stopped?",
+          "Sunscreen passes easily. A ceramide moisturiser passes. A retinoid passes. A toner whose purpose is to prepare the skin does not pass, because prepare is not a mechanism and there is no observation that would tell you it had failed. Applying that test honestly usually shortens a routine by two or three steps in an afternoon.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'patch-testing-new-products',
+    sections: [
+      {
+        h: "The habit, in three lines",
+        p: [
+          "Test behind the ear or along the jaw rather than on the forearm, using the product exactly as you intend to use it. Repeat twice daily for five to seven days rather than once overnight, because allergic reactions need both time and repetition to declare themselves.",
+          "Then introduce one product at a time and hold the rest of the routine still for a month. Five minutes a day for a week, and it prevents the large majority of the reactions that otherwise cost people three weeks of recovery and a shelf of blamed innocent products.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
