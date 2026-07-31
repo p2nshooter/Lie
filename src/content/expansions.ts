@@ -1694,6 +1694,367 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'skincare-marketing-decoder',
+    sections: [
+      {
+        h: "One habit that survives every rebrand",
+        p: [
+          "Marketing vocabulary turns over every few years. Clean replaced natural, which replaced botanical, and something else will replace clean within the decade. The individual claims are disposable. What persists underneath them is the structure: a promise about the product's character offered in place of a statement about what it contains and at what dose.",
+          "So the habit worth forming is structural rather than lexical, because a habit tied to particular words expires when the words do. Turn the box over before you read the front. If the ingredient you came for is not in the first third of the list, and the packaging is a clear jar with a wide mouth, nothing printed on the front can compensate for either problem. That single movement — back before front — defeats vocabulary you have not even met yet.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'night-skin-repair-sleep',
+    sections: [
+      {
+        h: "The clock inside the skin itself",
+        p: [
+          "Circadian rhythm is usually discussed as something the brain does, but skin keeps its own time. Keratinocytes, fibroblasts and sebaceous cells all express the same core clock genes found in the central pacemaker, and those peripheral clocks continue running on a roughly twenty-four-hour cycle even in cultured cells with no light cue available to them at all.",
+          "What those clocks schedule is not trivial. Cell proliferation in the epidermis peaks in the late evening and overnight. Barrier permeability is highest at night and lowest around late morning. Blood flow to the skin and skin surface temperature both rise through the evening. Sebum production, by contrast, peaks around the middle of the day, which is why the shine appears when it does.",
+          "This is why the same product can behave differently at different hours, and why the traditional split between a protective morning routine and a reparative evening one turns out to have a biological basis rather than being purely a convention inherited from advertising.",
+        ],
+      },
+      {
+        h: "Why the barrier leaks more at night",
+        p: [
+          "Transepidermal water loss — the rate at which water escapes outward through the skin — follows the circadian pattern closely, rising through the evening and reaching its maximum in the small hours. Skin is measurably more permeable at three in the morning than it is at midday, and that is true regardless of what has been applied to it.",
+          "Two consequences follow. The first is that skin dries out overnight more than most people assume, particularly in heated or air-conditioned bedrooms where ambient humidity can fall well below what the skin is losing water into. The second is that anything applied at night crosses the barrier somewhat more readily than the same thing applied at noon, which increases both the benefit and the irritation.",
+          "That is the honest case for a heavier night cream. Not that skin is mysteriously receptive to nourishment after dark, but that it is losing more water during those hours and an occlusive layer slows the loss. It is a plumbing argument rather than a magical one, and it holds up.",
+        ],
+      },
+      {
+        h: "Why the actives moved to the evening",
+        p: [
+          "Retinoids are placed at night for a straightforward reason: several of them degrade under ultraviolet light, and the ones that hold up better are still easier to tolerate when they are not sitting under a full day of sun exposure, sweat and repeated sunscreen application on top.",
+          "Vitamin C is the usual exception, and for the opposite reason — a large part of its value is as a supplement to daytime photoprotection, so it earns its place in the morning. Most exfoliating acids sit at night because the sun sensitivity they produce is easier to manage when you are asleep through the hours immediately after application.",
+          "None of this means an active applied in the morning is wasted. It means the evening removes several complications at once, which is why routines drift in that direction without anybody consciously deciding that they should.",
+        ],
+      },
+      {
+        h: "What short sleep does that shows by morning",
+        p: [
+          "The visible effects of sleep loss are not imagined. Controlled studies in which observers rate photographs of the same people after normal sleep and after restriction consistently find the sleep-deprived faces rated as more tired, with hanging eyelids, redder eyes and darker under-eye shadows — differences large enough to be picked up reliably by strangers who know nothing about the study.",
+          "Underneath that, sleep restriction raises circulating cortisol and pro-inflammatory signalling, and cortisol is directly antagonistic to collagen synthesis. Wound-healing research shows measurably slower barrier recovery after sleep deprivation, which is a reasonable proxy for how quickly skin repairs the ordinary insults of a day.",
+          "The practical reading is unglamorous. Somebody sleeping five hours a night while using an excellent routine is working against their own physiology, and nothing in a jar substitutes for the missing two hours.",
+        ],
+      },
+      {
+        h: "The bedroom is part of the routine",
+        p: [
+          "Two environmental variables do more than most products. Ambient humidity determines how steeply water leaves the skin overnight, and in a dry heated room a humidifier is a more reliable intervention than upgrading a moisturiser. Room temperature matters for the same reason, and because overheating drives sweating, which irritates skin that is already more permeable than usual.",
+          "Mechanical friction is the other one. Sleeping consistently on one side produces vertical creases on that cheek which are distinct from expression lines, and over decades they set. Pillowcase material makes a modest difference to friction; sleeping position makes a considerably larger one, though it is far harder to change deliberately.",
+          "Pillowcases also accumulate sebum, product residue and bacteria across a week. Changing them more often than feels strictly necessary is a cheap intervention with a plausible mechanism behind it, particularly for anyone dealing with breakouts along the jaw and outer cheek.",
+        ],
+      },
+      {
+        h: "Sequencing an evening routine without overloading it",
+        p: [
+          "A workable evening sequence is: remove the day, treat one thing, seal. Cleansing comes first and needs to be thorough enough to remove sunscreen, which many gentle cleansers do not manage in a single pass. The treatment layer comes next, applied to skin that is dry rather than damp if it is a retinoid, since damp skin increases penetration and therefore increases irritation.",
+          "Then the moisturiser, and over it an occlusive if the skin is genuinely dry. The thinnest-to-thickest order is not arbitrary, but it matters far less than the restraint does. One active per evening is the ceiling for most people, and alternating nights is ordinary practice rather than a sign of fragility.",
+          "Wait times between layers are widely overstated. A minute or two is enough for most formulations. The exception worth honouring is letting the skin dry completely before a retinoid, which genuinely reduces stinging and costs nothing but patience.",
+        ],
+      },
+      {
+        h: "What a night routine cannot fix",
+        p: [
+          "Overnight repair is real but bounded. Skin does not undo a decade of ultraviolet exposure between midnight and six, and no combination of products accelerates collagen synthesis to a degree that outpaces the damage done by chronic sun exposure or by smoking.",
+          "The evening routine is best understood as removing obstacles rather than adding capability. It clears the day off the face, delivers one ingredient that has evidence behind it, and slows water loss during the hours when water loss runs highest. That is a genuinely useful set of jobs and it is not a small one.",
+          "It also has a floor beneath which no product reaches. If sleep itself is the missing input, the routine is operating on the wrong variable entirely, and the honest advice is the one nobody can print on a bottle.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'vitamin-c-serum-guide',
+    sections: [
+      {
+        h: "L-ascorbic acid and the pH it demands",
+        p: [
+          "L-ascorbic acid is the form with the deepest evidence base and the most demanding requirements. To cross the stratum corneum in useful quantity it has to be formulated below roughly pH 3.5, because above that threshold it exists largely in an ionised state which the barrier does not readily admit.",
+          "That low pH is also why it stings. The skin surface sits nearer pH 5, and a serum two full units below that will be felt by anybody with a compromised barrier or rosacea-prone skin. The sting is not evidence that the product is working — it is evidence of the pH, which is a separate matter entirely.",
+          "It is also inherently unstable in water, oxidising in the presence of oxygen, light, heat and trace metal ions. Nearly every formulation decision around L-ascorbic acid — opaque packaging, airless pumps, anhydrous bases, chelating agents — is an attempt to delay that reaction for as long as possible.",
+        ],
+      },
+      {
+        h: "The derivatives, and what each one trades away",
+        p: [
+          "Magnesium ascorbyl phosphate, sodium ascorbyl phosphate, ascorbyl glucoside, tetrahexyldecyl ascorbate and ethylated ascorbic acid all exist for the same reason. Each is more stable than L-ascorbic acid and each is tolerable at a pH the skin is comfortable with.",
+          "The trade is conversion. A derivative has to be cleaved by skin enzymes into ascorbic acid before it does anything at all, and the efficiency of that conversion is variable, often modest, and considerably less well characterised in living human skin than the marketing implies. Tetrahexyldecyl ascorbate is oil-soluble and penetrates well but is comparatively expensive; the phosphate salts are gentle and carry some acne data behind them.",
+          "For sensitive skin, a derivative at a comfortable pH used consistently will outperform a twenty per cent L-ascorbic acid serum abandoned after a fortnight of stinging. Consistency beats potency almost every time in this particular category.",
+        ],
+      },
+      {
+        h: "Concentration, and where the curve flattens",
+        p: [
+          "The commonly cited working range for L-ascorbic acid is ten to twenty per cent. Below about eight per cent, absorption falls away sharply; above roughly twenty per cent, absorption stops climbing while irritation carries on. The thirty per cent serums on the shelf are selling a number rather than an effect.",
+          "Most people do well starting around ten per cent. It is enough to be doing something measurable, low enough to be tolerated by skin that has not used vitamin C before, and cheap enough that the inevitable oxidation of a half-finished bottle is not painful to accept.",
+          "The percentage on the front also tells you nothing about whether the molecule is still intact by the time the bottle reaches your bathroom, which is the more important variable and the one nobody prints anywhere on the packaging.",
+        ],
+      },
+      {
+        h: "Why ferulic acid and vitamin E keep appearing",
+        p: [
+          "The much-copied combination of fifteen per cent L-ascorbic acid, one per cent alpha-tocopherol and half a per cent ferulic acid comes out of Duke University work in the mid-2000s. Ferulic acid stabilises the formula and roughly doubles its photoprotective effect; vitamin E operates in the lipid phase where ascorbic acid cannot go, and the two regenerate one another as they are consumed.",
+          "This is one of the few ingredient combinations in cosmetic skincare with both a coherent mechanistic rationale and published support behind it, which is precisely why the formula has been cloned so widely. Seeing all three on a label is a reasonable signal that whoever formulated the product had read the literature.",
+          "It is not a guarantee of quality. The ratios matter, the pH matters, and the packaging matters at least as much as the ingredient list does. A well-chosen trio in a clear dropper bottle is still a clear dropper bottle.",
+        ],
+      },
+      {
+        h: "The sunscreen relationship, stated properly",
+        p: [
+          "Vitamin C is not a sunscreen and carries no SPF. What it does is different in kind: it neutralises a proportion of the free radicals generated by ultraviolet light that reaches the skin in spite of sunscreen, and that proportion is always substantial because almost nobody applies enough sunscreen to achieve the labelled protection.",
+          "The two are therefore complementary rather than alternative. Sunscreen reduces the dose arriving at the skin; antioxidants reduce the damage caused by the dose that gets through anyway. Treating vitamin C as a reason to be casual about sunscreen inverts the entire logic of using it.",
+          "This is also the argument for putting it on in the morning. Antioxidant defence is most useful when it is already in place before the exposure happens, not applied twelve hours afterwards when the reactions have long since run.",
+        ],
+      },
+      {
+        h: "Pigmentation, and an honest timeline",
+        p: [
+          "Ascorbic acid inhibits tyrosinase, the rate-limiting enzyme in melanin synthesis, which is the basis for using it on post-inflammatory hyperpigmentation and general unevenness of tone. It is a mild inhibitor by comparison with prescription options, and it acts on new pigment production rather than on pigment already deposited in the skin.",
+          "The realistic timeline is eight to twelve weeks of daily use before a difference is visible in the mirror rather than only in a carefully lit photograph, and considerably longer for deeper or older marks. Anything faster than that is usually the sunscreen doing the work, which is fine but ought to be attributed correctly.",
+          "For stubborn melasma, vitamin C is a supporting player rather than the treatment. It is worth keeping in the routine, and it is not the thing that will resolve the problem on its own.",
+        ],
+      },
+      {
+        h: "The pairing rules, including one that is not real",
+        p: [
+          "The instruction never to use vitamin C with niacinamide traces back to 1960s research on unstable, heated combinations that produced nicotinic acid and a transient flushing response. In modern formulations kept at room temperature this is not a practical problem, and the two are combined in commercial products without incident.",
+          "The pairings that genuinely warrant care are different ones. Benzoyl peroxide oxidises ascorbic acid, so applying them together wastes both — separate them by time of day. Strong exfoliating acids stacked directly onto a low-pH vitamin C serum amounts to a great deal of acid for one face, and irritation is the predictable outcome.",
+          "Retinoids and vitamin C can be used by the same person without difficulty. Splitting them between morning and evening is the simplest way to keep both tolerable, and it has the side benefit of putting each one where it belonged anyway.",
+        ],
+      },
+      {
+        h: "Telling whether the bottle is still worth using",
+        p: [
+          "Colour is the readable signal. A fresh L-ascorbic acid serum runs clear to pale straw. As it oxidises it moves through yellow to orange to brown. Deep amber means most of the ascorbic acid has become dehydroascorbic acid and then broken down further still, and the serum is now doing very little for anybody.",
+          "Storage buys time rather than immunity. Keep it away from light and heat, close it promptly after use, and prefer opaque or airless packaging over a dropper bottle with a wide neck that admits air at every application. Refrigeration slows the reaction and is worth doing for anything expensive.",
+          "Buy small bottles. Thirty millilitres used daily is finished in roughly two months, which happens to be about how long a well-formulated serum stays meaningfully active once it has been opened.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'hyaluronic-acid-the-truth',
+    sections: [
+      {
+        h: "What a humectant does, and what it does not",
+        p: [
+          "Hyaluronic acid is a humectant: a molecule that binds water and holds onto it. It is not an emollient, which softens by filling the gaps between surface cells, and it is not an occlusive, which slows evaporation by laying down a physical film. Those three jobs are distinct, and a routine that only does one of them is incomplete by design.",
+          "The distinction matters because humectants have no mechanism for keeping the water they gather. They attract it; something else has to stop it leaving again. This single fact explains almost every complaint people have about hyaluronic acid serums, and almost every fix.",
+          "It is also present naturally in skin in quantity, concentrated in the dermis, where it contributes to volume and to the environment fibroblasts work in. Topical application does not restore that reservoir. It works at the surface, and it works there well when the conditions allow.",
+        ],
+      },
+      {
+        h: "A thousand times its weight, in context",
+        p: [
+          "The figure is real in a laboratory sense — hyaluronic acid can bind an enormous quantity of water relative to its own mass. It is close to meaningless as a guide to what happens on a face, because the limiting factor is never the molecule's capacity. It is the amount of water actually available for the molecule to bind.",
+          "In a humid room there is plenty, drawn both from the air and from the deeper layers of the skin. In a dry room, an air-conditioned office or an aircraft cabin, the ambient supply is thin and the only accessible water is the water already in the skin.",
+          "That is the mechanism behind the familiar report that a hyaluronic acid serum left someone's skin feeling tighter and drier than before. It is not sabotage and it is not a bad product. It is a humectant doing precisely what humectants do in an environment with nothing else to draw on.",
+        ],
+      },
+      {
+        h: "The damp-skin rule, and why it is not optional",
+        p: [
+          "Applying a hyaluronic acid serum to skin still damp from cleansing gives the molecule surface water to bind immediately, and sealing it within a minute or two under a moisturiser keeps that water where it was put. Those two steps convert the ingredient from unreliable to consistently useful, and they cost nothing.",
+          "Applied to bone-dry skin in dry air and then left unsealed, the same serum can genuinely leave skin feeling worse than it did before. The product is not defective and the concentration is not the issue. The sequence is the issue, and the sequence is entirely within your control.",
+          "In a genuinely dry climate, consider raising the humidity of the room as well. It is the cheapest intervention discussed anywhere in this article, and it improves the performance of every humectant in the routine simultaneously.",
+        ],
+      },
+      {
+        h: "Molecular weight, sodium hyaluronate and the label",
+        p: [
+          "High-molecular-weight hyaluronic acid stays at the surface, forms a smoothing film and produces the immediate plumped appearance people notice on first use. Lower-weight fragments penetrate further into the upper epidermis and are associated with hydration that lasts longer; very low weights have been discussed in connection with inflammatory signalling, which is why sensible formulations blend several weights rather than chasing the smallest fragment available.",
+          "Sodium hyaluronate is the salt form, and it is what most products actually contain. It is smaller, more stable and more soluble than the acid form. Seeing it on a label instead of hyaluronic acid is not a downgrade — more often than not it is the better choice.",
+          "Hydrolysed hyaluronic acid means the chains have been deliberately shortened. Multiple weights listed separately on an ingredient list is a reasonable sign that the formulator treated surface film and deeper hydration as two different problems rather than one.",
+        ],
+      },
+      {
+        h: "Why it is in almost every product on the shelf",
+        p: [
+          "Hyaluronic acid appears in cleansers, toners, essences, serums, creams, masks, sunscreens and foundations. It is inexpensive at the concentrations actually used, it is compatible with nearly everything else, it has no meaningful irritation profile, and it produces an immediate sensory effect that customers notice the first time they use it.",
+          "That ubiquity has a practical consequence. Many people are already getting it several times over without ever buying a dedicated serum. If your moisturiser lists it within the first third of the ingredients, an additional single-ingredient serum is likely to be redundant rather than additive.",
+          "It is also why the ingredient is not a differentiator between products. Its presence on a label tells you almost nothing useful, because it is present on very nearly all of them.",
+        ],
+      },
+      {
+        h: "The injectable version is a different subject",
+        p: [
+          "Dermal fillers are cross-linked hyaluronic acid placed into the dermis with a needle, where they occupy physical space and hold water in a tissue layer no topical product reaches. The molecule is the same one; the delivery, the dose and the effect are not comparable in any useful way.",
+          "No serum plumps in the sense that a filler plumps. The surface hydration effect is real, visible and worth having — fine lines genuinely do look softer on well-hydrated skin — but it is a change in the appearance of the surface, and it reverses as soon as hydration falls again.",
+          "Marketing that borrows the vocabulary of injectables for a topical product is exploiting a real ambiguity in the language, and it is worth noticing each time it happens rather than being annoyed about it in general.",
+        ],
+      },
+      {
+        h: "Who needs a dedicated serum, and what to do if it stings",
+        p: [
+          "The people who benefit most are those with dehydrated skin of any type, oily included, living somewhere reasonably humid, who will apply it damp and seal it promptly. Those whose dryness comes from a lipid deficiency rather than a water deficiency will get considerably more from ceramides and occlusives than from adding another humectant.",
+          "If a hyaluronic acid product stings, the hyaluronic acid is almost certainly not the cause. Look at the rest of the formula instead: low pH, denatured alcohol, fragrance and certain preservative systems are the usual culprits, and a compromised barrier makes every one of them more noticeable.",
+          "If it consistently leaves skin tight, change one variable at a time — apply to damper skin, seal faster, raise the room humidity — before concluding that the ingredient does not suit you. In most cases one of those three adjustments resolves it completely.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'exfoliating-acids-aha-bha-pha',
+    sections: [
+      {
+        h: "What exfoliation is actually doing",
+        p: [
+          "The outermost layer of skin is made of corneocytes held together by protein bridges called corneodesmosomes. In healthy skin, enzymes dissolve those bridges on a schedule and the cells shed invisibly over roughly four weeks. Chemical exfoliants intervene in that process, weakening the bonds so that shedding happens sooner and more evenly across the surface.",
+          "That is a meaningfully different action from scrubbing, which removes cells by force regardless of whether they were ready to go. It is also why acids can be gentler than a scrub while achieving more, and why the same acids can be far harsher than any scrub when they are overused.",
+          "The visible results — smoother texture, brighter tone, less congestion, better penetration of everything applied afterwards — all follow from that single mechanism. So does every one of the side effects.",
+        ],
+      },
+      {
+        h: "Inside the AHA family",
+        p: [
+          "Glycolic acid is the smallest alpha hydroxy acid, penetrates fastest and carries the most clinical data behind it, including for photoageing and pigmentation. It is also the most likely to sting and by some distance the most likely to be overdone by an enthusiastic beginner.",
+          "Lactic acid is a larger molecule, penetrates more slowly, and is also a component of the skin's own natural moisturising factor, which is why it tends to hydrate rather than strip. For dry or reactive skin it is usually the better first acid to try.",
+          "Mandelic acid is larger still, derived from bitter almonds, and slower again. It is the gentlest of the common AHAs, has some antibacterial activity that is useful in acne, and is often recommended for deeper skin tones because slower penetration means less inflammatory risk and therefore less post-inflammatory pigmentation to deal with afterwards.",
+        ],
+      },
+      {
+        h: "Salicylic acid and why oil solubility is the point",
+        p: [
+          "Salicylic acid is a beta hydroxy acid and, unlike the AHAs, it is oil-soluble. That single property allows it to travel into a sebum-filled pore and exfoliate the lining from the inside, which is why it is the standard recommendation for blackheads, closed comedones and general oily congestion.",
+          "It is also anti-inflammatory, being structurally related to aspirin, which helps with the redness surrounding active spots. Typical over-the-counter concentrations run from half a per cent to two per cent, and two per cent is not automatically better than one — it is simply stronger, which is a different claim.",
+          "Because it works inside the pore rather than across the whole surface, it can be used as a targeted treatment on congested areas while the rest of the face is left entirely alone. That is often the most sensible way to use it and the least likely to cause trouble.",
+        ],
+      },
+      {
+        h: "PHAs, and who they are genuinely for",
+        p: [
+          "Polyhydroxy acids — gluconolactone and lactobionic acid are the two you will actually see — are chemically related to the AHAs but have much larger molecules carrying multiple hydroxyl groups. They penetrate slowly and superficially, which makes them markedly less irritating in practice.",
+          "They also carry humectant properties and some antioxidant activity, and they do not increase sun sensitivity to the same degree. Studies have found them tolerable in rosacea and atopic dermatitis, populations that typically cannot use glycolic acid at any concentration at all.",
+          "The honest caveat is that gentler means slower. A PHA will not deliver what a well-tolerated glycolic acid delivers. It will deliver something real to people for whom glycolic acid was never an option, and that is a substantial group of people rather than a niche one.",
+        ],
+      },
+      {
+        h: "Percentage, pH and free acid value",
+        p: [
+          "The number on the front of the bottle is only one of three variables. An acid works in its undissociated form, so the pH of the formula determines how much of the stated percentage is actually active on the skin. A ten per cent glycolic acid at pH 4.5 is a considerably milder product than the same ten per cent at pH 3.2.",
+          "Free acid value is the figure that combines the two, and almost nobody prints it. In its absence, treat the percentage as a rough guide only, and judge the product by how skin responds over two or three weeks rather than by what the label claims.",
+          "This is also why direct comparison between brands is unreliable, and why stepping up from one product to another with a higher number on the front can produce a much larger jump in real strength than anybody expected.",
+        ],
+      },
+      {
+        h: "Frequency, and reading the signals",
+        p: [
+          "Once or twice a week is a reasonable starting frequency for most people, increasing slowly and only if the skin stays comfortable. Daily use of a leave-on acid suits some skin and is not a requirement for results; twice weekly sustained for a year will achieve more than daily use abandoned after a month of irritation.",
+          "The signs of overdoing it are specific and worth learning. Persistent stinging from products that used to be fine, a tight shiny look, unusual redness, and skin that suddenly reacts to things it tolerated last month. That is barrier damage rather than purging, and the correct response is to stop for a fortnight rather than to push through it.",
+          "Recovery is a matter of doing less — bland cleanser, ceramide moisturiser, sunscreen, nothing active whatsoever — and it usually takes two to four weeks. Resuming afterwards at half the previous frequency is the sensible restart.",
+        ],
+      },
+      {
+        h: "What not to stack",
+        p: [
+          "Acids and retinoids on the same night is the most common mistake in this entire category. Both increase cell turnover, both can irritate independently, and the combination is where most people break their barrier for the first time. Alternate nights, and if there is any doubt, alternate weeks instead.",
+          "Two different acids in one routine — a salicylic cleanser, a glycolic toner and an AHA serum — adds up considerably faster than people expect, because each individual product looks mild on its own. Count the acids in the routine rather than counting the products.",
+          "Vitamin C is a low-pH ingredient in its own right, so stacking it directly with an exfoliating acid is tolerable for robust skin and a reliable source of irritation for everyone else. Splitting them between morning and evening resolves the problem without giving up either one.",
+        ],
+      },
+      {
+        h: "Sun sensitivity is not small print",
+        p: [
+          "AHAs increase ultraviolet sensitivity measurably. The figure most often cited is a rise in sunburn susceptibility of around eighteen per cent after four weeks of glycolic acid use, and the effect persists for roughly a week after the acid is stopped.",
+          "That does not mean acids should be avoided. It means daily sunscreen moves from advisable to non-negotiable, and that beginning a new acid in the middle of a beach holiday is simply poor timing rather than a moral failing.",
+          "It also means the pigmentation you are treating can worsen if the sun protection lapses, which is the specific way that acid routines fail on melasma and post-inflammatory marks. The acid and the sunscreen are one intervention, not two separate ones you can choose between.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'night-skin-repair-sleep',
+    sections: [
+      {
+        h: "Shift work, jet lag and a rhythm that will not cooperate",
+        p: [
+          "Everything above assumes a person who sleeps at night, and a great many people do not. Nurses, drivers, security staff, parents of small children and anyone who has flown across five time zones are all running a body clock that has been decoupled from the light outside the window, and the skin clock decouples along with everything else.",
+          "The research on shift work and skin is thinner than the research on shift work and metabolism, but what exists points the same direction: disrupted circadian signalling is associated with slower barrier recovery and higher inflammatory tone. There is no product that resets a peripheral clock, and it would be dishonest to imply otherwise.",
+          "What can be done is more modest and still worth doing. Anchor the routine to your sleep rather than to the hour on the clock — the reparative routine goes on before you sleep, whenever that is. Keep the room dark enough for melatonin to be produced during whichever hours you are actually in bed. Treat the morning routine as the one that precedes your exposure to daylight, not the one that happens before nine.",
+          "That reframing costs nothing and keeps the logic intact. The routine was never really about the time of day; it was about the order of sleeping, waking and going outside.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'vitamin-c-serum-guide',
+    sections: [
+      {
+        h: "A note on price, and on the packaging you are really buying",
+        p: [
+          "Vitamin C is the category where the gap between the cheapest credible product and the most expensive one is hardest to justify on ingredients alone. L-ascorbic acid is not an expensive raw material. What separates a good serum from a poor one is formulation work, pH control, chelation, and packaging that keeps oxygen away from the contents.",
+          "That means the useful question at the shelf is not how much does this cost, but what am I paying for. An airless pump with a well-documented antioxidant trio at ten to fifteen per cent is worth paying a premium for. The same percentage in a clear glass dropper bottle, however elegant, is a product with a short useful life regardless of what it cost.",
+          "It is also a category where sample sizes and small formats earn their keep. Vitamin C either suits your skin or stings it, and you will know within a fortnight. Finding that out on thirty millilitres is cheaper than finding it out on a hundred, and the smaller bottle will still be active when you reach the bottom of it.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'hyaluronic-acid-the-truth',
+    sections: [
+      {
+        h: "How to read a hyaluronic acid product in thirty seconds",
+        p: [
+          "Start with position on the ingredient list. Hyaluronic acid and sodium hyaluronate are used at fractions of a per cent, so they will never sit at the very top of a list, but they should appear before the preservatives rather than trailing behind them in the final few entries where the decorative extracts live.",
+          "Then look at what else is in the formula, because a humectant on its own is half a product. Glycerin alongside it is a good sign — it is cheaper, better studied and works by the same principle. Ceramides, squalane, dimethicone or any plausible occlusive means somebody thought about keeping the water in as well as attracting it.",
+          "Then check the packaging, for exactly the reasons that apply to every water-based serum: a wide-necked clear bottle exposes the contents to light and air at every use. Hyaluronic acid itself is not especially fragile, but the other actives sold alongside it usually are.",
+          "Finally, ask whether you need it separately at all. If your moisturiser already lists it early and you are applying that moisturiser to damp skin, the dedicated serum is buying you very little, and the money is better spent on the step that seals rather than the step that attracts.",
+        ],
+      },
+      {
+        h: "The one habit that fixes most complaints",
+        p: [
+          "If a single change had to be recommended, it would be this: stop treating the serum as a standalone product and start treating it as the first half of a two-part step. Damp skin, serum, seal within two minutes. That sequence turns almost every reported failure of hyaluronic acid into a success, and it requires no new purchase at all.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'exfoliating-acids-aha-bha-pha',
+    sections: [
+      {
+        h: "Leave-on versus wash-off, and the case for peels",
+        p: [
+          "The same acid at the same percentage behaves very differently depending on how long it stays on the skin. A cleanser containing salicylic acid has perhaps sixty seconds of contact time and a formula designed to be rinsed, which makes it a mild product regardless of the number on the front. A leave-on toner or serum at the identical concentration is doing considerably more.",
+          "This is worth knowing in both directions. It explains why an acid cleanser is a reasonable entry point for nervous skin, and it explains why counting an acid cleanser as your exfoliation step may leave you wondering why nothing has changed after three months of use.",
+          "Higher-strength peels, whether the weekly at-home kind or the in-clinic sort, sit at the other end of the same spectrum. They are short-contact, high-concentration, and they buy a faster result in exchange for a genuine recovery period and a real requirement to protect the skin afterwards.",
+          "There is no need to climb that ladder. Most of the benefit available from chemical exfoliation is available at modest strength used consistently, and the people who get into trouble are almost always the ones who moved up a rung because progress felt slow rather than because the previous rung had stopped working.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'hyaluronic-acid-the-truth',
+    sections: [
+      {
+        h: "What to expect, and over what period",
+        p: [
+          "The timeline for a humectant is unlike the timeline for an active. There is no eight-week wait and no gradual accumulation of benefit. Surface hydration improves within minutes of the first correct application, and it is visible in the mirror the same evening — skin looks fuller, fine lines look softer, makeup sits differently.",
+          "The corollary is that the effect is not cumulative in the way people hope. Stop using it and the appearance returns to baseline within a day or two, because nothing has been rebuilt. That is not a criticism of the ingredient; it is what surface hydration is, and it is genuinely worth having every single day.",
+          "Where something closer to a lasting change does occur is indirect. Skin that is consistently well hydrated has a better-functioning barrier, tolerates actives more readily, and is less prone to the low-grade irritation that drives so many other problems. That benefit does accumulate, quietly, and it is the real argument for keeping a humectant in the routine permanently rather than reaching for one only when skin feels tight.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'exfoliating-acids-aha-bha-pha',
+    sections: [
+      {
+        h: "Where acids fit for different skin, in one paragraph each",
+        p: [
+          "Oily and congested skin: salicylic acid, two or three times a week to start, applied where the congestion actually is rather than across the whole face. It is the only common acid that gets inside the pore, and that is the problem being solved.",
+          "Dry or dehydrated skin: lactic acid, once or twice weekly, always followed by a moisturiser. It exfoliates and hydrates in the same step, which is unusual, and it is far less likely to leave dry skin feeling stripped than glycolic acid is.",
+          "Sensitive or rosacea-prone skin: a PHA, or nothing at all. Exfoliation is optional, and for skin that flushes easily the risk-to-benefit calculation often comes out against it. Gluconolactone is the reasonable compromise where the itch to exfoliate cannot be resisted.",
+          "Deeper skin tones with pigmentation concerns: mandelic acid, patiently, with rigorous sun protection. Slower penetration means less inflammation, and less inflammation means less post-inflammatory hyperpigmentation, which is the specific way aggressive exfoliation backfires on this skin.",
+          "Mature skin working on texture and tone: glycolic acid, at a modest concentration, alternated with a retinoid rather than layered onto it. This is the pairing with the most evidence behind it and also the one most likely to be overdone, so the alternating schedule is doing real work.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
