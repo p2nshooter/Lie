@@ -1599,6 +1599,99 @@ export const EXPANSIONS: Expansion[] = [
           "What is worth resisting in both cases is the sensitive-skin marketing category, which has no regulatory definition and does not reliably indicate a shorter or safer ingredient list. Some products labelled that way contain fragrance and known sensitisers. The ingredient list remains the only place the information actually lives. As with everything on this site, this is educational rather than medical advice, and persistent reactive skin deserves a diagnosis rather than an indefinite product search.",
         ],
       },
+      {
+        h: "Irritation, allergy and intolerance are three things",
+        p: [
+          "Within the reactive category there are three distinct mechanisms, and knowing which one you are dealing with changes what to do about it.",
+          "Irritant contact reactions are dose-dependent and would occur in anybody given enough exposure. They appear quickly, often during application, present as burning or stinging, and improve when the concentration or frequency is reduced. Most reactions to acids and retinoids are of this kind, which is why the answer is usually less rather than none.",
+          "Allergic contact reactions are immune-mediated, appear a day or two after exposure, present with itching rather than burning, and do not respond to reducing the dose — once sensitised, even trace amounts provoke a response. That is the situation in which patch testing is worth arranging, because the only workable strategy is complete avoidance of a specific substance. The third category, sensory intolerance without visible change, is real, poorly understood, and reported by many people with rosacea.",
+        ],
+      },
+      {
+        h: "Building a routine that holds up",
+        p: [
+          "For anyone in either camp, a few structural choices reduce the frequency of problems considerably. Keep the number of products small, because each addition is another set of ingredients and another variable to isolate when something goes wrong.",
+          "Choose fragrance-free rather than unscented, since the second can indicate a masking fragrance. Prefer shorter ingredient lists where a choice exists. Introduce nothing without a patch test and nothing at the same time as anything else, with two weeks between introductions.",
+          "And keep a simple written record: what was introduced, when, and what happened. Reactive skin produces a long history of products that were tried and abandoned, and without a record that history contains no information. With one, it becomes a list of specific ingredients to avoid, which is the difference between an endless search and a solved problem.",
+        ],
+      },
+      {
+        h: "The things that are not products",
+        p: [
+          "Reactivity is not caused only by what is applied, and people who have eliminated every plausible product and still react are frequently looking in the wrong place.",
+          "Water hardness affects how much residue a cleanser leaves and how much stripping occurs. Very hot showers, heated indoor air and cold wind all deplete surface lipids independently of anything applied. Laundry detergent and fabric softener contact the face for eight hours a night through a pillowcase, and are a genuinely common unrecognised cause.",
+          "Friction is another: face coverings, phone screens, hands resting on the chin, and vigorous towelling. So are hair products, which run down the face in the shower and produce reactions along the hairline and jaw that nobody attributes to shampoo. Working through this second list is worth doing before concluding that the skin itself is the problem. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'skincare-marketing-decoder',
+    sections: [
+      {
+        h: "Why the vocabulary exists at all",
+        p: [
+          "The words that dominate skincare packaging share one property: none has a regulatory definition in most jurisdictions. That is not an oversight. Terms without legal meaning can be applied to any product without triggering a substantiation requirement, which is precisely why they proliferate.",
+          "The regulated claims are the boring ones. A product asserting that it treats a condition becomes a medicine and enters a different framework requiring evidence. A product asserting that it improves the appearance of something remains a cosmetic and does not.",
+          "This produces the recognisable dialect on any package: language engineered to sit just inside the cosmetic boundary while being read as a therapeutic claim. Once you can hear that, the front of the box becomes mostly noise and the ingredient list becomes the only part worth reading.",
+        ],
+      },
+      {
+        h: "Clean, natural and non-toxic",
+        p: [
+          "Clean is the newest and emptiest of the three. There is no standard, no certifying body with authority, and no agreement on what it excludes. Each brand publishes its own list, and the lists differ substantially, which is the clearest possible evidence that the word describes a market position rather than a property.",
+          "Natural has the same problem with a longer history. It carries no information about safety: plant extracts are complex mixtures containing dozens of compounds, and botanical fragrance components are among the most frequently identified allergens in patch testing data.",
+          "Non-toxic is the most misleading, because toxicity is a matter of dose rather than a category. Everything is toxic at some exposure and nothing is toxic at none. The term implies a binary distinction that does not exist, and it is applied to products whose ingredients are no different in kind from those in the products it is positioned against.",
+        ],
+      },
+      {
+        h: "Chemical-free and the appeal to nature",
+        p: [
+          "Chemical-free is straightforwardly meaningless, since every substance is a chemical, including water and every plant extract. The phrase survives because it does useful work commercially rather than because it describes anything.",
+          "The underlying assumption — that substances of natural origin are safer than synthesised ones — is not supported. Some of the best tolerated ingredients in cosmetic use are synthetic: glycerin, petrolatum, dimethicone, most modern sunscreen filters. Some of the most reactive are botanical.",
+          "There is also a manufacturing point that gets lost. Synthesised ingredients are produced to consistent purity, batch after batch, while plant extracts vary with growing conditions, harvest and processing. For someone with reactive skin, that consistency is an advantage rather than a compromise.",
+        ],
+      },
+      {
+        h: "Dermatologist-tested and clinically proven",
+        p: [
+          "Dermatologist-tested indicates that a dermatologist was involved at some point in testing. It does not indicate what was tested, on how many people, against what comparison, or with what result. A product that was tested and performed poorly can carry the claim truthfully.",
+          "Dermatologist-recommended is weaker still, since it usually reflects a survey of practitioners about what they suggest rather than any assessment of the specific product. Dermatologist-developed indicates involvement in formulation, which may or may not have any bearing on efficacy.",
+          "Clinically proven sounds like the strongest claim and is frequently the vaguest. It typically refers to a manufacturer-funded study on a small number of participants, using self-reported outcomes, without a control group, and measuring appearance rather than any physical parameter. None of this makes a product ineffective; it means the phrase is not evidence and the ingredient list still is.",
+        ],
+      },
+      {
+        h: "Hypoallergenic, non-comedogenic and the partial truths",
+        p: [
+          "Hypoallergenic is the most misleading because it sounds technical. In most jurisdictions it requires no specific testing and represents the manufacturer's assertion that the product is less likely to cause allergy. Products carrying it routinely contain fragrance and recognised sensitisers.",
+          "Non-comedogenic has a partial basis. The historical testing method used rabbit ears and translated poorly to human skin, and no standardised current test exists. It signals intent rather than guaranteeing an outcome, and anyone prone to congestion is better served by observing their own response than by trusting the label.",
+          "Fragrance-free is the one term in this family that carries real information, and it is more meaningful than unscented — the latter can indicate a masking fragrance added to hide a base odour. For anyone with reactive skin, this is the single most useful word on a package, which is a low bar and a genuine exception.",
+        ],
+      },
+      {
+        h: "A buyer's checklist that takes a minute",
+        p: [
+          "Reduced to a procedure: ignore the front of the package entirely, including any coined complex with a trademark symbol, which is a name rather than a claim. Turn it over.",
+          "Read the first five or six ingredients, which account for most of the formulation. Look for whether an ingredient with evidence for what you want is present, and where it sits relative to the preservatives — anything listed after them is present in trace amounts. Scan for fragrance and essential oils if you react to them.",
+          "Check the packaging against the contents: opaque and airless for retinoids, vitamin C and antioxidants; anything is fine for stable ingredients like glycerin and petrolatum. Then find the cheapest product that passes the same checks and compare. In most categories it contains the same actives at the same concentrations, and the difference is texture, which is sometimes worth paying for and is a preference rather than a belief about efficacy. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
+      {
+        h: "The claims that would be worth something",
+        p: [
+          "It is only fair to note what genuinely informative labelling would look like, since the criticism is easier than the alternative. A concentration figure for the active ingredient, which some brands now provide, is real information. So is a stated pH for acid products, which almost nobody publishes despite it determining how strong the product actually is.",
+          "Tracking difference against a standard, batch dates rather than only expiry, and independent rather than manufacturer-funded testing would all be improvements. None of these is common, and their absence is a business decision rather than a technical obstacle.",
+          "The one area where labelling has genuinely improved is sun protection, where UVA marks, star ratings and broad-spectrum designations are defined and mean something specific in the regions that use them. That precedent is worth noting: where regulators have defined a term, it becomes useful. Where they have not, the term becomes a marketing asset, which is the entire pattern this article describes.",
+        ],
+      },
+      {
+        h: "Why the empty words work so well",
+        p: [
+          "The persuasiveness of this vocabulary is not a failure of intelligence on the part of buyers, and understanding why it works makes it easier to resist. Skincare is a category with a genuinely uncertain relationship between purchase and outcome, over timescales long enough that nobody can attribute results confidently.",
+          "Under that uncertainty, a word that signals safety or virtue does real psychological work, because it substitutes a judgement about the product's character for an assessment nobody is equipped to make. Clean and natural are reassuring precisely because the actual question — will this improve my skin — is unanswerable at the point of purchase.",
+          "The defence is to replace the unanswerable question with an answerable one. Not is this good, but does it contain a specific ingredient with evidence for a specific concern I actually have, at a concentration that appears above the trace threshold, in packaging that will keep it stable. That is checkable in a minute, and it is immune to every word on the front of the box.",
+        ],
+      },
     ],
   },
 ];
