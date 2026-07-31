@@ -675,6 +675,83 @@ export const EXPANSIONS: Expansion[] = [
           "And there is a commercial layer on top, in which a belief that supports a purchase is repeated by everyone who benefits from it. The useful defence is not scepticism about everything but a small number of questions: is there a proposed mechanism, is there evidence beyond testimonial, and does the claim require the product to do something skin is not capable of doing. Most of the myths on this list fail the third question immediately.",
         ],
       },
+      {
+        h: "Reading a claim on a package",
+        p: [
+          "Cosmetic claims are regulated in most jurisdictions, and the regulation constrains what can be said rather than requiring that anything works. This produces a recognisable vocabulary that is worth being able to parse.",
+          "Phrases such as reduces the appearance of, helps to, visibly improves and clinically proven to improve the look of are all constructed to describe an effect on appearance rather than on structure, because a structural claim would make the product a medicine and trigger a different regulatory regime. They are not lies; they are precise statements that most readers parse as stronger than they are.",
+          "Clinically proven similarly does not indicate a randomised controlled trial. It frequently refers to a manufacturer study on a small number of participants using self-reported outcomes, with no control group. Neither of these means a product is ineffective — it may contain a well-evidenced active — and both mean the phrasing on the box is not where the information lives. The ingredient list is. As with everything on this site, this is educational rather than medical advice.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'dry-skin-vs-dehydrated',
+    sections: [
+      {
+        h: "Two different deficits",
+        p: [
+          "The distinction rests on which component is missing. Dry skin lacks lipids: sebaceous gland output is low, either constitutionally, because of age, or because of a condition such as eczema. It is a skin type, it tends to be lifelong, and it affects the whole face and frequently the body.",
+          "Dehydrated skin lacks water in the stratum corneum. It is a condition rather than a type, it can occur in any skin including oily skin, and it is usually temporary and caused by something identifiable: over-cleansing, a harsh product, low humidity, air travel, illness or a recent change in routine.",
+          "The reason this matters commercially is that the products differ. Dry skin needs lipids replaced — emollients and occlusives. Dehydrated skin needs water attracted and retained — humectants with something over the top. Buying a rich oil-based cream for dehydrated oily skin feels wrong and does not address the deficit, which is how people end up with a drawer of products that all disappointed.",
+        ],
+      },
+      {
+        h: "Telling them apart",
+        p: [
+          "A few observations separate them reliably. Dry skin looks and feels rough or flaky most of the time, in all conditions, and has done for years. It rarely produces visible shine anywhere. Dehydrated skin can look dull and feel tight while still producing oil, and the combination of an oily surface with tightness underneath is close to diagnostic.",
+          "Timing is the second signal. Dryness is stable; dehydration appeared. Someone whose skin was fine in June and uncomfortable in January is dehydrated, not dry, and the cause is likely the heating. Someone whose skin has been rough since childhood has a type.",
+          "Fine lines that appear suddenly and look more like creasing than like structural lines are typical of dehydration, because reduced water content in the outer layer makes the surface less plump. These resolve within days of correcting the hydration, which is another useful distinguishing test.",
+        ],
+      },
+      {
+        h: "Both at once",
+        p: [
+          "The categories are not exclusive, and a substantial number of people are both: constitutionally dry skin that has also become dehydrated through a harsh winter or an over-enthusiastic routine. This is the most uncomfortable combination and it is common.",
+          "In that situation both deficits need addressing, which means a humectant to bring water in and a meaningful emollient and occlusive layer over it. The ordering matters here more than usual: humectant onto damp skin, then the richer product over the top to hold it.",
+          "It is worth resolving the dehydration first, since it is the reversible component and it may be responsible for most of the discomfort. If skin remains rough and flaky once hydration is restored, the underlying dryness is the residual problem and can be treated on its own terms.",
+        ],
+      },
+      {
+        h: "Treating dry skin",
+        p: [
+          "Dry skin is a lipid problem and the treatment is lipid replacement, applied consistently rather than intensively. Products containing ceramides, cholesterol and fatty acids supply the actual components of the barrier matrix. Heavier emollients and occlusives — shea butter, squalane, petrolatum — reduce the water loss that low lipid content permits.",
+          "Cleansing is where most improvement is available. A foaming cleanser removes lipids that dry skin cannot spare, and switching to a cream or oil cleanser used once daily frequently produces more improvement than any moisturiser change. Hot water has the same effect and is easier to fix.",
+          "Environmental measures matter for a type that cannot be cured. A humidifier in heated rooms, shorter and cooler showers, and applying emollient within three minutes of washing while the skin is still damp all help. Dry skin is managed rather than resolved, and the management is consistent and unglamorous.",
+        ],
+      },
+      {
+        h: "Treating dehydration",
+        p: [
+          "Dehydration usually has a cause, and identifying it produces faster results than any product. The most frequent are over-cleansing, a recently introduced active, an exfoliant used too often, and a change in environment such as the heating coming on or a period of travel.",
+          "Removing the cause resolves a substantial proportion of cases within a week or two. Where support is wanted, a humectant serum containing glycerin or hyaluronic acid, applied to damp skin and sealed with a moisturiser, addresses the deficit directly. The sealing step is not optional in dry air, for the reason set out in the moisturiser article on this site.",
+          "Oily skin that is dehydrated needs a light formulation rather than none. A gel moisturiser weighted toward humectants with a small amount of occlusive is usually sufficient, and the instinct to skip moisturiser because the skin is oily is precisely what caused the problem in a large proportion of cases.",
+        ],
+      },
+      {
+        h: "Why the wrong diagnosis persists",
+        p: [
+          "The reason people stay stuck is that both conditions produce the same subjective report — my skin feels dry — and the retail response to that report is a rich cream. For genuine dryness that is correct. For dehydrated oily skin it is uncomfortable, causes congestion, and gets abandoned, after which the person concludes moisturiser does not work for them.",
+          "The other direction happens too: someone with constitutionally dry skin buying a hydrating serum and using it alone, which in dry air makes the skin feel tighter rather than better, for the reasons discussed under humectants elsewhere on this site.",
+          "The correction in both cases is the same question: is the missing thing oil or water. Answering it takes a moment of observation and it determines which half of the shelf is relevant. That is a small amount of diagnostic effort with an unusually direct effect on whether the next purchase helps. As with everything on this site, this is educational rather than medical advice, and persistent dryness that does not respond is worth having assessed.",
+        ],
+      },
+      {
+        h: "A simple test you can run at home",
+        p: [
+          "There is a rough diagnostic that takes a few hours and costs nothing. Cleanse gently in the evening, apply nothing at all, and observe the skin after a couple of hours and again in the morning.",
+          "Skin that feels tight and looks flaky, with no shine developing anywhere, is dry: it has not produced enough oil to make itself comfortable. Skin that develops shine in the usual areas while still feeling tight underneath is dehydrated: the oil is there, the water is not. Skin that becomes comfortable on its own within an hour or two probably needs less product rather than a different one.",
+          "This is not a laboratory measurement and it is more informative than any amount of reading, because it removes the confounding effect of whatever you have been applying. It is also the fastest way to discover that a routine is causing the problem it is trying to solve, which is the most common finding when people run it.",
+        ],
+      },
+      {
+        h: "The seasonal version of the same question",
+        p: [
+          "For a large number of people the answer changes twice a year, which is worth building into how the routine is arranged rather than treating as a recurring surprise. Cold outdoor air holds little moisture and heated indoor air holds less, which means winter reliably increases both water loss and lipid depletion.",
+          "The practical arrangement is two versions of a routine rather than a search for one product that suits every month. A lighter moisturiser and a lower-frequency cleansing routine in summer; a richer formulation, a gentler cleanser and possibly an occlusive layer at night in winter.",
+          "Anyone whose skin is comfortable for half the year and difficult for the other half is not dealing with a mysterious skin type. They are dealing with a fixed routine meeting variable conditions, and the fix is to vary the routine rather than to keep looking for a product that will hold up in both.",
+        ],
+      },
     ],
   },
 ];
