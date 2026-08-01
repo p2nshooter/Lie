@@ -2977,6 +2977,463 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'reapplying-sunscreen-real-life',
+    sections: [
+      {
+        h: "What actually happens to the film over a morning",
+        p: [
+          "Sunscreen does not simply stop working at a scheduled hour. It degrades through several separate processes that run at different rates, which is why a single two-hour rule fits some days badly and others well.",
+          "Photodegradation is the chemistry. Some organic filters, avobenzone most notably, break down as they absorb ultraviolet, which is why modern formulations pair them with stabilising partners. A well-stabilised sunscreen loses far less of its protection over an hour of sun than an older one.",
+          "Mechanical removal is the bigger factor in ordinary life. Sweat, sebum surfacing through the film, rubbing an eye, resting a cheek on a hand, a scarf, a phone screen, a towel — each takes a portion of the layer away, and none of it is visible.",
+          "Migration is the third. Over a few hours the film thins unevenly as it moves with facial movement and mixes with sebum, so protection becomes patchy rather than uniformly weaker. That patchiness is why the same face can burn in one small area and not another.",
+        ],
+      },
+      {
+        h: "Matching reapplication to the actual day",
+        p: [
+          "The two-hour rule was written for outdoor exposure, and applying it universally is one reason people conclude sunscreen is unworkable and abandon it altogether. A day spent in an interior office away from windows genuinely does not require the same schedule as a day at a market stall.",
+          "A more useful framing is exposure-based. Reapply before going out rather than at fixed intervals, immediately after swimming or heavy sweating, and after anything that physically wiped the face. If none of those happened, the morning application is doing more than people assume.",
+          "Windows change this calculation. Standard glass blocks most UVB but transmits a great deal of UVA, so a desk beside a window is meaningful exposure even though nobody in that room will burn.",
+          "The point is not to reapply less. It is to reapply at the moments that matter, which is a habit people can sustain, rather than to a clock they will ignore by Wednesday.",
+        ],
+      },
+      {
+        h: "Sticks, and what they do well",
+        p: [
+          "A sunscreen stick is the most reliable of the over-makeup options because it delivers a genuine quantity of product rather than a suggestion of one. Applied in overlapping passes with real pressure, it lays down a film comparable to a cream.",
+          "The technique matters more than the product. Two or three passes over each area, overlapping, rather than one light sweep — most people under-apply a stick badly on the first attempt because it feels like enough long before it is.",
+          "The trade-off is finish. Sticks are usually waxier and can disturb makeup underneath, and they are slow over a whole face. They are at their best on the specific areas that get the most exposure and the least attention: nose, cheekbones, ears, the back of the neck.",
+          "For anybody who will only carry one thing, this is the one to carry.",
+        ],
+      },
+      {
+        h: "Powders, cushions and sprays, honestly assessed",
+        p: [
+          "Powder sunscreens are the most convenient and the weakest. Achieving the tested quantity from a brush would require an implausible amount of powder, and studies of real-world use find application rates far below what the SPF assumes. They are a top-up, not a layer.",
+          "That does not make them worthless. A powder over an existing morning application maintains something rather than nothing, and it is the option people will actually use at a desk. Treat it as extending the morning film rather than replacing it.",
+          "Cushion compacts sit in between. They deliver more product than a powder and can be pressed rather than rubbed, which preserves what is underneath. They are popular for good reason and they still require more pressing than feels natural.",
+          "Sprays are the most misapplied category in the market. Held at a distance, in any breeze, most of the product never reaches the skin. Used close, in still air, and then rubbed in — which defeats the convenience — they work. Otherwise they mostly scent the air.",
+        ],
+      },
+      {
+        h: "The pressing technique that saves your makeup",
+        p: [
+          "The central problem with reapplying over makeup is that rubbing lifts and streaks what is underneath. The solution is to change the motion rather than the product: press and roll rather than sweep.",
+          "With a cream or fluid, dispense onto the fingertips and press downward in overlapping dabs, letting the product transfer without dragging. With a sponge, roll it across the surface rather than wiping. With a stick, press and lift rather than stroke.",
+          "This is slower and it takes perhaps ninety seconds for a face. It also produces a genuinely reapplied layer with makeup largely intact, which is the outcome people assume is impossible.",
+          "A light mist of water or setting spray before pressing helps the new layer merge rather than sit in patches, and it is the small refinement that makes the whole method practical.",
+        ],
+      },
+      {
+        h: "Lips, ears, scalp and the places that get missed",
+        p: [
+          "The lower lip is a common site for skin cancer and almost never gets sunscreen. A lip balm with SPF 30 or higher, reapplied as often as any other balm, closes the most neglected gap in most routines at negligible cost.",
+          "Ears — the upper rim in particular — are missed by nearly everybody and are exposed at an unfavourable angle for most of the day. The same applies to the back of the neck for anybody with short hair or a tied-back style.",
+          "The scalp parting is the one people discover late. A powder sunscreen genuinely earns its place here, or a hat, which is easier. The tops of the feet in sandals belong on the same list.",
+          "Eyelids are difficult because most formulations sting when they migrate. Sunglasses solve this better than any product, and they solve squinting at the same time.",
+        ],
+      },
+      {
+        h: "A plan that survives a real week",
+        p: [
+          "Morning: a full application of a third of a teaspoon to face and neck, applied at least fifteen minutes before leaving, and let to set before makeup. This is the layer everything else is topping up, and getting the quantity right here matters more than every later decision combined.",
+          "Bag: one stick, permanently. It survives being forgotten, it does not leak, and it makes reapplication possible in a lift or a car in thirty seconds.",
+          "Desk: a cushion compact or a powder for the lunchtime top-up, used by pressing. If the desk is near a window, this stops being optional.",
+          "Anything outdoors: reapply immediately before going out and every two hours while there, and treat towelling, swimming or heavy sweat as an automatic trigger regardless of the clock.",
+        ],
+      },
+      {
+        h: "What to do when reapplication is genuinely impossible",
+        p: [
+          "There are days when none of this works — a full face of makeup for an event, a surgical shift, hands occupied for eight hours. Rather than treating those as failures, shift the protection to the measures that do not require touching the face.",
+          "A wide-brimmed hat outperforms most reapplication schedules and needs doing once. Sunglasses cover the area most difficult to reapply. Shade, timing, and the shady side of a street are all real interventions that cost nothing.",
+          "Clothing is the most under-rated of them. A long sleeve is roughly equivalent to a well-applied sunscreen and does not wear off, and UPF-rated fabrics exist for anybody who wants the number.",
+          "The point is that reapplication is one tool among several. On the days it is impossible, the answer is not to give up on the day but to use the tools that remain available.",
+        ],
+      },
+      {
+        h: "The honest priority order",
+        p: [
+          "If everything in this article cannot be done, the order of importance is clear. Apply enough in the morning — this alone accounts for more of the gap between claimed and actual protection than every reapplication habit combined.",
+          "Then reapply before deliberate outdoor exposure. Then use hats and shade for the long stretches. Then top up at the desk if there is a window. Then worry about the technique over makeup.",
+          "Most people invert this list, agonising over powder brands while applying a quarter of the required quantity at eight in the morning. Fixing the first item costs nothing and changes more.",
+          "And a routine that gets followed four days a week beats a perfect one abandoned in a fortnight, which is worth remembering before designing something elaborate.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'sunscreen-for-deeper-skin-tones',
+    sections: [
+      {
+        h: "What melanin actually provides",
+        p: [
+          "Melanin is a genuine photoprotectant. It absorbs ultraviolet and scatters it, and it neutralises some of the free radicals that ultraviolet generates. Skin with more of it, and with melanin distributed in larger and more stable packages, is measurably better protected than skin with less.",
+          "The number usually quoted for very deeply pigmented skin is an intrinsic sun protection factor of roughly 13, with figures around 3 to 4 for lighter brown skin. Those are real and they are also modest — SPF 13 is below the minimum recommended for any deliberate sun exposure.",
+          "It is also uneven protection. Melanin defends better against UVB, which causes burning, than against the UVA wavelengths that drive photoageing and pigmentation. So the protection is best against the effect that is most visible and weakest against the effects people most complain about.",
+          "The practical upshot: deeper skin burns less readily and burns nonetheless, and it is not protected from the changes that unprotected skin accumulates over decades.",
+        ],
+      },
+      {
+        h: "The problems that ultraviolet actually causes here",
+        p: [
+          "Skin cancer is less common in deeper skin tones and considerably more lethal when it occurs, largely because it is diagnosed later. Acral lentiginous melanoma, the subtype most common in people with darker skin, appears on palms, soles and under nails and is not sun-driven, which is exactly why the association between skin and sun protection needs stating carefully rather than dismissed.",
+          "The everyday problems are different. Post-inflammatory hyperpigmentation is markedly more common and more persistent, and ultraviolet exposure both darkens existing marks and prolongs them. Anybody treating dark spots without daily sun protection is treating against the tide.",
+          "Melasma is likewise more prevalent, and it responds to visible light as well as ultraviolet, which changes what kind of sunscreen is required rather than whether one is.",
+          "And photoageing proceeds regardless — later and more slowly than in lighter skin, and it proceeds. Uneven tone, textural change and loss of firmness all have an ultraviolet component.",
+        ],
+      },
+      {
+        h: "Why the white cast happens",
+        p: [
+          "The cast comes from mineral filters. Zinc oxide and titanium dioxide are white powders, and a layer of white powder on brown skin looks like a layer of white powder on brown skin. It is not a formulation error; it is the appearance of the material.",
+          "Particle size is the main lever. Micronised and nano-sized mineral particles scatter less visible light and appear more transparent, though very fine zinc still leaves a visible cast at the concentrations needed for high protection.",
+          "The other lever is chemistry. Organic filters dissolve in the formulation and are genuinely colourless, which is why chemical sunscreens rarely have this problem at all. For anyone who tolerates them, this resolves the issue completely.",
+          "The third route is tinting. Adding iron oxides shifts the colour of the film toward skin tones, and in doing so it also adds visible-light protection — a rare case where the cosmetic fix improves the product's actual performance.",
+        ],
+      },
+      {
+        h: "Tinted sunscreen is the strongest option here",
+        p: [
+          "For deeper skin tones the tinted mineral sunscreen is not a compromise; it is arguably the best product available. It solves the cast, and iron oxides filter high-energy visible light, which independently stimulates pigmentation in melanin-rich skin.",
+          "That second point is what makes it a genuine upgrade rather than a cosmetic workaround. Trials in melasma have found tinted formulations outperform untinted ones with equivalent ultraviolet protection, and the difference is attributed to the visible-light filtering.",
+          "The obstacle has historically been shade range. Many brands offered one universal tint that suited a narrow band of complexions, though this has improved substantially and continues to.",
+          "For anyone with pigmentation concerns in deeper skin, a well-matched tinted sunscreen does more work than any brightening serum in the routine.",
+        ],
+      },
+      {
+        h: "Testing a sunscreen properly before committing",
+        p: [
+          "Never judge a sunscreen indoors. Shop lighting is unreliable and most casts are visible only in daylight, so a swatch that looked fine at the counter reveals itself in the street ten minutes later.",
+          "Apply the full amount when testing, not a smear. A cast that is invisible at a quarter of the tested quantity will be obvious at the quantity that actually provides the labelled protection, and testing thin defeats the purpose of testing at all.",
+          "Give it ten minutes. Several formulations settle noticeably as they dry, and some that look chalky on application become acceptable once set. Others go the other way.",
+          "And check the jawline against the neck in daylight. That boundary is where a mismatch shows, and it is the check that predicts how the product will look in a photograph.",
+        ],
+      },
+      {
+        h: "What to look for on the label",
+        p: [
+          "Chemical or hybrid formulations tend to be the most cosmetically elegant on deeper skin. Look for the newer-generation filters where they are available — the Tinosorb and Uvinul family — which offer strong broad-spectrum coverage in textures that disappear.",
+          "If mineral is preferred or required, look for tinted, and look for formulations where zinc oxide is combined with iron oxides rather than used alone at high concentration.",
+          "Broad spectrum matters more than a very high SPF here, for the same reason it matters everywhere: melanin already provides better UVB defence than UVA defence, so the band where the sunscreen adds most is the one melanin covers least.",
+          "Finish is a legitimate criterion rather than a vanity. A product with a dewy finish on skin that is already luminous can read as greasy, and a matte or satin finish is often the more wearable choice.",
+        ],
+      },
+      {
+        h: "The habit problem, and why it persists",
+        p: [
+          "Surveys consistently find substantially lower rates of sunscreen use among people with darker skin, and the reasons are well documented: the widespread belief that melanin is sufficient, the cast, and decades of marketing imagery that addressed a different audience entirely.",
+          "Medical advice has not always helped. Sun protection messaging has historically been framed around burning and around skin cancer risk in fair skin, which reads as irrelevant to somebody who does not burn.",
+          "Reframing helps. For most people in this group the compelling argument is not cancer prevention but pigmentation: even tone, faded marks, and treatments that finally start working. That is the outcome people want and sunscreen is the precondition for it.",
+          "Framed that way, daily sunscreen stops being a medical instruction and becomes the most effective product in a routine aimed at the concern people actually have.",
+        ],
+      },
+      {
+        h: "Building it into a routine that lasts",
+        p: [
+          "Attach it to something that already happens. Sunscreen goes on after moisturiser, before leaving the house, every morning, in the same order — the habit forms around the sequence rather than around the intention.",
+          "Keep the quantity honest. Two fingers' length for face and neck is the working guide, and this is where most protection is lost regardless of which product is chosen.",
+          "Expect an adjustment period with the finish. Skin that has never worn sunscreen daily feels different for a week or two, and most people who abandon it do so in that window rather than because the product was wrong.",
+          "And accept that finding the right one may take two or three attempts. That is normal, it is the same for everybody, and the search is worth completing rather than abandoning after the first chalky bottle.",
+        ],
+      },
+      {
+        h: "The short version",
+        p: [
+          "Melanin gives a real but insufficient head start — around SPF 13 at best, and weighted toward the wavelengths that cause burning rather than the ones that cause pigmentation and ageing.",
+          "The problems that follow from unprotected exposure in deeper skin are mostly pigmentary, and they are precisely the problems people are trying to solve with the rest of their routine.",
+          "A tinted sunscreen, chemical or hybrid, broad spectrum, applied at two fingers' length every morning, resolves both the cast and the visible-light exposure that untinted products leave open.",
+          "Everything else in this article is detail. That one sentence is the whole recommendation, and it holds regardless of which brand ends up on the shelf.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'after-sun-and-repair',
+    sections: [
+      {
+        h: "What a sunburn actually is",
+        p: [
+          "Sunburn is not a heat injury, which is the first thing worth correcting. It is a response to direct DNA damage, primarily from UVB, in the cells of the epidermis. The ultraviolet is absorbed by DNA and produces characteristic lesions that the cell must either repair or respond to.",
+          "The redness appears hours later because it is an inflammatory response rather than an immediate burn. Blood vessels dilate, immune cells arrive, and the visible peak arrives somewhere between twelve and twenty-four hours after the exposure that caused it.",
+          "Peeling is the aftermath of a decision made at the cellular level. Cells with damage beyond repair undergo programmed death — apoptosis — and are shed. The peeling skin is the body discarding cells too damaged to keep, which is a protective mechanism rather than a cosmetic inconvenience.",
+          "This matters for expectations. By the time the burn is visible, the DNA damage is several hours old and already being dealt with. Nothing applied afterwards undoes it.",
+        ],
+      },
+      {
+        h: "What can and cannot be changed after the fact",
+        p: [
+          "The damage itself is not reversible by anything available. Cells repair their own DNA through enzymatic pathways, and the outcome — repair, apoptosis, or a surviving mutation — is determined by processes no topical product participates in.",
+          "What can be influenced is the inflammatory response, which is what causes most of the discomfort, and the barrier damage, which is what causes the dryness and peeling that follow. Both are worth treating, and treating them well makes a substantial difference to the week that follows.",
+          "The distinction is worth holding onto because the marketing around after-sun blurs it deliberately. Products described as repairing are almost always soothing and hydrating, which is genuinely useful and is a different claim.",
+          "The one product category with a legitimate repair claim is those containing photolyase or DNA repair enzymes, which have some evidence for assisting damage repair. The data are limited, the products are expensive, and they are not a substitute for not burning.",
+        ],
+      },
+      {
+        h: "The first few hours",
+        p: [
+          "Get out of the sun, and stay out for the rest of the day. Continued exposure on skin that is already responding compounds the injury, and the damage is cumulative in a way that a single afternoon can make considerably worse.",
+          "Cool the skin. A cool shower, a cool bath, or cool damp cloths applied for ten to fifteen minutes at a time reduce both the temperature and the discomfort. Cold water rather than ice, and never ice directly on burnt skin, which risks further injury.",
+          "Take an anti-inflammatory if there is no reason not to. Ibuprofen or naproxen taken early genuinely reduces the inflammatory response and therefore both the pain and some of the redness, and it is more effective in the first hours than later.",
+          "Drink more than usual. Burnt skin loses water rapidly and a significant burn draws fluid toward the surface, so mild dehydration is common and contributes to feeling unwell.",
+        ],
+      },
+      {
+        h: "What genuinely soothes",
+        p: [
+          "Bland emollients are the workhorse. A simple fragrance-free moisturiser applied while the skin is still slightly damp reduces water loss and eases the tightness. This is unglamorous and it is the single most useful thing to keep applying over the following week.",
+          "Aloe vera has reasonable evidence for symptomatic relief, and the cooling sensation is not only psychological. Choose a product that is mostly aloe and not mostly alcohol and fragrance, which describes a great many of them.",
+          "Colloidal oatmeal baths help with the itching that arrives as the burn settles, and are cheap and well tolerated.",
+          "Hydrocortisone one per cent used briefly on a defined area can reduce inflammation, though evidence for its benefit in sunburn specifically is modest and it should not be used on broken skin or extensively over days.",
+        ],
+      },
+      {
+        h: "The mistakes that make it worse",
+        p: [
+          "Anything with alcohol high in the formula stings and dries skin that is already losing water. This includes a good number of products marketed for after-sun use, which is worth checking rather than assuming.",
+          "Petroleum jelly applied to a fresh burn traps heat and is the traditional advice most worth ignoring in the first day. It becomes useful later, once the acute phase has passed and the problem is dryness rather than heat.",
+          "Popping blisters converts a superficial burn into an open wound with an infection risk. Blisters are a sterile dressing the body made itself; leave them, and cover them loosely if they burst on their own.",
+          "Butter, vinegar, toothpaste and the rest of the folk remedies do nothing useful and several are actively irritating. Exfoliating peeling skin is the other common instinct to resist — pulling at it removes skin that was still attached and prolongs the whole business.",
+        ],
+      },
+      {
+        h: "The week that follows",
+        p: [
+          "Peeling typically begins three to seven days in and runs for several days. It is unattractive and it is the correct process, and interfering with it produces uneven patches that take longer to resolve than leaving it alone would have.",
+          "Keep moisturising throughout, generously and often. The barrier is compromised and water loss is elevated for well over a week after the redness has gone, which is why skin can feel tight and rough long after it stops looking burnt.",
+          "Skip every active in the routine. No retinoids, no acids, no vitamin C, no scrubs, no cleansing brushes. This is not caution for its own sake — applying an exfoliant to skin that is already shedding an entire layer is a reliable route to a much longer recovery.",
+          "Resume gradually, one product at a time, once the peeling has finished and skin feels normal to the touch rather than as soon as it looks acceptable.",
+        ],
+      },
+      {
+        h: "Protecting skin that has just burnt",
+        p: [
+          "Newly burnt and newly healed skin is more vulnerable, not less, and the instinct to let it breathe in the sun is exactly wrong. Cover it, keep it out of direct sun entirely for several days, and use clothing rather than sunscreen while it is still tender.",
+          "Once sunscreen can be tolerated, a mineral formulation is usually the more comfortable choice on skin that is still reactive. Reapply diligently, because the area is more susceptible to a second insult than the surrounding skin.",
+          "There is also a pigmentation risk that is easy to overlook. Inflammation stimulates melanocytes, so a burn in someone prone to post-inflammatory hyperpigmentation can leave a mark that outlasts the burn by months, and sun exposure during recovery makes that mark permanent-looking.",
+          "Two weeks of genuine care here saves considerably more trouble than it costs.",
+        ],
+      },
+      {
+        h: "When it is more than sunburn",
+        p: [
+          "Medical attention is warranted for extensive blistering, particularly over a large area of the body; for fever, chills, nausea, dizziness or confusion, which suggest sun poisoning or heat illness; and for any sign of infection in blistered skin — increasing pain, spreading redness, pus or warmth.",
+          "Severe burns in children, in the elderly, and in anyone taking photosensitising medication warrant a lower threshold for seeking help. A number of common drugs — some antibiotics, diuretics, retinoids and anti-inflammatories among them — substantially increase sensitivity and produce burns disproportionate to the exposure.",
+          "A burn that appeared after unremarkable sun exposure is itself worth investigating, since it may indicate a photosensitivity reaction rather than an ordinary burn.",
+          "And any burn severe enough to blister carries a documented increase in lifetime melanoma risk, which is a reason to treat it as an event worth avoiding again rather than an inconvenient week.",
+        ],
+      },
+      {
+        h: "The uncomfortable summary",
+        p: [
+          "After-sun care manages symptoms and supports recovery. It does not repair, reverse or undo, and the entire category is built on a promise it cannot keep.",
+          "That is not a reason to skip it. Cool the skin, take an anti-inflammatory early, moisturise relentlessly, leave the blisters and the peeling alone, drop every active for a fortnight, and protect the area rigorously while it heals. Done properly, that turns a miserable ten days into an uncomfortable five.",
+          "But the honest framing is prevention. Every sunburn is a permanent addition to a cumulative total, and the products sold for afterwards exist because the products sold for beforehand were not used in sufficient quantity.",
+          "The most effective after-sun product on the market is the sunscreen you apply next time, generously, and reapply.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'natural-skincare-myth',
+    sections: [
+      {
+        h: "The word has no definition, and that is the point",
+        p: [
+          "In most jurisdictions, natural has no legal meaning when applied to a cosmetic. There is no threshold of plant-derived content, no register of permitted processes, and no authority verifying the claim. A product may contain a single botanical extract at a fraction of a per cent and describe itself as natural without breaking any rule.",
+          "This is not a loophole that regulators have overlooked. Terms with legal definitions carry substantiation requirements; terms without them do not. The commercial value of the word is precisely that it communicates a great deal while committing to nothing.",
+          "Various private certification schemes exist and they set genuine standards, but they differ from one another substantially and none of them is what the word on a bottle refers to unless a specific certification mark appears alongside it.",
+          "So the first move when reading natural on packaging is to treat it as marketing copy rather than as information about the contents, which is what it legally is.",
+        ],
+      },
+      {
+        h: "Everything is chemicals, and it matters why",
+        p: [
+          "Water is a chemical. So is every plant extract, every essential oil, every vitamin and every protein in your own skin. Chemical-free is not an overstatement or a simplification; it describes a category with nothing in it, and a product satisfying the claim would be an empty container.",
+          "The point of insisting on this is not pedantry. The chemical-versus-natural framing invites people to sort ingredients by origin rather than by what they do, and origin is close to useless as a predictor of either safety or effect.",
+          "What determines whether something is safe is the molecule, the dose, the route of exposure and the individual. Botulinum toxin is natural and is among the most poisonous substances known. Purified water is synthetic in the sense that somebody made it and is entirely benign.",
+          "Once the frame shifts from where did this come from to what does this molecule do at this concentration, the whole vocabulary stops being useful and the ingredient list starts being useful instead.",
+        ],
+      },
+      {
+        h: "The plants that cause the most trouble",
+        p: [
+          "Contact dermatitis clinics see a consistent pattern, and it does not favour the natural side of the argument. Fragrance is the most common cosmetic allergen, and botanical fragrance materials and essential oils are heavily represented within it.",
+          "Specific offenders recur. Limonene and linalool, which occur naturally in citrus and lavender, oxidise on exposure to air into potent sensitisers. Tea tree oil is a recognised allergen. Ylang-ylang, peppermint and cinnamon bark oil all appear regularly in patch test results.",
+          "Propolis, from bees, is a frequent cause of reactions. So is colophony, from pine. Compositae plants — chamomile, calendula, arnica, echinacea — are a well-documented allergen family and are exactly the ingredients marketed most enthusiastically for sensitive skin.",
+          "None of this makes these ingredients unusable. It makes the assumption that plant-derived means gentle empirically wrong, and it is wrong in the specific direction that causes the most harm to the people acting on it.",
+        ],
+      },
+      {
+        h: "Why synthetic ingredients often have the better record",
+        p: [
+          "A synthesised ingredient can be produced to a defined purity, in a consistent composition, batch after batch. A plant extract varies with the growing season, the soil, the harvest, the extraction method and the part of the plant used, and contains hundreds of compounds most of which are uncharacterised.",
+          "That variability is a safety problem as much as an efficacy one. Standardising the dose of an active is straightforward when the active is a known molecule at a known concentration and difficult when it arrives inside a botanical matrix.",
+          "Several of the best-tolerated ingredients in dermatology are synthetic for exactly this reason. Petrolatum has one of the lowest allergy rates of any topical substance. Dimethicone is essentially inert. Glycerin, niacinamide and hyaluronic acid are all produced synthetically and all have excellent safety records.",
+          "The pattern is not that synthetic is better. It is that purity, characterisation and dose control are better, and those tend to come with synthesis.",
+        ],
+      },
+      {
+        h: "The preservative question, taken seriously",
+        p: [
+          "Preservative-free is the natural claim with the highest potential to cause actual harm. A water-containing product without an adequate preservative system grows bacteria, yeast and mould, and applying a contaminated cream to broken skin or near the eyes carries real risk.",
+          "Parabens took the reputational damage that drove this market, on the strength of a small 2004 study that found paraben traces in breast tumour tissue. The study had no control group, demonstrated no causal link, and its own author subsequently said it did not show what it was being cited to show.",
+          "The subsequent reformulation was not obviously an improvement. Methylisothiazolinone, adopted widely as a replacement, produced a documented epidemic of contact allergy substantial enough that regulators restricted its use in leave-on products.",
+          "The genuinely preservative-free options are anhydrous — oils, balms, powders — which contain no water for anything to grow in. Everything else needs a preservative system, and a well-chosen one is a safety feature rather than a compromise.",
+        ],
+      },
+      {
+        h: "Where natural products genuinely deliver",
+        p: [
+          "It would be dishonest to leave the impression that plant-derived ingredients are a marketing invention. A number are excellent, and some are the best available option for their purpose.",
+          "Plant oils — squalane from olives, jojoba, sunflower seed oil with its high linoleic acid content — are effective emollients with good evidence behind them. Oat extract and colloidal oatmeal have genuine anti-inflammatory data. Green tea polyphenols are credible antioxidants. Centella asiatica has real supporting research for wound healing and barrier function.",
+          "Several mainstream actives are plant-derived or plant-inspired in origin: salicylic acid relates to willow bark, glycolic acid to sugar cane, retinoids to vitamin A.",
+          "The distinction being drawn here is not against plants. It is against the inference that plant origin by itself predicts safety or efficacy, when the evidence for each specific ingredient is available and is what should be consulted.",
+        ],
+      },
+      {
+        h: "The appeal to nature, and why it persuades",
+        p: [
+          "The underlying reasoning error has a name. The appeal to nature is the assumption that what is natural is good and what is artificial is suspect, and it is persuasive because it substitutes an easy judgement for a hard one.",
+          "Skincare is unusually vulnerable to it. The relationship between what you buy and what happens to your face is genuinely uncertain, unfolds over months, and is confounded by season, sleep, hormones and everything else. Under that much uncertainty, a heuristic about the character of a product does real psychological work.",
+          "The clean beauty movement layered a moral dimension on top, which made the heuristic harder to question. Clean implies that the alternative is dirty, and arguing against the term reads as defending something rather than as asking what it means.",
+          "Recognising the structure of the argument is most of the defence against it. Once natural is understood as a claim about origin and not about effect, the question of what a product actually contains reasserts itself.",
+        ],
+      },
+      {
+        h: "What to read instead",
+        p: [
+          "Read the ingredient list, which is regulated and ordered by concentration down to one per cent. Everything above that threshold is listed in descending order, which tells you far more than any word on the front of the box.",
+          "Look for the specific ingredient you came for, and check that it appears in the first third rather than trailing at the end among the decorative extracts. An active present below the trace threshold is present for the label.",
+          "Check the packaging against the ingredients. Vitamin C, retinoids and most antioxidants degrade in light and air, and a clear jar with a wide mouth undermines a good formula regardless of what is in it.",
+          "And check whether the claims are the kind that could be false. Contains ten per cent niacinamide is checkable. Formulated without twelve hundred ingredients is a statement about a list somebody else wrote. Free-from claims tell you about the marketing strategy, not the product.",
+        ],
+      },
+      {
+        h: "The position worth holding",
+        p: [
+          "There is no reason to be against natural products and no reason to be for them. The category is not a category — it is a marketing bracket containing excellent products, useless ones and a few genuinely risky ones, sorted by a criterion that predicts none of that.",
+          "Judge ingredients individually. Squalane is good because squalane is good, not because it came from an olive. Niacinamide is good because niacinamide is good, not because it came from a reactor.",
+          "The one asymmetry worth remembering is that fragrance — of any origin — is the leading cause of cosmetic allergy, and essential oils are fragrance. If a single practical rule is taken from all of this, fragrance-free is a better filter than natural by a substantial margin.",
+          "Everything else follows from reading the back of the box before the front, which is the whole method and takes about a minute.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'expensive-skincare-worth-it',
+    sections: [
+      {
+        h: "What a bottle actually costs to make",
+        p: [
+          "The raw materials in most skincare are inexpensive. Niacinamide, glycerin, hyaluronic acid, urea and the common emollients are commodity chemicals sold by the kilogram. Even the pricier actives are used at low percentages, so the ingredient cost of a typical serum is usually a small single-digit fraction of the retail price.",
+          "The rest is packaging, formulation development, safety and stability testing, regulatory compliance, filling, distribution, retail margin and marketing. In prestige beauty, marketing and retail margin routinely account for more than everything else combined.",
+          "This is not a scandal — it is how consumer goods work — but it does mean that price carries very little information about what is inside the bottle. Two products with an almost identical ingredient list can differ tenfold in price without either being mispriced from the manufacturer's point of view.",
+          "It also means the question is not whether expensive products are overpriced. It is which of the things the extra money buys are things you actually want.",
+        ],
+      },
+      {
+        h: "The manufacturing point most people miss",
+        p: [
+          "A relatively small number of contract manufacturers produce a very large proportion of the world's cosmetics, and the same facility frequently fills for brands at opposite ends of the price range. This is ordinary industrial practice and it is not hidden; it simply is not advertised.",
+          "What differs between the products leaving that facility is the brief. A brand can specify a higher concentration of a costly active, a more sophisticated delivery system, better packaging, or none of those. Price sometimes reflects the brief and sometimes reflects the brand.",
+          "There are also conglomerates that own brands at multiple price tiers and share research across them. Filter technology, delivery systems and formulation know-how developed for the luxury line frequently appear in the mass-market line a few years later.",
+          "The practical consequence is that a pharmacy product from a large group can carry genuinely advanced formulation work at a quarter of the prestige price, and often does.",
+        ],
+      },
+      {
+        h: "When paying more is genuinely justified",
+        p: [
+          "Sunscreen is the clearest case, and the reason is compliance rather than protection. The regulatory floor is the same at every price point in a given market; what money buys is texture, finish and the absence of a cast, and those determine whether the bottle is used daily or resented.",
+          "An expensive sunscreen worn every morning outperforms a cheap one used twice a week by a margin larger than any difference between formulations. That is a real argument and it applies to almost nothing else in a routine.",
+          "Packaging is the second legitimate case. Retinoids, vitamin C and most antioxidants degrade in light and air, and an airless pump or an opaque tube meaningfully extends the useful life of the product. A cheap serum in a clear dropper bottle may be the more expensive option per active dose delivered.",
+          "The third is genuine formulation difficulty. Stabilising L-ascorbic acid at a low pH, encapsulating a retinoid to reduce irritation, or producing a high-percentage active in a tolerable texture are real technical achievements, and they cost money to develop.",
+        ],
+      },
+      {
+        h: "When the extra money buys nothing you need",
+        p: [
+          "Cleanser is the most straightforward. It is on the face for under a minute and then rinsed away, and no active ingredient achieves anything meaningful in that window. A gentle, fragrance-free cleanser at pharmacy prices does the entire job.",
+          "Basic moisturisers are close behind. The mechanisms — humectant, emollient, occlusive — are well understood and cheaply delivered, and the pharmacy formulations built around ceramides and glycerin are frequently better studied than the luxury alternatives.",
+          "Anything sold on a proprietary complex with a trademark and no published data is a place to be sceptical. The name is doing the work, and a name is not a mechanism.",
+          "And jars of anything active are worth avoiding at any price. Repeatedly opening a wide container, dipping fingers in and closing it again degrades light-sensitive and air-sensitive ingredients regardless of what was paid for them.",
+        ],
+      },
+      {
+        h: "What price cannot buy at all",
+        p: [
+          "No cosmetic product, at any price, does what a prescription does. Tretinoin, prescription-strength azelaic acid, hydroquinone, topical ivermectin and oral treatments operate in a different regulatory category with different evidence requirements and different permitted concentrations.",
+          "People routinely spend several hundred on a luxury regimen for acne or pigmentation that a prescription would address more effectively for a fraction of the cost. That is the single most expensive mistake available in this category.",
+          "Nor does price buy speed. Cell turnover, collagen synthesis and pigment clearance run at biological rates that money does not accelerate, and a product promising results in seven days is describing hydration.",
+          "And no formulation substitutes for sunscreen, sleep or not smoking. The most expensive routine applied to skin that is unprotected from ultraviolet is working against something it cannot outpace.",
+        ],
+      },
+      {
+        h: "Reading an ingredient list for value",
+        p: [
+          "The one per cent line is the key concept. Ingredients present above one per cent must be listed in descending order of concentration; below that they may be listed in any order. Common preservatives are used at well under one per cent, so anything appearing after phenoxyethanol or a similar preservative is present at trace level.",
+          "Apply that to the headline active. If a serum is sold on its peptide complex and the peptides appear after the preservative, the product contains peptides in the sense that a swimming pool contains chlorine.",
+          "Then compare across price points. Take the luxury product's ingredient list and look for a pharmacy product with the same actives in comparable positions. This exercise takes ten minutes and frequently finds a near-equivalent at a fifth of the price.",
+          "Where it does not find one — where the expensive product really does have a higher concentration, a better delivery system or a filter that is not available elsewhere — the premium is buying something real, and that is worth knowing too.",
+        ],
+      },
+      {
+        h: "The things money legitimately buys that are not efficacy",
+        p: [
+          "Texture, scent, the weight of a bottle in the hand and the small pleasure of a well-designed object are real goods. They are not efficacy, and there is nothing wrong with paying for them as long as the transaction is understood for what it is.",
+          "This matters more than it sounds, because sensory experience drives adherence. A moisturiser that feels unpleasant gets skipped, and a routine that gets skipped achieves nothing regardless of its ingredient list. Enjoyment is a genuine input into outcomes.",
+          "The problem arises only when the pleasure is sold as pharmacology. Paying forty for a cream because it feels wonderful is a reasonable decision; paying forty because the packaging implies it will restructure your dermis is not.",
+          "Separating those two motivations before purchase, rather than after, is most of what financial literacy in this category amounts to.",
+        ],
+      },
+      {
+        h: "How to spend a fixed budget well",
+        p: [
+          "Put the money into sunscreen first — enough that you will use it generously every day without flinching at the cost of the quantity. This is the highest-return line in any skincare budget and it is not close.",
+          "Second, buy the active with evidence for your specific concern, in packaging that will keep it stable. A well-packaged retinoid or a properly stabilised vitamin C is worth a premium in a way that a serum without a named active is not.",
+          "Third, spend as little as possible on cleanser and basic moisturiser without compromising on gentleness and a fragrance-free formulation. Pharmacy brands are frequently the better product here as well as the cheaper one.",
+          "Fourth, before adding anything else, consider whether a dermatologist appointment would be the better purchase. For acne, rosacea, melasma or persistent pigmentation, it usually is, by a margin that no amount of retail spending closes.",
+        ],
+      },
+      {
+        h: "The answer to the question",
+        p: [
+          "Does expensive skincare work better? Sometimes, in narrow and identifiable circumstances: better packaging for unstable actives, higher concentrations, filter technologies not available in cheaper products, and textures pleasant enough to guarantee daily use.",
+          "Far more often it does not, because the mechanisms available to any cosmetic product are limited and cheaply accessible, and the difference in price reflects marketing, retail positioning and the weight of the glass.",
+          "The reliable signal is never the price and never the front of the box. It is the ingredient list, the position of the active on it, and whether the packaging will keep that active intact until the bottle is finished.",
+          "Judged that way, a well-chosen thirty-pound routine outperforms a poorly chosen three-hundred-pound one comfortably, and the difference is a minute of reading rather than a difference in what is available to you.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'sunscreen-for-deeper-skin-tones',
+    sections: [
+      {
+        h: "A note on vitamin D",
+        p: [
+          "The concern raised most often against daily sunscreen in deeper skin is vitamin D, and it deserves a straight answer rather than a dismissal. Melanin does reduce cutaneous vitamin D synthesis for a given ultraviolet dose, and lower serum levels are consistently observed in populations with darker skin living at higher latitudes.",
+          "What the evidence does not support is the inference that skipping sunscreen is the remedy. Studies of regular sunscreen users have generally not found clinically meaningful deficiency, largely because nobody applies enough to block synthesis entirely and because incidental exposure through a normal week is substantial.",
+          "The sensible resolution is to treat these as two separate problems with two separate solutions. Protect the skin from ultraviolet, and address vitamin D through diet or supplementation, which is cheap, reliable, dose-controlled and carries none of the pigmentary or carcinogenic risk that deliberate sun exposure does.",
+          "Anyone genuinely concerned should have a level measured rather than reasoning from first principles about it, since the answer varies enormously with latitude, season, diet and how much time is spent outdoors regardless of sunscreen.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'after-sun-and-repair',
+    sections: [
+      {
+        h: "One last thing about the tan that follows",
+        p: [
+          "The tan that appears as a burn settles is often treated as the consolation prize, and it is worth naming what it actually is. Tanning is the skin's response to DNA damage — melanocytes producing more pigment because damage has already occurred. A tan is a record of injury rather than protection against it.",
+          "The protection it confers is real and small, roughly equivalent to a sun protection factor of three or four, which is well below any threshold that would make a difference to a day outdoors.",
+          "This matters because the belief that a base tan protects against later burning drives a great deal of deliberate early-season exposure, and the arithmetic simply does not support it. The damage accumulated acquiring the tan exceeds anything the tan subsequently prevents.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
