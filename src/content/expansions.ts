@@ -6387,6 +6387,743 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'reapplying-sunscreen-truth',
+    sections: [
+      {
+        h: "How much is actually lost, and how fast",
+        p: [
+          "Studies measuring sunscreen remaining on skin over time find substantial losses well before the two-hour mark, with the rate depending heavily on activity. Sitting still indoors loses very little; walking outdoors on a warm day loses a great deal.",
+          "Sweating is the largest single contributor in warm conditions. Even water-resistant formulations are tested for forty or eighty minutes of immersion, and that is a floor rather than a promise about a hot afternoon.",
+          "Towelling removes more product in a few seconds than an hour of sitting in the sun does. So does wiping a face, resting on a hand, or a scarf against a cheek.",
+          "The two-hour rule is a simplification that averages all of this. It is roughly right for outdoor activity and considerably conservative for a desk, which is why applying it universally makes people abandon it.",
+        ],
+      },
+      {
+        h: "Photostability, and which filters degrade",
+        p: [
+          "Some organic filters break down as they absorb ultraviolet, which means the product is losing protection through use rather than only through removal. Avobenzone is the well-known example, losing a meaningful fraction of its efficacy within an hour of exposure when unstabilised.",
+          "Modern formulations address this by pairing avobenzone with stabilising partners such as octocrylene, or by using the newer filters available in Europe, Japan and Australia, which are substantially more photostable.",
+          "Mineral filters do not photodegrade. Zinc oxide and titanium dioxide are inorganic and stable under ultraviolet indefinitely, so what you lose with them is entirely mechanical rather than chemical.",
+          "This is a genuine argument for mineral sunscreen on a long day outdoors with limited opportunity to reapply, and it is one of the few places where the mineral-versus-organic distinction has a practical consequence.",
+        ],
+      },
+      {
+        h: "Substantivity, and why some products stay put",
+        p: [
+          "Substantivity is the term for how well a sunscreen adheres to skin under conditions of sweat, water and friction, and it varies considerably between formulations independently of the SPF number.",
+          "Film-forming polymers are what produce it. They create a flexible layer that resists being washed or rubbed away, which is why water-resistant products feel different on application and often slightly tackier.",
+          "The trade-off is removal. A highly substantive sunscreen requires proper cleansing to come off, which is the main argument for double cleansing in an ordinary routine.",
+          "It also means water resistance is worth choosing even when you have no plans to swim. Sweat and incidental contact are the everyday equivalents, and a product that survives them is one you are reapplying to rather than replacing.",
+        ],
+      },
+      {
+        h: "The high-SPF misconception",
+        p: [
+          "A recurring belief is that a high SPF removes the need to reapply, on the reasoning that more protection lasts longer. It does not follow, because the number describes the strength of the layer rather than its durability.",
+          "An SPF 50 that has largely been sweated off is providing very little regardless of what it said on the bottle. Degradation and removal act on the film, not on the rating.",
+          "There is a related misreading of SPF as a multiplier of time — the idea that SPF 30 lets you stay out thirty times longer. Ultraviolet intensity varies through the day, individual response varies, and application is never at the tested quantity, so the arithmetic does not survive contact with an actual afternoon.",
+          "Treating SPF as a measure of how much gets through, and reapplication as a measure of whether the layer is still there, keeps the two questions properly separate.",
+        ],
+      },
+      {
+        h: "The days it genuinely does not matter",
+        p: [
+          "Rules that feel excessive get abandoned entirely, so it is worth being clear about when reapplication is not required. A day spent indoors away from windows does not need a two-hour schedule.",
+          "The morning application still matters on those days, because the commute, the walk to lunch and the incidental exposure through the afternoon all count, and because UVA passes through glass.",
+          "A desk beside a window is the exception within the exception. That is meaningful UVA exposure with no burning to signal it, and it is worth a midday top-up.",
+          "Being honest about the low-exposure days makes the high-exposure days more likely to be handled properly, which is a better outcome than a universal rule nobody follows.",
+        ],
+      },
+      {
+        h: "Water, sport and children",
+        p: [
+          "Water resistance is tested at forty or eighty minutes of immersion, and after that period the product should be reapplied regardless of how it feels. Towelling after swimming removes most of what remains.",
+          "Water transmits ultraviolet efficiently. A swimmer at half a metre depth is still receiving a large fraction of the surface dose, so being in the water is not shade and the reapplication clock keeps running.",
+          "For children, the practical answer is clothing rather than a negotiation every two hours. UPF-rated swimwear does not wash off, does not sting, and removes most of the surface area from the problem.",
+          "For sport, sticks are the most workable format — no hands to wash, no bottle to open, and they can be applied without disturbing much else. Sweatbands and caps do more than another layer of product.",
+        ],
+      },
+      {
+        h: "Clothing as the alternative",
+        p: [
+          "A long-sleeved shirt provides protection roughly comparable to a well-applied sunscreen and does not wear off, does not need reapplying, and cannot be under-applied.",
+          "Fabric matters. Tightly woven, darker, heavier and dry fabrics protect better than loose, light, thin or wet ones. A wet white t-shirt provides considerably less protection than most people assume.",
+          "UPF-rated clothing exists for anybody who wants a number, and it is genuinely useful for long outdoor days, sailing, hiking and anything where reapplication is impractical.",
+          "A wide-brimmed hat covers the face, ears and neck simultaneously, and sunglasses cover the one area most difficult to apply sunscreen to. Together they solve a substantial fraction of the reapplication problem without any product at all.",
+        ],
+      },
+      {
+        h: "The vitamin D question",
+        p: [
+          "The concern that diligent reapplication causes vitamin D deficiency comes up frequently and deserves a direct answer rather than dismissal.",
+          "Studies of regular sunscreen users have generally not found clinically meaningful deficiency, largely because nobody applies enough to block synthesis completely and because incidental exposure through an ordinary week is substantial.",
+          "The sensible resolution is to treat these as two separate problems with two separate solutions: protect the skin from ultraviolet, and address vitamin D through diet or a supplement, which is cheap, dose-controlled and carries none of the pigmentary or carcinogenic risk of deliberate exposure.",
+          "Anybody genuinely concerned should have a level measured rather than reasoning from principle, since the answer varies enormously with latitude, season, diet and skin tone.",
+        ],
+      },
+      {
+        h: "The cost, honestly",
+        p: [
+          "Applying the tested quantity every morning and reapplying on exposure uses considerably more product than most people budget for. A face and neck at a third of a teaspoon twice a day works out at roughly a 50ml tube every three to four weeks.",
+          "That reframes what an expensive sunscreen actually costs annually, and it is the strongest argument for finding an affordable one you like rather than a luxury one you ration.",
+          "Pharmacy and supermarket sunscreens meet the same regulatory standard as prestige ones in any given market. What money buys is texture and finish, and those matter only insofar as they determine whether you use enough.",
+          "A bottle that lasts a whole year is the clearest possible evidence of under-application, and it is worth checking against how long yours actually takes to finish.",
+        ],
+      },
+      {
+        h: "The practical schedule",
+        p: [
+          "Morning: full application, two fingers' length for face and neck, fifteen minutes before leaving, allowed to set before makeup.",
+          "Indoors away from windows: no top-up required. Beside a window: one midday top-up. Any deliberate time outdoors: reapply immediately before going out.",
+          "Outdoors: every two hours, and immediately after swimming, heavy sweating or towelling regardless of the clock.",
+          "And on the days none of that is possible, switch to the tools that need no reapplying — a hat, sunglasses, sleeves and the shady side of the street. That is not a fallback so much as the other half of the same job.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'mineral-vs-chemical-spf',
+    sections: [
+      {
+        h: "Both of them absorb",
+        p: [
+          "The standard explanation — that mineral filters reflect ultraviolet like tiny mirrors while chemical filters absorb it — is largely wrong, and it has shaped a great deal of purchasing on a false basis.",
+          "Zinc oxide and titanium dioxide are semiconductors, and they protect predominantly by absorbing ultraviolet and dissipating it as heat, exactly as organic filters do. Reflection and scattering account for something in the region of five to ten per cent of their effect.",
+          "The distinction that does hold is chemical rather than physical: mineral filters are inorganic and organic filters are carbon-based. That difference determines photostability, penetration and irritation profile, which are the things that actually matter.",
+          "Calling them physical and chemical persists because it is intuitive and because it supports a marketing narrative. It is not how either category works.",
+        ],
+      },
+      {
+        h: "What each one is good at",
+        p: [
+          "Zinc oxide covers the broadest range of any single filter, including long UVA, and is unusually well tolerated — it has mild anti-inflammatory properties and is used in nappy rash creams for that reason.",
+          "Titanium dioxide is stronger against UVB and weaker in the UVA range, which is why it is usually paired rather than used alone.",
+          "Organic filters are more cosmetically elegant, more easily formulated into high-SPF products with light textures, and available in a wider range with better UVA coverage in markets that permit the newer ones.",
+          "Photostability is the clearest practical difference. Mineral filters do not degrade under ultraviolet at all; several older organic filters do, and require stabilising partners to hold their protection through an afternoon.",
+        ],
+      },
+      {
+        h: "The nano question",
+        p: [
+          "Mineral filters are frequently used in micronised or nano-sized form, because smaller particles scatter less visible light and therefore leave less white cast. This is what makes a modern mineral sunscreen wearable.",
+          "The concern raised is whether nanoparticles penetrate into living tissue. The available evidence, including reviews by European and Australian regulators, has consistently found that they remain in the stratum corneum on intact skin and do not reach viable cells.",
+          "Damaged or broken skin is a reasonable exception to that reassurance, and it is the situation where caution is warranted rather than the general case.",
+          "The one genuine caution concerns inhalation, which is why loose mineral powders and mineral sprays are worth avoiding. Applying a cream to skin is a different exposure route from breathing a powder.",
+        ],
+      },
+      {
+        h: "The systemic absorption studies",
+        p: [
+          "In 2019 and 2020, American regulators published studies showing that several organic filters — avobenzone, oxybenzone, octocrylene and others — are absorbed into the bloodstream at concentrations above the threshold that triggers a requirement for further safety data.",
+          "This was widely reported as evidence of harm and it was not. The finding was that absorption exceeds a regulatory screening level, which obliges manufacturers to provide additional data. It is a procedural threshold, not a toxicity finding.",
+          "No study has demonstrated harm in humans at these concentrations, and the regulators involved explicitly advised people to continue using sunscreen while the data were gathered.",
+          "The honest position is that this is an open question receiving appropriate attention, that the demonstrated harm from ultraviolet exposure is very large and well established, and that trading a known risk for a hypothetical one is a poor exchange.",
+        ],
+      },
+      {
+        h: "Oxybenzone, coral and the policy question",
+        p: [
+          "Oxybenzone and octinoxate have been banned in several jurisdictions on the basis of laboratory studies showing coral bleaching effects. The underlying research is real and its applicability to real-world reef conditions is contested.",
+          "Critics point out that the concentrations used in some laboratory work substantially exceed those measured in the ocean, and that the dominant threats to reefs — warming water, acidification, agricultural runoff and overfishing — operate at a scale sunscreen does not approach.",
+          "None of that argues for indifference. Reef-safe as a label has no regulatory definition, but choosing a mineral formulation for a day spent swimming over a reef is a low-cost precaution.",
+          "Where bans are in force, the practical response is simply to use a mineral product in those locations rather than to conclude that organic filters are unsafe generally.",
+        ],
+      },
+      {
+        h: "Sensitive skin, and where mineral genuinely wins",
+        p: [
+          "Zinc oxide has one of the lowest irritation profiles of any cosmetic ingredient and is the standard recommendation for rosacea-prone, eczema-prone and reactive skin. It sits on the surface rather than penetrating, and it does not sting the eyes the way migrating organic filters do.",
+          "For anybody who has abandoned sunscreen because it burned around the eyes, switching to mineral is the first thing to try before concluding sunscreen is impossible.",
+          "It is also the usual recommendation for infants and young children, for babies over six months, and after procedures or during barrier recovery.",
+          "In pregnancy, mineral filters are commonly preferred, largely on a precautionary basis given the absorption data rather than on any demonstrated risk.",
+        ],
+      },
+      {
+        h: "Deeper skin tones, where organic often wins",
+        p: [
+          "The white cast from mineral filters is a real obstacle rather than a cosmetic quibble, and it is the main reason sunscreen use is lower among people with darker skin. A product that cannot be worn is not protective.",
+          "Organic filters dissolve into the formulation and are genuinely colourless, which resolves the problem entirely for anybody who tolerates them.",
+          "Where mineral is preferred, tinted formulations are the answer, and the iron oxides that provide the tint also filter visible light — which independently stimulates pigmentation in melanin-rich skin. That makes tinted mineral arguably the best option available for pigmentation-prone deeper skin.",
+          "Hybrid formulations combining a small amount of zinc with organic filters are a reasonable middle ground and are increasingly common.",
+        ],
+      },
+      {
+        h: "Texture, finish and daily wear",
+        p: [
+          "Mineral sunscreens tend toward thicker textures, a matte or slightly chalky finish, and more visible presence on the skin. They can pill under makeup and often require more effort to spread evenly.",
+          "Organic sunscreens are generally lighter, absorb faster, layer more easily under makeup and are available in a wider range of finishes from matte to dewy.",
+          "Hybrid formulations aim at the middle and often achieve it. The newer European and Asian filters in particular produce very light textures with strong broad-spectrum coverage.",
+          "This category of difference is not trivial, because it determines daily compliance, and daily compliance determines the outcome more than any property of the filter.",
+        ],
+      },
+      {
+        h: "The comparison that actually matters",
+        p: [
+          "Both categories protect. Both are regulated. Both meet the same testing standard for the SPF printed on the bottle. The choice between them is not a choice between protection and no protection.",
+          "The variables that genuinely affect your outcome are, in order: whether you apply it at all, whether you apply enough, whether it has adequate UVA coverage, and whether you reapply on exposure.",
+          "Filter type sits well below all four. Somebody using an organic sunscreen generously every day is far better protected than somebody with a mineral one they apply twice a week because they dislike how it looks.",
+          "So the honest recommendation is to pick whichever you will actually wear, in a broad-spectrum SPF 30 or higher, and then spend the attention you saved on the quantity.",
+        ],
+      },
+      {
+        h: "A short decision guide",
+        p: [
+          "Choose mineral if: your skin is reactive or rosacea-prone, organic filters sting your eyes, you are pregnant and prefer to be cautious, you are buying for a young child, or you will be outdoors for hours with no chance to reapply.",
+          "Choose organic if: you have a deeper skin tone and the cast is the obstacle, you wear makeup daily, you dislike heavy textures, or you want the broadest UVA coverage available in a light formulation.",
+          "Choose tinted mineral if: you have melasma or pigmentation in deeper skin, since the iron oxides add visible-light protection that neither category provides untinted.",
+          "Choose hybrid if none of the above applies strongly, since it generally delivers the elegance of organic with some of the photostability of mineral.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'sun-damage-adds-up',
+    sections: [
+      {
+        h: "Two kinds of ageing, running in parallel",
+        p: [
+          "Skin ages through two independent processes. Intrinsic ageing is the genetically programmed decline that happens everywhere on the body — thinner skin, slower turnover, gradual loss of fat and collagen. It is what you see on the inside of an upper arm at seventy.",
+          "Extrinsic ageing is caused by the environment, and ultraviolet exposure accounts for the overwhelming majority of it. Estimates commonly attribute around eighty per cent of visible facial ageing to sun exposure rather than to the passage of time.",
+          "The two look different. Intrinsic ageing produces fine lines and thinning. Photoageing produces deep coarse wrinkles, leathery texture, irregular pigmentation, visible vessels and a yellowish sallow tone.",
+          "That distinction is the reason this subject matters. One of the two processes is modifiable, and it is the larger one.",
+        ],
+      },
+      {
+        h: "The evidence you can see",
+        p: [
+          "The clearest demonstration is a comparison anybody can make: the skin on the inside of a forearm against the skin on the back of the same hand. Same person, same age, same genetics, decades of different exposure.",
+          "A widely circulated clinical photograph shows a lorry driver of sixty-nine whose left side faced a window for twenty-eight years. The two halves of the face look decades apart, and the difference is almost entirely UVA through glass.",
+          "Studies of identical twins with different sun histories show the same thing under controlled genetics — the more exposed twin consistently appears older, sometimes by a wide margin.",
+          "None of this requires trusting a mechanism you cannot observe. The evidence is visible on people, and it is the most persuasive argument in the whole of skincare.",
+        ],
+      },
+      {
+        h: "What is happening in the dermis",
+        p: [
+          "Ultraviolet activates enzymes called matrix metalloproteinases, which break down collagen. Each exposure causes a small amount of degradation and triggers an imperfect repair, and the imperfection accumulates.",
+          "Elastic fibres degrade as well and are replaced by disorganised abnormal material, a process called solar elastosis. This is what produces the thickened, yellowish, coarsely textured appearance of heavily sun-exposed skin.",
+          "Melanocytes become permanently more active in localised patches, which is what a sun spot actually is — not a deposit of pigment but a small area of cells that have changed their behaviour.",
+          "And DNA damage accumulates in keratinocytes and melanocytes. Most is repaired; a fraction is not, and it is that fraction that underlies skin cancer risk decades later.",
+        ],
+      },
+      {
+        h: "The exposure nobody counts",
+        p: [
+          "Deliberate sunbathing is a small fraction of most people's lifetime dose. The bulk is incidental: walking to a car, waiting at a bus stop, sitting in a garden, the drive to work, ten minutes here and fifteen there.",
+          "Because none of it burns, none of it registers as exposure. Burning is a UVB phenomenon and photoageing is largely UVA, which produces no immediate signal at all.",
+          "Window glass blocks most UVB and transmits a great deal of UVA, which means the office desk, the car and the conservatory all count while feeling like shelter.",
+          "Cloud transmits a substantial proportion of ultraviolet, and winter sun at a low angle still delivers UVA at close to summer levels. The days people skip protection are frequently the days protection was still doing something.",
+        ],
+      },
+      {
+        h: "Why it is invisible for so long",
+        p: [
+          "Skin has considerable reserve. Collagen degradation of a few per cent produces no visible change, and the repair capacity of young skin absorbs a great deal before anything shows.",
+          "The visible threshold is crossed somewhere in the thirties for most people, and the damage that surfaces then was accumulated in the preceding two decades. There is a long lag between cause and appearance.",
+          "That lag is the whole problem. Behaviour that produces no consequence for twenty years is behaviour nobody changes, and the feedback arrives after the window for prevention has largely closed.",
+          "A useful reframing: the sunscreen you apply this morning is not for how you look this year. It is for how you look at fifty, and there is no way to test that in advance.",
+        ],
+      },
+      {
+        h: "Childhood exposure, and why it weighs more",
+        p: [
+          "A substantial proportion of lifetime ultraviolet exposure is often received before adulthood, driven by school holidays, outdoor play and less consistent protection.",
+          "Blistering sunburns in childhood and adolescence are specifically associated with increased melanoma risk later, more strongly than equivalent burns in adulthood. Children's skin is thinner and their melanocytes appear more vulnerable.",
+          "This is the population where prevention is most valuable and hardest to enforce, and where clothing, hats and shade do more than any product because they do not require a negotiation every two hours.",
+          "It also means adults arriving at sun protection in their thirties are protecting against future accumulation rather than starting from zero. That is still worth doing, and it is worth being realistic about.",
+        ],
+      },
+      {
+        h: "Immune suppression, the effect nobody mentions",
+        p: [
+          "Ultraviolet exposure locally suppresses the skin's immune surveillance, reducing the activity of the Langerhans cells responsible for identifying abnormal cells.",
+          "This matters because it works alongside the DNA damage rather than separately. Ultraviolet creates mutations and simultaneously impairs the mechanism that would identify and eliminate the cells carrying them.",
+          "It also explains a familiar observation: cold sores recurring after a sunny holiday, which is local immune suppression allowing a latent virus to reactivate.",
+          "The practical implication is only that the cancer risk from ultraviolet is not solely a matter of mutation rate. Two mechanisms are working in the same direction.",
+        ],
+      },
+      {
+        h: "What is reversible and what is not",
+        p: [
+          "Some of it genuinely reverses. Studies of consistent daily sunscreen use over twelve to twenty-four months show measurable improvement in fine lines, texture and pigmentation compared with controls — removing the ongoing damage allows repair to catch up.",
+          "Retinoids increase collagen synthesis and reduce the enzymes that degrade it, and biopsy studies confirm real dermal change over months rather than only a surface effect.",
+          "Pigmentation responds to tyrosinase inhibitors, and procedures address texture, vessels and discrete lesions with varying success depending on skin type.",
+          "What does not reverse is solar elastosis at an advanced stage, deep structural change, and accumulated DNA damage. The risk that has been acquired has been acquired, and it does not decrease.",
+        ],
+      },
+      {
+        h: "The arithmetic of starting now",
+        p: [
+          "Whatever your age, the damage from here forward is the part you control. Somebody starting daily sun protection at forty-five prevents twenty-five years of further accumulation, which is a substantial fraction of what would otherwise arrive.",
+          "The most common objection is that the damage is already done. It is partly done, and the process is ongoing, and stopping an ongoing process is worth doing at any point.",
+          "There is also a monitoring argument. Somebody with significant sun history should be checking their skin and having lesions assessed, and that has nothing to do with appearance.",
+          "The behaviour that produces the result is not complicated: enough sunscreen every morning, a hat and shade in strong sun, and no deliberate tanning. Three things, repeated for decades, which is the only mechanism this operates by.",
+        ],
+      },
+      {
+        h: "Tanning, and the last argument",
+        p: [
+          "A tan is the visible record of DNA damage. Melanocytes produce more pigment because damage has occurred, and the pigment is a response rather than a sign of health.",
+          "The protection a tan provides is roughly equivalent to an SPF of three or four, which is below any useful threshold. The belief that a base tan prevents later burning does not survive the arithmetic — the damage accumulated acquiring it exceeds what it subsequently prevents.",
+          "Sunbeds deliver a concentrated UVA dose and are classified as a group one carcinogen, the same category as tobacco and asbestos. Use before the age of thirty-five is associated with a substantially increased melanoma risk.",
+          "Self-tanning products, which work through a surface reaction with dihydroxyacetone, produce the colour without any of this. They provide no protection, which is worth stating, and they are the only version of a tan that costs nothing.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'natural-doesnt-mean-safe',
+    sections: [
+      {
+        h: "The dose makes the poison",
+        p: [
+          "The principle underlying all of toxicology was stated in the sixteenth century and has not been improved on: all things are poison, and nothing is without poison — only the dose determines whether something is harmful.",
+          "This dissolves the natural-versus-synthetic framing entirely. The relevant question about any ingredient is not where it came from but what it does at the concentration you are exposed to, by the route you are exposed by.",
+          "Water is lethal in sufficient quantity. Botulinum toxin, entirely natural, is among the most poisonous substances known. Retinol is beneficial at cosmetic concentrations and teratogenic at high oral doses.",
+          "Once dose enters the conversation, origin stops being informative. An ingredient list without concentrations is a partial document, and origin tells you nothing the concentration would not tell you better.",
+        ],
+      },
+      {
+        h: "Lemon juice, and phytophotodermatitis",
+        p: [
+          "Applying lemon juice to skin appears in an enormous number of home remedies for pigmentation and acne, and it is one of the more reliably harmful things you can do to a face.",
+          "It has a pH around 2, which is far outside what skin tolerates and sufficient to cause chemical burns on sensitive areas. That alone would be reason enough to avoid it.",
+          "The more serious problem is furanocoumarins, phototoxic compounds in citrus peel and juice. On skin exposed to sunlight they cause phytophotodermatitis: blistering, burning, and subsequent hyperpigmentation that can last months or years.",
+          "The irony is complete. The remedy applied to lighten dark marks is a documented cause of severe, prolonged dark marks, and it is recommended precisely because lemons are natural.",
+        ],
+      },
+      {
+        h: "Four more remedies worth abandoning",
+        p: [
+          "Baking soda has a pH around 9, against skin's natural 4.7 to 5.7. Applying it disrupts the acid mantle, impairs barrier function and interferes with the enzymes that regulate shedding. It is sold as a gentle exfoliant and is neither.",
+          "Undiluted apple cider vinegar causes chemical burns, and there are documented cases of significant injury from its use on skin. Diluted sufficiently to be safe, it does essentially nothing.",
+          "Toothpaste on spots relies on ingredients — sodium lauryl sulfate, flavouring oils, abrasives — that irritate skin, and the irritation produces post-inflammatory pigmentation that lasts far longer than the spot would have.",
+          "Coconut oil is highly comedogenic for many people and is a frequent cause of congestion when used on the face, despite an excellent reputation built on its performance on hair and body skin.",
+        ],
+      },
+      {
+        h: "Undiluted essential oils",
+        p: [
+          "Essential oils are concentrated plant extracts, frequently many times more potent than the plant material they came from, and applying them undiluted to skin is a recognised route to sensitisation.",
+          "Tea tree oil is a documented allergen, and oxidised tea tree oil substantially more so. Lavender, ylang-ylang, peppermint, cinnamon bark and citrus oils all appear regularly in patch test results.",
+          "Once sensitisation occurs it is permanent. The person is then reactive to that compound in any product at any concentration, which forecloses a great many options for the rest of their life.",
+          "Citrus oils compound the problem by being phototoxic, which means an essential oil applied before sun exposure carries the same risk described above for lemon juice.",
+        ],
+      },
+      {
+        h: "Greenwashing and the certifications",
+        p: [
+          "Natural, clean, green and non-toxic have no legal definitions in most jurisdictions, which is precisely why they are used. A claim with a definition carries a substantiation requirement; a claim without one does not.",
+          "Genuine certification schemes exist and do set standards — COSMOS, Ecocert, NATRUE and Soil Association among them. They differ from one another substantially in what they permit, and none of them is what the word natural refers to unless the mark itself is on the pack.",
+          "A certification mark is at least a verifiable claim. The word alone is a marketing decision that anybody may make about any product.",
+          "It is also worth knowing that certified natural is a claim about sourcing and processing rather than about safety or efficacy. Those are separate questions the certification does not address.",
+        ],
+      },
+      {
+        h: "Free-from claims, and what they actually communicate",
+        p: [
+          "Free-from marketing tells you about a competitor rather than about the product. Paraben-free, sulphate-free, silicone-free and the rest describe an absence, and an absence is only meaningful if the thing absent was a problem.",
+          "The paraben case is instructive. A single 2004 study found paraben traces in breast tumour tissue, with no control group and no causal demonstration, and its own author later stated it did not show what it was being cited to show.",
+          "The replacements adopted afterwards were not obviously safer. Methylisothiazolinone produced a documented epidemic of contact allergy substantial enough that regulators restricted it in leave-on products.",
+          "Silicone-free is a similar case. Dimethicone is inert, non-comedogenic in most people, and among the better-tolerated cosmetic ingredients; the campaign against it was aesthetic rather than evidential.",
+        ],
+      },
+      {
+        h: "Where plant-derived ingredients genuinely excel",
+        p: [
+          "This is not an argument against plants. Several plant-derived ingredients are excellent and some are the best available for their purpose.",
+          "Squalane from olives or sugarcane is a superb emollient, stable and well tolerated. Colloidal oatmeal has genuine anti-inflammatory evidence and is used clinically. Centella asiatica has real supporting research for wound healing and barrier function.",
+          "Green tea polyphenols are credible antioxidants, and sunflower seed oil with its high linoleic acid content supports barrier repair in a way several other plant oils do not.",
+          "Note what these have in common: each is a specific ingredient with specific evidence, evaluated individually. That is the correct way to assess any ingredient, and the origin never entered into it.",
+        ],
+      },
+      {
+        h: "Why the framing persists",
+        p: [
+          "The appeal to nature is a recognised reasoning error and it persists because it substitutes an easy judgement for a hard one. Assessing whether an ingredient works requires reading; assessing whether it sounds wholesome does not.",
+          "Skincare is unusually vulnerable to it because the relationship between purchase and outcome is genuinely uncertain and unfolds over months. Under that much uncertainty, a heuristic about a product's character does real psychological work.",
+          "The clean beauty framing added a moral layer that made the heuristic harder to question, because arguing against clean reads as defending dirty rather than as asking what the word means.",
+          "Recognising the structure is most of the defence. Once natural is understood as a claim about origin rather than about effect, the question of what a product contains reasserts itself naturally.",
+        ],
+      },
+      {
+        h: "A better filter",
+        p: [
+          "Fragrance-free is a more useful screen than natural by a wide margin, because fragrance — of any origin, botanical included — is the leading cause of cosmetic allergy.",
+          "Short ingredient lists are the second, because every additional component is another candidate for a reaction and a shorter list is far easier to troubleshoot when something goes wrong.",
+          "Named actives at readable positions on the list are the third. An ingredient appearing after the preservative is present at trace level regardless of what the front of the box implies.",
+          "Those three filters cost nothing, require no chemistry background, and outperform any judgement based on whether the ingredients sound like plants.",
+        ],
+      },
+      {
+        h: "The position, stated plainly",
+        p: [
+          "Everything is chemistry, including water, including your own skin. Chemical-free describes an empty container.",
+          "Plant-derived does not predict safety, and several of the most sensitising ingredients in cosmetics are botanical. Synthetic does not predict harm, and several of the best-tolerated ingredients are made in a reactor.",
+          "Judge ingredients one at a time, by what they do at the concentration used, in the packaging they arrive in. Squalane is good because squalane is good; niacinamide is good because niacinamide is good.",
+          "And never put lemon juice on your face.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'does-drinking-water-clear-skin',
+    sections: [
+      {
+        h: "Where the water in your skin comes from",
+        p: [
+          "Water reaches skin through the bloodstream, and the dermis is well supplied. The layer that determines how skin looks and feels, though, is the stratum corneum at the very surface, and its water content is regulated locally rather than by how much you drank.",
+          "Two mechanisms do that regulating. Natural moisturising factor within the corneocytes binds water and holds it, and the intercellular lipid matrix slows its escape outward.",
+          "Both of those are structural. A shortage of either produces dry, tight skin regardless of systemic hydration, and neither is corrected by drinking more.",
+          "This is why somebody drinking three litres a day can still have flaking skin, and why the advice fails so many of the people who follow it diligently.",
+        ],
+      },
+      {
+        h: "The kernel of truth",
+        p: [
+          "Genuine dehydration does affect skin, and this is the part of the slogan that holds. Clinically dehydrated skin loses turgor — pinched skin returns slowly — and appears dull and sunken.",
+          "Some studies have found that increasing water intake in people with habitually low intake improves measured skin hydration and reduces transepidermal water loss.",
+          "The critical qualifier is habitually low. The benefit appears in people who were drinking too little, and it is a correction of a deficit rather than an enhancement above normal.",
+          "For somebody already adequately hydrated, the additional water is excreted. The kidneys maintain fluid balance tightly, and skin does not get to bid for a share of the surplus.",
+        ],
+      },
+      {
+        h: "Where the myth overreaches",
+        p: [
+          "The claim that drinking more water clears acne has essentially no supporting evidence. Acne is driven by androgens, sebum production, follicular keratinisation, bacteria and inflammation, and none of those responds to fluid intake.",
+          "The claim that it reduces wrinkles is similarly unsupported. Wrinkles are structural changes in the dermis produced by collagen and elastin degradation, and surface hydration temporarily softens their appearance without touching the structure.",
+          "The claim that it flushes toxins rests on a physiology that does not exist. The liver and kidneys handle metabolic waste; skin is a barrier and not an eliminative organ.",
+          "And the idea that water intake shrinks pores or controls oil has no mechanism at all. Sebum production is hormonally driven.",
+        ],
+      },
+      {
+        h: "Eight glasses, and where that came from",
+        p: [
+          "The eight-glasses figure is frequently traced to a 1945 recommendation from an American nutrition body suggesting roughly 2.5 litres daily for adults — a recommendation whose next sentence noted that most of this is contained in prepared foods.",
+          "That second sentence was dropped in transmission, and the number survived as a target for drinking specifically rather than for total intake.",
+          "Food contributes a substantial proportion of daily water — fruit, vegetables, soups, and even bread and rice carry more than people assume. Tea and coffee count as well, despite the persistent belief that caffeine cancels them out.",
+          "Requirements vary enormously with body size, activity, climate and diet. A single number for everybody was always a simplification and it is not a clinical target.",
+        ],
+      },
+      {
+        h: "Caffeine and alcohol, separately",
+        p: [
+          "Caffeine has a mild diuretic effect at high doses in people unaccustomed to it, and habitual consumers develop tolerance. The net fluid contribution of a cup of tea or coffee is positive, and treating them as dehydrating is not supported.",
+          "Alcohol is genuinely different. It suppresses antidiuretic hormone, producing a net fluid loss, which is why skin looks dull and puffy the morning after and why the effect is visible rather than theoretical.",
+          "Alcohol also dilates cutaneous vessels, which is why it is among the most consistently reported rosacea triggers, and it disrupts sleep quality even when total sleep time is unchanged.",
+          "So of the two, alcohol is the one worth attending to, and the mechanism is not simply that it dries you out.",
+        ],
+      },
+      {
+        h: "How to tell if you are actually dehydrated",
+        p: [
+          "Urine colour is the most practical indicator. Pale straw suggests adequate hydration; consistently dark yellow suggests otherwise. It is imperfect — vitamins and some medications colour urine independently — and it is available continuously and free.",
+          "Thirst is a reasonable guide for most healthy adults, contrary to the widespread claim that thirst means you are already dehydrated. The mechanism works, and it becomes less reliable with age.",
+          "Persistent fatigue, headaches, dizziness on standing and reduced urine output are signs of more meaningful dehydration and warrant attention beyond a glass of water.",
+          "Skin turgor — pinching the back of the hand and watching how quickly it returns — is used clinically, though it becomes unreliable with age as skin elasticity declines for unrelated reasons.",
+        ],
+      },
+      {
+        h: "What actually hydrates skin",
+        p: [
+          "Humectants, applied to damp skin. Glycerin is the best-evidenced and cheapest; hyaluronic acid and urea also work, and all three bind water at the surface where the deficit actually is.",
+          "An occlusive over the top, within a minute or two, to stop what was gathered from evaporating. This step is where most hydration routines fail.",
+          "Environmental humidity, which determines how steeply water leaves skin. In a heated room below forty per cent, a humidifier does more than any product.",
+          "And removing the causes: gentler cleansing, fewer exfoliants, shorter cooler showers. A humectant applied over a stripping routine is treating a symptom while the cause continues.",
+        ],
+      },
+      {
+        h: "The diet effects that are better supported",
+        p: [
+          "Omega-3 fatty acids have some evidence for barrier function and inflammation, and essential fatty acid deficiency demonstrably impairs the barrier. Adequate dietary fat matters more for skin than fluid volume does.",
+          "Vitamin C is an obligatory cofactor for collagen synthesis, which is a requirement rather than a boost, and it is met by ordinary dietary intake.",
+          "High-glycaemic-load diets and skimmed milk both show associations with acne across several observational studies, with plausible mechanisms involving insulin and growth factor signalling.",
+          "Overall protein intake matters for skin structure and repair, and marginal intake is common in older adults. None of these is dramatic, and all are better supported than the water claim.",
+        ],
+      },
+      {
+        h: "Why the slogan persists",
+        p: [
+          "It is simple, free, actionable and blameless — a rare combination in health advice, and one that makes it enormously repeatable.",
+          "It is also unfalsifiable in practice. Somebody who drinks more water and sees no change concludes they did not drink enough or persist long enough, rather than that the advice was wrong.",
+          "And people who deliberately increase water intake frequently change other things at the same time: less alcohol, fewer sugary drinks, more attention to sleep and routine. The improvement is real and the attribution is wrong.",
+          "There is a mild placebo dimension as well, and the fact that the advice is harmless has allowed it to circulate for decades without ever being tested against what it promises.",
+        ],
+      },
+      {
+        h: "The honest answer",
+        p: [
+          "Drink enough water. Being adequately hydrated is good for you for a long list of reasons that have nothing to do with skin, and if you are currently drinking too little, correcting that will produce some improvement.",
+          "Do not expect it to clear acne, fade pigmentation, shrink pores or reduce wrinkles. There is no mechanism and there is no evidence.",
+          "If skin is dry or dehydrated, the effective interventions are topical and environmental: a humectant on damp skin, an occlusive over it, gentler cleansing and more humidity in the room.",
+          "The slogan is not a lie so much as a category error. It answers a question about hydration with an answer about water intake, and the two turn out to be different subjects.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'expensive-isnt-always-better',
+    sections: [
+      {
+        h: "Price shapes what you perceive",
+        p: [
+          "Research across product categories consistently finds that price influences perceived quality independently of the product itself. The same wine rated higher when subjects are told it costs more; the same painkiller reported as more effective at a higher price.",
+          "Neuroimaging work has shown that the anticipated pleasantness signal in the brain responds to the stated price rather than only to the substance, which means the effect is not simply people reporting what they think they should.",
+          "Skincare is an unusually favourable environment for this. Results take months, they are confounded by season and sleep, and there is no objective measure available at home — so expectation has enormous room to operate.",
+          "This does not make an expensive product worthless. It means your own assessment of it is not reliable evidence, and that a product you paid a lot for will feel like it is working somewhat regardless.",
+        ],
+      },
+      {
+        h: "Where the retail price goes",
+        p: [
+          "Raw materials in most skincare are inexpensive. Glycerin, niacinamide, hyaluronic acid and the common emollients are commodity chemicals, and even the costlier actives are used at low percentages.",
+          "Retail markup is the largest single component in prestige beauty. A department store or a beauty retailer typically takes a substantial share of the shelf price, which is a cost of distribution rather than of the product.",
+          "Marketing, celebrity endorsement, sampling programmes, packaging design and the physical retail experience account for much of the remainder. Prestige packaging alone can cost more than the formulation inside it.",
+          "None of this is fraudulent — it is how consumer goods work. It does mean that price is a poor signal of what is inside the bottle, and that two products with near-identical ingredient lists can differ tenfold without either being mispriced.",
+        ],
+      },
+      {
+        h: "Finding a genuine alternative",
+        p: [
+          "The method is straightforward and takes about ten minutes. Take the expensive product's ingredient list and identify the actives and their approximate positions relative to the preservative.",
+          "Then search for products containing those same actives at comparable positions. Ingredient databases and retailer sites make this searchable, and the exercise frequently turns up a pharmacy product with the same actives higher on the list.",
+          "Check the packaging as well as the formula. A cheaper product with the same actives in a clear jar is not equivalent to an expensive one in an airless pump, because the packaging determines how much active survives to the bottom of the bottle.",
+          "And accept that sometimes there is no alternative. Where an expensive product uses a filter unavailable elsewhere, a genuinely higher concentration, or a delivery system nobody has copied, the premium is buying something real.",
+        ],
+      },
+      {
+        h: "Where the same factory turns up",
+        p: [
+          "A relatively small number of contract manufacturers produce a very large proportion of the world's cosmetics, and the same facility routinely fills for brands at opposite ends of the price range.",
+          "What differs is the brief. A brand can specify a higher concentration, a more sophisticated delivery system or better packaging — or it can specify a standard base and spend the difference on advertising.",
+          "Large conglomerates own brands across multiple price tiers and share research between them. Filter technology and formulation know-how developed for a luxury line frequently appear in the mass-market line within a few years.",
+          "This is why a pharmacy product from a major group can carry genuinely advanced work at a quarter of the prestige price, and it is one of the more useful things to know when choosing.",
+        ],
+      },
+      {
+        h: "Sales, discounts and the sunk cost",
+        p: [
+          "A heavily discounted product is sometimes discounted because it is near the end of its shelf life, and for anything containing vitamin C, a retinoid or plant oils that matters considerably.",
+          "Buying multiples during a sale looks economical and frequently is not, since unstable actives degrade whether or not you are using them. Two bottles at half price is a saving only if you finish both while they are still active.",
+          "The sunk cost problem is the other side. A product bought at a high price that is causing irritation should be stopped, and the price paid is a strong and irrational reason people continue.",
+          "The money is gone either way. The only question worth asking is whether continuing helps, and the answer does not depend on what it cost.",
+        ],
+      },
+      {
+        h: "Influencers, affiliates and where recommendations come from",
+        p: [
+          "A large share of skincare recommendations online are paid, gifted or commission-earning. Affiliate links mean the recommender earns from your purchase, which is not disqualifying and is worth knowing.",
+          "Disclosure requirements exist and compliance is uneven. A recommendation for a specific product with a discount code attached is an advertisement whether or not it is labelled as one.",
+          "The more useful sources tend to be the ones that explain mechanisms rather than name products, and that occasionally say an expensive thing is not worth buying. A source that has never recommended a pharmacy product is telling you something.",
+          "Before-and-after photographs deserve particular scepticism. Lighting, angle, makeup and expression account for a great deal of what people attribute to a serum.",
+        ],
+      },
+      {
+        h: "The one premium worth paying",
+        p: [
+          "Sunscreen is the exception, and the argument is compliance rather than protection. The regulatory floor is identical at every price point in a given market; what money buys is texture, finish and the absence of a cast.",
+          "Those determine whether the bottle gets used generously every morning or resented and rationed, and that difference is larger than any difference between formulations.",
+          "Given how much product a correct application uses — roughly a 50ml tube every three to four weeks for face and neck — a pleasant sunscreen is also the line item where the annual cost is most worth thinking about honestly.",
+          "A mid-priced sunscreen you enjoy beats both the cheap one you avoid and the luxury one you eke out. That is the calculation, and it is the only place in a routine where it works this way.",
+        ],
+      },
+      {
+        h: "A routine that costs very little",
+        p: [
+          "A gentle fragrance-free cleanser from a pharmacy range. These are frequently formulated by the same manufacturers as the expensive ones and the mechanism is not complicated.",
+          "A ceramide-containing moisturiser, also from a pharmacy range. The ingredients that repair a barrier are commodity chemicals and the well-studied formulations are inexpensive.",
+          "A sunscreen you like, which is where the budget concentrates. Broad spectrum, SPF 30 or higher, in a texture that guarantees generous daily use.",
+          "And one active chosen for your actual concern — adapalene, azelaic acid or a basic retinol, all of which are cheap. Four products, and it will outperform most three-hundred-pound shelves.",
+        ],
+      },
+      {
+        h: "When to spend more anyway",
+        p: [
+          "Packaging for unstable actives. An airless pump or opaque tube for vitamin C or a retinoid genuinely extends the useful life of the product, and a cheap serum in a clear dropper bottle may cost more per active dose delivered.",
+          "Sunscreen filters unavailable in cheaper products, particularly in markets where the newer generation is sold at a premium.",
+          "Formulations that solved a genuine technical problem — a stabilised high-concentration vitamin C, an encapsulated retinoid that reduces irritation, a tinted mineral sunscreen with a wide shade range.",
+          "And texture, if that is what makes you use the product. That is a legitimate purchase provided it is understood as buying adherence rather than buying pharmacology.",
+        ],
+      },
+      {
+        h: "The check to run before buying",
+        p: [
+          "What problem is this solving, and what would I expect to see if it worked? If neither sentence comes easily, the purchase is driven by something other than the problem.",
+          "Where does the active sit on the ingredient list, and will this packaging keep it intact? Two checks, thirty seconds, and they disqualify a surprising proportion of expensive products.",
+          "Is there a pharmacy product with the same actives in comparable positions? Ten minutes of searching, and frequently there is.",
+          "And would I still want this at half the price, or is part of what I am buying the fact that it was expensive? That last question is uncomfortable and it is the one that saves the most money.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'reapplying-sunscreen-truth',
+    sections: [
+      {
+        h: "The formats, ranked by how much they deliver",
+        p: [
+          "A cream or fluid reapplied properly delivers the most product and is the only format that genuinely replaces the morning layer. It is also the least practical over makeup, which is why it is used least.",
+          "A stick comes second and is the best compromise. Applied in overlapping passes with real pressure, it lays down a comparable film, and it works in a lift or a car without hands to wash.",
+          "A cushion compact sits below that, delivering a moderate amount and pressing rather than rubbing, which preserves what is underneath. Powders come last — convenient, and delivering far less than the label assumes.",
+          "The ranking is worth knowing because people default to the most convenient format and then treat it as equivalent. A powder maintains something rather than nothing; it does not restore a full layer.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'mineral-vs-chemical-spf',
+    sections: [
+      {
+        h: "How to test which suits you",
+        p: [
+          "Buy the smallest size available rather than committing to a full bottle. Sunscreen is the product most likely to be abandoned over texture, and a small tube tells you within a fortnight.",
+          "Apply the full quantity when testing — two fingers' length for face and neck. A cast that is invisible at a quarter of the tested amount will be obvious at the amount that actually protects you.",
+          "Check it in daylight rather than in a shop or a bathroom, and check the jawline against the neck, which is where a mismatch shows. Give it ten minutes, since several formulations settle noticeably as they dry.",
+          "Then wear it for two weeks under whatever you normally wear. Pilling under makeup, stinging near the eyes and midday greasiness all appear in ordinary use rather than in a swatch.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'sun-damage-adds-up',
+    sections: [
+      {
+        h: "The daily habit, specified",
+        p: [
+          "Two fingers' length of broad-spectrum sunscreen for face and neck, every morning, applied before leaving and allowed to set. Not on sunny days — every day, because UVA is the band doing most of this and it is consistent through the year and passes through glass.",
+          "Reapply before deliberate time outdoors and every two hours while there. On days spent indoors away from windows, the morning layer is doing more than people assume.",
+          "A wide-brimmed hat and sunglasses for anything sustained outdoors. Both work without reapplication, and the sunglasses protect the area most difficult to apply sunscreen to.",
+          "Shade and timing for the middle of the day, when the sun is high enough that the atmospheric path is short and intensity peaks. The shadow rule — shorter than you are tall means take it seriously — needs no equipment.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'natural-doesnt-mean-safe',
+    sections: [
+      {
+        h: "The DIY recipes worth skipping entirely",
+        p: [
+          "Sugar or salt scrubs on facial skin. The particles are large and irregular, they produce micro-tears, and the resulting inflammation causes more pigmentation than the scrub removes.",
+          "Undiluted essential oils of any kind, for the sensitisation reasons above, and citrus oils in particular before sun exposure.",
+          "Anything involving raw egg, which carries a salmonella risk near the eyes and mouth for no demonstrated benefit, and anything involving crushed aspirin, which is not equivalent to salicylic acid in a formulated product.",
+          "And any recipe whose appeal rests on the ingredients being things you already have in the kitchen. That is a statement about convenience, not about whether the pH, concentration or stability is anywhere near appropriate for skin.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'does-drinking-water-clear-skin',
+    sections: [
+      {
+        h: "What the glow actually is",
+        p: [
+          "The appearance people describe as glowing is a specific optical property: light reflecting evenly off a smooth, well-hydrated surface rather than scattering off a rough, flaking one.",
+          "Three things produce it. A stratum corneum with adequate water content, so cells are plump and sit flat. An intact lipid matrix, so the surface is continuous rather than fissured. And a smooth surface without accumulated dead cells sitting unevenly.",
+          "All three are surface properties, and all three are addressed topically rather than systemically. This is why a good moisturiser produces the effect within minutes and a litre of water does not produce it at all.",
+          "Circulation contributes as well, which is why exercise, sleep and not smoking genuinely show on skin. That is a real link between systemic health and appearance, and it runs through blood flow rather than fluid volume.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'expensive-isnt-always-better',
+    sections: [
+      {
+        h: "What price cannot buy at all",
+        p: [
+          "A prescription. No cosmetic product at any price does what tretinoin, prescription azelaic acid, hydroquinone, topical ivermectin or an oral treatment does, because they operate in a different regulatory category with different evidence requirements and permitted concentrations.",
+          "People routinely spend several hundred on a luxury regimen for acne or pigmentation that a prescription would address more effectively for a fraction of the cost. That is the single most expensive mistake available in this category.",
+          "Speed. Cell turnover, collagen synthesis and pigment clearance run at biological rates that money does not accelerate, and anything promising visible results in a week is describing hydration.",
+          "And a substitute for sunscreen, sleep or not smoking. The most expensive routine applied to unprotected skin is working against something it cannot outpace.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'reapplying-sunscreen-truth',
+    sections: [
+      {
+        h: "The priority order",
+        p: [
+          "Apply enough in the morning. This single item accounts for more of the gap between the protection on the label and the protection you receive than every reapplication habit combined, and most people are applying a quarter to half of the tested quantity.",
+          "Then reapply before deliberate outdoor exposure, and every two hours while there. Then use hats, sleeves and shade for the long stretches, since none of those wears off.",
+          "Then top up at the desk if there is a window nearby. Then, last, worry about the technique over makeup.",
+          "Most people invert this list — agonising over powder brands while under-applying at eight in the morning. Fixing the first item costs nothing and changes considerably more than any of the rest.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'mineral-vs-chemical-spf',
+    sections: [
+      {
+        h: "The answer in three lines",
+        p: [
+          "Both work, both are regulated, and both meet the same testing standard for the number printed on the bottle. The debate generates more heat than the difference justifies.",
+          "Mineral suits reactive skin, young children, pregnancy if you prefer caution, and long unattended exposure where photostability matters. Organic suits deeper skin tones, daily makeup wear and anybody who wants the lightest textures and broadest UVA coverage.",
+          "Whichever you choose, the variables that determine your outcome are applying it at all, applying enough, adequate UVA coverage and reapplying on exposure. Filter type ranks well below all four.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'sun-damage-adds-up',
+    sections: [
+      {
+        h: "Checking your own skin",
+        p: [
+          "Anybody with significant sun history should be examining their skin periodically, and this has nothing to do with appearance. Once every few months, in good light, with a mirror for the back and someone else's eyes for the areas you cannot see.",
+          "Look for new lesions, changes in existing ones, anything asymmetric or irregularly bordered, anything with more than one colour, and anything that has changed in size, shape or sensation.",
+          "Do not neglect the areas that never see sun. Acral melanoma occurs on palms, soles and under nails, is not sun-driven, and is disproportionately the subtype found in people with deeper skin tones.",
+          "Anything that concerns you is worth a professional look. The cost of an unnecessary appointment is small and the cost of a delayed one is not comparable.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'natural-doesnt-mean-safe',
+    sections: [
+      {
+        h: "Reading a label in one minute",
+        p: [
+          "Ignore the front of the box entirely. Natural, clean, green and non-toxic have no legal definitions in most markets and tell you nothing about what is inside.",
+          "Turn it over. Ingredients above one per cent are listed in descending order, so the top third of the list is most of the product and the bottom is trace.",
+          "Find the ingredient you came for and check where it sits. Anything appearing after the preservative is present at trace level regardless of what the marketing implies.",
+          "Then scan for fragrance and the declared allergens — limonene, linalool, geraniol, citronellol, eugenol and the rest — and for a short list rather than a long one. That is the whole method, and it works on any product in any category.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'does-drinking-water-clear-skin',
+    sections: [
+      {
+        h: "The takeaway, in four lines",
+        p: [
+          "If you are drinking too little, drink more — it will improve measured skin hydration somewhat, along with a long list of things that matter more than skin.",
+          "If you are already adequately hydrated, additional water is excreted and will not clear acne, fade marks, shrink pores or soften wrinkles. There is no mechanism for any of those.",
+          "Dry and dehydrated skin are treated at the surface: a humectant on damp skin, an occlusive over it, gentler cleansing, and more humidity in the room.",
+          "And the visible improvements people attribute to drinking water usually came from the other changes made alongside it — less alcohol, better sleep, more consistent routine. Those are worth keeping; the attribution is not.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'expensive-isnt-always-better',
+    sections: [
+      {
+        h: "The answer",
+        p: [
+          "Usually not. The mechanisms available to any cosmetic product are limited and cheaply accessible, and most of the price difference reflects retail margin, marketing and packaging rather than what is in the bottle.",
+          "The exceptions are identifiable: packaging that protects unstable actives, genuinely higher concentrations, filters unavailable in cheaper products, and textures pleasant enough to guarantee daily use.",
+          "The reliable signal is never the price and never the front of the box. It is the ingredient list, the position of the active on it, and whether the packaging will keep that active intact until you reach the bottom.",
+          "Judged that way, a well-chosen inexpensive routine outperforms a poorly chosen expensive one comfortably, and the difference between the two is a minute of reading rather than a difference in what is available to you.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
