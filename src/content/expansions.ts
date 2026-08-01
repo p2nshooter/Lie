@@ -5085,6 +5085,595 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'adjusting-skincare-by-season',
+    sections: [
+      {
+        h: "Absolute humidity is the number that matters",
+        p: [
+          "Weather reports give relative humidity, which is the proportion of water the air is holding against the maximum it could hold at that temperature. That maximum rises steeply with warmth, which is why the figure is misleading for skin.",
+          "Cold air at ninety per cent relative humidity contains far less actual water than warm air at fifty per cent. A damp December morning is drier for your skin, in the only sense that counts, than a mild June evening.",
+          "Then that cold air is brought indoors and heated, which raises its capacity without adding any water. Relative humidity in a heated room routinely falls to twenty or thirty per cent, and the air draws moisture from every surface including your face.",
+          "This is the mechanism behind winter dryness, and it explains why the problem is worst indoors rather than outside. A hygrometer costs very little and answers the question directly.",
+        ],
+      },
+      {
+        h: "What actually changes in the skin",
+        p: [
+          "Sebum production falls with temperature. It is a physical property of the material as much as a physiological response — sebum is more viscous when cold and spreads less readily across the surface, so the protective film thins in winter even before production drops.",
+          "Ceramide levels fall as well. Studies measuring stratum corneum lipids across seasons find lower ceramide content in winter, which means the barrier is structurally weaker at exactly the moment the environment is most demanding.",
+          "Transepidermal water loss rises accordingly, and the natural moisturising factor within the corneocytes is depleted faster than it is replaced.",
+          "None of that is unique to any particular skin type. Somebody with oily skin in July can have a genuinely impaired barrier in January, and the routine that suited the first will actively fail during the second.",
+        ],
+      },
+      {
+        h: "The winter adjustments that work",
+        p: [
+          "Change the cleanser first. This is the step most likely to be causing the dryness and the cheapest to swap — a foaming gel that was appropriate in humid heat is frequently the whole problem in a heated flat.",
+          "Change the moisturiser second, upward in richness rather than in quantity. Ceramides earn their place here specifically, because the deficit being addressed is a lipid one.",
+          "Add an occlusive at night if the skin is genuinely tight. Petrolatum over a moisturiser is cheap, inert and cuts water loss by more than ninety per cent, and it is the correct tool for the season rather than a heavy-handed one.",
+          "Reduce actives rather than increasing them. A retinoid tolerated four nights a week in summer may need two in winter, and pushing through produces a barrier failure that costs the whole season.",
+        ],
+      },
+      {
+        h: "Humidity is the intervention nobody buys",
+        p: [
+          "A humidifier addresses the cause rather than the symptom, and in a heated bedroom it does more for overnight water loss than upgrading a moisturiser does. Aiming for forty to fifty per cent relative humidity is a reasonable target.",
+          "It also improves the performance of every humectant in the routine at once, because humectants bind whatever water is available and in dry air there is very little.",
+          "There is a maintenance cost that is worth stating: a humidifier that is not cleaned regularly becomes a source of mould and bacteria dispersed into the air, which is a worse problem than dry skin.",
+          "Lowering the thermostat slightly achieves some of the same effect for free, since less heating means less capacity added to the same amount of water.",
+        ],
+      },
+      {
+        h: "Warm and humid seasons",
+        p: [
+          "Sebum production rises, sweat rises, and the routine that felt right in winter now feels like a film. The correct response is lighter textures rather than fewer steps, and the distinction matters.",
+          "Gel-cream moisturisers, fluid sunscreens and water-based serums all suit the season. Dropping moisturiser entirely because skin feels greasy is the classic error, and it produces the tight-then-oily cycle that people misread as worsening oiliness.",
+          "Sunscreen needs are higher in absolute terms — more exposure, more sweating, more reapplication — which usually means a second format for reapplication rather than a different morning product.",
+          "Sweat itself irritates when left on skin, particularly around the hairline and jaw. Rinsing after exercise matters more in summer than any product change.",
+        ],
+      },
+      {
+        h: "Tropical and equatorial climates",
+        p: [
+          "Much seasonal skincare advice assumes four distinct seasons and does not travel. In a consistently hot and humid climate the relevant variation is wet season against dry season, and the swing in ambient humidity can be large.",
+          "High humidity year-round means humectants perform well and occlusives are rarely needed. Lightweight layering suits the conditions, and heavy creams are a common source of congestion for people following advice written elsewhere.",
+          "Air conditioning is the significant variable, and it produces winter conditions indoors while it is hot outside. Somebody moving between an air-conditioned office and humid streets is crossing two climates several times a day, and skin responds to both.",
+          "Ultraviolet intensity is also higher and far more consistent through the year at low latitudes, which removes any seasonal argument for relaxing sun protection.",
+        ],
+      },
+      {
+        h: "Travel across climates",
+        p: [
+          "A flight is several hours at cabin humidity well below ten per cent, which is drier than most deserts. An occlusive applied before boarding is one of the few situations where a heavy product in daylight is straightforwardly sensible.",
+          "Arriving somewhere with a different climate is a reason to change quantities before changing products. The same moisturiser applied more generously handles most of a move from humid to dry; the reverse needs less rather than something new.",
+          "Water hardness changes too and is rarely considered. Hard water leaves surfactant residue and is associated with barrier disruption, so a routine that behaves differently in a new city may be reacting to the tap rather than the air.",
+          "For a trip of a week or less, packing the existing routine and adjusting quantity is almost always better than buying a parallel set of products for the destination.",
+        ],
+      },
+      {
+        h: "Listening rather than scheduling",
+        p: [
+          "The calendar is a poor guide because seasons arrive at different times in different places and because indoor conditions matter more than outdoor ones. The reliable signals come from the skin.",
+          "Tightness after cleansing that persists more than a minute or two means the cleanser is now too strong for the conditions. This is usually the first sign and the easiest to act on.",
+          "Flaking, particularly around the nose and along the jaw, means the moisturiser is no longer sufficient. Makeup sitting badly and products stinging that previously did not are the same message arriving differently.",
+          "In the other direction, midday shine and a heavy feeling an hour after application mean the routine is too rich for the season. Both directions are worth acting on within a week rather than waiting for a date.",
+        ],
+      },
+      {
+        h: "The two products that never change",
+        p: [
+          "Sunscreen is the obvious one. Ultraviolet reaching the ground varies with season and latitude, and UVA — the band responsible for photoageing and pigmentation — is far more consistent through the year than UVB, and passes through cloud and window glass.",
+          "The winter sunscreen habit is the one most commonly abandoned and the least defensible to abandon. Snow reflects a substantial proportion of incident ultraviolet back upward, which is why skiers burn under their chins.",
+          "The second constant is gentleness in cleansing. There is no season in which a stripping cleanser is the right choice, and the summer instinct to clean harder because skin feels oilier is the same error as the winter one in a different costume.",
+          "Everything else in a routine can reasonably flex twice a year. Those two should not.",
+        ],
+      },
+      {
+        h: "A twice-yearly review",
+        p: [
+          "Put a reminder at the turn of autumn and the turn of spring. Ten minutes, and the questions are the same each time: does skin feel tight after cleansing, is the moisturiser sufficient or excessive, and is the active frequency still comfortable.",
+          "Change one thing at a time even here, because a whole routine swapped at once produces the same attribution problem as any other simultaneous change.",
+          "Keep the previous season's products rather than discarding them. A summer moisturiser is not obsolete in October; it is waiting for April, and most of them keep perfectly well.",
+          "A routine that has run unchanged for two years is almost certainly wrong for part of each of them, and the cost of that is a slow decline nobody attributes to anything in particular.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'when-to-see-a-dermatologist',
+    sections: [
+      {
+        h: "The signs that are urgent",
+        p: [
+          "A mole or pigmented lesion that is changing warrants an appointment quickly rather than at convenience. The conventional checklist is asymmetry, an irregular border, more than one colour, a diameter above about six millimetres, and any evolution in size, shape, colour or sensation.",
+          "Evolution is the most important of the five and the one most often missed, because a lesion that has always looked unusual is less concerning than one that looked ordinary last year.",
+          "The ugly duckling sign is a useful companion rule: a lesion that looks different from all your other moles deserves attention even if it passes the checklist.",
+          "Any sore that will not heal within a few weeks, any lesion that bleeds without being knocked, and any new dark streak under a nail all belong in the same category. None of these is a skincare question.",
+        ],
+      },
+      {
+        h: "Acne, and why timing matters",
+        p: [
+          "Acne that leaves scars is a reason to seek treatment now rather than after another six months of over-the-counter attempts. Scarring is permanent, treatment for it is expensive and imperfect, and preventing it is dramatically easier than correcting it.",
+          "Nodular or cystic acne — deep, painful lumps rather than surface spots — will not respond to anything on a shelf, and the delay costs tissue.",
+          "Acne that has not improved after twelve weeks of consistent over-the-counter treatment applied correctly is also a reasonable trigger. Twelve weeks is long enough for benzoyl peroxide or an adapalene to declare itself.",
+          "So is acne that is affecting how somebody lives — avoiding social situations, photographs or activities. That is a legitimate medical reason on its own and does not require the acne to be severe by any objective measure.",
+        ],
+      },
+      {
+        h: "Conditions frequently self-managed for years",
+        p: [
+          "Rosacea is routinely treated as sensitive skin for a decade before anybody names it, during which the vascular changes progress and become harder to reverse. Persistent central facial redness with flushing is worth having looked at.",
+          "Seborrhoeic dermatitis presents as flaking with redness around the nose, eyebrows and hairline, and is commonly mistaken for dryness and treated with moisturiser indefinitely. It responds well to specific antifungal treatment and not at all to hydration.",
+          "Perioral dermatitis — small bumps around the mouth and nose — is frequently made worse by the steroid creams people reach for, and needs a different approach entirely.",
+          "Melasma is manageable and requires a plan rather than a product, and aggressive self-treatment with strong peels is a documented route to making it considerably worse.",
+        ],
+      },
+      {
+        h: "Why a diagnosis changes the economics",
+        p: [
+          "The comparison people make is between the cost of an appointment and the cost of a product, which is the wrong comparison. The right one is between an appointment and the cumulative cost of eighteen months of purchases aimed at an unidentified problem.",
+          "Prescription treatments are frequently cheaper than the cosmetic products being used instead of them. Tretinoin, adapalene, azelaic acid, topical antibiotics and antifungals are all inexpensive relative to a mid-range serum.",
+          "They are also considerably more effective, because they operate in a regulatory category with different evidence requirements and different permitted concentrations.",
+          "The time cost matters too. Six months on the correct treatment is six months; six months of experimentation is often the first of several such periods.",
+        ],
+      },
+      {
+        h: "Who to see, and in what order",
+        p: [
+          "A general practitioner is the appropriate first stop in most health systems and can prescribe for straightforward acne, rosacea and dermatitis without a referral. This is faster and cheaper than going directly to a specialist.",
+          "A dermatologist is the right referral for anything not responding, anything requiring a diagnosis, suspicious lesions, severe or scarring acne, and anything requiring systemic treatment such as isotretinoin.",
+          "An aesthetician or facialist is not a medical practitioner and cannot diagnose. Many are skilled and useful for extraction and for procedures, and none of that substitutes for a diagnosis when one is needed.",
+          "Be cautious with clinics whose primary business is selling procedures. A recommendation for a course of treatment from somebody who sells that course is not a neutral assessment.",
+        ],
+      },
+      {
+        h: "Preparing for the appointment",
+        p: [
+          "Bring a list of every product currently in use, including cleansers, hair products and anything applied to the body. This sounds excessive and it is frequently how the cause is identified.",
+          "Bring photographs, particularly of anything intermittent. Reactions and flares resolve before appointments happen, and a photograph of the distribution and appearance is genuinely diagnostic information.",
+          "Bring a timeline: when it started, what has changed since, what has been tried and for how long, and what happened. Vague accounts produce vague advice.",
+          "Attend without makeup if possible, and mention any medication and any relevant medical history. Several common drugs affect the skin, and hormonal and thyroid conditions present cutaneously.",
+        ],
+      },
+      {
+        h: "What a good consultation looks like",
+        p: [
+          "The clinician should look at the skin properly, ask about duration and pattern, and give the condition a name. A diagnosis is the deliverable, and leaving without one is a reasonable thing to notice.",
+          "There should be an explanation of what the treatment does, how long it will take, what side effects to expect, and what happens if it does not work. Twelve weeks is a common horizon and knowing that in advance prevents premature abandonment.",
+          "There should be a plan for follow-up. Skin conditions are managed rather than cured in many cases, and a treatment with no review date tends to be either continued indefinitely or stopped arbitrarily.",
+          "It is reasonable to ask what the alternatives are and why this one was chosen. A clinician who welcomes that question is usually the one worth staying with.",
+        ],
+      },
+      {
+        h: "Teledermatology, and its limits",
+        p: [
+          "Remote consultation works well for conditions that are visually distinctive and for follow-up on an established diagnosis. Acne management, prescription renewals and reviewing progress are all reasonable candidates.",
+          "It works poorly for lesion assessment, where dermoscopy is standard and cannot be replicated by a phone camera. Any service offering to assess moles from a photograph should be treated with caution.",
+          "Photograph quality determines the quality of the assessment. Natural daylight, no filters, several angles, and a scale reference for anything being measured.",
+          "It is a useful supplement rather than a replacement, and the situations where it is least adequate are unfortunately the ones where being wrong matters most.",
+        ],
+      },
+      {
+        h: "When to ask for a second opinion",
+        p: [
+          "When a treatment has been followed correctly for the stated period and produced nothing. That is information, and it should prompt a reassessment rather than a longer course of the same thing.",
+          "When the diagnosis does not fit what you are experiencing, particularly if a condition was named quickly without much examination.",
+          "When a significant intervention is being recommended and you would like the reasoning checked. This is normal medical practice and nobody competent objects to it.",
+          "And when you have been told there is nothing to be done. That is occasionally true and is more often a limitation of a particular practice than a statement about what exists.",
+        ],
+      },
+      {
+        h: "Not a failure of your routine",
+        p: [
+          "There is a persistent idea that seeking medical help means the routine failed, and it delays a great many appointments. Skincare maintains and protects; it does not treat disease, and expecting it to is the actual error.",
+          "Acne, rosacea, eczema, psoriasis, seborrhoeic dermatitis and melasma are medical conditions with medical treatments. No arrangement of cosmetic products substitutes for them, and no amount of diligence compensates.",
+          "The most effective routines usually pair a prescription with good supporting skincare — gentle cleansing, barrier repair, sunscreen — each doing the part it is suited to.",
+          "Getting a diagnosis is the step that makes the rest of the routine coherent, because it replaces a guess about what is wrong with a fact.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'dehydrated-vs-dry-skin',
+    sections: [
+      {
+        h: "Natural moisturising factor, the missing piece",
+        p: [
+          "Hydration in the outer layer is not simply water that arrived and stayed. Corneocytes contain a mixture of small water-binding molecules collectively called natural moisturising factor — amino acids, pyrrolidone carboxylic acid, urea, lactate and various salts.",
+          "That mixture is produced by the breakdown of a protein called filaggrin as cells mature toward the surface. It is genuinely hygroscopic, and it is what allows the outer layer to hold water rather than merely receive it.",
+          "Dehydration, properly understood, is a shortage of that water-holding capacity as much as a shortage of water. This is why simply applying water does nothing and why a humectant works better than a splash.",
+          "It also explains the ingredients that help. Urea, lactate, glycerin and amino acids are not arbitrary choices — several of them are components of natural moisturising factor being replaced directly.",
+        ],
+      },
+      {
+        h: "Filaggrin, and why some people start behind",
+        p: [
+          "Filaggrin mutations are common — carried by up to ten per cent of people of European descent — and they are the strongest known genetic risk factor for atopic dermatitis. Carriers produce less natural moisturising factor and have a measurably weaker barrier from birth.",
+          "This matters for the dry-versus-dehydrated distinction because it means some people have a permanent structural predisposition rather than a temporary state produced by their routine.",
+          "For them, the tightness returns whenever the routine lapses, the barrier is more permeable to allergens and irritants, and the reaction to a harsh cleanser is disproportionate to what anybody else would experience from it.",
+          "The practical implication is not despair but expectation. A routine that has to be maintained permanently is not a failure of the routine, and the ingredients that supply what filaggrin would have produced are exactly the ones to prioritise.",
+        ],
+      },
+      {
+        h: "Oily and dehydrated at the same time",
+        p: [
+          "The most common misdiagnosis in this whole subject is oily skin that is also dehydrated. Sebum output and water content are independent variables, and there is nothing contradictory about a face that is simultaneously shiny and tight.",
+          "The presentation is distinctive once recognised: visible oil by midday, flaking around the nose and mouth, makeup separating, fine lines more apparent than they should be, and skin that feels tight immediately after cleansing despite being greasy an hour later.",
+          "It is usually self-inflicted. Oily skin invites aggressive cleansing, aggressive cleansing removes lipids and disrupts the barrier, the disrupted barrier loses water faster, and the tightness that results is treated with more cleansing.",
+          "The intervention is counterintuitive and reliable: cleanse more gently, add a humectant, and add a light moisturiser. Skin frequently becomes less oily within a few weeks, because the rebound driving part of the output has been removed.",
+        ],
+      },
+      {
+        h: "The stripping cycle in detail",
+        p: [
+          "Surfactants in a cleanser do not distinguish between the sebum you want gone and the intercellular lipids that make up the barrier. A strong cleanser removes both, which is why the immediate result feels so thoroughly clean.",
+          "That squeaky sensation is the diagnostic signal. It indicates the surface lipid film is gone and the stratum corneum is temporarily bare, which raises water loss for hours afterwards.",
+          "Repeated twice daily, this produces measurable barrier impairment within weeks. Water loss rises, the skin compensates with what feels like increased oil production, and the person cleansing concludes they need a stronger product.",
+          "Breaking the cycle requires accepting a period where skin feels less clean than it has been trained to expect. Two to three weeks is usually enough for the sensation to normalise, and most people find the oiliness reduces alongside it.",
+        ],
+      },
+      {
+        h: "Causes of dehydration outside the bathroom",
+        p: [
+          "Indoor heating and air conditioning both lower ambient humidity substantially, and a working day spent in either is a working day of elevated water loss. This is the largest environmental contributor for most people.",
+          "Long hot showers strip lipids and raise water loss well beyond the face. Shorter and cooler is genuinely better, and the difference is noticeable within a week for anybody with dry limbs.",
+          "Alcohol is a diuretic and dehydrates systemically, which shows in the skin the following morning. Whether drinking more water improves skin hydration in an already well-hydrated person is much less well supported, and the two claims often get bundled together.",
+          "Hard water leaves surfactant residue that continues to irritate after rinsing, and there is reasonable evidence linking hard water exposure to barrier disruption, particularly in people with a filaggrin predisposition.",
+        ],
+      },
+      {
+        h: "Medications and conditions worth knowing about",
+        p: [
+          "Oral isotretinoin produces profound dryness by design, affecting skin, lips and eyes, and requires an entirely different routine for its duration. This is expected rather than a complication.",
+          "Diuretics, some antihistamines and several classes of psychiatric medication reduce secretions and can dry skin systemically. So can statins in some people.",
+          "Hypothyroidism causes dry, rough skin and is a common and easily missed explanation for a change that arrived without a routine change. Diabetes affects skin hydration as well.",
+          "Age reduces both sebum production and natural moisturising factor steadily from the fourth decade, which is why skin that was oily at twenty-five is often genuinely dry at fifty without anything else having happened.",
+        ],
+      },
+      {
+        h: "Treating dehydration specifically",
+        p: [
+          "Humectants first, applied to damp skin. Glycerin is the best-evidenced and cheapest; hyaluronic acid is elegant and needs the damp-skin rule respected; urea at low concentrations both hydrates and gently exfoliates.",
+          "Then an occlusive or a moisturiser containing one, applied within a minute or two, because a humectant with nothing over it in dry air will lose what it gathered.",
+          "Then remove the cause. A gentler cleanser, fewer exfoliants, a humidifier if the room is below forty per cent. Treating dehydration without addressing what is producing it means reapplying the solution indefinitely.",
+          "Improvement is fast when the diagnosis is right. Dehydration responds within days, which is a useful diagnostic in itself — a week of humectants and gentler cleansing that changes nothing suggests the problem is lipid rather than water.",
+        ],
+      },
+      {
+        h: "Treating dryness specifically",
+        p: [
+          "Lipids first. Ceramides, cholesterol and fatty acids together, because the ratio matters and any one alone can delay barrier recovery rather than assist it.",
+          "Occlusives matter more here than for dehydration, because there is less endogenous lipid film to slow water loss. Petrolatum, squalane, dimethicone and heavier plant butters all have a place depending on tolerance.",
+          "Cleansing should be minimal — a cream or oil cleanser in the evening, water alone in the morning, and no foaming products at all during recovery.",
+          "Improvement is slower. Lipid replacement takes weeks rather than days, and a fortnight without visible change is normal rather than evidence that the approach is wrong.",
+        ],
+      },
+      {
+        h: "When both are present",
+        p: [
+          "Frequently they are, and the sequence matters. Address dehydration first, because it responds within days and because the improvement in comfort makes the slower lipid work tolerable.",
+          "A routine covering both is not complicated: gentle cleanser, humectant on damp skin, ceramide moisturiser, occlusive at night in cold weather. Four steps, and three of them are available cheaply.",
+          "Avoid adding actives during this period. Retinoids and acids both increase water loss and both are considerably better tolerated once the barrier has recovered, so the delay costs nothing and prevents a setback.",
+          "Reassess at four weeks. Skin that is comfortable, no longer tight after cleansing, and tolerating products normally is ready for actives to return at half the previous frequency.",
+        ],
+      },
+      {
+        h: "A simple test",
+        p: [
+          "Apply a plain humectant serum to damp skin, seal it with a bland moisturiser, and do that consistently for a week while changing nothing else.",
+          "If skin is noticeably more comfortable, the problem was dehydration and the routine now needs the cause identified — most often the cleanser or the exfoliation load.",
+          "If it is unchanged or only briefly better, the problem is a lipid deficiency, and the answer is ceramides and occlusives rather than more water.",
+          "That single week costs nothing, requires no new diagnosis, and resolves the mix-up that keeps a great many otherwise sensible routines from working.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'hyperpigmentation-guide',
+    sections: [
+      {
+        h: "The products that are genuinely dangerous",
+        p: [
+          "Pigmentation is the one area of skincare with a serious counterfeit and contamination problem, and it is worth knowing about before browsing. Skin-lightening creams sold outside regulated channels have repeatedly been found to contain mercury.",
+          "Mercury inhibits melanin production effectively, which is why it appears. It is also absorbed through skin, accumulates, and causes kidney damage and neurological symptoms. Regulators in several countries issue recurring warnings, and seizures of contaminated product are routine.",
+          "Undeclared potent corticosteroids are the second contaminant. They lighten skin by suppressing inflammation and thinning it, and long-term facial use produces atrophy, visible vessels, steroid-induced rosacea and a rebound on withdrawal that is worse than the original problem.",
+          "The warning signs are consistent: no full ingredient list, no manufacturer address, sold informally or imported without regulatory approval, and promises of results in days. Anything matching that description should not go on a face.",
+        ],
+      },
+      {
+        h: "Compounded creams and the ochronosis risk",
+        p: [
+          "Custom-mixed creams from clinics and pharmacies can be entirely legitimate and are widely used. They can also be a route to unlabelled ingredients at unstated concentrations, and the difference is not visible from outside.",
+          "Ask what is in it, at what percentage, and for how long it is intended to be used. A legitimate prescriber answers all three without hesitation, and an unwillingness to answer is itself the answer.",
+          "Exogenous ochronosis is the specific risk with prolonged high-concentration hydroquinone: a paradoxical blue-black darkening of the treated skin that is difficult to reverse and considerably worse than what was being treated.",
+          "It is uncommon at prescribed concentrations used in defined courses, and the risk rises with high-strength unregulated products used continuously for months or years. This is the reason hydroquinone is prescribed in courses rather than indefinitely.",
+        ],
+      },
+      {
+        h: "Whitening, brightening and the language problem",
+        p: [
+          "The vocabulary in this category carries a great deal that has nothing to do with dermatology. Whitening implies changing the skin's baseline colour; brightening and evening imply reducing unevenness against that baseline.",
+          "The treatments discussed here do the second. Tyrosinase inhibitors reduce excess pigment production in areas where it is overactive; they do not and cannot change the skin tone somebody was born with, and any product promising otherwise is either lying or contaminated.",
+          "This distinction matters medically as well as socially, because it sets the expectation correctly. The realistic goal is a mark that has faded to match the surrounding skin, not skin that is lighter than it was.",
+          "It is also worth naming that the market for these products is shaped by colourism, and that a person's baseline tone is not a problem requiring treatment. Uneven pigmentation is a legitimate concern; the tone underneath it is not a defect.",
+        ],
+      },
+      {
+        h: "Why the timeline feels so slow",
+        p: [
+          "Tyrosinase inhibitors act on pigment production, not on pigment already made. The melanin currently in your skin has to travel upward with cell turnover and shed, and that process runs at its own pace regardless of the product.",
+          "Epidermal turnover takes roughly four weeks in young skin and longer with age. Pigment sitting deeper takes correspondingly longer, and dermal pigment may take years or never fully clear.",
+          "So the earliest a topical treatment can show anything is around a month, realistically eight to twelve weeks, and stubborn marks take six months. Nothing shortens this meaningfully except procedures, which carry their own pigmentation risk.",
+          "Understanding the mechanism makes the wait tolerable. It is not that the product is weak; it is that the pigment has to physically leave, and that has a speed limit.",
+        ],
+      },
+      {
+        h: "Photographing progress properly",
+        p: [
+          "Pigmentation changes too slowly to be perceived in a mirror, and daily observation actively misleads because lighting varies more than the marks do. A photograph taken at the start is the only reliable reference.",
+          "Standardise it: same location, same time of day, same light source, no makeup, no filters, same distance and angle. A window with indirect daylight is the most reproducible option in most homes.",
+          "Take one monthly, not weekly. Weekly comparison shows noise; monthly comparison shows signal, and the three-month gap is where the change becomes obvious.",
+          "Photograph in the same position each time, including which way you are facing. Marks fall differently in shadow when the head turns, and half the apparent changes people report are lighting rather than pigment.",
+        ],
+      },
+      {
+        h: "Stacking without wrecking the barrier",
+        p: [
+          "The temptation with pigmentation is to use everything at once — vitamin C, niacinamide, an acid, a retinoid, tranexamic acid and azelaic acid together. This produces irritation, and irritation produces more pigment.",
+          "That is the specific trap of this concern. Post-inflammatory hyperpigmentation is caused by inflammation, so an aggressive routine can generate new marks faster than it fades old ones, particularly in deeper skin tones.",
+          "A workable maximum is two pigmentation actives plus a retinoid, split across morning and evening, introduced one at a time over several months. Vitamin C in the morning and azelaic acid or a retinoid at night is a complete and well-tolerated plan.",
+          "If skin becomes red, tight or reactive at any point, the correct response is to reduce rather than to add something soothing on top. Every day of irritation is working against the goal.",
+        ],
+      },
+      {
+        h: "Maintenance after it works",
+        p: [
+          "Pigmentation returns. Melanocytes that were overactive remain capable of becoming overactive, and the triggers — ultraviolet, visible light, inflammation, hormones — have not gone anywhere.",
+          "Hydroquinone in particular is used in courses of three to four months with breaks, and stopping without a maintenance plan is a reliable route back to where you started. Azelaic acid, niacinamide or a retinoid usually take over during the break.",
+          "For melasma, maintenance is indefinite. This is a chronic relapsing condition and the successful outcome is control rather than cure, which is worth accepting early rather than discovering after the third relapse.",
+          "Sunscreen is the maintenance treatment in every case. A tinted formulation, applied at two fingers' length every morning and reapplied, is what holds the result in place once the actives have done their work.",
+        ],
+      },
+      {
+        h: "What to do about the causes",
+        p: [
+          "For post-inflammatory marks, treat the thing causing the inflammation. Continuing to pick at spots while applying a brightening serum is a losing arrangement, and stopping picking does more than any product.",
+          "For melasma, identify the hormonal contribution. Combined oral contraceptives and hormone therapy are frequent triggers, and a conversation with a doctor about alternatives is sometimes more effective than anything topical.",
+          "Heat is a melasma trigger independent of light, which means hot kitchens, saunas and prolonged sun exposure matter even under a hat. This is genuinely under-recognised.",
+          "For sun spots, the cause is cumulative exposure over decades, and the treatment is the same protection that would have prevented them plus patience with the ones already present.",
+        ],
+      },
+      {
+        h: "Realistic outcomes by type",
+        p: [
+          "Post-inflammatory marks in the epidermis: substantial fading over three to six months, often complete. This is the most treatable category and the one where patience pays best.",
+          "Post-inflammatory pigment that has dropped into the dermis: partial fading over years, and often not complete. Prevention matters more than treatment here.",
+          "Melasma: good control with consistent treatment and rigorous photoprotection, relapse when either lapses, and a realistic goal of faint rather than absent.",
+          "Solar lentigines: modest response to topicals, good response to targeted procedures in appropriate skin types, and a strong likelihood of new ones appearing if sun protection does not change.",
+        ],
+      },
+      {
+        h: "The one non-negotiable",
+        p: [
+          "Every treatment discussed in this article fails without daily sun protection, and that is not a caveat appended for completeness. It is the mechanism by which pigmentation routines most commonly fail.",
+          "Ultraviolet and visible light both stimulate the melanocytes you are trying to quieten. Treating pigment while continuing to stimulate its production is running two processes against each other, and the stimulation is faster.",
+          "A tinted mineral sunscreen, applied generously every morning and reapplied on exposure, is doing more of the work than the expensive serum. That is not a rhetorical flourish — it is the ranking supported by the evidence.",
+          "If only one thing from this article is acted on, make it that one, and add the actives later once it has become automatic.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'rosacea-basics',
+    sections: [
+      {
+        h: "Rosacea in deeper skin tones",
+        p: [
+          "Rosacea is widely described as a condition of fair northern European skin, and that description has caused decades of missed diagnoses. It occurs across every skin tone, and in deeper skin the erythema is far harder to see.",
+          "The presenting features differ accordingly. Instead of obvious redness, people report a warm or burning sensation, swelling, dryness, and a background dusky or violaceous discolouration that does not read as redness at all.",
+          "Papules and pustules are often the feature that eventually prompts an appointment, at which point they are frequently diagnosed as acne and treated with products that make the rosacea worse.",
+          "If you have persistent facial burning, flushing you can feel more than see, and inflammatory bumps that acne treatment does not resolve, rosacea belongs on the list of possibilities regardless of your skin tone.",
+        ],
+      },
+      {
+        h: "Ocular rosacea, which is routinely missed",
+        p: [
+          "Somewhere around half of people with rosacea have ocular involvement, and it is under-diagnosed because the symptoms are attributed to tiredness, screens or ordinary dry eye.",
+          "The presentation is gritty, burning, itchy eyes, a sensation of something in the eye, redness of the lid margins, recurrent styes, crusting on the lashes and light sensitivity. It can appear before any skin symptoms at all.",
+          "It matters more than the cosmetic features because untreated ocular rosacea can affect the cornea and, in a minority of cases, vision. This is the part of the condition with actual stakes.",
+          "Treatment is straightforward and effective: warm compresses, lid hygiene, artificial tears, and in many cases oral doxycycline at a sub-antimicrobial dose. Mentioning eye symptoms at a skin appointment is worth doing every time.",
+        ],
+      },
+      {
+        h: "Alcohol, diet and what the evidence supports",
+        p: [
+          "Alcohol is among the most consistently reported triggers, and red wine appears more often than other drinks in patient surveys. The mechanism is vasodilation, and the effect is immediate rather than cumulative.",
+          "Spicy food triggers through capsaicin acting on the same neurovascular receptors that respond to heat. Hot drinks trigger through temperature rather than content, which means iced coffee is frequently fine when hot coffee is not.",
+          "Cinnamaldehyde-containing foods — cinnamon, tomatoes, citrus, chocolate — appear in trigger lists with reasonable consistency, though the evidence is largely observational.",
+          "What the evidence does not support is a general anti-inflammatory diet, elimination protocols or supplements marketed for rosacea. Identify your own triggers through a diary; do not adopt somebody else's list wholesale.",
+        ],
+      },
+      {
+        h: "Exercising without triggering a flare",
+        p: [
+          "Exercise raises core temperature and dilates cutaneous vessels, which is the trigger mechanism directly. Avoiding exercise is not an acceptable answer, and there are practical ways to reduce the response.",
+          "Train in a cool environment, early or late rather than midday, and use a fan. Keeping ambient temperature down reduces how hard the body has to work to shed heat through the skin.",
+          "Cold water helps in two ways: drinking it lowers core temperature slightly, and a cold damp cloth on the neck and face during breaks reduces the flush directly.",
+          "Shorter intervals with recovery periods produce less sustained heat loading than long continuous efforts. Swimming is well tolerated by many people for the obvious reason, though chlorine can irritate separately.",
+        ],
+      },
+      {
+        h: "Weather, work and daily exposures",
+        p: [
+          "Cold wind is as reliable a trigger as heat and is less often anticipated. A scarf over the lower face and a barrier-rich moisturiser applied before going out both help materially.",
+          "Sudden temperature transitions matter more than absolute temperature — coming into a heated building from the cold produces a flush that neither environment would produce alone.",
+          "Occupational heat is a real and under-discussed problem. Kitchen work, hairdressing near dryers, industrial settings and anything involving a hot vehicle cab all impose repeated triggering that no product offsets.",
+          "Where the exposure cannot be avoided, the mitigations are physical: fans, breaks in cooler air, cold compresses, and treating the skin gently the rest of the time so it starts from a better baseline.",
+        ],
+      },
+      {
+        h: "Makeup and colour correction",
+        p: [
+          "Green-tinted primers and colour correctors work on a genuine optical principle rather than a cosmetic superstition. Green sits opposite red on the colour wheel and neutralises it, and the effect is immediate and real.",
+          "Apply a thin layer over moisturiser and sunscreen, then a foundation matched to skin tone over the top. Heavy application looks grey; a light layer disappears and does the work.",
+          "Yellow-based foundations counteract redness better than neutral or pink-based ones. Mineral makeup is often better tolerated, and anything containing alcohol, fragrance or menthol should be avoided.",
+          "Removal matters as much as application. A gentle oil or balm cleanser followed by a mild second cleanse removes makeup without the scrubbing that provokes a flare in the evening.",
+        ],
+      },
+      {
+        h: "The part nobody puts in the leaflet",
+        p: [
+          "Facial redness is visible, is frequently commented on by strangers, and is regularly mistaken for drunkenness or embarrassment. The psychological load is substantial and it is documented — anxiety and depression are more common in people with rosacea than in matched controls.",
+          "There is also a feedback loop, in that embarrassment and stress trigger flushing, and visible flushing produces embarrassment. Recognising the loop does not break it, and it does make it less bewildering.",
+          "It is a legitimate thing to raise at an appointment. Treatment decisions reasonably account for the impact on daily life, not only on the objective severity of the lesions.",
+          "Patient organisations exist and are useful, particularly for the practical accumulated knowledge about triggers, products and clinicians that no leaflet contains.",
+        ],
+      },
+      {
+        h: "Long-term management and remission",
+        p: [
+          "Rosacea is chronic and relapsing. Treatment produces control rather than cure, and the most common reason for relapse is stopping treatment once the skin has cleared.",
+          "Maintenance therapy is standard practice — usually a lower frequency of the topical that produced the improvement, continued indefinitely. This is not a failure of the treatment; it is how the condition is managed.",
+          "Some features respond and others do not. Papules and pustules respond well to topicals; background redness and visible vessels respond poorly and are treated with vascular laser or intense pulsed light where available.",
+          "Phymatous change — thickening of the nose in particular — is the feature most worth catching early, because it responds to treatment in its early stages and requires surgical management once established.",
+        ],
+      },
+      {
+        h: "Pregnancy and rosacea",
+        p: [
+          "Rosacea behaves unpredictably in pregnancy, improving for some and worsening for others, and the medication options narrow considerably.",
+          "Azelaic acid is generally regarded as compatible and is one of the more useful options available. Topical metronidazole is commonly used with medical guidance. Oral tetracyclines including doxycycline are contraindicated.",
+          "Ivermectin and brimonidine have limited pregnancy data and are usually avoided. Any change should be discussed with whoever is providing antenatal care rather than decided from an article.",
+          "The non-pharmacological parts of management become correspondingly more important — trigger avoidance, gentle cleansing, barrier support, mineral sunscreen and physical protection from heat and sun.",
+        ],
+      },
+      {
+        h: "A day that does not provoke it",
+        p: [
+          "Morning: lukewarm water rinse, a bland fragrance-free moisturiser, mineral sunscreen, green-tinted product if wanted. Nothing that foams, nothing that tingles, nothing applied with friction.",
+          "Through the day: shade rather than sun, a fan or cool air where available, iced rather than hot drinks, and a note in the diary of anything that produced a flush.",
+          "Evening: gentle cleanse with fingertips only, patted dry, prescription topical if you have one, then moisturiser. Nothing exfoliating, nothing hot, no cloth or brush.",
+          "Consistency is what produces the result here rather than any single product. A calm routine held for months does more than an aggressive one held for a fortnight, and the condition rewards patience more than almost anything else in dermatology.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'adjusting-skincare-by-season',
+    sections: [
+      {
+        h: "The body needs adjusting too",
+        p: [
+          "Facial routines get seasonal attention and body routines almost never do, despite the body having fewer sebaceous glands and drying out faster. Shins, forearms and the backs of hands are where winter shows first.",
+          "The single most effective change is timing rather than product: applying a body moisturiser within three minutes of stepping out of the shower, onto skin that is still damp, does more than any upgrade in richness applied twenty minutes later.",
+          "Shower temperature and duration matter more below the neck than above it, simply because more skin is exposed for longer. Shorter and cooler is genuinely worth doing, and it is free.",
+          "Urea-containing creams at five to ten per cent are worth knowing about for winter body dryness. Urea is both a humectant and a mild keratolytic, which suits the rough, scaly texture that cold weather produces on limbs.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'when-to-see-a-dermatologist',
+    sections: [
+      {
+        h: "Cost, access and what to do when the door is closed",
+        p: [
+          "Access varies enormously by country and by insurance, and a recommendation to see a dermatologist is unhelpful to somebody facing an eighteen-month waiting list or a bill they cannot meet. That is a real constraint rather than a failure of motivation.",
+          "Where a specialist is out of reach, a general practitioner can prescribe for most straightforward acne, rosacea, dermatitis and fungal conditions, and that covers the majority of what people are self-treating unsuccessfully.",
+          "Pharmacists are underused and are trained to advise on skin conditions, identify which products contain what, and say when something needs a doctor. That conversation is usually free and immediate.",
+          "Where a referral is being sought, describing functional impact — sleep disturbance, pain, effect on work — is more likely to be prioritised than describing appearance alone. That is not gaming the system; it is providing the information the triage process actually uses.",
+        ],
+      },
+      {
+        h: "The short list",
+        p: [
+          "See somebody promptly for: a changing mole, a sore that will not heal, a lesion that bleeds unprovoked, or a dark streak under a nail.",
+          "See somebody soon for: acne that is scarring, deep painful nodules, persistent facial redness, flaking with redness that moisturiser does not touch, or any rash that has lasted more than a few weeks without explanation.",
+          "See somebody eventually for: anything that has not improved after twelve weeks of correct over-the-counter treatment, or anything affecting how you live.",
+          "Everything else is a routine question, and routine questions are what the rest of this site is for.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'dehydrated-vs-dry-skin',
+    sections: [
+      {
+        h: "The vocabulary on the packaging",
+        p: [
+          "Product marketing uses these two words almost interchangeably, which is a large part of why the confusion persists. Hydrating, moisturising, nourishing and replenishing have no fixed technical meanings and are applied to formulas doing entirely different things.",
+          "Read the ingredient list instead. Glycerin, hyaluronic acid, sodium PCA, urea, propanediol and betaine near the top mean the product is aimed at water. Ceramides, cholesterol, fatty acids, shea butter, squalane, petrolatum and dimethicone mean it is aimed at lipids.",
+          "A good moisturiser contains both, and the useful question at the shelf is which of the two lists is longer and higher up. That is checkable in fifteen seconds and it is more informative than any word on the front.",
+          "For dehydration, prioritise the first list with something from the second to seal. For genuine dryness, prioritise the second list and treat the first as supporting.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'hyperpigmentation-guide',
+    sections: [
+      {
+        h: "Procedures, and who should be cautious",
+        p: [
+          "Chemical peels, microneedling, fractional lasers and intense pulsed light all work by controlled injury, which is exactly the mechanism that produces post-inflammatory hyperpigmentation. That makes the choice of procedure and practitioner a matter of real consequence.",
+          "In lighter skin with discrete sun spots, targeted light-based treatment is efficient and comparatively low-risk. In deeper skin tones the same devices can leave a patient measurably worse off, and practitioner experience with that specific skin type matters more than the equipment.",
+          "For melasma the caution is universal. Aggressive resurfacing frequently triggers a rebound worse than the original, and a cautious practitioner who wants several months of topicals and photoprotection first is not being slow.",
+          "Ask directly how many patients with your skin tone the practitioner has treated with that device. It is a fair question and the answer is informative either way.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'rosacea-basics',
+    sections: [
+      {
+        h: "Building the routine down rather than up",
+        p: [
+          "The instinct with reactive skin is to search for the product that will calm it. The more reliable approach is the opposite: strip the routine to three items, establish that skin is stable on those, and add back only what can be justified.",
+          "Three items means a non-foaming fragrance-free cleanser used once daily, a bland moisturiser, and a mineral sunscreen. Hold that for four weeks with nothing else at all.",
+          "Most people find the baseline improves more than any product ever did, because a substantial part of what was being treated as rosacea severity was accumulated irritation from the routine.",
+          "From that stable base, add one thing at a time with two weeks between additions. Anything that provokes a flare goes back out permanently rather than being persisted with, and the resulting routine is short, cheap and yours rather than a copied list.",
+        ],
+      },
+      {
+        h: "What to say at the appointment",
+        p: [
+          "Describe the features separately rather than as one complaint. Flushing that comes and goes, redness that stays, bumps and pustules, visible vessels and any thickening are five different things and they are treated differently.",
+          "Mention eye symptoms explicitly, even if they seem unrelated. Gritty, burning or recurrently red eyes alongside facial redness point to ocular involvement, and it will not be asked about reliably.",
+          "Bring the trigger diary. Four to six weeks of daily entries is more useful diagnostically than any description reconstructed in the room, and it shortens the conversation considerably.",
+          "Ask what the plan is if the first treatment does not work, and what maintenance looks like after it does. Both questions are routinely left unanswered and both determine whether the result holds.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'dehydrated-vs-dry-skin',
+    sections: [
+      {
+        h: "The distinction in one line",
+        p: [
+          "Dry skin is short of oil and is a skin type you largely inherit; dehydrated skin is short of water and is a condition you can arrive at with any skin type, including oily.",
+          "Dryness needs lipids and responds over weeks. Dehydration needs humectants and a seal, and responds within days — which is itself the fastest way to tell which one you are dealing with.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'hyperpigmentation-guide',
+    sections: [
+      {
+        h: "The order to do things in",
+        p: [
+          "First, daily tinted sunscreen at two fingers' length, applied for a month before adding anything else. This alone fades a surprising number of recent marks and it is the precondition for everything that follows.",
+          "Second, stop whatever is causing the inflammation — picking, an over-aggressive routine, an untreated acne or rosacea problem underneath the pigmentation.",
+          "Third, add one active and wait twelve weeks with a monthly photograph. Azelaic acid is the most forgiving starting point; vitamin C in the morning is the other reasonable first choice.",
+          "Fourth, if that is tolerated and the marks are stubborn, add a retinoid at night or seek a prescription. Nothing about this sequence is fast, and reversing the order is why most pigmentation routines fail.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
