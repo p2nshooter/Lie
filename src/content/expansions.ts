@@ -4491,6 +4491,600 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'morning-vs-night-two-different-jobs',
+    sections: [
+      {
+        h: "Start by auditing the shelf you already own",
+        p: [
+          "Before buying anything to build a split routine, lay out every product currently in use and sort it into three piles: definitely morning, definitely night, and either. Most people find the exercise reveals two or three products that belong to no pile at all.",
+          "Definitely morning is a short list — sunscreen, and an antioxidant if you use one. Definitely night is retinoids, exfoliating acids, benzoyl peroxide and anything a doctor specified for evening use.",
+          "Everything else goes in the either pile, which for most people is cleanser, moisturiser, niacinamide and any hydrating serum. That pile is where duplication hides.",
+          "The products belonging to no pile — the toner nobody can explain, the essence bought during an enthusiasm, the third serum — are the ones to set aside. Not thrown away, set aside, and observed for a month to see whether anything changes.",
+        ],
+      },
+      {
+        h: "The duplication trap",
+        p: [
+          "The most expensive misreading of the split is that it requires two of everything. It does not. It requires allocating what you own between two purposes, and in most cases the same cleanser and the same moisturiser serve both ends of the day perfectly well.",
+          "Where two products genuinely help is narrow. A lighter moisturiser under sunscreen and a richer one at night is a defensible pair for anybody whose skin is oily by midday and tight by three in the morning.",
+          "A gentler morning cleanser and a more thorough evening one is the other defensible pair, and it exists because the two cleanses have different jobs rather than because morning skin needs a different formula.",
+          "Beyond those, a second product is usually a second purchase rather than a second job, and the split is being used to justify it after the fact.",
+        ],
+      },
+      {
+        h: "The morning cleanse argument",
+        p: [
+          "Whether to cleanse in the morning is one of the few genuinely contested questions in a basic routine, and the honest answer is that it depends on skin type rather than on principle.",
+          "The case for cleansing: overnight the skin produces sebum and sweat, sheds cells, and picks up whatever was on the pillowcase. Oily and acne-prone skin generally does better starting the day with a clean surface, and products applied to a sebum layer sit differently.",
+          "The case against: nothing on the face in the morning was not either produced by your own skin or applied by you the night before. For dry, mature or reactive skin, a second daily surfactant exposure is a common and unnoticed cause of barrier decline.",
+          "The workable compromise is water alone in the morning for dry skin, a gentle cleanser for oily skin, and a willingness to switch when the season changes. This is not a matter of hygiene and nobody should feel strongly about it.",
+        ],
+      },
+      {
+        h: "When a morning active makes sense",
+        p: [
+          "The default advice puts actives at night, and there are three situations where a morning active is the better placement rather than a compromise.",
+          "Vitamin C is the clearest, because its main benefit is supplementing photoprotection and antioxidant defence works best in place before exposure rather than after it. Putting it at night is putting it where it is least useful.",
+          "Azelaic acid is the second, being stable in daylight and not photosensitising, which makes it one of the few treatment actives that can genuinely be used twice daily by people who need the extra exposure.",
+          "The third is practical rather than pharmacological: anybody who reliably falls asleep before completing an evening routine is better served by moving one active to the morning than by continuing to skip it. A retinoid used every morning under good sunscreen is imperfect and enormously better than one used never.",
+        ],
+      },
+      {
+        h: "The sixty-second version",
+        p: [
+          "A routine that takes ten minutes at each end of the day will not survive a busy month, and the version that survives is the one worth designing.",
+          "Morning, thirty seconds: rinse or cleanse, then sunscreen. That is a complete, defensible morning routine and it contains the only step with hard preventive evidence behind it.",
+          "Evening, thirty seconds: cleanse thoroughly, then moisturiser. Also complete, also defensible, and it removes the day's sunscreen and sebum, which is the evening's actual job.",
+          "Everything beyond those four steps is optimisation. Knowing what the irreducible version looks like means that on a bad week you scale down to it rather than abandoning the whole thing, which is how most routines actually die.",
+        ],
+      },
+      {
+        h: "Shift work and irregular hours",
+        p: [
+          "A meaningful proportion of people do not sleep at night, and the morning-versus-night framing quietly assumes they do. Nurses, drivers, security staff, parents of newborns and anybody on rotating shifts are running a schedule the advice was not written for.",
+          "The fix is a reframing rather than a different routine. The protective routine goes on before you go outside; the reparative routine goes on before you sleep. Those are the two events the split was always really about, and the clock was only ever a proxy for them.",
+          "For somebody sleeping through the day, that means the reparative routine happens at nine in the morning and the protective one at eight in the evening if the commute home is in daylight.",
+          "Blackout curtains, and treating sleep as sleep regardless of the hour, matter more here than any product decision. The circadian disruption is real and nothing topical addresses it.",
+        ],
+      },
+      {
+        h: "Teenagers, men and the routines that get skipped",
+        p: [
+          "For teenagers, the split should be almost entirely absent. A gentle cleanser, a light moisturiser, sunscreen, and one acne treatment at night if needed — four products, and the main risk is over-treatment rather than under-treatment.",
+          "The failure mode here is specific: enthusiastic experimentation with strong actives on skin that is already inflamed, producing barrier damage on top of acne. Fewer products, applied consistently, works better and costs less.",
+          "For men, the routine most likely to be sustained is the shortest one, and the most valuable addition by a wide margin is a sunscreen that does not feel unpleasant. Facial hair complicates application and is not a reason to skip it.",
+          "Shaving is worth accounting for in the split. It is a mechanical exfoliation performed daily, which means additional exfoliating products are rarely needed and are a frequent cause of irritation along the jaw and neck.",
+        ],
+      },
+      {
+        h: "Building the split from four products",
+        p: [
+          "Product one: a gentle cleanser, used in the evening always and in the morning if your skin wants it. This is the cheapest item on the list and the one most likely to be causing a problem if there is one.",
+          "Product two: a moisturiser suited to your skin, used at both ends of the day. If one texture cannot serve both, that is the point at which a second is justified rather than the starting position.",
+          "Product three: sunscreen, morning only, applied at two fingers' length. This is where the budget should concentrate, because the difference between a sunscreen you enjoy and one you tolerate is the difference between daily use and occasional use.",
+          "Product four: one active, at night, chosen for the concern you actually have. That is a complete routine with a real split, and adding a fifth should require a reason you can state in one sentence.",
+        ],
+      },
+      {
+        h: "How to tell the split is working",
+        p: [
+          "The morning routine is working if skin is comfortable through the day, sunscreen is being applied in adequate quantity, and there is no midday tightness or midday flooding of oil.",
+          "The evening routine is working if skin is comfortable overnight, the active is being tolerated at its current frequency, and there is no residue of the day left on the pillowcase.",
+          "Neither of those is a visible result and both are the correct things to measure at three weeks. The visible results — tone, texture, fewer marks — take three months, and judging at three weeks is how good routines get abandoned.",
+          "Take a photograph at the start in consistent light, and compare quarterly rather than daily. That single habit does more for adherence than any product in the routine.",
+        ],
+      },
+      {
+        h: "The one asymmetry that matters",
+        p: [
+          "If everything else in this article is set aside, one difference between morning and evening carries almost all of the value: sunscreen goes on in the morning and does not go on at night.",
+          "Every other distinction — which serum where, which cleanser when, how rich the moisturiser — is optimisation at the margins. This one is the difference between a routine that changes the trajectory of your skin over twenty years and one that maintains it.",
+          "A person doing nothing but cleansing, moisturising and applying enough sunscreen every morning is doing better than a person running an elaborate two-part regimen with sunscreen applied thinly three days a week.",
+          "The split is worth building. It is worth building on top of that one asymmetry rather than around it.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'the-right-order-to-layer',
+    sections: [
+      {
+        h: "Pilling, and what is actually happening",
+        p: [
+          "The most common practical complaint about layering has nothing to do with efficacy. It is pilling — products rolling into small greyish flakes under the fingers, usually two or three layers into a routine.",
+          "The mechanism is incompatibility between film-forming ingredients rather than any failure of the products individually. Silicones, certain polymers, carbomers and some sunscreen film-formers do not merge with one another, and friction rolls the resulting mixture into balls.",
+          "It is aggravated by three things: applying too much product, applying the next layer before the previous one has dried, and rubbing rather than pressing. All three are within your control and none requires buying anything.",
+          "Dead surface cells contribute as well, which is why pilling is often worse on flaky skin and improves once the underlying dryness is addressed.",
+        ],
+      },
+      {
+        h: "Fixing it without replacing products",
+        p: [
+          "Use less. This resolves pilling more often than any other change, because the quantity most people apply is well above what the skin can absorb, and the excess is what rolls.",
+          "Wait properly. Thirty to sixty seconds between layers, or until the surface no longer feels wet, is usually enough. The instinct to apply everything in one continuous motion is the second most common cause.",
+          "Press rather than rub. Patting distributes product without the shear force that forms pills, and it also disturbs earlier layers less. This matters most for sunscreen, which is both the last layer and the one most prone to it.",
+          "If those three fail, the culprit is usually a specific pair. Isolate it by applying two products at a time until the combination reappears, then separate those two between morning and evening rather than abandoning either.",
+        ],
+      },
+      {
+        h: "What each wrong order actually costs",
+        p: [
+          "Oil or balm before a water-based serum: the serum largely does not get through. This is the ordering mistake with the clearest and largest cost, and it is common because people treat facial oil as a serum.",
+          "Moisturiser over sunscreen: the sunscreen film is disturbed and protection drops. Also large, also common, usually done by people topping up hydration mid-morning without thinking about the layer beneath.",
+          "Humectant on bone-dry skin with nothing sealing it: in a dry room this can leave skin worse than before. Moderate cost, entirely avoidable, and covered by applying damp and sealing.",
+          "Two actives stacked in one sitting: the cost is irritation rather than lost efficacy, and it is the one people notice a week later rather than immediately.",
+        ],
+      },
+      {
+        h: "The orders that genuinely do not matter",
+        p: [
+          "Niacinamide before or after hyaluronic acid. Both are water-based, both are lightweight, and no meaningful difference results from either sequence.",
+          "Eye cream before or after face moisturiser. What matters is where it is applied — on the orbital bone rather than close to the lash line — not when.",
+          "Toner as a distinct step at all. Modern toners are mostly hydrating and function as a thin first layer; whether you count them as a step changes nothing.",
+          "Two serums of similar texture in either sequence. If you cannot tell which is thinner by feel, the order between them is not affecting the outcome, and worrying about it is spending attention that belongs on sunscreen quantity.",
+        ],
+      },
+      {
+        h: "Prescription products and where they go",
+        p: [
+          "A prescription topical generally goes on first, directly onto clean dry skin, so that nothing sits between the medication and its target. This is the one place where the standard order is overridden by a clear rule.",
+          "The exception is buffering, where the prescription is deliberately applied over moisturiser to reduce irritation. This is a legitimate technique frequently recommended by dermatologists for tretinoin, and it trades a small amount of penetration for a large gain in tolerability.",
+          "Whether to buffer is a question for whoever prescribed it, and the answer usually depends on how the first fortnight went rather than on principle.",
+          "What should not happen is quietly rearranging a prescribed routine to accommodate a cosmetic product. The prescription is doing the work; the cosmetic layer arranges itself around it.",
+        ],
+      },
+      {
+        h: "Layering under makeup",
+        p: [
+          "The full sequence before makeup is cleanser, treatment, moisturiser, sunscreen, and then a genuine pause. Sunscreen needs several minutes to form its film, and applying foundation into a wet layer both disturbs the protection and guarantees pilling.",
+          "Primer, if used, goes after sunscreen. It is a makeup product rather than a skincare one, and treating it as the last skincare step is where a lot of pilling originates.",
+          "Fewer layers work better under makeup than more. A hydrating serum, a light moisturiser and sunscreen is a better base than the same three plus an essence, an oil and a primer.",
+          "For reapplication through the day, press a stick or cushion rather than rubbing, and accept that some makeup disturbance is the price of maintaining protection. It is a good trade.",
+        ],
+      },
+      {
+        h: "How many layers is too many",
+        p: [
+          "There is no hard limit, and there is a practical one. Beyond about four leave-on products the marginal benefit of each additional layer becomes very small, while the risks — pilling, irritation, cost, and the inability to attribute any result to anything — all rise.",
+          "Skin can only absorb so much in a sitting. Excess product sits on the surface, contributes to pilling, and is removed at the next wash without ever having done anything.",
+          "The more useful discipline is to ask what each layer is for. If the answer requires a marketing word, the layer is decoration; if it can be stated as a mechanism in plain language, it earns its place.",
+          "Most well-functioning routines are three or four products at each end of the day. Ten-step routines exist, some people enjoy them, and enjoying them is a perfectly good reason to have one — it is just not an efficacy argument.",
+        ],
+      },
+      {
+        h: "The body, which nobody sequences",
+        p: [
+          "The same principles apply below the neck and almost nobody applies them. Moisturiser on damp skin immediately after a shower is dramatically more effective than the same product twenty minutes later, for exactly the reasons that govern the face.",
+          "If a treatment is being used on the body — urea for rough skin, a retinoid for keratosis pilaris, salicylic acid for body acne — it goes on before the moisturiser rather than after.",
+          "Sunscreen on the body goes last and needs roughly a shot glass for full coverage, which is far more than most people use. The tops of feet, the back of the neck and the ears are the reliably missed areas.",
+          "Body skin is thicker and more tolerant, so the margin for error is wider. The order still costs nothing to get right.",
+        ],
+      },
+      {
+        h: "A troubleshooting list",
+        p: [
+          "Products pilling: use less, wait longer, press instead of rubbing. If it persists, isolate the incompatible pair and separate them by time of day.",
+          "Sunscreen looks patchy or greasy over the routine: the layer underneath is too heavy or too wet. Reduce the moisturiser, wait longer, and apply sunscreen to skin that feels dry to the touch.",
+          "Skin feels tight despite three hydrating products: the routine is all humectant and no seal. Add an occlusive as the final step rather than another serum.",
+          "Nothing seems to be working: count the actives, count the exfoliants, and check the sunscreen quantity. In most cases the problem is one of those three rather than the order they were applied in.",
+        ],
+      },
+      {
+        h: "The framework, restated",
+        p: [
+          "Thin to thick is a proxy for water before oil, and water before oil is the only ordering rule with a large cost attached to getting it wrong.",
+          "Actives go on clean skin with nothing between them and the surface, one per sitting, and sunscreen goes last in the morning with time to set.",
+          "Everything else is small. Order is worth getting broadly right once and then applying without further thought, and the attention saved belongs on quantity, frequency and consistency, which is where the outcomes actually come from.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'how-to-patch-test',
+    sections: [
+      {
+        h: "The twenty-six allergens worth knowing",
+        p: [
+          "European regulation requires twenty-six specific fragrance allergens to be declared by name on cosmetic labels when they exceed a threshold concentration. That list is the single most useful reading tool available to anybody who reacts to products and does not know why.",
+          "The names look botanical rather than chemical, which is why people miss them: limonene, linalool, citronellol, geraniol, eugenol, coumarin, citral, farnesol and benzyl alcohol are among the most common.",
+          "Limonene and linalool are worth particular attention because they oxidise on exposure to air into considerably more sensitising compounds. A product opened eighteen months ago is a different allergen profile from the same product new.",
+          "If two products that both caused a reaction share three of these names, you have your answer without any formal testing at all.",
+        ],
+      },
+      {
+        h: "Preservatives, the other frequent culprit",
+        p: [
+          "Methylisothiazolinone caused a documented epidemic of contact allergy after it was widely adopted as a paraben replacement, substantial enough that regulators restricted its use in leave-on products. It remains in rinse-off products in many markets.",
+          "Formaldehyde releasers — DMDM hydantoin, imidazolidinyl urea, diazolidinyl urea, quaternium-15 — release small quantities of formaldehyde over time and are a recognised allergen group.",
+          "Methyldibromo glutaronitrile was withdrawn from leave-on cosmetics in Europe after a similar rise in reactions, which is a useful reminder that the replacement for a problematic ingredient is not automatically safer.",
+          "None of this makes preservatives avoidable. A water-containing product without one grows bacteria and mould, which is a considerably worse problem. It makes them worth identifying when reactions recur.",
+        ],
+      },
+      {
+        h: "What to write down",
+        p: [
+          "Two lines per product is enough and it is two lines more than almost anybody keeps. Product name, date started, and how skin responded in the first fortnight.",
+          "When something reacts, photograph it. Reactions resolve before appointments happen, and a photograph of the distribution — which areas, how sharply bordered — is genuinely useful diagnostic information.",
+          "Keep the packaging of anything that caused a reaction, or at least photograph the ingredient list. The list is what identifies the culprit; the brand name identifies nothing, since the same allergen appears across dozens of products.",
+          "Over a couple of years this record becomes the most valuable thing in your routine, because it converts a series of unexplained incidents into a pattern with a name attached.",
+        ],
+      },
+      {
+        h: "The products people forget to test",
+        p: [
+          "Hair products are a leading cause of reactions on the face, neck and eyelids, because they run down during rinsing and are transferred by hands. Shampoos, conditioners, dyes and styling products all belong in the same suspicion pool as facial products.",
+          "Nail products cause eyelid dermatitis with surprising frequency, since people touch their eyes with their fingers many times a day. Acrylates from gel and acrylic nails are a well-documented cause.",
+          "Anything transferred by a partner counts too. Aftershave, hair product and hand cream on somebody else's skin arrive on yours, and this is a genuinely common source of unexplained reactions.",
+          "And laundry detergent and fabric softener reach the face nightly through the pillowcase. A reaction confined to one side of the face is worth investigating in that direction.",
+        ],
+      },
+      {
+        h: "Testing sunscreen specifically",
+        p: [
+          "Sunscreen deserves separate attention for two reasons. It is applied in larger quantity than any other product, over the whole face, every day, so a mild reaction compounds quickly. And it can cause photoallergic reactions that only appear on ultraviolet exposure.",
+          "A standard patch test in a hidden location will miss the photoallergic type entirely, because the test site never sees light. If a sunscreen seems to cause problems only on sunny days, that is the mechanism, and it needs proper photopatch testing to identify.",
+          "Test sunscreen at the quantity you will actually use, which is considerably more than most people apply during a test. A thin smear tests something you will never do.",
+          "Mineral filters are usually the safer starting point for anybody with a history of reactions, since zinc oxide and titanium dioxide are among the least sensitising ingredients in the category.",
+        ],
+      },
+      {
+        h: "Testing on children",
+        p: [
+          "Children's skin is thinner, more permeable and more reactive than adult skin, so the case for testing is stronger rather than weaker. It is also harder, because a child will not leave a test patch alone for seven days.",
+          "The practical version is a smaller area, a shorter protocol, and a location under clothing where it is out of sight and out of reach. The inner upper arm works reasonably well.",
+          "Fragrance-free is the default rather than a precaution for children, and the products marketed specifically for babies are not automatically fragrance-free — a significant proportion are scented.",
+          "Any widespread rash in a child is a doctor's question rather than a patch-testing question. The home protocol is for deciding whether to use a new moisturiser, not for diagnosing eczema.",
+        ],
+      },
+      {
+        h: "Old products and free samples",
+        p: [
+          "The period-after-opening symbol — a small open jar with a number and the letter M — indicates how many months the product remains stable after first opening. It is routinely ignored and it is genuinely informative for anything containing actives.",
+          "Oxidised products behave differently from fresh ones. Fragrance components become more sensitising, vitamin C becomes irritating, and oils go rancid. A product that was fine last year may not be fine now, and this is a common cause of a reaction to something familiar.",
+          "Free samples deserve testing rather than less testing. They are typically small, they are typically tried on impulse, and the sachet frequently carries no ingredient list at all, which means a reaction cannot be traced.",
+          "Sharing products carries a hygiene consideration as well as an allergen one, particularly for anything applied near the eyes or with a wand.",
+        ],
+      },
+      {
+        h: "The cost of skipping it",
+        p: [
+          "A reaction across the whole face costs two to four weeks of recovery, during which the routine collapses to the minimum and every active is paused. That is a month of lost progress on whatever you were treating.",
+          "It also costs information. When five products go on at once and something reacts, none of the five can be exonerated, and the usual response is to discard all of them — including the ones that were working.",
+          "For anybody with pigmentation-prone skin the cost is higher again, because inflammation produces marks that outlast the reaction by months. A fortnight of irritation can leave a year of unevenness.",
+          "Against that, a week of applying one product to a small area behind the ear is a trivially cheap insurance premium, and it is the reason the habit persists in dermatology despite being boring.",
+        ],
+      },
+      {
+        h: "The protocol, one more time",
+        p: [
+          "Choose a site with skin similar to the target — behind the ear or along the jaw, not the inner forearm, which is thicker and more tolerant than the face.",
+          "Apply the product exactly as intended, leave-on if it is a leave-on, twice daily for five to seven days, checking before each reapplication.",
+          "Watch for redness, swelling, itching, bumps or blisters that persist rather than fading within an hour. Brief stinging that resolves is usually not a reaction.",
+          "Then introduce it to the face alone, with the rest of the routine unchanged, for a full month before adding anything else. Testing establishes safety; the month establishes whether it does anything.",
+        ],
+      },
+      {
+        h: "When home testing is not the right tool",
+        p: [
+          "Repeated reactions to products with no obvious ingredient in common, persistent facial dermatitis with no identified cause, or eyelid dermatitis that keeps returning are all indications for professional patch testing.",
+          "That procedure applies standardised allergen panels under occlusion for forty-eight hours, with readings at defined intervals, and identifies the specific molecule rather than the product containing it. That is a diagnosis; home testing is a screen.",
+          "It is worth asking for by name, because it is not always offered and because the results change what you can buy for the rest of your life in a way that no amount of home experimentation matches.",
+          "Bring the record described earlier to that appointment. A list of products and dates with photographs is more useful to a dermatologist than any description reconstructed from memory.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'double-cleansing-explained',
+    sections: [
+      {
+        h: "Where the practice came from",
+        p: [
+          "Double cleansing entered Western routines through Korean and Japanese skincare, where it has a long history, and before that through the practical requirements of theatrical and geisha makeup — heavy, deliberately durable, and impossible to remove with water and a surfactant alone.",
+          "The logic is straightforward chemistry. Oil dissolves oil. Sunscreen, long-wear foundation and sebum are all oil-based or oil-soluble, and a water-based cleanser has to work considerably harder to lift them, usually by containing enough surfactant to strip everything else too.",
+          "An oil-based first step dissolves those materials directly, and a gentle water-based second step removes the residue along with the sweat, dust and water-soluble debris the oil left behind.",
+          "So the practice is not a marketing invention. Whether it applies to your face depends entirely on what is on your face.",
+        ],
+      },
+      {
+        h: "The specific problem it solves",
+        p: [
+          "Modern sunscreens are formulated to survive sweat, water and hours of wear, which is exactly what makes them difficult to remove. The properties that make a sunscreen good are the properties that make a single gentle cleanse insufficient.",
+          "The consequence of incomplete removal is not dramatic but it is real: residual film through the night, products applied over it, and for some people congestion along the jaw and hairline where residue concentrates.",
+          "Long-wear and transfer-proof makeup presents the same problem more visibly. Anybody who has cleansed thoroughly and then found foundation on a cotton pad has experienced the gap between feeling clean and being clean.",
+          "This is the honest case for the second step, and it is narrower than the way the practice is usually marketed. It solves a removal problem, and it only earns its place when there is something to remove.",
+        ],
+      },
+      {
+        h: "Who genuinely benefits",
+        p: [
+          "Anybody wearing sunscreen daily, which should be everybody. This alone justifies the practice for a large proportion of people, and it is the reason double cleansing has spread beyond the makeup-wearing population.",
+          "Anybody wearing long-wear or heavy makeup, particularly waterproof mascara and transfer-proof foundation.",
+          "Anybody with oily skin and congestion who is currently using a strong foaming cleanser to compensate. Swapping one aggressive cleanse for one oil cleanse and one gentle cleanse frequently improves things considerably.",
+          "And anybody living in a polluted environment, where particulate matter binds to the sebum film and is not fully removed by water alone.",
+        ],
+      },
+      {
+        h: "Who does not need it",
+        p: [
+          "Anybody who wore nothing that day. If there was no sunscreen and no makeup, there is nothing that requires an oil-based step, and a single gentle cleanse is complete.",
+          "Anybody with dry, reactive or eczema-prone skin doing it every night regardless. Two cleansing steps means two opportunities to strip lipids, and for this skin the second step is a common and unrecognised contributor to barrier decline.",
+          "Anybody cleansing twice in the morning. The morning face carries nothing that needs dissolving, and a double cleanse before breakfast is straightforwardly excessive.",
+          "And anybody for whom it has become a ritual rather than a removal step. The question is what is being removed, and if there is no answer, there is no second step required.",
+        ],
+      },
+      {
+        h: "Choosing the first cleanse",
+        p: [
+          "Cleansing oils are the most effective at dissolving sunscreen and heavy makeup, and the most likely to leave a residue if the emulsification is poor. Look for one that turns milky under water rather than sliding around on the surface.",
+          "Cleansing balms are solid until warmed, travel better, and are often more economical because the quantity used is easier to control. They suit dry skin particularly well.",
+          "Micellar water is the gentlest option and the weakest at removing modern sunscreen. It works through micelles that surround oily debris and is genuinely useful for a light day, and it should be rinsed rather than left on despite what the packaging often says.",
+          "Cleansing milks sit between the two — enough oil phase to dissolve some of the film, gentle enough for reactive skin, and rarely sufficient for a full face of long-wear makeup.",
+        ],
+      },
+      {
+        h: "Doing the first cleanse properly",
+        p: [
+          "Apply to dry skin with dry hands. This is the step most people get wrong. Oil cleansers work by dissolving into the oily material on the face, and adding water first prevents that contact entirely.",
+          "Massage for a full sixty seconds. This is longer than it feels and it is where the work happens — the oil needs time to break down sunscreen film and makeup, and a ten-second pass leaves most of it in place.",
+          "Then add water gradually, with the product still on the face, and continue massaging as it emulsifies into a milky liquid. This step is what allows it to rinse away cleanly rather than leaving a greasy layer.",
+          "Rinse thoroughly with lukewarm water. Any residual slip at this point means the emulsification was incomplete, and the second cleanse will handle it.",
+        ],
+      },
+      {
+        h: "Choosing the second cleanse",
+        p: [
+          "The second cleanse should be markedly gentler than the cleanser you would use alone, because the heavy lifting has already been done. A low-surfactant gel or cream cleanser is appropriate; a strong foaming cleanser is not.",
+          "This is where people undo the benefit. Pairing an oil cleanse with a stripping foam produces a face that is cleaner than necessary and a barrier that pays for it, which is the most common way double cleansing goes wrong.",
+          "Fragrance-free is worth prioritising here, since the second cleanse is in contact with skin that has just been thoroughly de-greased and is briefly more permeable than usual.",
+          "Twenty to thirty seconds is enough. The second cleanse is removing residue, not performing a second full clean.",
+        ],
+      },
+      {
+        h: "The signs you are overdoing it",
+        p: [
+          "Skin that feels tight immediately after cleansing and stays tight for more than a minute or two is being over-cleansed, regardless of how many steps produced that state.",
+          "A squeaky feeling is not cleanliness. It is the sound of a stripped surface, and it indicates that lipids have been removed along with everything else.",
+          "Increased oiliness through the day is the counterintuitive sign. Skin that is repeatedly stripped does not produce less oil; the barrier disruption and rebound frequently produce more, which is how the cycle sustains itself.",
+          "And new sensitivity to products that were previously fine is the clearest signal of all. If a moisturiser used happily for a year begins to sting, the cleansing routine is the first place to look.",
+        ],
+      },
+      {
+        h: "A practical rule",
+        p: [
+          "Double cleanse on the nights you wore sunscreen or makeup. Single cleanse on the nights you wore neither. Never double cleanse in the morning.",
+          "That rule adapts automatically to your actual life rather than requiring a decision, and it means the practice scales up on a long day and down on a quiet one.",
+          "For anybody with dry or reactive skin, add a further condition: if skin feels tight after the routine, drop the second cleanse and see whether it improves. It usually does.",
+          "And for anybody currently using one strong foaming cleanser and struggling with both congestion and dryness, the swap to an oil cleanse plus a gentle second is frequently the single most useful change available.",
+        ],
+      },
+      {
+        h: "What it will not do",
+        p: [
+          "Double cleansing does not treat acne. It removes what is on the surface, and acne forms inside the follicle from a process that surface cleaning does not reach. Nobody has ever cleansed their way out of it.",
+          "It does not shrink pores, detoxify anything, or improve absorption of subsequent products beyond the modest effect of applying them to a genuinely clean surface.",
+          "It does not need to involve four products, a cloth, a brush and a toner. Two cleansers and lukewarm water is the entire technique.",
+          "What it does is remove the day properly, which is the evening routine's actual job, and doing that job well is worth more than most of what gets added on top of it.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'the-minimalist-routine',
+    sections: [
+      {
+        h: "The enthusiasm cycle, and why shelves fill up",
+        p: [
+          "Most overcrowded bathroom shelves were not assembled deliberately. They accumulated through a repeating cycle: a problem appears, research follows, a product is bought with real hope, results are slow, a second product joins it, and neither is ever formally abandoned.",
+          "The cycle has no exit built into it, because nothing is ever declared to have failed. Products drift out of use rather than being discontinued, which means they stay on the shelf and stay in the mental inventory.",
+          "Skincare is unusually prone to this because results take months and are confounded by season, sleep and hormones. Under that much noise, the honest verdict on any single product is rarely available, so nothing gets one.",
+          "Recognising the cycle is most of the defence. A product bought with a stated purpose and a review date behaves differently from one bought during a bad week.",
+        ],
+      },
+      {
+        h: "Doing an actual shelf audit",
+        p: [
+          "Take everything out and sort into three piles: used in the last week, used in the last three months, and older than that. The third pile is usually larger than expected and can mostly be discarded without consequence.",
+          "Check the period-after-opening symbol on what remains — the small open jar with a number and an M. Anything past it, particularly anything containing vitamin C, a retinoid or plant oils, is either inactive or has become an irritant.",
+          "Look at what is left for duplication. Most audits turn up three moisturisers doing the same job, two exfoliants nobody was counting as a pair, and a serum whose purpose nobody can state.",
+          "Then put back only what you can justify in one sentence each. That is usually four to six products, and the rest can go in a box for a month to confirm nothing is missed.",
+        ],
+      },
+      {
+        h: "The ten-step routine was misunderstood",
+        p: [
+          "The Korean ten-step routine that inspired a decade of Western marketing was never intended as a nightly obligation. It was a menu of steps drawn on as needed, with most people using a fraction of it on any given day.",
+          "It also arrived from a context with different assumptions: lighter textures, an emphasis on hydration layering rather than on stacking actives, and a cultural norm of daily sun protection that predated the trend by a long way.",
+          "What was exported was the number rather than the philosophy, and the number sells products in a way the philosophy does not.",
+          "The most useful thing to take from it is the hydration-layering idea and the sunscreen habit. The count is the least useful part and the part that travelled furthest.",
+        ],
+      },
+      {
+        h: "When a longer routine is genuinely correct",
+        p: [
+          "Minimalism is a default rather than a doctrine, and there are situations where more products is the right answer. Moderate to severe acne under treatment frequently requires a prescription topical, a benzoyl peroxide product, a barrier moisturiser and a sunscreen at minimum.",
+          "Rosacea under management may involve a prescription, a specific gentle cleanser, a bland moisturiser, a mineral sunscreen and a colour-correcting product. That is five before anything optional is added.",
+          "Melasma treatment is the most product-intensive of the common concerns, typically involving a pigmentation active, a retinoid, a tinted sunscreen and rigorous barrier support.",
+          "In all three cases the routine is long because the condition requires it, not because the shelf filled up. That is a different situation and the audit does not apply to it.",
+        ],
+      },
+      {
+        h: "Travel as a diagnostic",
+        p: [
+          "Packing for a week away forces a decision most people never make deliberately: which products are genuinely necessary. The set that goes in the bag is a good approximation of the routine you actually need.",
+          "It is also a natural experiment. A week on four products, with skin behaving no differently, is meaningful information about the eight that stayed at home.",
+          "Many people notice their skin improves on holiday and attribute it to rest and sunshine. Some of it is rest; a portion is usually the simplified routine and the absence of whatever was quietly irritating them.",
+          "It is worth paying attention to on the way home rather than resuming the full shelf on autopilot. That moment is the cheapest opportunity to permanently reduce a routine.",
+        ],
+      },
+      {
+        h: "The routine for people who do not care",
+        p: [
+          "There is a legitimate position that skincare is not interesting and should take under a minute. That position deserves a serviceable answer rather than being treated as a failure of commitment.",
+          "The answer is two products. A moisturiser with sunscreen in it for the morning, and a gentle cleanser for the evening followed by the same moisturiser without sunscreen if the skin wants it.",
+          "That is not optimal — a dedicated sunscreen applied in adequate quantity is better than an SPF moisturiser, which people invariably underapply — and it is a very long way better than nothing.",
+          "The perfect routine that gets abandoned in three weeks loses comfortably to the mediocre one that runs for twenty years. This is the single most under-stated fact in the entire subject.",
+        ],
+      },
+      {
+        h: "What minimalism costs",
+        p: [
+          "It costs the pleasure of the ritual, and that is a real loss for people who enjoy it. Ten minutes at the end of the day handling nice objects is a genuine good, and nobody should be argued out of it on efficacy grounds.",
+          "It costs the sense of doing something about a problem, which matters when a problem is slow to improve. A short routine provides fewer opportunities to feel active, and that is psychologically harder than it sounds.",
+          "It costs some marginal benefit. Several of the products in a long routine probably do a little, and removing them removes a little.",
+          "Set against those: fewer reactions, lower cost, better adherence, and the ability to actually tell what is working. For most people that trade is clearly favourable, and for some it clearly is not.",
+        ],
+      },
+      {
+        h: "Buying deliberately from here",
+        p: [
+          "Before buying anything, write down what problem it is solving and what you would expect to see if it worked. If neither sentence comes easily, the purchase is being driven by something other than the problem.",
+          "Set a review date three months out. Most actives need eight to twelve weeks, so anything judged sooner is being judged on hydration and anything never judged at all becomes shelf furniture.",
+          "Buy one thing at a time. Two new products arriving together makes both unassessable, and the temptation to order a full routine at once is how the last shelf was built.",
+          "And prefer smaller sizes when trying something new. The economy of a large bottle is only economical if the product turns out to suit you.",
+        ],
+      },
+      {
+        h: "A short routine for each concern",
+        p: [
+          "Prevention and maintenance, no specific concern: gentle cleanser, moisturiser, sunscreen. Three products, and adding a fourth requires a reason.",
+          "Acne: gentle cleanser, one treatment active at night, light moisturiser, sunscreen. Four products, and the most common mistake is running three treatments simultaneously.",
+          "Pigmentation: gentle cleanser, one pigmentation active, moisturiser, tinted sunscreen. Four, and the sunscreen is doing more of the work than the active.",
+          "Ageing concerns: gentle cleanser, retinoid at night, moisturiser, sunscreen. Four, and adding a vitamin C in the morning makes five, which is a reasonable ceiling for almost anybody.",
+        ],
+      },
+      {
+        h: "The test to keep applying",
+        p: [
+          "For every product in the routine, ask what it is doing and how you would know if it stopped. Both parts matter — the first rules out decoration, the second rules out anything unfalsifiable.",
+          "Sunscreen passes. A retinoid passes. A ceramide moisturiser passes. A toner that prepares the skin does not pass, because prepare describes no mechanism and no observation would show it had failed.",
+          "Applying that test honestly once a year keeps a routine from silently growing back, which it will otherwise do, because the enthusiasm cycle does not switch itself off.",
+          "The goal was never the smallest possible routine. It was a routine where every item is there for a reason you can state, and where the results can be attributed to something.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'morning-vs-night-two-different-jobs',
+    sections: [
+      {
+        h: "Adjusting the split by season",
+        p: [
+          "A split designed in summer usually fails by midwinter, and the two halves do not fail equally. The evening is where cold air and indoor heating do most of their damage, because overnight water loss is already at its daily peak.",
+          "So the winter adjustment is asymmetric: a richer evening moisturiser, possibly an occlusive over it, and often no change at all to the morning beyond continuing sunscreen, which people wrongly treat as seasonal.",
+          "The summer adjustment is the reverse and is frequently overdone. Skin producing more oil needs a lighter moisturiser rather than none, and dropping the step entirely produces the tight-then-greasy cycle people misread as worsening oiliness.",
+          "A routine that never changes across a year is wrong for part of it. Reviewing the two halves twice a year, at the turn of the seasons, costs ten minutes and prevents the slow decline that otherwise arrives every January.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'the-right-order-to-layer',
+    sections: [
+      {
+        h: "Wait times, measured rather than guessed",
+        p: [
+          "The advice to wait twenty or thirty minutes between steps circulated widely and was drawn from a real observation about pH applied far beyond what it supported. Acids act quickly once applied, skin restores its own surface pH regardless of what follows, and modern formulations are better buffered than those the advice was written for.",
+          "A more useful test than any stated duration is touch. If the surface still feels wet, the next layer will mix rather than stack; if it feels dry to the back of a finger, it is ready. That is usually thirty to sixty seconds.",
+          "There are two exceptions worth honouring. Let skin dry completely before a retinoid, because damp skin increases penetration and therefore stinging — this is a tolerance measure and it is worth five minutes.",
+          "And let sunscreen set for a few minutes before makeup, because the protective film is fragile until it has formed. Both exceptions cost time you can spend doing something else, which is why they survive contact with a real morning.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'how-to-patch-test',
+    sections: [
+      {
+        h: "Three scenarios, worked through",
+        p: [
+          "A new moisturiser from a brand you already use without problems, fragrance-free, short ingredient list. Reasonable to skip the formal protocol — apply to one cheek for two nights and watch. The risk is low and judgement is allowed.",
+          "A twenty per cent vitamin C serum bought on a recommendation. Full protocol: behind the ear, twice daily, seven days. High concentration, low pH, and the kind of product where a whole-face reaction costs a fortnight.",
+          "A product a friend gave you in an unlabelled decant. Do not use it. Without an ingredient list a reaction cannot be traced, and the whole point of testing is to generate information you can act on later.",
+          "The through-line is that testing effort should scale with the risk and with how much you would want to know the cause. A bland cream needs little; anything strong, fragranced or untraceable needs the full week.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'double-cleansing-explained',
+    sections: [
+      {
+        h: "Cloths, brushes and the tools question",
+        p: [
+          "A muslin or flannel cloth used to remove the first cleanse improves removal noticeably and adds a mechanical exfoliation nobody accounted for. For oily, resilient skin used two or three times a week that is a benefit; used nightly on reactive skin it is a slow route to a damaged barrier.",
+          "Cleansing brushes are the more aggressive version of the same trade. They remove more and they remove more of what should have stayed, and the enthusiasm for them has receded in dermatology for that reason.",
+          "Reusable pads and cloths carry a hygiene consideration that disposable ones do not. A damp cloth left hanging in a warm bathroom is a reasonable place for bacteria, and a fresh one every day or two is the minimum.",
+          "Hands are sufficient for both cleanses. If a tool is being used, it should be a deliberate choice with a stated reason rather than something that arrived with the routine.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'the-minimalist-routine',
+    sections: [
+      {
+        h: "What the shelf costs in a year",
+        p: [
+          "The financial arithmetic is worth doing once. Four products replaced three or four times a year at pharmacy prices comes to a modest annual figure. The same routine at prestige prices, plus the two or three additions bought during bad months and abandoned, frequently runs to several times that.",
+          "The larger cost is not the money spent but the money wasted — products used twice and then displaced, actives that oxidised before the bottle was half empty, and the duplicate moisturisers that every audit turns up.",
+          "Buying smaller sizes and one product at a time reduces both. A serum finished before it degrades is a serum you got full value from, and a purchase made alone is one you can actually evaluate.",
+          "Set against an elaborate shelf, a four-product routine at pharmacy prices with one considered premium purchase — usually the sunscreen — is both cheaper and, for most people, more effective. That is an unusual combination and it is worth taking.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'the-right-order-to-layer',
+    sections: [
+      {
+        h: "The four rules, and nothing else",
+        p: [
+          "Water before oil, which in practice means thinnest to thickest. Actives on clean skin, one per sitting. Sunscreen last in the morning, with time to set. Press rather than rub.",
+          "Four rules cover every product you will meet, including ones that have not been invented yet, because they describe how formulations behave rather than what any particular bottle contains.",
+          "Learn them once and then apply them without further deliberation. The attention saved belongs on quantity and consistency, which is where results actually come from and which no amount of correct sequencing substitutes for.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'how-to-patch-test',
+    sections: [
+      {
+        h: "Why the habit is worth forming",
+        p: [
+          "Patch testing is boring, takes five minutes a day for a week, and prevents the large majority of the reactions people describe as their skin suddenly turning on them.",
+          "It also produces something more valuable than the avoided reaction: a record of what your skin tolerates and what it does not, built one product at a time, which becomes the most useful document in your routine after a couple of years.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'double-cleansing-explained',
+    sections: [
+      {
+        h: "The summary in four lines",
+        p: [
+          "Double cleanse on the nights you wore sunscreen or makeup, single cleanse otherwise, never in the morning. Oil or balm first, on dry skin with dry hands, massaged for a full minute and then emulsified with water.",
+          "A gentle low-surfactant cleanser second, for twenty or thirty seconds, not a stripping foam. If skin feels tight afterwards, the second step is too strong or unnecessary that night.",
+          "Two products and lukewarm water is the whole technique. Everything sold on top of that — the cloths, the brushes, the third step — is optional and most of it is not an improvement.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'the-minimalist-routine',
+    sections: [
+      {
+        h: "The one sentence to keep",
+        p: [
+          "A routine you will still be running in five years beats a better one you will abandon in five weeks, and duration is the variable this entire category rewards.",
+          "Everything else in this article — the audit, the enthusiasm cycle, the four-product templates, the test for whether a step earns its place — exists in service of that one fact. Build something short enough to survive a bad month, and let it run.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
