@@ -5674,6 +5674,719 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'adult-acne-why',
+    sections: [
+      {
+        h: "The hormonal pattern, and how to recognise it",
+        p: [
+          "Adult acne in women frequently follows a recognisable distribution: the lower third of the face, along the jawline, around the chin and down onto the upper neck. It tends toward deeper, tender lesions rather than surface whiteheads.",
+          "The timing is the second clue. Flares in the week or ten days before a period, improving once it starts, point strongly at a hormonal driver — specifically the relative shift in androgen influence during the luteal phase.",
+          "Androgens stimulate sebaceous glands directly. It is not that levels are necessarily abnormal; sensitivity of the receptors varies between individuals, which is why two people with identical bloodwork can have entirely different skin.",
+          "Recognising this pattern matters because it predicts which treatments work. Hormonally driven acne responds well to hormonal treatment and often disappointingly to topical antibacterials, and years get lost applying the second to the first.",
+        ],
+      },
+      {
+        h: "When to think about PCOS",
+        p: [
+          "Polycystic ovary syndrome is common and frequently undiagnosed, and acne is one of its cardinal skin features. It is worth considering when acne appears alongside other signs rather than in isolation.",
+          "Those signs include irregular or absent periods, hirsutism — coarse hair on the face, chest or abdomen — thinning scalp hair in a male pattern, difficulty conceiving, and weight gain that is difficult to shift.",
+          "Sudden severe acne in an adult who never had it, particularly with rapid onset of the other features, warrants prompt assessment rather than a skincare adjustment.",
+          "Diagnosis involves history, examination, blood tests and sometimes an ultrasound, and it changes management substantially. This is a general practitioner or gynaecology conversation as much as a dermatology one.",
+        ],
+      },
+      {
+        h: "Stress, cortisol and the mechanism",
+        p: [
+          "The link between stress and breakouts is real and has a plausible mechanism rather than being folk wisdom. Sebaceous glands carry receptors for corticotropin-releasing hormone, and stress signalling increases sebum production directly.",
+          "Cortisol also promotes inflammation and impairs barrier recovery, which means existing lesions are more inflamed and take longer to resolve.",
+          "There is a behavioural layer as well. Stress reliably degrades sleep, diet and routine adherence, and it increases picking, all of which compound the physiological effect.",
+          "The uncomfortable implication is that a stressful period will show on the skin regardless of the routine, and that treating it as a product problem leads to escalating products at exactly the wrong moment.",
+        ],
+      },
+      {
+        h: "Products and habits that cause it",
+        p: [
+          "Acne cosmetica is acne caused by what you are putting on your face, and it is a genuine and common phenomenon in adults specifically because adults use more products than teenagers do.",
+          "Heavy occlusive foundations, certain hair products migrating onto the forehead and hairline, and rich facial oils are the usual candidates. The distribution gives it away: forehead and temples for hair products, wherever foundation is heaviest for makeup.",
+          "Friction is the mechanical version. Phone screens, chin straps, helmets, masks and even resting a hand on the jaw while working all produce acne mechanica in a distribution that matches the contact.",
+          "Both are diagnosed the same way: stop the suspected product or contact for six weeks and see. This is slow and it is far cheaper than treating an acne that would resolve on its own once the cause was removed.",
+        ],
+      },
+      {
+        h: "Medications worth checking",
+        p: [
+          "Several drug classes cause or worsen acne, and it is worth reviewing anything started in the six months before the skin changed. Corticosteroids in any form are the most common.",
+          "Lithium, some anticonvulsants, certain antidepressants, testosterone and anabolic steroids, and some progestin-only contraceptives are all recognised contributors.",
+          "Hormonal contraception is a particular source of confusion, because some formulations improve acne markedly and others worsen it. Changing preparation is sometimes the whole intervention.",
+          "None of this is a reason to stop a prescribed medication independently. It is a reason to raise it with the prescriber, who may have alternatives.",
+        ],
+      },
+      {
+        h: "Why the teenage playbook fails",
+        p: [
+          "Adult skin has a weaker barrier, produces less sebum overall, heals more slowly and marks more readily than teenage skin. The high-strength benzoyl peroxide, alcohol toners and scrubs that were tolerable at sixteen produce barrier damage at thirty-five.",
+          "That damaged barrier then makes everything worse: more inflammation, more sensitivity, slower healing and more post-inflammatory pigmentation left behind by each lesion.",
+          "Adults also frequently have more than one thing happening at once — acne alongside dryness, or acne alongside early pigmentation concerns, or acne alongside rosacea. A single aggressive treatment aimed at one makes the others worse.",
+          "The adult approach is lower concentrations, less frequent application, more moisturiser, and considerably more patience. It works better and it takes longer to start working, which is a genuinely difficult combination to sell.",
+        ],
+      },
+      {
+        h: "What to use instead",
+        p: [
+          "Adapalene is the most useful starting point available without a prescription in many markets. It is a retinoid, it addresses the microcomedones that precede visible spots, and it happens to help with the fine lines and pigmentation adults are often also concerned about.",
+          "Azelaic acid is the second, and it is particularly well suited to adults because it treats acne, redness and post-inflammatory marks simultaneously without the drying that benzoyl peroxide brings.",
+          "Benzoyl peroxide still has a place at 2.5 per cent, used two or three times a week or as a short-contact wash, rather than at ten per cent nightly.",
+          "Salicylic acid two or three times weekly on the congested areas completes a reasonable routine. Note that this is one active at a time, not four — the list is options rather than a regimen.",
+        ],
+      },
+      {
+        h: "Prescription options for persistent cases",
+        p: [
+          "Topical retinoids at prescription strength — tretinoin, higher-concentration adapalene, trifarotene — are more effective than anything over the counter and are the backbone of most dermatological acne treatment.",
+          "For hormonally patterned acne in women, spironolactone is widely used off-label as an androgen blocker and is frequently transformative where topicals have failed. Combined oral contraceptives containing specific progestins are the other hormonal route.",
+          "Oral antibiotics have a role for a limited period, typically three months, and are prescribed alongside benzoyl peroxide to limit resistance rather than alone.",
+          "Isotretinoin remains the most effective treatment available for severe, scarring or treatment-resistant acne. It requires monitoring and has significant considerations, and delaying it while scarring continues is a common and costly decision.",
+        ],
+      },
+      {
+        h: "Perimenopause and the second wave",
+        p: [
+          "Acne appearing or returning in the forties and fifties surprises people, and it has a straightforward explanation. Oestrogen declines faster than androgens do, shifting the balance toward androgen influence even though nothing has increased.",
+          "The presentation is typically the jawline pattern, often alongside skin that is simultaneously drier and more reactive than it used to be — which is exactly the combination that makes conventional acne treatment intolerable.",
+          "Treatment usually needs to run on two tracks at once: something for the acne, and serious barrier support so that the something can be tolerated.",
+          "It is also worth knowing that this is common rather than unusual, because a great many people experience it as a personal failure at an age when they had assumed the problem was behind them.",
+        ],
+      },
+      {
+        h: "Marks, scars and the case for acting early",
+        p: [
+          "Adult skin marks more readily and clears those marks more slowly, which means the visible consequence of a breakout lasts far longer than the breakout. For many adults the marks are the actual complaint.",
+          "Post-inflammatory pigmentation is flat discolouration and fades over months. Atrophic scarring is textural and permanent, and the difference is worth learning because the second is a reason for urgency.",
+          "Picking is the single largest modifiable factor in both. It converts a lesion that would have resolved cleanly into one that leaves something behind, and stopping it does more than any product marketed for marks.",
+          "If acne is producing textural scarring, that is the point to seek treatment rather than to continue experimenting. Preventing a scar is straightforward; treating one is expensive, imperfect and permanent in a way the acne was not.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'the-truth-about-pores',
+    sections: [
+      {
+        h: "Six claims, checked one at a time",
+        p: [
+          "Hot water opens pores. It does not — there is no muscle and no mechanism. Heat softens sebum and increases blood flow, which makes material easier to remove, and that is a genuinely different statement from the one being made.",
+          "Cold water closes pores. Also no. Cold produces brief vasoconstriction and a temporary tightening of surrounding tissue that lasts minutes. Nothing has closed.",
+          "Steaming deep-cleans pores. Steam softens the contents and raises hydration in the outer layer, which assists extraction. It does not draw anything out on its own and it is a preparatory step rather than a treatment.",
+          "Pore strips remove blackheads permanently. They remove the top of whatever is in the opening and nothing else, the channel refills within days, and repeated use traumatises the surrounding skin.",
+        ],
+      },
+      {
+        h: "Two more, and the one that is half true",
+        p: [
+          "Toner minimises pores. Most toners marketed this way are astringent and produce a brief tightening of the surrounding skin through mild irritation or alcohol content. That is not minimisation and it has a cost.",
+          "Pore-minimising cream shrinks them. No topical product changes the physical dimension of a pilosebaceous opening. Products can reduce the contents and improve the surrounding structure, and those are the honest claims.",
+          "The half-true one is that makeup makes pores worse. Heavy occlusive foundation left on overnight contributes to congestion in some people, and makeup itself does not cause pores to enlarge. Removal habits matter more than the product.",
+          "The pattern across all of these is that something real is happening and the claim attached to it is larger than the effect. That is worth noticing as a general reading habit rather than only here.",
+        ],
+      },
+      {
+        h: "How pores are actually measured",
+        p: [
+          "Clinical assessment uses standardised photography, sometimes with polarised light, and image analysis software that counts openings and measures their area. This is how product trials generate the percentages they quote.",
+          "Those percentages are worth reading carefully. A twenty per cent reduction in measured pore area is a real result and it is not the same as pores becoming invisible, which is what the accompanying imagery implies.",
+          "Measurements also vary with hydration, time of day, sebum output and lighting, which is why serious studies control for all four and why a home comparison with different lighting proves nothing.",
+          "The practical version at home is a photograph in consistent light, monthly, at a fixed distance. Anything else is comparing memory against a bathroom mirror, which reliably reports whatever mood you are in.",
+        ],
+      },
+      {
+        h: "The nose is not the cheek",
+        p: [
+          "Sebaceous gland density is highest on the nose, and the openings there are correspondingly larger and more visible in almost everybody. This is normal anatomy rather than a problem, and the standard being compared against usually comes from filtered photographs.",
+          "Cheek pores behave differently. Enlargement there is more often structural — the elongated, teardrop-shaped openings that appear with photoageing as collagen support degrades.",
+          "That distinction determines treatment. Nose pores respond to salicylic acid and to keeping the contents cleared; cheek pores respond to retinoids, sun protection and collagen-stimulating procedures.",
+          "Treating cheek pores with oil control, or nose pores with collagen support, is a common mismatch and explains a lot of disappointing results.",
+        ],
+      },
+      {
+        h: "Sebaceous filaments, one more time",
+        p: [
+          "The greyish-tan cylinders visible on most noses under magnification are sebaceous filaments, and they are a normal structural feature that channels oil to the surface. Everybody has them.",
+          "They differ from blackheads in being uniform, soft, evenly distributed and symmetrical across the nose. Blackheads are darker, firmer, raised and irregularly placed.",
+          "Filaments refill within a day or two of any removal, because they are performing a function. Attempting to eradicate them permanently is the most common route to a chronically irritated nose.",
+          "The magnifying mirror deserves specific blame here. Skin examined at a distance nobody else will ever occupy generates problems nobody else can see.",
+        ],
+      },
+      {
+        h: "What a clinic can genuinely offer",
+        p: [
+          "Microneedling stimulates collagen in the dermis and has reasonable evidence for improving the appearance of enlarged pores, particularly the structural, age-related kind on the cheeks. It requires a course rather than a single session.",
+          "Fractional non-ablative lasers work on the same principle more aggressively, with more downtime and better results in appropriate candidates. Both carry pigmentation risk in deeper skin tones and practitioner experience matters.",
+          "Professional extraction, performed after proper softening by somebody trained to do it, genuinely clears stubborn congestion without the follicle rupture that home squeezing causes.",
+          "Chemical peels at professional strength clear the contents and improve surface texture, and they are the most accessible of the four. None of these changes the underlying gland size, and all of them require maintenance.",
+        ],
+      },
+      {
+        h: "The optical approach, which is legitimate",
+        p: [
+          "Silicone-based primers fill the depression and create a smooth surface that scatters light evenly. The pore is unchanged and it is genuinely less visible, for as long as the product is on the face.",
+          "This is what cosmetics are for, and there is nothing dishonest about it provided it is understood as a same-day effect rather than a treatment. The dishonesty is in selling it as the second.",
+          "Light-diffusing powders and finishing products work on the same principle. Matte finishes reduce the shine that makes pores more apparent; heavy full-coverage foundation frequently settles into them and makes them more obvious.",
+          "Applied with a damp sponge in thin layers rather than rubbed in thickly, most base products sit better over textured areas. Technique does more here than product choice.",
+        ],
+      },
+      {
+        h: "Diet, water and the things that do nothing",
+        p: [
+          "Drinking more water does not change pore size in an adequately hydrated person. Skin hydration is regulated at the barrier rather than by intake volume, and the studies people cite for this generally involve people who were dehydrated to begin with.",
+          "Dairy and high-glycaemic diets have some association with acne in the literature, which is a different question from pore size. Sebum output is driven by androgens, and the dietary influence on that is modest and indirect.",
+          "No supplement has been shown to reduce pore size. Zinc has some acne evidence at specific doses; that is not the same claim.",
+          "Facial exercises and massage do not tighten anything relevant. Pores are openings in tissue, not muscles, and there is nothing to tone.",
+        ],
+      },
+      {
+        h: "The routine that actually helps",
+        p: [
+          "A retinoid most nights, built up slowly. It normalises the shedding that blocks the channel and stimulates the collagen that supports it, which addresses two of the three mechanisms at once.",
+          "Salicylic acid two or three times a week, applied to the congested areas rather than the whole face. It is the only common acid that gets inside the pore.",
+          "Niacinamide daily, which has trial evidence specifically on pore appearance and is gentle enough to combine with the other two.",
+          "And sunscreen every morning, which is the preventive half of the structural problem and the reason pores on the cheeks enlarge over decades. Four items, three months, and a photograph to check against.",
+        ],
+      },
+      {
+        h: "Setting the target honestly",
+        p: [
+          "Gland size is largely genetic and does not change. Somebody with naturally oily skin and large glands will have visible pores in the T-zone at every age, and no routine alters that baseline.",
+          "What is achievable is clear rather than full, unoxidised rather than dark, and supported rather than sagging. That combination looks markedly better and it is not the same as invisible.",
+          "The comparison images that set expectations are almost universally filtered, retouched or photographed under diffuse studio light. Comparing your bathroom mirror against them is comparing two different things.",
+          "The realistic outcome is skin that looks smoother in ordinary light and unremarkable at conversational distance. That is what everybody with good skin actually has, and it is achievable.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'dark-circles-explained',
+    sections: [
+      {
+        h: "Why the eye cream market is so large",
+        p: [
+          "Dark circles are close to universal, highly visible, and among the most persistent cosmetic complaints there are. That combination makes them commercially irresistible, and the category has grown far faster than the evidence supporting it.",
+          "Most of the causes are anatomical or vascular. Very few of them are the kind of problem a cream applied to the surface can address, and the products are nonetheless sold as though they can.",
+          "The result is a category where price correlates poorly with performance and where the most expensive products are frequently a moisturiser with caffeine and packaging. The moisturising effect is real and produces a small genuine improvement, which is enough to sustain the belief.",
+          "None of this means the concern is trivial or that nothing helps. It means matching the cause to the intervention is unusually important here, because the default intervention addresses almost none of them.",
+        ],
+      },
+      {
+        h: "Genetics and ethnicity",
+        p: [
+          "Periorbital hyperpigmentation runs in families and is markedly more common in people of South Asian, Middle Eastern, Mediterranean and Latin American descent. It frequently appears in childhood and is constitutional rather than acquired.",
+          "This is genuine melanin in the skin around the eye, not shadow and not visible vessels, and it does not respond to sleep, hydration or caffeine. It responds — slowly and partially — to the same tyrosinase inhibitors used elsewhere on the face.",
+          "Deep-set orbits and thin periorbital skin are also inherited, and both produce shadowing that is present from a young age and stable through life.",
+          "Knowing that a circle is constitutional is genuinely useful information, because it converts an ongoing search for the right product into a decision about whether to treat it, conceal it or leave it alone.",
+        ],
+      },
+      {
+        h: "The tear trough, and what it actually is",
+        p: [
+          "The tear trough is the groove running from the inner corner of the eye downward and outward, formed where the skin is tethered to the underlying bone by a ligament with very little fat between the two.",
+          "As the midface loses volume and the ligament stays fixed, the groove deepens and casts a shadow under overhead light. The skin colour may be entirely normal; the darkness is geometry.",
+          "This is why so many people are told their circles are not pigment and then find that nothing designed for pigment helps. They were correctly diagnosed and then handed the wrong tool.",
+          "It is also why the darkness looks worse in some lighting and nearly absent in others, and why photographs taken with a flash frequently show none of it.",
+        ],
+      },
+      {
+        h: "Fillers, and the honest version",
+        p: [
+          "Hyaluronic acid filler placed in the tear trough addresses the volume deficit directly and is the only intervention that reliably corrects the shadow. Results last somewhere between nine months and two years.",
+          "It is also among the most technically demanding areas to inject. The skin is thin, the anatomy is unforgiving, and poor placement produces visible lumps, a bluish discolouration called the Tyndall effect, and prolonged swelling.",
+          "Vascular occlusion in this region is rare and serious, with visual complications documented. Practitioner selection matters more here than almost anywhere else in aesthetic medicine.",
+          "The reassuring part is reversibility — hyaluronic acid filler can be dissolved with hyaluronidase if the result is unsatisfactory, which is not true of other filler materials. Anybody offering a permanent filler in this area should be declined.",
+        ],
+      },
+      {
+        h: "Surgical and energy-based options",
+        p: [
+          "Lower blepharoplasty addresses herniated fat pads — the persistent puffiness that does not resolve through the day — either by removing or repositioning them. It is the definitive treatment for that specific cause and it is surgery.",
+          "Fat repositioning rather than removal has become the more common approach, because removing fat from a face that is already losing volume can produce a hollowed look over the following decade.",
+          "Vascular lasers can reduce visible vessels contributing to bluish discolouration in appropriate candidates. Pigment-targeting lasers are used for constitutional hyperpigmentation, cautiously, because this region marks easily.",
+          "Chemical peels at low concentration are used for pigmentary circles by experienced practitioners. All of these carry a higher risk profile in deeper skin tones, which is the population most likely to have pigmentary circles.",
+        ],
+      },
+      {
+        h: "Concealer, done properly",
+        p: [
+          "For most people most of the time, concealer is the practical answer, and doing it well is a skill rather than a purchase. The most common errors are wrong undertone and too much product.",
+          "Colour theory does the work. Peach or salmon undertones neutralise bluish vascular circles on lighter skin; orange undertones do the same on deeper skin. Yellow corrects mild purple. Applying a correcting shade under a matching concealer works better than a heavier layer of one product.",
+          "Apply sparingly and only where the darkness actually is, which is usually a smaller area than people cover. Press with a fingertip or a damp sponge rather than dragging.",
+          "Hydrate first. Concealer on dry periorbital skin settles into every line and emphasises the texture it was meant to disguise, which is why a light eye cream underneath improves the result more than a better concealer does.",
+        ],
+      },
+      {
+        h: "Medical causes to rule out",
+        p: [
+          "Iron deficiency anaemia is the classic one and is common, particularly in menstruating women. It produces pallor that makes underlying vessels more visible, and correcting it improves the appearance in a way no cream does.",
+          "Thyroid dysfunction affects periorbital tissue and can produce both puffiness and discolouration. Both of these are simple blood tests.",
+          "Allergic rhinitis produces venous congestion around the eyes — the pattern known as allergic shiners — along with the horizontal nasal crease from repeated rubbing. Treating the allergy addresses the circles directly.",
+          "Chronic eye rubbing from any cause drives both pigmentation and laxity mechanically, and it is worth identifying because it is the one item on this list you can act on immediately.",
+        ],
+      },
+      {
+        h: "What creams can genuinely do",
+        p: [
+          "Caffeine constricts vessels temporarily and modestly reduces vascular darkness and mild fluid puffiness. The effect is real, small and lasts hours. It is the most defensible ingredient in the category.",
+          "Retinoids thicken the epidermis over months, which reduces how visible the underlying vessels are, and improve crepey texture. This is slow and it is the intervention with the best evidence for lasting change.",
+          "Vitamin C, niacinamide and other tyrosinase inhibitors address genuine pigmentation and do nothing for shadow or vessels. Whether they help depends entirely on which cause you have.",
+          "Hydration plumps the surface and softens fine lines for as long as it is maintained. That is worth having and it reverses when you stop, which is honest rather than disappointing.",
+        ],
+      },
+      {
+        h: "Sleep, and what it does and does not fix",
+        p: [
+          "Sleep restriction genuinely darkens circles, and this is measured rather than assumed — observers rating photographs consistently identify sleep-deprived faces as having darker under-eyes and more hanging eyelids.",
+          "The mechanism is partly vascular, through poorer circulation and fluid distribution, and partly pallor of the surrounding skin making the darkness more apparent by contrast.",
+          "What sleep does not fix is constitutional pigmentation or a structural tear trough. Somebody with inherited periorbital hyperpigmentation who sleeps nine hours will still have it, and being told to sleep more is unhelpful advice repeated frequently.",
+          "The useful reading is that sleep determines how much worse than your baseline you look, and the baseline is set by anatomy and genetics.",
+        ],
+      },
+      {
+        h: "A sensible order of operations",
+        p: [
+          "First, work out which cause dominates. Stretch the skin sideways: if the darkness lightens, it is vascular. Light the face from below: if it lifts, it is shadow. If neither changes it, it is pigment.",
+          "Second, rule out the medical causes if the circles are new or worsening — iron, thyroid, allergy. These are cheap to check and occasionally the whole answer.",
+          "Third, address the modifiable inputs: sleep, rubbing, allergy, sun protection around the eyes, and enough hydration in the skin itself.",
+          "Fourth, treat what remains according to its cause — a retinoid and pigment inhibitors for pigmentary, caffeine and patience for vascular, filler or concealer for structural. And accept that some of this is anatomy, which is not a failure of the routine.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'skin-purging-vs-breakout',
+    sections: [
+      {
+        h: "The microcomedone, and why purging exists at all",
+        p: [
+          "Every visible spot begins as a microcomedone — a microscopic blockage forming inside the follicle from sebum and cells that failed to shed properly. It develops invisibly over roughly two to three weeks before anything appears on the surface.",
+          "At any given moment an acne-prone face carries a large number of these at every stage of development. This is the crucial fact: the pipeline is already full before you start any treatment.",
+          "An ingredient that accelerates cell turnover speeds everything in that pipeline along at once. Lesions that would have surfaced over the next two months arrive over the next two weeks instead.",
+          "That is purging. Nothing new is being created; the existing queue is being cleared faster. Which is why it happens once, near the start, and does not recur when the same product is continued.",
+        ],
+      },
+      {
+        h: "Which ingredients can cause it",
+        p: [
+          "Retinoids of every kind — tretinoin, adapalene, tazarotene, retinol, retinaldehyde. These are the most common cause by a wide margin because turnover acceleration is their primary mechanism.",
+          "Exfoliating acids: glycolic, lactic, mandelic and salicylic, particularly at higher strengths or increased frequency.",
+          "Benzoyl peroxide, which is mildly comedolytic alongside its antibacterial action.",
+          "Professional treatments that increase turnover — chemical peels, microdermabrasion, laser resurfacing. That is the complete list, and it is short.",
+        ],
+      },
+      {
+        h: "Which ingredients cannot",
+        p: [
+          "Anything that does not accelerate cell turnover cannot produce purging, and this rules out most of what people blame it on.",
+          "Hyaluronic acid, glycerin, niacinamide, ceramides, peptides, vitamin C, squalane, sunscreen, moisturisers and cleansers do not purge. If skin breaks out on any of these, something else is happening.",
+          "That something else is usually one of three things: an ingredient in the formula is comedogenic for you, the product is irritating and inflammation is producing lesions, or an allergic reaction is under way.",
+          "This distinction alone resolves a large proportion of the confusion, because the phrase has spread far beyond the mechanism that justifies it and is now applied to any deterioration after any new product.",
+        ],
+      },
+      {
+        h: "The signature of purging",
+        p: [
+          "Location: it appears where you normally break out. Purging cannot create lesions in a follicle that had no microcomedone forming, so a face that breaks out on the chin will purge on the chin.",
+          "Type: the same kind of spots you usually get. Small papules and pustules that come to a head and resolve, rather than anything unfamiliar.",
+          "Speed: they surface quickly and clear quickly, often within a few days each, which is markedly faster than your usual cycle.",
+          "Duration: it begins within the first two weeks, peaks around weeks two to four, and is settling by week six. Progress should be visible across that window rather than a plateau.",
+        ],
+      },
+      {
+        h: "The signature of a reaction",
+        p: [
+          "Location: areas that never break out, including places the product barely touched, and often a diffuse rather than a focal distribution.",
+          "Type: itching, burning, stinging, a rash, small uniform bumps, dryness with redness, or swelling. These are not spots and they do not behave like spots.",
+          "Timing: irritation can appear within hours to days; allergic contact dermatitis characteristically appears twenty-four to seventy-two hours after exposure and may require repeated exposure to declare itself.",
+          "Trajectory: it worsens or plateaus with continued use rather than settling. That is the single most reliable discriminator and it is the one worth watching for.",
+        ],
+      },
+      {
+        h: "The imposters",
+        p: [
+          "Fungal acne — malassezia folliculitis — presents as uniform, small, itchy bumps on the forehead, chest, upper back and shoulders. It is caused by yeast, is fed by many plant oils and esters, and does not respond to acne treatment.",
+          "Acne cosmetica is genuine comedonal acne caused by a comedogenic product. It develops over weeks rather than days, appears where the product was applied most heavily, and resolves only when the product is stopped.",
+          "Perioral dermatitis is small papules and pustules around the mouth and nose, often with a clear rim of unaffected skin at the lip border. It is frequently triggered or worsened by topical steroids and needs different treatment entirely.",
+          "Contact urticaria is immediate — hives within minutes of application — and is a straightforward stop-and-do-not-repeat situation.",
+        ],
+      },
+      {
+        h: "How to reduce a purge you have decided to ride out",
+        p: [
+          "Reduce the frequency rather than stopping. Twice weekly instead of nightly slows the pipeline clearance and spreads the same number of lesions over a longer period, which is usually more tolerable.",
+          "Buffer the application. Moisturiser before a retinoid reduces both irritation and the intensity of the response, at a modest cost in speed.",
+          "Support the barrier aggressively. A ceramide moisturiser and a gentle cleanser during this period reduce the inflammation around each lesion, which reduces how much mark each one leaves behind.",
+          "Do not add anything. The temptation to introduce a spot treatment, an acid or a clay mask during a purge is strong and it reliably converts a purge into a barrier problem on top of a purge.",
+        ],
+      },
+      {
+        h: "Preventing it in the first place",
+        p: [
+          "Start low and slow. Twice weekly for a fortnight, then three times, then alternate nights, over six to eight weeks. This spreads the pipeline clearance out to the point where it is often barely noticeable.",
+          "Start with the gentler version. Adapalene 0.1 per cent rather than tretinoin; retinaldehyde rather than a high-strength retinol; a lower-percentage acid rather than the strongest available.",
+          "Get the barrier in good condition before starting rather than repairing it during. Skin that is already comfortable tolerates an introduction far better than skin that was borderline.",
+          "And introduce one thing at a time. Two new actives together makes any subsequent deterioration unattributable, which is how people end up abandoning the product that was working.",
+        ],
+      },
+      {
+        h: "Tracking it properly",
+        p: [
+          "Photograph before you start, in consistent light, without makeup. This is the reference point and almost nobody has one, which is why memory does all the work and memory is unreliable when skin is worse than usual.",
+          "Photograph weekly during the first two months, from the same angle and distance. Purging shows as a rise and then a fall; a reaction shows as a rise and a plateau.",
+          "Note the date of each frequency increase alongside the photographs. A flare two days after moving from twice weekly to alternate nights is explained; the same flare with no record looks random.",
+          "This takes about thirty seconds a week and it is the difference between a decision based on evidence and a decision based on how you feel on a bad morning.",
+        ],
+      },
+      {
+        h: "The decision rule",
+        p: [
+          "Continue if: the ingredient is one that can purge, the lesions are where you normally get them, they are the type you normally get, and the trajectory is improving by week six.",
+          "Stop if: the ingredient cannot purge, the reaction involves itching or burning or a rash, it appears in unusual places, or it is still worsening past six weeks.",
+          "Stop immediately regardless of ingredient if there is swelling, hives, blistering, or any difficulty breathing. That is not a purge and it is not a question.",
+          "And when genuinely unsure, reduce the frequency rather than choosing between continuing and stopping. That preserves the option in both directions and costs nothing but time.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'sensitive-skin-care',
+    sections: [
+      {
+        h: "Sensitive is a symptom, not a diagnosis",
+        p: [
+          "Roughly half of people describe their skin as sensitive, which is a large enough proportion to suggest the word is describing an experience rather than identifying a condition. It is a report of how skin behaves, not an explanation of why.",
+          "Underneath that report sit several distinct situations: an inherited predisposition, a barrier damaged by a routine, an undiagnosed condition such as rosacea or seborrhoeic dermatitis, a specific allergy, or a combination.",
+          "Those require different responses, and treating all of them with products labelled for sensitive skin resolves only some. A product range is not a diagnosis.",
+          "The useful first question is therefore whether the sensitivity is longstanding or recent. Longstanding suggests a type; recent suggests something caused it, and something that was caused can usually be uncaused.",
+        ],
+      },
+      {
+        h: "The most common triggers, in order",
+        p: [
+          "Fragrance is first by a wide margin and includes essential oils and the botanical fragrance materials marketed as gentler alternatives. Limonene, linalool, geraniol, citronellol and eugenol are the names to recognise on a label.",
+          "Preservatives are second, with methylisothiazolinone and formaldehyde releasers the recognised problem group. These are necessary in water-containing products and some are considerably better tolerated than others.",
+          "Denatured alcohol high in a formula, physical scrubs, high-concentration acids and strong retinoids follow. So do menthol, camphor, eucalyptus and peppermint, which produce a cooling sensation frequently mistaken for soothing.",
+          "Hard water, hot water and mechanical friction from cloths and brushes complete the list, and together they account for more sensitivity than any single ingredient.",
+        ],
+      },
+      {
+        h: "The stinging test",
+        p: [
+          "Dermatology research uses a lactic acid stinging test to identify people with heightened sensory reactivity: a ten per cent lactic acid solution applied to the nasolabial fold, with the subject rating any stinging over several minutes.",
+          "Around a fifth of people are stingers by this measure, and the interesting finding is that stinging does not correlate closely with visible redness. Someone can have a strongly reactive sensory response with no observable inflammation at all.",
+          "This matters because it validates an experience that is frequently dismissed. Skin that stings without going red is not imagining it, and the mechanism is neurosensory rather than inflammatory.",
+          "It also predicts which products will be tolerated. For a sensory reactor, low-pH products and anything with a tingle are worth avoiding even when they cause no visible reaction.",
+        ],
+      },
+      {
+        h: "The short-list rule",
+        p: [
+          "The single most useful heuristic when buying for sensitive skin is to prefer the shorter ingredient list. Every additional component is another candidate for a reaction, and formulations with twelve ingredients are considerably easier to troubleshoot than ones with sixty.",
+          "Fragrance-free rather than unscented, since unscented frequently means a masking fragrance was added to cover a base odour.",
+          "Be sceptical of complex botanical blends. Plant extracts are chemically complicated, variable between batches, and over-represented in contact dermatitis clinics relative to the synthetic ingredients they are positioned against.",
+          "And prefer products from ranges that publish full ingredient lists prominently. A brand that makes the list hard to find has made a decision about what it wants you to read.",
+        ],
+      },
+      {
+        h: "Rebuilding tolerance",
+        p: [
+          "Skin that has become sensitive through barrier damage can usually recover, and the protocol is unexciting: stop every active, cleanse once daily with a non-foaming fragrance-free cleanser, moisturise generously with something containing ceramides, and continue sunscreen.",
+          "Hold that for four weeks without exception. The most common failure is adding a soothing serum halfway through, which is another variable applied to skin currently reacting to variables.",
+          "The endpoint is skin that tolerates a plain moisturiser with no sensation at all. That is the signal to begin reintroduction, and not before.",
+          "Reintroduce one product at a time, at half the previous frequency, with two weeks between each. Most people find one specific product was responsible and the rest of the routine was innocent.",
+        ],
+      },
+      {
+        h: "The environment, which is half the problem",
+        p: [
+          "Hard water leaves surfactant residue that continues to irritate after rinsing, and there is reasonable evidence linking hard water exposure to barrier disruption. A rinse with filtered water or a switch to a non-foaming cleanser both help.",
+          "Water temperature matters more than people expect. Hot water strips lipids efficiently, and lukewarm is not a token adjustment.",
+          "Cold wind, low indoor humidity and central heating all impose a load that products then have to overcome. A humidifier addresses the cause in a way that upgrading a moisturiser does not.",
+          "Fabric matters too. Laundry detergent and softener reach the face nightly through the pillowcase, and wool and rough synthetics against the neck and jaw are worth considering when irritation is localised there.",
+        ],
+      },
+      {
+        h: "Sunscreen for skin that reacts to sunscreen",
+        p: [
+          "This is the most common practical impasse in sensitive skincare, and abandoning sunscreen is the worst available resolution given that ultraviolet exposure worsens nearly every underlying condition on the list.",
+          "Mineral filters are usually better tolerated. Zinc oxide in particular has mild anti-inflammatory properties, sits on the surface rather than absorbing, and is among the least sensitising cosmetic ingredients.",
+          "Fragrance-free, short ingredient list, and a tinted version if the white cast is the obstacle. Tinting also adds visible-light protection, which is a genuine bonus for anybody with associated redness or pigmentation.",
+          "Physical measures carry more weight here than elsewhere. A wide-brimmed hat and shade do not sting, do not need reapplying, and provide protection no formulation has to be tolerated for.",
+        ],
+      },
+      {
+        h: "Makeup without provoking it",
+        p: [
+          "Mineral makeup with a short ingredient list is generally the safest starting point, and a green-tinted corrector is a legitimate tool for redness rather than a cosmetic evasion.",
+          "Removal causes more irritation than application in most cases. A gentle oil or balm cleanser that dissolves makeup without scrubbing, followed by a mild second cleanse, is considerably kinder than a wipe.",
+          "Makeup wipes deserve specific mention as a poor choice for this skin: they combine surfactants left on the face with mechanical friction, which is the two worst inputs at once.",
+          "Brushes and sponges need washing weekly. Bacterial load on applicators is a genuine and overlooked contributor to persistent irritation around the areas where they are used most.",
+        ],
+      },
+      {
+        h: "When it is a condition rather than a type",
+        p: [
+          "If four weeks of a stripped-back routine produce no improvement, the working assumption should change. Persistent redness may be rosacea; flaking with redness around the nose and brows may be seborrhoeic dermatitis; a defined rash may be contact dermatitis to something not yet identified.",
+          "All three are common, all three have effective prescription treatments, and all three are routinely self-managed as sensitive skin for years. That delay is the real cost of the label.",
+          "Repeated reactions to products with no obvious ingredient in common is an indication for professional patch testing, which identifies the specific molecule rather than the product.",
+          "Getting a name for what is happening is what converts an endless product search into a treatment plan, and it is usually available for the price of one appointment.",
+        ],
+      },
+      {
+        h: "The routine, and why it is this short",
+        p: [
+          "A non-foaming fragrance-free cleanser in the evening, water alone in the morning. A bland moisturiser with ceramides, applied twice daily and more if skin feels tight. A mineral sunscreen every morning.",
+          "That is three products, and for a great many people with sensitive skin it is the entire correct answer indefinitely rather than a temporary recovery protocol.",
+          "Additions are possible and should be treated as experiments. Azelaic acid, niacinamide and low-strength retinaldehyde are the most commonly tolerated actives, introduced one at a time with a proper test period.",
+          "The counterintuitive part is that doing less is not settling for less. Sensitive skin is frequently over-treated skin, and the shortest routine is often the one that produces the best-looking result.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'spf-numbers-explained',
+    sections: [
+      {
+        h: "The percentages, and what they hide",
+        p: [
+          "SPF 15 blocks roughly ninety-three per cent of UVB, SPF 30 around ninety-seven, SPF 50 around ninety-eight, and SPF 100 around ninety-nine. Stated that way the differences look trivially small, which is the argument people make against high numbers.",
+          "The more informative way to read it is by what gets through. SPF 15 admits seven per cent, SPF 30 admits three, SPF 50 admits two. Going from 15 to 30 halves the dose reaching your skin, and it is the transmitted dose that does the damage.",
+          "Halving something is not a small change even when the blocked percentage moves by four points. Both descriptions are arithmetically correct and they lead to opposite conclusions, which is why the debate persists.",
+          "The practical resolution is that the step from 15 to 30 is meaningful, the step from 30 to 50 is worthwhile, and the step from 50 to 100 is marginal in the laboratory and less marginal in real life for reasons covered below.",
+        ],
+      },
+      {
+        h: "Why the laboratory number is not what you get",
+        p: [
+          "SPF is measured with two milligrams of product per square centimetre of skin, applied evenly, under controlled conditions. Surveys of real-world application consistently find people using between a quarter and half of that.",
+          "The relationship between quantity and protection is not linear. Applying half the tested amount does not give you half the SPF; the fall-off is closer to exponential, and an SPF 50 applied at half rate can behave somewhere in the range of SPF 7 to 15.",
+          "This is the strongest practical argument for buying a high number: not because you need SPF 50, but because you will apply it as though it were something considerably lower, and the headroom absorbs your error.",
+          "It is also why fixing application quantity matters far more than choosing between two good products. That single variable dominates everything else in this article.",
+        ],
+      },
+      {
+        h: "Measuring the right amount",
+        p: [
+          "For a face and neck, the tested quantity works out at roughly a third of a teaspoon, or about 1.2 millilitres. Most people apply a fraction of that and are genuinely surprised when they measure it.",
+          "The two-finger method is the practical guide: squeeze a line of product along the length of your index and middle fingers, and use all of it on face and neck. It approximates the tested quantity closely enough to matter.",
+          "For a whole body at the beach, the figure is around thirty millilitres per application — a shot glass. A 200ml bottle should therefore last one person about six full-body applications, which reframes how long a bottle ought to last.",
+          "Apply it once and measure it properly at least once, so that you know what the correct amount feels like. After that, estimating is fine, because you have calibrated.",
+        ],
+      },
+      {
+        h: "The UV index, and using it",
+        p: [
+          "The UV index is a standardised scale of ultraviolet intensity at ground level, and it is included in most weather apps. It accounts for sun angle, cloud, ozone and altitude, which is more than intuition manages.",
+          "Below 3, protection is generally unnecessary for short exposures for most people. From 3 to 7, sunscreen, shade and a hat are appropriate. Above 8, direct exposure should be minimised around the middle of the day.",
+          "It is more useful than the temperature, which is what people actually use and which correlates poorly. A clear cold day in spring at altitude can carry a higher index than a hazy warm day in August.",
+          "Checking it takes two seconds and converts sun protection from a fixed habit into a calibrated one, which is easier to sustain than a rule that feels excessive half the year.",
+        ],
+      },
+      {
+        h: "The shadow rule",
+        p: [
+          "A rough field guide with no equipment: if your shadow is shorter than you are tall, the sun is high enough that ultraviolet intensity is significant and protection matters. If your shadow is longer than you are, the angle is oblique and the dose is lower.",
+          "This works because ultraviolet intensity depends heavily on the path length through the atmosphere, which is determined by the sun's angle. A low sun means a longer path and more absorption before the light reaches you.",
+          "It is imprecise and it is available everywhere without a phone, which makes it genuinely useful for children and for anybody outdoors all day.",
+          "It also explains why midday exposure matters disproportionately, and why the same hour outdoors at eight in the morning and at one in the afternoon are not remotely equivalent.",
+        ],
+      },
+      {
+        h: "Cloud, glass, water and snow",
+        p: [
+          "Cloud cover reduces ultraviolet less than people assume — thin cloud transmits a large majority of it, and scattered cloud can occasionally increase ground-level UV above the clear-sky value through reflection off cloud edges.",
+          "Standard window glass blocks most UVB and transmits a substantial proportion of UVA. A desk beside a window, a long drive, or a conservatory are all meaningful UVA exposure with no burning to signal it.",
+          "Water reflects and, more importantly, transmits: at half a metre depth a swimmer still receives a large fraction of surface ultraviolet. Being in the water is not shade.",
+          "Snow reflects up to eighty per cent of incident ultraviolet back upward, which is why skiers burn under the chin and nose. Sand reflects around fifteen per cent and grass very little.",
+        ],
+      },
+      {
+        h: "SPF in moisturiser and makeup",
+        p: [
+          "A moisturiser or foundation with SPF is tested the same way as a sunscreen, at two milligrams per square centimetre. Nobody applies foundation at that rate, and the protection actually received is correspondingly far below the label.",
+          "Application is also uneven in a way dedicated sunscreen usually is not, with makeup concentrated where coverage is wanted and thin at the hairline, jaw, ears and neck — which are exactly the places that get exposed.",
+          "They are not worthless. They are a supplement to a dedicated sunscreen, and they are useful for reapplication over an existing layer.",
+          "Two products with SPF do not add up. An SPF 15 moisturiser under an SPF 30 foundation gives you approximately SPF 30 at best, not 45, and in practice considerably less than either.",
+        ],
+      },
+      {
+        h: "Expiry, storage and when to throw it out",
+        p: [
+          "Sunscreen carries an expiry date and it means something, unlike much cosmetic dating. Filters degrade, emulsions separate, and a product past its date may deliver substantially less than its label.",
+          "Heat accelerates this. A bottle left in a car through a summer, or in a beach bag in direct sun, has had a harder life than the date suggests. Store it somewhere cool and shaded.",
+          "Visible separation, a change in smell, colour or texture, or a grainy consistency are all reasons to discard it regardless of the printed date.",
+          "The best defence is turnover. If a bottle lasts you a whole year, you are not using enough of it, and buying a smaller bottle you finish is better than a large one that expires.",
+        ],
+      },
+      {
+        h: "Children, and the differences that matter",
+        p: [
+          "Infants under six months should be kept out of direct sun rather than protected with sunscreen, since their skin is thinner and more absorptive and shade and clothing are the appropriate tools.",
+          "For older children, mineral filters are usually preferred — better tolerated, less likely to sting the eyes, and with a longer track record in this population.",
+          "Sun exposure in childhood carries disproportionate weight in lifetime melanoma risk, and blistering sunburns before adulthood are specifically associated with it. This is the population where prevention matters most and is hardest to enforce.",
+          "UPF-rated swimwear solves most of the problem for a day at the water, since it does not wash off, does not need reapplying and does not require a negotiation with a child every two hours.",
+        ],
+      },
+      {
+        h: "What to actually buy",
+        p: [
+          "SPF 30 as a floor, SPF 50 as a sensible default given how everybody under-applies. Broad spectrum, and preferably with an explicit UVA indication — the circled UVA logo or a PA rating.",
+          "A texture and finish you will genuinely apply generously every day, because that variable outweighs every other decision here. Paying more for a sunscreen you enjoy is one of the few premiums in skincare that is straightforwardly justified.",
+          "A second format for reapplication — a stick, a cushion or a powder — kept in a bag rather than a bathroom.",
+          "And a bottle small enough that you will finish it within a season, which both guarantees potency and quietly tells you whether you are using enough.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'adult-acne-why',
+    sections: [
+      {
+        h: "Diet, and what the evidence supports",
+        p: [
+          "Two dietary associations have reasonable support and both are modest. High-glycaemic-load diets are associated with more acne, plausibly through insulin and insulin-like growth factor signalling that increases androgen activity and sebum production.",
+          "Skimmed milk in particular shows a consistent association across several observational studies, more strongly than whole milk, and the proposed mechanism again involves growth factors and hormonal signalling rather than fat content.",
+          "What the evidence does not support is chocolate as a specific cause, greasy food translating to greasy skin, or elimination diets producing reliable improvement. Nor does it support any supplement marketed for acne beyond zinc, which has modest data at specific doses.",
+          "The honest framing is that diet is a contributing factor for some people and is not the cause of adult acne. A dietary change is worth a three-month trial with a photograph if you suspect one; it is not a substitute for treatment.",
+        ],
+      },
+      {
+        h: "A realistic plan",
+        p: [
+          "Establish a bland base — gentle cleanser, light moisturiser, sunscreen — before adding anything, because adult skin needs the barrier intact for treatment to be tolerable.",
+          "Add one active, at low frequency, and hold it for twelve weeks with a monthly photograph. Adapalene or azelaic acid are the most defensible starting points.",
+          "Check the modifiable inputs in parallel: hair products, foundation, phone and hand contact, medications started in the last six months, and whether the pattern follows a cycle.",
+          "If twelve weeks produces nothing, or if anything is scarring, that is the point to seek a prescription rather than to buy a fourth product. Hormonal acne in particular frequently needs hormonal treatment, and no topical substitutes for it.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'the-truth-about-pores',
+    sections: [
+      {
+        h: "The pores nobody mentions",
+        p: [
+          "Enlarged pores are not confined to the face. The upper back, chest and shoulders carry high sebaceous gland density and show the same congestion, and they are almost never included in the conversation.",
+          "The treatment is the same in principle and easier in practice, since body skin is thicker and more tolerant. A salicylic acid wash used in the shower handles most of it, and a benzoyl peroxide wash addresses the associated body acne.",
+          "The nose of somebody with visible pores at twenty and the cheeks of somebody with visible pores at fifty are two different problems, and treating both as one is why generic advice disappoints half the people reading it.",
+          "Men typically have larger pores than women, driven by higher androgen levels and greater sebaceous gland activity. That is anatomy rather than a hygiene difference, and it is worth saying because the assumption runs the other way.",
+        ],
+      },
+      {
+        h: "In one paragraph",
+        p: [
+          "Pores have no muscles, do not open or close, and cannot be permanently shrunk by anything you apply. What changes their appearance is how full they are, how oxidised the contents are, and how well the surrounding skin holds its structure.",
+          "A retinoid, salicylic acid on the congested areas, niacinamide and daily sunscreen address all three over three to six months. Everything else in the category is either temporary, optical, or untrue.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'dark-circles-explained',
+    sections: [
+      {
+        h: "Puffiness, which is a separate problem",
+        p: [
+          "Morning puffiness is fluid. Lying flat allows interstitial fluid to accumulate in the loose tissue around the eyes, and it redistributes within an hour or two of being upright. Salt, alcohol and poor sleep all increase it.",
+          "Sleeping with the head slightly elevated, reducing salt in the evening, and a cool compress on waking all address it directly and cost nothing. Caffeine-containing products help modestly through vasoconstriction.",
+          "Persistent puffiness that does not resolve through the day is usually herniated orbital fat pushing forward as the retaining ligaments loosen. This is anatomical and no topical product reaches it.",
+          "Allergic puffiness is worth separating out because it is genuinely treatable. Itching, watery eyes and seasonal timing point to it, and an antihistamine does more in a day than an eye cream does in a month.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'skin-purging-vs-breakout',
+    sections: [
+      {
+        h: "How long is too long",
+        p: [
+          "Six weeks is the working limit for a purge. That figure comes from the length of the follicular cycle — roughly the time it takes for the existing pipeline of microcomedones to clear once turnover has been accelerated.",
+          "Some sources say eight weeks and some say four. Six is a reasonable middle, and the more important signal is the direction of travel rather than the exact number: by week four you should be able to see that the peak has passed.",
+          "Skin that is still deteriorating at week six is not purging, whatever the ingredient. At that point the sensible move is to stop, allow four weeks of recovery on a bland routine, and reintroduce at a much lower frequency if you want to try again.",
+          "A second attempt at half the frequency frequently succeeds where the first failed, which is worth knowing before writing off an ingredient entirely.",
+        ],
+      },
+      {
+        h: "The summary",
+        p: [
+          "Purging only happens with ingredients that accelerate cell turnover — retinoids, exfoliating acids, benzoyl peroxide and resurfacing procedures. Nothing else can cause it, whatever the marketing says.",
+          "It appears where you normally break out, looks like your usual spots, starts within two weeks and is settling by six.",
+          "Anything itching, burning, rashy, unfamiliar in appearance, in an unusual location, or still worsening past six weeks is a reaction. Stop, recover, and identify the cause.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'sensitive-skin-care',
+    sections: [
+      {
+        h: "How to test a new product on this skin",
+        p: [
+          "Test behind the ear or along the jawline rather than on the inner forearm, which is thicker and considerably more tolerant than facial skin and will pass products the face will not.",
+          "Apply exactly as you intend to use it, twice daily for five to seven days rather than once overnight. Allergic reactions can take up to seventy-two hours to appear and frequently need repeated exposure to declare themselves.",
+          "Watch for redness, swelling, itching or bumps that persist rather than fading within an hour. Brief stinging on application that settles is common with low-pH products and is not by itself a reason to stop.",
+          "Then introduce it to the face with the rest of the routine held constant for a month. Testing establishes safety; the month establishes whether it does anything, and the two questions need answering separately.",
+        ],
+      },
+      {
+        h: "The counterintuitive summary",
+        p: [
+          "Sensitive skin is frequently over-treated skin, and the reliable first move is subtraction rather than addition. Three products, four weeks, nothing else.",
+          "If that resolves it, the routine was the cause. If it does not, the sensitivity is a symptom of something with a name, and finding the name is worth one appointment.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'spf-numbers-explained',
+    sections: [
+      {
+        h: "Why the numbers differ between countries",
+        p: [
+          "SPF testing methodology is broadly harmonised internationally, but labelling rules are not, which is why the same product can appear with different figures in different markets.",
+          "Europe caps the displayed figure at 50+, on the reasoning that differences above that are not meaningful to consumers. Some other markets permit higher printed numbers, so an SPF 100 and a European 50+ may be the same formulation.",
+          "UVA labelling diverges more sharply. Europe uses the circled UVA mark, which certifies UVA protection is at least a third of the labelled SPF. Japan and much of Asia use the PA+ to PA++++ scale. The United States uses a broad-spectrum designation based on a critical wavelength test.",
+          "The permitted filter lists also differ, with Europe, Japan and Australia allowing several modern filters that the United States has not approved. This is why sunscreen enthusiasts import, and why a product's country of origin tells you something about what is likely inside it.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'skin-purging-vs-breakout',
+    sections: [
+      {
+        h: "Managing the marks a purge leaves behind",
+        p: [
+          "For anybody prone to post-inflammatory pigmentation, the marks left by a purge can outlast the purge by months, and that consequence is worth planning for rather than discovering.",
+          "The two things that reduce it are not picking and daily sun protection. Picking converts a lesion that would have cleared into one that leaves something behind; ultraviolet exposure darkens and fixes whatever is left.",
+          "Keeping the barrier intact through the purge also helps, because less surrounding inflammation means less melanocyte stimulation around each lesion. A ceramide moisturiser during this window is doing more than it appears to.",
+          "This is also an argument for the slow introduction. A purge spread over ten weeks at low frequency produces fewer simultaneous lesions and correspondingly fewer marks than the same clearance compressed into three.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'sensitive-skin-care',
+    sections: [
+      {
+        h: "Products that are frequently tolerated",
+        p: [
+          "Cleansing: non-foaming cream, milk or lotion cleansers with short ingredient lists. Anything that lathers substantially is worth avoiding, and micellar water should be rinsed rather than left on despite what the packaging often says.",
+          "Moisturising: formulations built around ceramides, glycerin, squalane, panthenol and colloidal oatmeal. Petrolatum is among the least allergenic substances available and is worth knowing about for the worst nights.",
+          "Sun protection: mineral filters, tinted if the cast is the obstacle, fragrance-free, with as short a list as the category allows.",
+          "Actives, when the base is stable: azelaic acid, niacinamide at modest concentrations, and retinaldehyde or low-strength encapsulated retinol introduced twice weekly. Each one alone, with a fortnight between introductions.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
