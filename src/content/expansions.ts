@@ -3933,6 +3933,564 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'salicylic-vs-glycolic-acid',
+    sections: [
+      {
+        h: "The one property that separates them",
+        p: [
+          "Almost everything that distinguishes these two acids follows from a single fact: glycolic acid is water-soluble and salicylic acid is oil-soluble. That is not a detail of chemistry with no practical consequence — it determines where each one can physically go.",
+          "Water-soluble means glycolic acid works across the surface of the skin, distributed evenly over the stratum corneum, loosening the bonds between cells wherever it lands. It cannot enter a pore filled with sebum, because it does not mix with sebum.",
+          "Oil-soluble means salicylic acid can. It travels down into the pilosebaceous unit, dissolves into the sebum sitting there, and exfoliates the lining of the follicle from inside. On the flat surface between pores it does comparatively less.",
+          "So one treats the whole surface and the other treats the inside of the pore. Once that is clear, the choice is usually obvious from the problem rather than from any comparison of strengths.",
+        ],
+      },
+      {
+        h: "Glycolic acid in detail",
+        p: [
+          "Glycolic acid is the smallest of the alpha hydroxy acids, derived originally from sugar cane, with a molecular weight low enough that it penetrates faster than any of its relatives. That speed is both its advantage and its risk.",
+          "It has the deepest clinical evidence base of the AHAs, including studies on photoageing, fine lines, texture and pigmentation. At higher concentrations it stimulates collagen synthesis in the dermis, which is why it appears in professional peels as well as in home products.",
+          "Its typical home concentration is five to ten per cent for regular use, with weekly products running higher. Professional peels start around twenty and go considerably above that under supervision.",
+          "The trade-off is tolerance. Glycolic acid stings more, sensitises more readily, and is by a wide margin the acid most likely to be overused by somebody enthusiastic about their first results.",
+        ],
+      },
+      {
+        h: "Salicylic acid in detail",
+        p: [
+          "Salicylic acid is a beta hydroxy acid, structurally related to aspirin, and it inherits some of that relative's anti-inflammatory activity. That second property is easy to overlook and is a large part of why it suits inflamed acne so well.",
+          "Inside the follicle it does two things at once: it dissolves the plug of sebum and dead cells that is distending the pore, and it dampens the inflammation around it. For blackheads, closed comedones and the congested texture across a nose and chin, nothing else works quite the same way.",
+          "Concentrations run from half a per cent to two per cent over the counter, with wash-off cleansers typically at the lower end and leave-on treatments at the higher. Two per cent is stronger rather than better, and many people do well at one.",
+          "It is also useful for scalp flaking and for keratosis pilaris on the arms, both of which involve the same follicular blockage in a different location.",
+        ],
+      },
+      {
+        h: "Matching the acid to the problem",
+        p: [
+          "Blackheads, whiteheads, congested pores, oily T-zone, active spots: salicylic acid. The problem is inside the follicle and glycolic acid cannot reach it.",
+          "Dull tone, rough texture, fine lines, sun-related pigmentation, uneven surface: glycolic acid. The problem is across the surface and in the dermis beneath it, which is where glycolic acid works.",
+          "Post-acne dark marks are a genuine overlap. Glycolic acid speeds the shedding of pigmented cells; salicylic acid prevents the next spot that would produce the next mark. Both are defensible and the choice depends on whether new spots are still appearing.",
+          "Sensitive or reactive skin: probably neither at first. Lactic acid or a PHA is the gentler entry point, and mandelic acid is the reasonable choice for anybody prone to post-inflammatory pigmentation.",
+        ],
+      },
+      {
+        h: "Can you use both?",
+        p: [
+          "Yes, and most people should not, at least not initially. Two acids in one routine adds up faster than expected because each one looks mild in isolation, and the combined load is where barriers fail.",
+          "The workable version is separation by area. Salicylic acid on the congested zones — nose, chin, inner cheeks — and glycolic acid across the areas that need surface renewal, applied on different nights rather than layered.",
+          "Separation by day is the other approach: salicylic acid on Monday and Thursday, glycolic on Wednesday and Saturday, nothing active on the remaining nights. Four active nights a week is plenty for almost anybody.",
+          "What does not work is stacking them in one sitting on the theory that they treat different things. They do, and the irritation they cause is shared.",
+        ],
+      },
+      {
+        h: "Products where each one belongs",
+        p: [
+          "Salicylic acid works well in a cleanser, which is unusual for an acid. Contact time is short, but because it partitions into oil it deposits in the follicle even during a brief wash, and a salicylic cleanser is a low-risk way to manage a congested T-zone daily.",
+          "Glycolic acid in a cleanser is close to pointless. It needs contact time to work across the surface, and sixty seconds followed by a rinse achieves very little. It belongs in a leave-on toner, serum or weekly treatment.",
+          "For spot treatment, salicylic acid applied only where needed is more sensible than treating a whole face for a problem confined to one area.",
+          "For pads and swipes, note that these encourage over-application — it is easy to use one every night without registering it as an active step, and that is a common route into trouble.",
+        ],
+      },
+      {
+        h: "The pH and free acid point",
+        p: [
+          "Both acids only work in their undissociated form, which means the pH of the product determines how much of the stated percentage is actually active. A ten per cent glycolic acid at pH 4.5 is a much milder product than the same percentage at pH 3.2.",
+          "Free acid value is the number that captures this, and it is almost never printed. Without it, the percentage on the front is a rough guide rather than a specification, and products from different brands are not directly comparable.",
+          "This is why moving from one ten per cent product to another can produce a much larger jump in strength than expected, and why the sensible approach is to judge by how skin responds over two or three weeks rather than by the label.",
+          "It also explains the occasional product that stings intensely at a low percentage — the pH is doing the work, not the concentration.",
+        ],
+      },
+      {
+        h: "Frequency, and reading the warning signs",
+        p: [
+          "Start at twice weekly with either acid and increase only if skin remains comfortable for a fortnight at that frequency. Daily use is possible for some people and is not a target.",
+          "Overuse announces itself specifically: products that used to be fine begin to sting, skin looks tight and slightly shiny, redness appears in areas that were never red, and new sensitivities emerge. That is barrier damage rather than purging.",
+          "The correct response is to stop entirely for two to four weeks and run a bland routine — gentle cleanser, ceramide moisturiser, sunscreen — until skin tolerates a plain moisturiser without sensation.",
+          "Resuming at half the previous frequency is the sensible restart, and most people find that half the frequency produces the same visible results with none of the trouble.",
+        ],
+      },
+      {
+        h: "Sun protection, which is not optional here",
+        p: [
+          "Glycolic acid increases ultraviolet sensitivity measurably — a commonly cited figure is around an eighteen per cent rise in sunburn susceptibility after four weeks of use, persisting for roughly a week after stopping. Salicylic acid has a smaller effect but is not neutral.",
+          "This matters most for anybody using acids on pigmentation, because unprotected exposure will darken the marks faster than the acid fades them. That is the specific way acid routines fail on melasma and post-acne marks.",
+          "Daily sunscreen therefore moves from advisable to structural. The acid and the sunscreen are one intervention rather than two, and using the first without the second is a reliable way to make skin worse while working hard on it.",
+          "It also argues for applying acids at night, which removes the immediate post-application exposure and is what most routines settle into anyway.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'vitamin-c-serums-guide',
+    sections: [
+      {
+        h: "What an antioxidant actually does",
+        p: [
+          "Ultraviolet light does two kinds of damage. It hits DNA directly, producing lesions the cell must repair, and it generates reactive oxygen species — unstable molecules that go on to damage lipids, proteins and DNA indirectly. Sunscreen reduces the dose arriving; antioxidants address the second kind of damage from the dose that gets through.",
+          "Reactive oxygen species are not exotic. They are produced continuously by ordinary metabolism, and skin maintains its own antioxidant network to handle them — vitamin C, vitamin E, glutathione and several enzymes, working as an interlocking system rather than in isolation.",
+          "Ultraviolet exposure depletes that network. Measurements after sun exposure show substantially reduced vitamin C levels in the skin, which is the specific gap a topical serum is intended to fill.",
+          "This framing matters because it sets expectations correctly. An antioxidant is supplementing a defensive system that already exists, not adding a capability the skin lacked.",
+        ],
+      },
+      {
+        h: "The jobs vitamin C does beyond brightening",
+        p: [
+          "Its role in collagen synthesis is the least discussed and the most fundamental. Vitamin C is an obligatory cofactor for prolyl and lysyl hydroxylase, the enzymes that stabilise the collagen triple helix. Without it, collagen cannot be properly formed — this is the mechanism behind scurvy.",
+          "That is a requirement rather than a boost, and it is met by adequate dietary intake for most people. Whether topical application meaningfully increases dermal collagen synthesis in already well-nourished skin is a more open question than the marketing suggests.",
+          "The photoprotective role is better supported. Applied before exposure, vitamin C reduces the erythema and the markers of oxidative damage that follow ultraviolet, and it does so additively with sunscreen rather than instead of it.",
+          "The pigmentation effect — tyrosinase inhibition — is the one people buy it for and arguably the weakest of the three. It works, it is mild, and it takes months.",
+        ],
+      },
+      {
+        h: "Why the bottle stops working",
+        p: [
+          "L-ascorbic acid oxidises. Exposure to oxygen, light, heat and dissolved metal ions all accelerate it, and the reaction produces dehydroascorbic acid and then further breakdown products with little or no benefit.",
+          "The visible signal is colour. Fresh serum is clear to pale straw; as it oxidises it moves through yellow to orange to brown. Deep amber means the active is largely gone, and the remaining liquid is doing very little.",
+          "Some oxidation products may themselves be mildly irritating, which is why an old serum can start stinging on skin that tolerated it perfectly well two months earlier.",
+          "None of this is a manufacturing defect. It is the fundamental chemistry of the molecule, and every formulation decision around it — opaque packaging, airless pumps, chelators, anhydrous bases — exists to slow a reaction that cannot be prevented.",
+        ],
+      },
+      {
+        h: "The clock starts before you buy it",
+        p: [
+          "A serum has already spent time in a warehouse, on a lorry and on a shelf before it reaches you, and in most of those places nobody was controlling for temperature. A bottle bought from a shop window in August has had a harder life than the same bottle bought in a climate-controlled pharmacy.",
+          "This is one reason to prefer retailers with high turnover and to be cautious with heavily discounted stock, which is sometimes discounted because it has been sitting.",
+          "It is also an argument for products in opaque or airless packaging over clear dropper bottles, since the protection matters most during the part of the product's life you have no control over.",
+          "Batch codes exist and can often be decoded through online tools, which is more effort than most people will make and is available to anyone who wants to check.",
+        ],
+      },
+      {
+        h: "Storage habits that actually extend it",
+        p: [
+          "The bathroom is the worst room in the house for this product. Repeated cycles of heat and humidity from showers accelerate degradation considerably, and the cabinet nearest the shower is where most serums die.",
+          "A bedroom drawer is better. A refrigerator is better still and is worth doing for anything expensive — the reaction rate roughly halves for every ten degrees of cooling, so refrigeration meaningfully extends useful life.",
+          "Close the bottle immediately rather than leaving it open during the rest of the routine. With a dropper, avoid drawing air in and out repeatedly, which is exactly what using a dropper does and is the argument against that format.",
+          "Buy small. Thirty millilitres used daily lasts about two months, which is close to how long a well-formulated serum stays meaningfully active after opening. A large economical bottle is not economical if half of it oxidises.",
+        ],
+      },
+      {
+        h: "Formulation choices that buy stability",
+        p: [
+          "Ferulic acid stabilises L-ascorbic acid and increases its photoprotective effect, which is why the fifteen per cent ascorbic acid with vitamin E and ferulic acid combination has been cloned so widely. It is one of the few ingredient trios in cosmetic skincare with published support behind it.",
+          "Chelating agents such as EDTA bind trace metal ions that would otherwise catalyse oxidation. Their presence on an ingredient list is a small signal that the formulator was thinking about stability.",
+          "Anhydrous formulations — vitamin C suspended in silicone or oil rather than dissolved in water — sidestep the problem almost entirely, since the oxidation reaction needs water. They feel different and they last far longer.",
+          "Derivatives are the other route. Magnesium ascorbyl phosphate, sodium ascorbyl phosphate and tetrahexyldecyl ascorbate are all considerably more stable than L-ascorbic acid, at the cost of requiring conversion in the skin at efficiencies that are not well quantified.",
+        ],
+      },
+      {
+        h: "Should you use an oxidised serum?",
+        p: [
+          "It will not harm you in any serious sense, but it is not doing what you bought it for, and there are two specific reasons to stop using it rather than finishing the bottle.",
+          "The first is that oxidation products can irritate, and a serum that has turned is a plausible cause of stinging that gets blamed on the skin becoming sensitive.",
+          "The second is that dark oxidised serum can temporarily stain skin and, more visibly, light fabric and pillowcases. This is cosmetic and it is annoying.",
+          "Slight yellowing is tolerable — many good serums develop a straw tint within weeks and remain effective. Orange or brown is the point at which the bottle has finished its useful life regardless of how much liquid remains in it.",
+        ],
+      },
+      {
+        h: "Getting the timing right",
+        p: [
+          "Morning application makes the most sense, because the primary benefit is supplementing photoprotection and antioxidant defence is most useful in place before the exposure rather than twelve hours after it.",
+          "Apply it to clean skin, before moisturiser and well before sunscreen, and give it a couple of minutes to settle. The old advice to wait twenty or thirty minutes is overstated; a short pause is sufficient.",
+          "It absorbs best on skin that is neither dripping nor completely arid, and low-pH formulations sting more on damp skin, which is worth knowing if the first fortnight is uncomfortable.",
+          "Consistency beats intensity here as everywhere. A gentle derivative used every morning for a year outperforms a twenty per cent L-ascorbic acid serum used for three weeks and then abandoned in a drawer.",
+        ],
+      },
+      {
+        h: "What to expect, and over what period",
+        p: [
+          "Nothing visible in the first month. The photoprotective and antioxidant benefits are preventive and produce no observable change — they are reducing damage that would otherwise have accumulated, which is invisible by definition.",
+          "Pigmentation responds over eight to twelve weeks of daily use, and the change is gradual enough that it is far easier to see in a photograph taken at the start than in the mirror at any point.",
+          "Texture and overall tone often improve somewhat earlier, though a portion of that is attributable to the hydration and the sunscreen habit that usually accompanies starting a serious routine.",
+          "If nothing has changed after four months of consistent use with a product that is still pale, the honest answer is that this ingredient may be doing preventive work you cannot see rather than corrective work you can. That is a reasonable thing to keep paying for, provided the expectation is set correctly.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'peptides-in-skincare',
+    sections: [
+      {
+        h: "What a peptide actually is",
+        p: [
+          "A peptide is a short chain of amino acids — the same building blocks that make proteins, joined by the same bonds, but far shorter. Proteins run to hundreds or thousands of amino acids; the peptides used in skincare are typically between two and ten.",
+          "That length is not incidental. Collagen is a protein far too large to penetrate skin, but fragments of collagen are small enough to get somewhere, and the entire premise of peptide skincare rests on that difference.",
+          "The biological logic is that fragments of a protein can act as signals. When collagen breaks down, specific fragments are released, and the theory is that fibroblasts read those fragments as evidence of damage and respond by synthesising more collagen.",
+          "Applying such fragments topically would then amount to sending a repair signal without the damage. That is a genuinely elegant idea, and how well it works in practice is the whole question.",
+        ],
+      },
+      {
+        h: "The four families you will encounter",
+        p: [
+          "Signal peptides are the largest group and include the palmitoyl pentapeptides marketed as Matrixyl. They are intended to stimulate collagen, elastin and glycosaminoglycan production by acting as the fragments described above.",
+          "Carrier peptides deliver trace elements to the skin, most commonly copper. Copper tripeptide-1 has been studied for wound healing and has a longer research history than most ingredients in this category.",
+          "Neurotransmitter-inhibiting peptides — acetyl hexapeptide-8, sold as Argireline, is the best known — are intended to interfere with the signalling that causes muscle contraction, on a mechanism loosely analogous to botulinum toxin.",
+          "Enzyme-inhibiting peptides work by blocking the matrix metalloproteinases that break collagen down, which is a preventive rather than a constructive mechanism and is arguably the most plausible of the four.",
+        ],
+      },
+      {
+        h: "The penetration problem",
+        p: [
+          "Peptides are still fairly large by the standards of topical delivery, and they are hydrophilic, which the lipid-rich stratum corneum is specifically designed to exclude. Getting them past the outer layer in useful quantity is not straightforward.",
+          "Formulators address this by attaching a fatty acid chain — the palmitoyl prefix on so many peptide names — which makes the molecule more lipophilic and improves penetration. This is a genuine technical solution rather than a marketing flourish.",
+          "Even so, the quantity reaching the dermis where fibroblasts live is uncertain and rarely quantified in the materials that accompany a product. Most published penetration data comes from the ingredient supplier.",
+          "This is the central weakness of the category. The mechanism is plausible, the delivery is difficult, and the step between the two is where most of the uncertainty sits.",
+        ],
+      },
+      {
+        h: "What the evidence actually shows",
+        p: [
+          "For copper peptides in wound healing, the evidence is reasonable and predates the cosmetic interest. For cosmetic anti-ageing outcomes it is thinner, and the studies are mostly small.",
+          "For Matrixyl and similar signal peptides, several studies report measurable improvements in wrinkle depth and skin firmness. Almost all of them are small, short, and conducted or funded by the companies that sell the ingredient, which is not disqualifying and is worth knowing.",
+          "For Argireline, the studies report reductions in wrinkle depth of the order of twenty to thirty per cent in some measures. Independent replication is limited, and the comparison to injectable botulinum toxin that appears in marketing is not supported by anything in the data.",
+          "The honest overall summary: peptides probably do something, the effect is modest, the evidence is weaker than for retinoids or sunscreen by a wide margin, and the field has a funding problem it has not resolved.",
+        ],
+      },
+      {
+        h: "Where the hype outruns the proof",
+        p: [
+          "Botox in a bottle is the claim that most clearly exceeds the evidence. Injectable botulinum toxin is placed directly into muscle and blocks neuromuscular transmission; a topical peptide applied to the skin surface faces the entire barrier before reaching anything relevant.",
+          "Proprietary complexes with trademarked names and no published data are the second category to treat sceptically. A name is not a mechanism, and a complex that has never been described in a journal is being sold on branding.",
+          "Percentage claims are frequently meaningless here, because many peptide ingredients are supplied as dilute solutions. Five per cent of a supplier's blend that is itself mostly water and glycerin is not five per cent peptide.",
+          "And the position on the ingredient list matters as much as anywhere. Peptides appearing after the preservative are present at trace level, which describes a substantial fraction of the products sold on them.",
+        ],
+      },
+      {
+        h: "Where peptides are genuinely useful",
+        p: [
+          "They are extremely well tolerated. Unlike retinoids and acids, peptides essentially do not irritate, do not increase sun sensitivity, and can be used morning and evening without a tolerance-building period.",
+          "That makes them a reasonable option for people who cannot use the better-evidenced actives — during pregnancy, on rosacea-prone skin, during a barrier recovery period, or for anybody who has tried retinoids repeatedly and cannot tolerate them.",
+          "They also combine freely with almost everything, which cannot be said of most actives. There is no meaningful conflict between peptides and niacinamide, hyaluronic acid, ceramides or sunscreen.",
+          "And in a moisturiser, where the base formulation is doing useful work regardless, a peptide inclusion costs nothing. If the cream would be good anyway, the peptides are a free option rather than a premium worth paying.",
+        ],
+      },
+      {
+        h: "The old copper peptide controversy",
+        p: [
+          "For years the advice circulated that copper peptides and vitamin C must never be used together, on the reasoning that ascorbic acid would reduce the copper and destabilise both.",
+          "The underlying chemistry is not imaginary — copper ions do catalyse the oxidation of ascorbic acid — but the concern is largely theoretical in well-formulated products at the concentrations used, and the practical evidence for harm is thin.",
+          "The straightforward resolution is separation by time of day, which most routines do anyway: vitamin C in the morning, peptides at night. This costs nothing and sidesteps the question entirely.",
+          "It is a useful example of how a plausible mechanism can generate a rule that outlives the evidence for it, which happens frequently in this field and is worth being alert to.",
+        ],
+      },
+      {
+        h: "A sensible position on the category",
+        p: [
+          "Do not build a routine around peptides. The ingredients with strong evidence — sunscreen, retinoids, and for pigmentation the tyrosinase inhibitors — should be established first, because the gap in evidence quality between those and peptides is large.",
+          "Do not pay a premium for them. A well-formulated moisturiser containing peptides is a reasonable purchase; a peptide serum at four times the price of a good moisturiser is buying a story.",
+          "Do consider them if the better options are unavailable to you, whether through pregnancy, intolerance or a barrier that cannot currently take an active. In that situation a peptide product is a genuinely reasonable thing to be using.",
+          "And judge results over months rather than weeks, with a photograph taken at the start, because the effect if present is modest enough that memory is not a reliable instrument for detecting it.",
+        ],
+      },
+      {
+        h: "Reading a peptide label",
+        p: [
+          "Look for named peptides rather than complexes. Palmitoyl pentapeptide-4, palmitoyl tripeptide-1, acetyl hexapeptide-8 and copper tripeptide-1 are specific molecules with literature attached. A trademarked complex may contain any of these or none.",
+          "Check the position. Above the preservative means present at some concentration; below it means trace. This single check disqualifies a surprising number of products marketed primarily on their peptide content.",
+          "Prefer products where the peptides sit alongside ingredients that are doing reliable work anyway — glycerin, ceramides, niacinamide — so that the product is worth using even if the peptides contribute nothing.",
+          "And treat elaborate mechanism explanations on packaging with the same scepticism as elsewhere. The mechanism is not in dispute; whether enough of the molecule arrives to act on it is, and no amount of diagram addresses that.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'benzoyl-peroxide-explained',
+    sections: [
+      {
+        h: "How it kills bacteria without breeding resistance",
+        p: [
+          "Benzoyl peroxide works by releasing free radical oxygen into the follicle. That oxygen oxidises bacterial proteins indiscriminately, which kills Cutibacterium acnes — an organism that prefers a low-oxygen environment and finds a blocked pore congenial.",
+          "The indiscriminate part is the important part. Antibiotics work by interfering with a specific bacterial process, and bacteria can evolve around a specific process. There is no known mechanism by which an organism develops resistance to being oxidised.",
+          "This is why benzoyl peroxide remains a first-line acne treatment after decades of use while topical antibiotics have become progressively less effective. Antibiotic resistance in acne is a genuine and documented problem; benzoyl peroxide resistance is not.",
+          "It is also why dermatologists routinely prescribe it alongside a topical antibiotic rather than instead of one — the combination substantially reduces the rate at which resistance develops.",
+        ],
+      },
+      {
+        h: "It is not only antibacterial",
+        p: [
+          "Benzoyl peroxide is also mildly comedolytic, meaning it helps normalise the abnormal shedding inside the follicle that produces the plug in the first place. This is a secondary effect and it is not nothing.",
+          "It has some keratolytic action on the surface as well, which contributes to the drying and occasional peeling that accompany it.",
+          "What it does not do is reduce sebum production, which is why it works on inflammatory spots and does relatively little for the underlying oiliness that produced them. That distinction sets expectations correctly.",
+          "It also does nothing for the marks left behind. Post-inflammatory pigmentation needs separate treatment, and benzoyl peroxide can make the surrounding skin more irritated and therefore more prone to marking if overused.",
+        ],
+      },
+      {
+        h: "Why 2.5 per cent is usually the right choice",
+        p: [
+          "Comparative studies have found 2.5 per cent, 5 per cent and 10 per cent benzoyl peroxide to be roughly equally effective against acne lesions. What differs substantially is the rate of dryness, peeling, redness and irritation, which rises with concentration.",
+          "The conclusion follows directly: 2.5 per cent gives you the benefit with the least cost, and it is where anybody starting should start. The ten per cent products that dominate supermarket shelves are stronger without being more effective.",
+          "There is a partial exception for body acne, where the skin is thicker and more tolerant, and where a higher concentration in a wash may be reasonable.",
+          "For the face, moving up a concentration because results feel slow is almost always the wrong response. Time on treatment matters more than strength, and eight to twelve weeks is the realistic window.",
+        ],
+      },
+      {
+        h: "The short-contact method",
+        p: [
+          "For skin that cannot tolerate benzoyl peroxide as a leave-on treatment, short-contact therapy is a genuinely useful alternative. The product is applied, left for five to ten minutes, and then washed off.",
+          "The rationale is that the antibacterial effect happens quickly, while much of the irritation comes from prolonged contact. Studies support the approach as a reasonable compromise, particularly for sensitive or dry skin.",
+          "A wash formulation is the simplest version of the same idea. Applied in the shower, left for a minute or two, and rinsed — this suits body acne especially well and is far more practical over a back or chest than a cream.",
+          "Contact time can then be extended gradually if tolerated, working up to leave-on use over several weeks. Many people find they never need to.",
+        ],
+      },
+      {
+        h: "The bleaching problem, which is real",
+        p: [
+          "Benzoyl peroxide is an oxidising agent and it bleaches fabric. Towels, pillowcases, flannels, collars and coloured clothing are all vulnerable, and the damage is permanent rather than a stain that washes out.",
+          "The practical answer is white cotton for anything the treated skin will touch. A white pillowcase and white towels solve the problem entirely and cost less than replacing a sheet set.",
+          "Wash hands thoroughly after applying, because the transfer to a dark shirt happens through fingers more often than through the face.",
+          "It also bleaches hair, which matters for anybody treating acne along the hairline, on the beard area or on the back.",
+        ],
+      },
+      {
+        h: "Combining it, and what it destroys",
+        p: [
+          "Benzoyl peroxide oxidises other ingredients as readily as it oxidises bacteria. Applied at the same time as L-ascorbic acid it degrades the vitamin C and wastes both — separate them by time of day.",
+          "The classic warning against combining it with tretinoin dates from older formulations where the retinoid was genuinely degraded. Adapalene is stable in the presence of benzoyl peroxide, and fixed combination products containing both are widely prescribed and highly effective.",
+          "For tretinoin specifically, the conventional advice remains to use benzoyl peroxide in the morning and tretinoin at night, which sidesteps the question without sacrificing either.",
+          "Stacking it with strong exfoliating acids is a lot of drying, oxidising activity for one face, and the barrier damage that follows will make the acne harder to treat rather than easier.",
+        ],
+      },
+      {
+        h: "Using it without wrecking your skin",
+        p: [
+          "Start with a pea-sized amount for the whole affected area, every other night, at 2.5 per cent. Applying more does not work faster and is the single most common mistake.",
+          "Apply to the whole area rather than spot-treating. Acne forms in microcomedones that are invisible weeks before a spot appears, so treating only what you can see is treating yesterday's problem.",
+          "Moisturise, generously and consistently. Benzoyl peroxide is drying by mechanism, and a good moisturiser is not optional support — it is what makes continued use possible.",
+          "Expect eight to twelve weeks before judging. Some worsening in the first fortnight is common as existing microcomedones surface, and stopping during that window is why many people conclude it did not work for them.",
+        ],
+      },
+      {
+        h: "When it is the wrong choice",
+        p: [
+          "For purely comedonal acne — blackheads and closed comedones with no inflammation — a retinoid or salicylic acid addresses the mechanism more directly. Benzoyl peroxide is aimed at bacteria, and bacteria are not the main problem in that presentation.",
+          "For fungal acne, which is malassezia folliculitis rather than acne at all, it may help somewhat through its general antimicrobial action but is not the appropriate treatment. Uniform itchy bumps on the forehead, chest and back that do not respond to acne treatment are worth investigating separately.",
+          "For rosacea papules, which look like acne to most people, benzoyl peroxide is frequently too irritating and azelaic acid or ivermectin are the better-evidenced options.",
+          "And for moderate to severe acne, particularly anything nodular or scarring, this is a prescription conversation rather than a shelf one. Effective treatment exists and delaying it costs permanent scarring.",
+        ],
+      },
+      {
+        h: "Allergy, and the warning worth knowing",
+        p: [
+          "Ordinary dryness, mild peeling and some redness in the first weeks are expected and manageable. Allergic contact dermatitis to benzoyl peroxide is less common but well documented, and it presents as marked redness, swelling, itching and sometimes small blisters across the treated area.",
+          "That is a reason to stop rather than to persist, and it does not improve with continued exposure the way irritation often does.",
+          "There is also a rare but serious hypersensitivity reaction — throat tightness, difficulty breathing, faintness, or swelling of the face, lips or eyes — that regulators have specifically warned about. It requires immediate medical attention and permanent discontinuation.",
+          "This is rare enough that it should not deter anybody from using the product, and specific enough that it is worth recognising rather than mistaking for ordinary irritation.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'squalane-lightweight-oil',
+    sections: [
+      {
+        h: "Squalene and squalane are not the same word",
+        p: [
+          "The distinction is one letter and it matters considerably. Squalene, with an e, is a hydrocarbon the human body produces naturally — it is a precursor in cholesterol synthesis and a significant component of human sebum, making up something in the region of ten to twelve per cent of it.",
+          "Squalane, with an a, is squalene that has been hydrogenated. The double bonds in the molecule have been saturated, which removes the sites where oxidation would otherwise occur.",
+          "That single change transforms it from a cosmetically difficult ingredient into an excellent one. Squalene oxidises rapidly, goes rancid, and the oxidation products are implicated in the inflammatory cascade of acne. Squalane is stable for years.",
+          "So when a product lists squalane, it is listing the stabilised version, and that is the one you want. Squalene appearing on a label would be a formulation choice worth questioning.",
+        ],
+      },
+      {
+        h: "Where it comes from",
+        p: [
+          "Historically, shark liver oil. Deep-sea sharks store large quantities of squalene in their livers for buoyancy, and the cosmetic industry was for decades a significant driver of a fishery with serious conservation consequences.",
+          "Olive-derived squalane is the most common plant alternative and has been for some time. It is chemically identical to the shark-derived material once hydrogenated, since the molecule is the molecule regardless of origin.",
+          "Sugarcane-derived squalane, produced by fermentation, is now widely used and is generally the most consistent and highest-purity source available. It also avoids the variability that comes with an agricultural feedstock.",
+          "Since the finished molecules are identical, the choice is entirely ethical and environmental rather than functional. Most reputable brands now specify their source, and one that does not is worth asking about.",
+        ],
+      },
+      {
+        h: "Why oily skin usually tolerates it",
+        p: [
+          "The common experience is that oily and acne-prone skin reacts badly to facial oils, and squalane is the frequent exception. Several properties explain that.",
+          "It is a saturated hydrocarbon rather than a triglyceride, so it does not contain the fatty acids that feed Malassezia yeast — the organism responsible for fungal acne, which is why so many plant oils make that condition worse.",
+          "It rates at zero or one on the comedogenicity scale in most assessments, and while that scale has real methodological problems, squalane's real-world record is consistent with the rating.",
+          "And it is already present in sebum, which means the skin encounters nothing unfamiliar. It absorbs quickly, leaves a dry rather than greasy finish, and does not sit on the surface the way heavier oils do.",
+        ],
+      },
+      {
+        h: "What it actually does",
+        p: [
+          "It is an emollient first. Emollients fill the spaces between corneocytes at the surface, which is what produces the immediate smoothness and softness people notice within seconds of applying it.",
+          "It is a light occlusive second. It reduces transepidermal water loss meaningfully, though less than petrolatum, which is what makes it suitable as a final step for people who cannot tolerate heavier products.",
+          "It is not a humectant. It does not attract water and does not hydrate in the sense that glycerin or hyaluronic acid do — it retains water that is already there, which is a different job.",
+          "This is why the most effective use is over a humectant rather than instead of one. Damp skin, a hyaluronic acid or glycerin serum, then squalane to hold it, is a complete three-part routine in two products.",
+        ],
+      },
+      {
+        h: "Where it fits in the routine",
+        p: [
+          "As the final step at night, over moisturiser, for anybody whose skin needs sealing but cannot tolerate a balm or petrolatum. A few drops pressed in rather than rubbed.",
+          "Mixed into a moisturiser to increase its richness without changing product, which is a cheap way to adapt a summer cream for winter.",
+          "Under makeup in small quantity, where it improves how foundation sits on dry patches. More than a few drops will cause makeup to slide.",
+          "And as a buffer for retinoids. Applying squalane before a retinoid reduces irritation noticeably at a modest cost in penetration, and it is one of the more useful tricks available during the first months of retinoid use.",
+        ],
+      },
+      {
+        h: "How much to use",
+        p: [
+          "Two to four drops for a whole face is the working quantity, and most people start with considerably more than that. Squalane spreads far better than people expect and excess simply sits on the surface feeling greasy.",
+          "Warm it briefly between the palms and press into the skin rather than rubbing. Pressing distributes it without dragging whatever is underneath.",
+          "Applied to slightly damp skin it performs better, since there is water present for it to retain. Applied to bone-dry skin it softens the surface without sealing anything in particular.",
+          "If skin feels greasy an hour later, the answer is fewer drops rather than a different product. This is the single most common reason people conclude squalane does not suit them.",
+        ],
+      },
+      {
+        h: "The body, hair and everything else",
+        p: [
+          "Squalane works well on the body and is considerably cheaper per use than most body oils, particularly on shins, elbows and anywhere that stays dry through winter. Applied to damp skin after a shower it performs at its best.",
+          "On hair, a very small quantity smooths the ends and reduces frizz without the weight of heavier oils. This is a two-drop application, not a treatment.",
+          "On cuticles and lips it is a reasonable emollient, though a genuine occlusive works better on lips where the barrier is thin and water loss is high.",
+          "It is also stable enough to be worth buying in a larger bottle, which is unusual among cosmetic oils and makes the per-use cost low.",
+        ],
+      },
+      {
+        h: "Who should be cautious",
+        p: [
+          "Anybody with a specific allergy to the source material, though this is rare and the hydrogenated molecule is highly purified.",
+          "Anybody whose skin problem is water loss rather than lipid deficiency. Squalane retains water; it does not supply it, and skin that is dehydrated rather than dry needs a humectant first and will not be fixed by an oil.",
+          "Anybody expecting it to treat something. Squalane is an excellent emollient and it is not an active — it does nothing for pigmentation, acne, wrinkles or redness beyond the general benefit of a comfortable barrier.",
+          "And anybody applying it under a strong active hoping to reduce irritation should know they are also reducing penetration. That is often a good trade and it is a trade.",
+        ],
+      },
+      {
+        h: "Why it is worth having",
+        p: [
+          "It is one of the few ingredients in skincare that is simultaneously cheap, stable, well tolerated by nearly everybody, and genuinely useful. There is no premium version worth buying, because the molecule is the molecule.",
+          "A hundred per cent squalane from a reputable source at pharmacy prices performs identically to the same thing in expensive packaging, and the ingredient list on the cheap one is usually a single line.",
+          "It is the most reasonable first oil for anybody who has avoided oils entirely, and the most reasonable last step for anybody who finds creams insufficient and balms intolerable.",
+          "It will not transform anything. It makes skin comfortable, holds water in, buffers actives that would otherwise sting, and does all of that without causing problems — which, for a supporting ingredient, is the whole job.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'salicylic-vs-glycolic-acid',
+    sections: [
+      {
+        h: "A note on aspirin allergy and pregnancy",
+        p: [
+          "Salicylic acid is chemically related to aspirin, and anybody with a genuine salicylate allergy should avoid it topically as well as orally. This is uncommon and it is worth knowing about rather than discovering.",
+          "In pregnancy, topical salicylic acid at the low concentrations found in over-the-counter cleansers and toners is generally regarded as acceptable, while high-concentration peels and oral salicylates are not. Guidance varies and the decision belongs with a midwife or doctor rather than an article.",
+          "Glycolic acid has no equivalent systemic concern and is usually considered compatible with pregnancy, which makes it the safer default of the two in that situation if an exfoliant is wanted at all.",
+          "For anybody unsure, azelaic acid is worth knowing about as an alternative that is effective for both congestion and pigmentation and is one of the few actives generally regarded as compatible with pregnancy.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'vitamin-c-serums-guide',
+    sections: [
+      {
+        h: "Diet, and where the vitamin C in your skin comes from",
+        p: [
+          "Skin obtains most of its vitamin C from the bloodstream, delivered from the diet, and healthy skin maintains concentrations considerably higher than blood plasma through active transport. This is the primary supply route, and topical application is a supplement to it rather than a replacement.",
+          "The relevant consequence is that somebody with genuinely inadequate dietary vitamin C has a problem no serum resolves, and somebody eating adequately has a system already operating close to saturation.",
+          "Where topical application earns its place is that oral intake plateaus. Beyond a certain daily dose, absorption is limited and excess is excreted, so raising skin levels further through diet is not straightforward. A topical route bypasses that ceiling for the skin specifically.",
+          "That is a narrow but real advantage, and it is the strongest argument for the category once dietary intake is adequate — which for most people it already is.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'peptides-in-skincare',
+    sections: [
+      {
+        h: "How the category compares on evidence",
+        p: [
+          "A rough hierarchy is useful here. Sunscreen sits at the top, with decades of evidence for preventing photoageing, pigmentation and cancer. Retinoids come next, with biopsy-confirmed collagen synthesis and a very large literature.",
+          "Below those sit the well-studied specifics: azelaic acid for redness and pigmentation, niacinamide for barrier function and tone, alpha hydroxy acids for texture, vitamin C for antioxidant support. Each has independent research and a defined mechanism.",
+          "Peptides sit below that group. The mechanisms are plausible, the studies exist, and the studies are mostly small and mostly funded by ingredient suppliers. That is not the same as no evidence and it is not the same as good evidence.",
+          "Below peptides sit stem cell extracts, growth factors in cosmetic products, and most proprietary complexes, where the evidence thins to almost nothing. Knowing roughly where a category sits on that ladder is more useful than any individual product review.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'benzoyl-peroxide-explained',
+    sections: [
+      {
+        h: "The purging question",
+        p: [
+          "Skin frequently looks worse in the first two to four weeks of benzoyl peroxide, and this is the point at which most people abandon it. Understanding what is happening makes it easier to continue.",
+          "Acne begins as a microcomedone — a blockage forming in the follicle weeks before anything is visible on the surface. At any moment the face carries a large number of these in various stages. A treatment that accelerates their resolution brings them to the surface sooner than they would have arrived on their own.",
+          "So the initial worsening is existing acne arriving early rather than new acne being caused. It appears in the places you normally break out, consists of the kind of spots you normally get, and settles within about six weeks.",
+          "What is not purging: itching, burning, a rash, spots in places you never break out, or a reaction that continues worsening past six weeks. That is irritation or allergy, and it is a reason to stop rather than to persist.",
+        ],
+      },
+      {
+        h: "Body acne, where it is at its best",
+        p: [
+          "Benzoyl peroxide is arguably more useful on the back, chest and shoulders than on the face, because the skin there is thicker, more tolerant of higher concentrations, and harder to treat with anything requiring careful application.",
+          "A wash formulation is the practical answer. Applied in the shower, left for a minute or two while you do something else, and rinsed. That is achievable daily over a large area in a way that a cream is not.",
+          "The bleaching caution applies with particular force here, since towels and bedding contact these areas directly. White cotton solves it.",
+          "And the same time frame applies: eight to twelve weeks, applied to the whole affected area rather than to individual spots, before judging whether it has worked.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'squalane-lightweight-oil',
+    sections: [
+      {
+        h: "The comedogenicity scale, and why it is weaker than it looks",
+        p: [
+          "Squalane is usually cited as rating zero or one on the comedogenicity scale, and that rating is worth understanding rather than trusting blindly. The scale derives largely from mid-twentieth-century testing on rabbit ear skin, which is dramatically more reactive than human facial skin.",
+          "Ingredients were applied neat, at full concentration, which bears no relationship to how they appear in a finished formulation. Coconut oil rates highly and causes problems for many people; several ingredients rated as problematic behave perfectly well at the two per cent they actually appear at.",
+          "So the number is a rough historical signal rather than a measurement of what a product will do to your face. It is most useful at the extremes and close to meaningless in the middle.",
+          "Squalane's good reputation rests less on the rating than on its actual record: it is used widely by people with acne-prone skin and complaints are uncommon, which is a more informative dataset than the rabbit ears.",
+        ],
+      },
+      {
+        h: "Fungal acne, and the fatty acid point",
+        p: [
+          "Malassezia folliculitis — commonly called fungal acne — presents as uniform small itchy bumps, typically on the forehead, chest, upper back and shoulders, and it does not respond to acne treatment because it is not acne.",
+          "The yeast responsible metabolises fatty acids of certain chain lengths, which means most plant oils and many esters feed it directly. This is why people with the condition find that a routine full of nourishing oils makes everything worse.",
+          "Squalane is a saturated hydrocarbon with no fatty acid component at all, which means the yeast cannot use it. It is one of the very few emollients considered safe in this situation and appears on essentially every list compiled for it.",
+          "That is a narrow but genuinely valuable property, and it is the reason squalane has a following among people who have systematically eliminated everything else from their routines.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'salicylic-vs-glycolic-acid',
+    sections: [
+      {
+        h: "If you can only pick one",
+        p: [
+          "For most people under thirty with visible pores and occasional breakouts, salicylic acid is the more useful single choice, because the dominant problem is follicular and salicylic acid is the only one of the two that reaches it.",
+          "For most people over forty with dullness, uneven tone and surface roughness, glycolic acid is the more useful single choice, because the dominant problem is surface renewal and dermal support.",
+          "Neither of those is a rule, and the honest guide is the problem rather than the age. Look at what is actually bothering you: if it is inside the pore, choose salicylic; if it is across the surface, choose glycolic.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'peptides-in-skincare',
+    sections: [
+      {
+        h: "The one-paragraph verdict",
+        p: [
+          "Peptides are not a scam and they are not a breakthrough. They are a plausible mechanism with modest, mostly industry-funded evidence, delivered through a barrier that was designed to keep molecules like them out.",
+          "They are exceptionally well tolerated, which is their strongest practical argument. For anybody who cannot use retinoids — during pregnancy, on reactive skin, during barrier recovery — a peptide product is a reasonable thing to be using rather than nothing.",
+          "For everybody else, they belong after sunscreen and a retinoid rather than instead of either, and they are worth having in a moisturiser rather than paying a premium for in a serum.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'squalane-lightweight-oil',
+    sections: [
+      {
+        h: "How to buy it",
+        p: [
+          "Look for a single-ingredient product. Good squalane has an ingredient list one line long, and anything longer is a squalane-containing oil blend, which may be fine and is a different product at a different price.",
+          "Check the source is stated — sugarcane or olive rather than unspecified — since an unstated source in a category with a shark-derived history is worth asking about.",
+          "Ignore packaging and price tier. The molecule is identical across every product that contains it, so pharmacy squalane performs exactly as luxury squalane does, and there is no formulation cleverness to pay for.",
+          "Buy a reasonable size. It is stable for years, it is used two to four drops at a time, and a small bottle will last considerably longer than the enthusiasm that prompted buying it.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
