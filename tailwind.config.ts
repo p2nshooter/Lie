@@ -1,14 +1,15 @@
 import type { Config } from 'tailwindcss';
 
-// lie.skin — skincare theme: soft plum ink, blush paper, rose-gold accent.
+// lie.skin — 'Pearl basins & rosewater': iridescent pearl, rose and silver
+// (docs/ADSENSE-BLUEPRINT.md §4 in ulyah.com). Unique to this site.
 const config: Config = {
   content: ['./src/**/*.{ts,tsx}'],
   theme: {
     extend: {
       colors: {
-        ink: { 950: '#2a151f', 900: '#3a2230', 800: '#4d2f3f', 700: '#664154' },
-        ivory: { 50: '#fbf6f4', 100: '#f5e9e6', 200: '#ecd6d2' },
-        gold: { 300: '#e8a9b8', 400: '#d88a9c', 500: '#c9748a', 600: '#a85870' }
+        ink: { 950: '#21141b', 900: '#2f1f29', 800: '#45303c', 700: '#5d4452' },
+        ivory: { 50: '#fdf9f9', 100: '#f6edf0', 200: '#eadde3' },
+        gold: { 300: '#f4bccb', 400: '#e69aae', 500: '#cf7891', 600: '#a2566d' }
       },
       fontFamily: {
         serif: ['var(--font-serif)', 'Georgia', 'serif'],
