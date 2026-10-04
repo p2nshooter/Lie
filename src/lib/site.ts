@@ -11,6 +11,6 @@ export const SITE = {
   locale: 'en',
   heroLead: 'Skincare,',
   heroAccent: 'evidence-first',
-  adClient: 'ca-pub-9666205248809954',
+  adClient: 'ca-pub-5693981744147503',
   analyticsEndpoint: 'https://api.ulyah.com/track',
 } as const;
