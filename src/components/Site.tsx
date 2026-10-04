@@ -40,10 +40,11 @@ export function SiteHeader() {
       </div>
 
       {/* Masthead */}
-      <div className="relative overflow-hidden border-b border-[color:var(--accent-soft)] bg-ivory-50">
+      <div className="pearl-basin relative overflow-hidden">
         <div className="mk-orb" style={{ width: 280, height: 280, right: -90, top: -130, background: 'var(--accent)' }} />
         <div className="relative mx-auto flex max-w-6xl flex-wrap items-end justify-between gap-3 px-4 py-6">
-          <Link href="/" className="flex flex-wrap items-baseline gap-3">
+          <Link href="/" className="flex flex-wrap items-center gap-3">
+            <span className="pearl-orb" aria-hidden />
             <span className="font-serif text-4xl font-black tracking-tight sm:text-5xl">
               {SITE.name}
               <span className="accent-text">.{SITE.domain.split('.').pop()}</span>
@@ -55,8 +56,8 @@ export function SiteHeader() {
       </div>
 
       {/* Sticky icon nav — scrolls horizontally on mobile, no hidden menus. */}
-      <nav className="sticky top-0 z-40 border-b border-[color:var(--accent-soft)] bg-ivory-50/90 backdrop-blur">
-        <div className="mx-auto flex max-w-6xl items-center gap-6 overflow-x-auto px-4 py-3 text-sm font-semibold [scrollbar-width:none]">
+      <nav className="pearl-nav sticky top-0 z-40 border-b border-[color:rgba(184,188,200,0.7)] backdrop-blur">
+        <div className="mx-auto flex max-w-6xl items-center gap-2 overflow-x-auto px-4 py-2.5 text-sm font-semibold [scrollbar-width:none]">
           <Link href="/" className="mk-underline shrink-0 whitespace-nowrap transition hover:text-gold-600">
             ⌂ Home
           </Link>

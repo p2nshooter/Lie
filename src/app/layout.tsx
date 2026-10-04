@@ -1,16 +1,19 @@
 import type { Metadata } from 'next';
 import { SiteBeacon } from "@/components/SiteBeacon";
-import { Playfair_Display, Inter } from 'next/font/google';
+import { DM_Serif_Display, Figtree } from 'next/font/google';
 import './globals.css';
 import './copa2026.css';
 import { SITE } from '@/lib/site';
 import { SiteHeader, SiteFooter } from '@/components/Site';
 import { Copa2026 } from '@/components/Copa2026';
+import { PearlRipple } from '@/components/PearlRipple';
 import { Analytics } from '@/components/Analytics';
 import { jsonLdHtml } from '@/lib/json-ld';
 
-const serif = Playfair_Display({ subsets: ['latin'], weight: ['400', '700', '900'], variable: '--font-serif', display: 'swap' });
-const sans = Inter({ subsets: ['latin'], variable: '--font-sans', display: 'swap' });
+// Pearl basins & rosewater (docs/ADSENSE-BLUEPRINT.md §4 in ulyah.com):
+// DM Serif Display for headings, Figtree for reading.
+const serif = DM_Serif_Display({ subsets: ['latin'], weight: ['400'], style: ['normal', 'italic'], variable: '--font-serif', display: 'swap' });
+const sans = Figtree({ subsets: ['latin'], weight: ['400', '500', '600', '700'], variable: '--font-sans', display: 'swap' });
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
@@ -51,6 +54,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <SiteBeacon />
         <Copa2026 />
         <SiteHeader />
+        <PearlRipple />
         <main className="min-h-[60vh]">{children}</main>
         <SiteFooter />
         <Analytics />
