@@ -1,0 +1,26 @@
+/* Spain, world champion 2026 — the ribbon at the top of every page
+   (owner: "animasi pemenang piala Dunia 2026 Spanyol" on every site).
+   Palace room: Pearl basins and rosewater. Decoration only; nothing here is clickable. */
+/* lie.skin — pearl basins and rosewater: an iridescent pearl ribbon whose
+   sheen drifts slowly; every bounce of the ball sends a ring across water. */
+.perla26{position:relative;overflow:hidden;display:flex;align-items:center;justify-content:center;gap:10px;
+  min-height:34px;padding:4px 12px;color:#5b2a3c;border-bottom:1px solid #ecd3dc;
+  background:linear-gradient(110deg,#fdf1f5,#efe9fb,#fbeff3,#eef6fb,#fdf1f5);background-size:400% 100%;
+  animation:perla26-sheen 14s ease-in-out infinite alternate;font:600 12.5px/1.2 system-ui,-apple-system,sans-serif;letter-spacing:.02em}
+@keyframes perla26-sheen{to{background-position:100% 0}}
+.perla26-text{font-style:italic}
+.perla26-flag{width:16px;height:16px;border-radius:50%;background:linear-gradient(#c60b1e 0 25%,#ffc400 25% 75%,#c60b1e 75%);box-shadow:0 0 0 2px #fff,0 2px 6px rgba(150,80,110,.25)}
+.perla26-trophy{font-size:15px;animation:perla26-float 4s ease-in-out infinite}
+@keyframes perla26-float{50%{transform:translateY(-2px)}}
+.perla26-pitch{position:relative;width:46px;height:20px}
+.perla26-ballx{position:absolute;left:0;bottom:0;animation:perla26-x 3s ease-in-out infinite}
+.perla26-ball{position:relative;display:block;font-size:12px;animation:perla26-y .75s ease-in infinite alternate}
+.perla26-ball::after{content:"";position:absolute;left:50%;bottom:-3px;width:14px;height:5px;margin-left:-7px;border-radius:50%;border:1px solid rgba(190,110,140,.55);animation:perla26-ring .75s ease-out infinite alternate-reverse}
+@keyframes perla26-x{50%{transform:translateX(30px)}}
+@keyframes perla26-y{to{transform:translateY(-8px)}}
+@keyframes perla26-ring{from{transform:scale(.4);opacity:.9}to{transform:scale(1.8);opacity:0}}
+.perla26-chip{padding:2px 8px;border-radius:999px;font:700 10px/1.4 system-ui,sans-serif;color:#7a3550;background:#fff;box-shadow:inset 0 0 0 1px #f0c9d6}
+
+.perla26-text{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+@media (max-width:480px){.perla26-pitch{display:none}.perla26{font-size:11.5px;gap:7px}}
+@media (prefers-reduced-motion:reduce){.perla26,.perla26 *,.perla26::before,.perla26::after,.perla26 *::before,.perla26 *::after{animation:none!important}}
