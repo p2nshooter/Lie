@@ -53,6 +53,28 @@ export function SiteHeader() {
           </Link>
           <p className="hidden max-w-xs text-right text-[11px] leading-snug text-ink-800/60 md:block">{SITE.description}</p>
         </div>
+        {/* Header photo (owner, 14 Oct 2026): pre-sized WebP with a JPEG
+            fallback, all camera metadata (incl. GPS) stripped. */}
+        <div className="relative mx-auto max-w-6xl px-4 pb-6">
+          <figure className="header-photo">
+            <picture>
+              <source
+                type="image/webp"
+                srcSet="/header/lie-header-640.webp 640w, /header/lie-header-960.webp 960w, /header/lie-header-1600.webp 1600w"
+                sizes="(min-width: 1152px) 1120px, calc(100vw - 2rem)"
+              />
+              <img
+                src="/header/lie-header-1200.jpg"
+                width={1200}
+                height={900}
+                alt="Two men sitting together on a patterned carpet in a living room"
+                loading="eager"
+                decoding="async"
+                fetchPriority="high"
+              />
+            </picture>
+          </figure>
+        </div>
       </div>
 
       {/* Sticky icon nav — scrolls horizontally on mobile, no hidden menus. */}
