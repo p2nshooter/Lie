@@ -151,32 +151,6 @@ body {
   .pearl-nav .pearl-ring { display: none; }
 }
 
-/* Header photo (owner, 14 Oct 2026): set into the masthead like a pearl
-   inlay — silver rim, soft lift, a slow zoom on hover. Faces sit in the
-   upper third, so the crop keeps them in frame at every width. */
-.header-photo {
-  position: relative; margin: 0; overflow: hidden; border-radius: 1.25rem;
-  height: clamp(190px, 30vw, 340px);
-  background: var(--silver-hi);
-  border: 1px solid rgba(184,188,200,0.85);
-  box-shadow: 0 0 0 5px rgba(255,255,255,0.55), 0 16px 38px rgba(47,31,41,0.16);
-}
-.header-photo img {
-  display: block; width: 100%; height: 100%;
-  object-fit: cover; object-position: 50% 22%;
-  transition: transform 1.2s ease;
-}
-.header-photo:hover img { transform: scale(1.025); }
-.header-photo::after {
-  content: ''; position: absolute; inset: 0; border-radius: inherit; pointer-events: none;
-  background: linear-gradient(180deg, rgba(255,255,255,0.10), transparent 30%, transparent 70%, rgba(47,31,41,0.16));
-  box-shadow: inset 0 1px 0 rgba(255,255,255,0.7);
-}
-@media (prefers-reduced-motion: reduce) {
-  .header-photo img { transition: none; }
-  .header-photo:hover img { transform: none; }
-}
-
 /* The AXTO & XAA menu item (owner, 18 Oct 2026): a slow golden glow on the
    text only, switched off for visitors who prefer reduced motion. */
 @media (prefers-reduced-motion: no-preference) {
