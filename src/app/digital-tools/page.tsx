@@ -5,9 +5,9 @@ import type { Metadata } from 'next';
  * readers in Lie's own words — labelled openly, no medical claims, no ad slot.
  */
 export const metadata: Metadata = {
-  title: 'Digital tools for evidence-minded skincare — AXTO & XAA',
+  title: 'Skincare research tools — AXTO & XAA',
   description:
-    'A clearly labelled note from our publisher: AXTO, a private AI workspace for reading studies and labels, and XAA, a studio that builds sites for clinics and skincare brands.',
+    'A labelled note from our publisher: AXTO, a private AI workspace for reading studies and labels, and XAA, a studio that builds sites for skincare brands.',
   alternates: { canonical: '/digital-tools' }
 };
 

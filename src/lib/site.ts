@@ -7,7 +7,7 @@ export const SITE = {
   url: 'https://lie.skin',
   tagline: 'Skincare, evidence-first',
   description:
-    "Independent, dermatology-informed skincare guides — what the evidence actually says about ingredients, routines and conditions, with no brand spin and no miracle claims.",
+    "Independent, dermatology-informed skincare guides: what the evidence says about ingredients, routines and conditions, with no brand spin or miracle claims.",
   locale: 'en',
   heroLead: 'Skincare,',
   heroAccent: 'evidence-first',
