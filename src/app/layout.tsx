@@ -4,6 +4,7 @@ import { DM_Serif_Display, Figtree } from 'next/font/google';
 import './globals.css';
 import './copa2026.css';
 import { SITE } from '@/lib/site';
+import { AD_ACCOUNTS } from '@/lib/adsense';
 import { SiteHeader, SiteFooter } from '@/components/Site';
 import { Copa2026 } from '@/components/Copa2026';
 import { PearlRipple } from '@/components/PearlRipple';
@@ -25,7 +26,6 @@ export const metadata: Metadata = {
   twitter: { card: 'summary_large_image' },
   robots: { index: true, follow: true },
   openGraph: { siteName: SITE.name, type: 'website', locale: 'en_US' },
-  other: { 'google-adsense-account': SITE.adClient }
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -33,7 +33,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en" className={`${serif.variable} ${sans.variable}`}>
       <head>
         {/* Google AdSense — verification + loader on every page. */}
-        <meta name="google-adsense-account" content={SITE.adClient} />
+        {/* One google-adsense-account meta tag per authorised account (src/lib/adsense.ts); one loader, the primary. */}
+        {AD_ACCOUNTS.map((account) => (
+          <meta key={account} name="google-adsense-account" content={account} />
+        ))}
         <script
           async
           src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${SITE.adClient}`}
