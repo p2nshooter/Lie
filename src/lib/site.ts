@@ -11,9 +11,9 @@ export const SITE = {
   locale: 'en',
   heroLead: 'Skincare,',
   heroAccent: 'evidence-first',
-  // 28 Oct 2026 (owner): lie.skin — google.com, pub-2271696914011881, DIRECT, f08c47fec0942fa0.
   // 7 Nov 2026 (owner): this code stays and is the primary account — the only loader; the sixteen stacked accounts are
   // added beside it (src/lib/adsense.ts: „kode adsense yg sudah ada biarkan saja, jgn di hapus, tambahin dengan kode adsense baru“).
-  adClient: 'ca-pub-2271696914011881',
+  // 22 Nov 2026 (pemilik): „hapus seluruh kode adsense tumpuk dan meta tag nya … sisakan 3 adsense saja“: akun utama = ca-pub-4906992051458194 (adsense-stack.json di ulyah.com).
+  adClient: 'ca-pub-4906992051458194',
   analyticsEndpoint: 'https://api.ulyah.com/track',
 } as const;
